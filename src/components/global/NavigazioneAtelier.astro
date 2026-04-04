@@ -1,0 +1,46 @@
+---
+// Fundations
+import Text from "@/components/fundations/elements/Text.astro";
+import Wrapper from "@/components/fundations/containers/Wrapper.astro";
+import Button from "@/components/fundations/elements/Button.astro";
+import NavMenu2 from '@/components/global/NavigazioneHamburger.astro';
+const currentPath = Astro.url.pathname; // prende la path corrente
+---
+
+  <Wrapper variant="standard" >
+    
+       <div
+      class="items-start pt-2 pb-6 lg:pb-6 text-center uppercase 
+      gap-4 lg:gap-6 lg:gap-y-6 mb-10 md:mb-10"
+    >
+
+      <NavMenu2 currentPath={currentPath} />
+      
+    </div>
+    <Text
+        tag="h1"
+        variant="textLG"
+        class="font-serif uppercase lg:order-none text-base-900 text-center "
+      ><a class="hover:text-base-900 text-gallery-5" href="/">Stampe d’autore e ritratto su misura</a><br>
+    </Text>
+
+    <div
+      class="items-start pt-2 pb-2 lg:pb-6 text-center uppercase grid grid-cols-1 
+      gap-4 lg:gap-6 lg:gap-y-6 mb-4 max-w-2xl m-auto "
+    >
+     
+      <Text
+        tag="h1"
+        variant="textLG"
+        class="order-last font-serif uppercase lg:order-none col-span-full lg:col-span-1: text-base-900"
+      >
+      L’atelier è il luogo in cui l’immagine prende forma.
+    Uno spazio dedicato alla luce, al tempo e alla presenza. Ogni ritratto nasce da un processo essenziale, lontano dalla fretta e da ogni costruzione superflua.
+      </Text>
+      <!-- <Button size="base" variant="default"><a class="hover:text-base-300 item-center" href="/atelier/sessioni-private/"> PRENOTA UNA SESSIONE</a></Button> -->
+      
+    </div>
+  </Wrapper>
+</header>
+    
+</div>

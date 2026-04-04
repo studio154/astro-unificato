@@ -1,0 +1,25 @@
+---
+// components/cta/ProductCTA.astro
+import Text from "@/components/fundations/elements/Text.astro";
+import Button from "@/components/fundations/elements/Button.astro";
+---
+
+<div
+  class="items-start pt-2 pb-2 lg:pb-6 text-center grid grid-cols-1
+         gap-4 lg:gap-6 lg:gap-y-6 mb-4 max-w-2xl uppercase m-auto mt-50"
+>
+  <Text
+    tag="h1"
+    variant="textLG"
+    class="order-last font-serif lg:order-none col-span-full lg:col-span-1 text-base-900 mb-12"
+  >
+    Vivi un’esperienza di ritratto pensata su misura, dove luce, tempo e
+    presenza si incontrano per raccontare la tua storia. Contattaci per
+    prenotare la tua sessione esclusiva nell’atelier.
+  </Text>
+  <Button size="base" variant="default">
+    <a class="hover:text-base-300 item-center" href="/contatti/">
+      RICHIEDI INFORMAZIONI
+    </a>
+  </Button>
+</div>

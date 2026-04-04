@@ -1,0 +1,73 @@
+---
+// src/components/GiftRequestForm.astro
+---
+
+<div class="regalo-container">
+  <div class="form-header">
+    <h2>Regala uno sguardo nel tempo</h2>
+    <p>
+      Che sia una sessione in studio o un'edizione limitata, un'immagine è un legame che resta. 
+      Raccontami la tua idea: ti guiderò personalmente nella scelta del supporto o dell'esperienza 
+      perfetta per la persona a cui stai pensando.
+    </p>
+  </div>
+
+  <div class="hubspot-inject-area">
+    <script src="https://js-eu1.hsforms.net/forms/embed/144459046.js" defer></script>
+    <div 
+      class="hs-form-frame" 
+      data-region="eu1" 
+      data-form-id="3cd6c8f4-c29f-4b2f-a017-9393faa092b3" 
+      data-portal-id="144459046"
+    ></div>
+  </div>
+</div>
+
+<style is:global>
+  .regalo-container {
+    max-width: 650px;
+    margin: 1rem auto;
+    padding: 2rem;
+    border: 1px solid #f0f0f0;
+    background-color: #ffffff;
+  }
+
+  .form-header {
+    text-align: center;
+    margin-bottom: 1rem;
+  }
+
+  .form-header h2 {
+    font-family: "Newsreader", Serif;
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    margin-bottom: 1rem;
+    color: #1a1a1a;
+    font-weight:400;
+  }
+
+  .form-header p {
+          font-family: "Newsreader", Serif;
+    font-size: 1.2rem;
+    line-height: 1.6;
+    color: #555;
+    max-width: 500px;
+    margin: 0 auto;
+  }
+
+  /* STILE PER IL MESSAGGIO DI RINGRAZIAMENTO "ON-PAGE" */
+  /* HubSpot usa spesso la classe .submitted-message dopo l'invio */
+  .submitted-message {
+    text-align: center;
+    padding: 3rem 1rem;
+    font-family: inherit !important;
+  }
+
+  .submitted-message h3 {
+    font-size: 1.8rem;
+    color: #000;
+    margin-bottom: 0.5rem;
+  }
+
+</style>

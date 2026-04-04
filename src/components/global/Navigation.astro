@@ -1,0 +1,33 @@
+---
+// Assets
+import Logo from "@/components/assets/Logo.astro";
+// Fundations
+import Text from "@/components/fundations/elements/Text.astro";
+import Wrapper from "@/components/fundations/containers/Wrapper.astro";
+import Button from "@/components/fundations/elements/Button.astro";
+---
+
+<header>
+  <Wrapper variant="standard" class="bg-gallery-1">
+    <div
+      class="items-start py-2 text-center uppercase grid grid-cols-4 gap-4 gap-y-24 mb-12"
+    >
+      <a href="/"><Logo class="h- text-base-900" /></a>
+      <Text
+        tag="h1"
+        variant="textLG"
+        class="order-last font-serif uppercase lg:order-none col-span-full lg:col-span-2 text-base-900"
+      >
+      Istanti di quiete, eleganza su misura e sentimento profondo: ogni immagine è composta con meticolosa riflessione.
+      </Text>
+      <div
+        class="flex items-center ml-auto text-sm gap-2 col-span-3 lg:col-span-1">
+        <a href="/system/overview" class="hover:text-base-500"> Overview </a>
+        <a href="/atelier/" class="hover:text-base-500"> Stores</a>
+        <a href="http://localhost:4321/blog/home" class="hover:text-base-500"> Blog</a>
+        <Button size="xxs" variant="default"><a href="/contatti/">Contatti</a></Button>
+        
+      </div>
+    </div>
+  </Wrapper>
+</header>

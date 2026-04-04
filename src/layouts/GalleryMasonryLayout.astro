@@ -1,0 +1,86 @@
+---
+// Assets
+import { Image } from "astro:assets";
+// Fundations
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import Text from "@/components/fundations/elements/Text.astro";
+import Wrapper from "@/components/fundations/containers/Wrapper.astro";
+const { frontmatter = {} } = Astro.props;
+import "@/styles/global.css";
+---
+
+<BaseLayout hideBigLogo={true} hideNavigation={true} hideFooter={true}>
+  
+  <section class={`${frontmatter.bgColor} ${frontmatter.textColor}`}>
+    <Wrapper variant="standard" class="py-8 text-center">
+      <Text
+        tag="a"
+        href="javascript:history.back()"
+        variant="textXS"
+        class="inline-flex items-center gap-1 hover: transition-colors"
+      >
+        &larr; Torna indietro
+      </Text>
+      <Text
+        tag="p"
+        variant="textXL"
+        class="max-w-xl mx-auto font-light mt-4 font-serif uppercase text-center leading-6"
+      >
+        <span class="block opacity-50">
+          {frontmatter.category}
+        </span>
+
+        <span class="block">{frontmatter.title}</span>
+      </Text>
+      <Text
+        tag="p"
+        variant="textXL"
+        class="max-w-xl mx-auto font-light mt-2 font-serif uppercase text-center leading-6"
+      >
+        {frontmatter.description}
+      </Text>
+
+      
+      <section class="py-12">
+        
+      
+        <div class="columns-1 sm:columns-2 lg:columns-3 mt-8">
+          {
+            frontmatter.thumbnail && (
+              <figure class="mb-8 break-inside-avoid">
+                <Image
+                  src={frontmatter.thumbnail.url}
+                  alt={frontmatter.thumbnail.alt}
+                  class={`w-full h-auto object-cover ${frontmatter.thumbnailClass}`}
+                  
+                />
+                <figcaption class="mt-2 opacity-60 text-center">
+                Titolo thumbnail: <span class="mt-2 opacity-60 text-center">{frontmatter.thumbnail.title}</span>
+              </figcaption>
+               
+     </figure>
+              
+            )
+          }
+        
+          {
+            (frontmatter.images || []).map((image) => (
+              <figure class="mb-8 break-inside-avoid">
+                <Image
+                  src={image.url}
+                  alt={image.alt}
+                  class={`w-full h-auto object-cover ${image.class ?? ""}`}
+                  title={image.title}
+                  
+                />
+                <figcaption
+               class="mt-2 opacity-60 text-center">
+                Titolo immagine: <span class="mt-2 opacity-60 text-center">{image.title}</span>
+                </figcaption>
+              </figure>
+            ))
+          }
+        </div>
+        
+      </section>
+      

@@ -1,0 +1,46 @@
+---
+// Assets
+import BigLogo from "@/components/assets/LogoAcquistiEdizioni.astro";
+// Fundations
+import "@/styles/global.css";
+import BaseHead from "@/components/fundations/head/BaseHead.astro";
+import Wrapper from "@/components/fundations/containers/Wrapper.astro";
+// Components
+import Footer from "@/components/global/Footer.astro";
+import Navigation from "@/components/global/NavigazioneTop.astro";
+
+// Hides the big logo, navigation, or footer on selected screens by passing props:
+
+const {
+  hideBigLogo = false,
+  hideNavigation = false,
+  hideFooter = false,
+} = Astro.props;
+---
+
+<html lang="it" class="scroll-smooth">
+  <head>
+    <BaseHead />
+    
+  </head>
+
+  <body class="flex flex-col bg-gallery-2 min-h-svh">
+   {!hideNavigation && <Navigation />}
+    {
+      !hideBigLogo && (
+        <Wrapper variant="standard" class="pt-8">
+          <BigLogo />
+         
+
+      
+        </Wrapper>
+      )
+    }
+
+   
+
+    <main class="grow"><slot /></main>
+
+    {!hideFooter && <Footer />}
+  </body>
+</html>

@@ -1,0 +1,75 @@
+---
+import BaseLayout from "@/layouts/LayoutServizi.astro";
+import Wrapper from "@/components/fundations/containers/Wrapper.astro";
+import Text from "../components/fundations/elements/Text.astro";
+import Galleria1 from "@/components/gallery/Galleria1.astro";
+import { getCollection } from "astro:content";
+const galleries = (await getCollection("gallery"))
+  .sort((a, b) => a.data.order - b.data.order);
+import { AstroSeo } from "@astrolib/seo";
+import Button from "@/components/fundations/elements/Button.astro";
+---
+
+<AstroSeo
+  title="Servizi Fotografici | Elio Leonardo Carchidi"
+  description="Ritratti, fine art e stampe d’autore costruiti attorno alla tua presenza e alla luce naturale. Tutti i servizi disponibili esclusivamente su appuntamento."
+  canonical="https://www.eliocarchidi.com/servizi/"
+  openGraph={{
+    url: "https://www.eliocarchidi.com/servizi/",
+    title: "Servizi Fotografici | Elio Leonardo Carchidi",
+    description: "Ritratti, fine art e stampe d’autore costruiti attorno alla tua presenza e alla luce naturale. Tutti i servizi disponibili esclusivamente su appuntamento.",
+    images: [
+      {
+        url: "https://www.eliocarchidi.com/og-image-servizi.jpg",
+        width: 1200,
+        height: 630,
+        alt: "Servizi fotografici di Elio Leonardo Carchidi",
+        type: "image/jpeg",
+      },
+    ],
+    site_name: "Elio Leonardo Carchidi - Servizi Fotografici",
+    type: "website",
+    locale: "it_IT",
+  }}
+  twitter={{
+    handle: "@eliocarchidi",
+    site: "@eliocarchidi",
+    cardType: "summary_large_image",
+  }}
+/>
+
+<BaseLayout>
+
+  <!-- HERO SERVIZI -->
+
+  <!-- GALLERIA SERVIZI -->
+  <section>
+    <Wrapper variant="standard" class="py-2">
+      <div class="mt-4 md:mt-16 gap-16 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 md:gap-12">
+        {galleries.map((post) => (
+          <Galleria1 post={post} />
+        ))}
+      </div>
+    </Wrapper>
+  </section>
+
+  <!-- CTA FINALE -->
+  <section>
+    <!-- SEZIONE APPROCCIO -->
+      <div class="mt-25 md:mt-50 mb-16 md:mb-32 text-center max-w-lg m-auto">
+        <Text
+        tag="h1"
+        variant="textLG"
+        class="font-serif uppercase lg:order-none text-base-900 text-center "
+      ><a class="hover:text-base-900 text-gallery-5" href="/">Tutti i servizi sono disponibili esclusivamente su appuntamento.</a><br>
+    </Text>
+        
+      <div class="mt-12 flex justify-center">
+  <Button size="base" variant="default">
+    <a class="hover:text-base-300 uppercase" href="/contatti/">Richiedi un appuntamento →</a>
+  </Button>
+</div>
+    
+  </section>
+
+</BaseLayout>

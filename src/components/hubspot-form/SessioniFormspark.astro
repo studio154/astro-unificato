@@ -1,0 +1,250 @@
+---
+// src/components/SessionForm.astro
+import "@/styles/global.css";
+---
+
+
+<div class="session-container">
+<form
+  action="https://submit-form.com/XBkMFfccD"
+  method="POST"
+>
+  <!-- Honeypot anti-spam -->
+  <input type="text" name="_honeypot" style="display:none" tabindex="-1" autocomplete="off" />
+
+  <!-- Botpoison anti-spam invisibile -->
+  <input type="hidden" name="_botpoison" data-botpoison-public-key="pk_7d18e25b-fecc-44d3-9f76-962c99cb7ba9" />
+
+  <!-- Redirect dopo invio -->
+  <input type="hidden" name="_redirect" value="https://www.eliocarchidi.com/grazie/" />
+
+  <!-- Reply-to dinamico -->
+  <input type="hidden" name="_replyto" value="" id="replyto-sessione" />
+  <div class="form-header">
+    <h2>L’arte di vedersi attraverso un ritratto</h2>
+    <p>
+      Una sessione fotografica è un tempo sospeso, dedicato a riscoprire la propria immagine. 
+      Se desideri un ritratto che parli di te, o vuoi regalare un’esperienza di autentica bellezza, 
+      scrivimi qui: progetteremo insieme la luce e l’atmosfera per dare forma alla tua storia. Ricevi informazioni.
+    </p>
+  </div>
+  <div class="space-y-8">
+
+    <!-- SEZIONE: Dati di contatto -->
+    <fieldset class="space-y-5">
+      <legend class="text-xs uppercase tracking-widest text-gray-400 pb-2 border-b border-gray-200 dark:border-gray-700 w-full">
+        Dati di contatto
+      </legend>
+
+      <div>
+        <label for="nome" class="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-1">
+          Nome <span class="text-red-500">*</span>
+        </label>
+        <input
+          type="text" id="nome" name="nome" required autocomplete="name"
+          placeholder="Il tuo nome"
+          class="w-full rounded-lg border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-800 px-4 py-2.5 text-gray-900 dark:text-gray-100 placeholder-gray-400 focus:border-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-500/20 transition"
+        />
+      </div>
+
+      <div>
+        <label for="email" class="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-1">
+          E-mail <span class="text-red-500">*</span>
+        </label>
+        <input
+          type="email" id="email" name="email" required autocomplete="email"
+          placeholder="Per contatto"
+          class="w-full rounded-lg border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-800 px-4 py-2.5 text-gray-900 dark:text-gray-100 placeholder-gray-400 focus:border-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-500/20 transition"
+        />
+      </div>
+
+      <div>
+        <label for="telefono" class="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-1">
+          Telefono
+        </label>
+        <div class="flex gap-2">
+          <span class="flex items-center px-3 rounded-lg border border-gray-300 dark:border-gray-600 bg-gray-50 dark:bg-gray-700 text-gray-500 text-sm">
+            🇮🇹 +39
+          </span>
+          <input
+            type="tel" id="telefono" name="telefono" autocomplete="tel"
+            placeholder="Per contatto veloce"
+            class="flex-1 rounded-lg border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-800 px-4 py-2.5 text-gray-900 dark:text-gray-100 placeholder-gray-400 focus:border-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-500/20 transition"
+          />
+        </div>
+      </div>
+    </fieldset>
+
+    <!-- SEZIONE: Dettagli sessione -->
+    <fieldset class="space-y-5">
+      <legend class="text-xs uppercase tracking-widest text-gray-400 pb-2 border-b border-gray-200 dark:border-gray-700 w-full">
+        Dettagli sessione
+      </legend>
+
+      <div>
+        <label for="tipo_sessione" class="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-1">
+          Tipo di sessione <span class="text-red-500">*</span>
+        </label>
+        <select id="tipo_sessione" name="tipo_sessione" required
+          class="w-full rounded-lg border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-800 px-4 py-2.5 text-gray-900 dark:text-gray-100 focus:border-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-500/20 transition"
+        >
+          <option value="">— Seleziona —</option>
+          <option value="Ritratto singolo">Ritratto singolo</option>
+          <option value="Ritratto in coppia">Ritratto in coppia</option>
+          <option value="Famiglia o gruppo">Famiglia o gruppo</option>
+          <option value="Altro">Altro</option>
+        </select>
+      </div>
+
+      <div>
+        <label for="periodo" class="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-1">
+          Periodo indicativo <span class="text-red-500">*</span>
+        </label>
+        <select id="periodo" name="periodo" required
+          class="w-full rounded-lg border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-800 px-4 py-2.5 text-gray-900 dark:text-gray-100 focus:border-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-500/20 transition"
+        >
+          <option value="">— Seleziona —</option>
+          <option value="Questa settimana">Questa settimana</option>
+          <option value="Questo mese">Questo mese</option>
+          <option value="Tra 1/3 mesi">Tra 1/3 mesi</option>
+          <option value="Altro">Altro</option>
+        </select>
+      </div>
+
+      <div>
+        <label for="fascia_oraria" class="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-1">
+          Fascia oraria preferita
+        </label>
+        <select id="fascia_oraria" name="fascia_oraria"
+          class="w-full rounded-lg border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-800 px-4 py-2.5 text-gray-900 dark:text-gray-100 focus:border-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-500/20 transition"
+        >
+          <option value="">— Seleziona —</option>
+          <option value="Mattina">Mattina</option>
+          <option value="Pomeriggio">Pomeriggio</option>
+          <option value="Sera / Golden hour">Sera / Golden hour</option>
+          <option value="Flessibile">Flessibile</option>
+        </select>
+      </div>
+
+      <div>
+        <label for="location" class="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-1">
+          Location
+        </label>
+        <input
+          type="text" id="location" name="location"
+          placeholder="Studio, esterno, luogo specifico..."
+          class="w-full rounded-lg border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-800 px-4 py-2.5 text-gray-900 dark:text-gray-100 placeholder-gray-400 focus:border-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-500/20 transition"
+        />
+      </div>
+
+      <div>
+        <label for="richieste" class="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-1">
+          Raccontami cosa vuoi realizzare
+        </label>
+        <textarea
+          id="richieste" name="richieste" rows="5"
+          placeholder="Descrivi liberamente la tua idea, l'atmosfera che cerchi, eventuali esigenze particolari..."
+          class="w-full rounded-lg border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-800 px-4 py-2.5 text-gray-900 dark:text-gray-100 placeholder-gray-400 focus:border-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-500/20 transition resize-none"
+        ></textarea>
+      </div>
+    </fieldset>
+
+    <!-- SEZIONE: Privacy e consenso -->
+    <fieldset class="space-y-4">
+      <legend class="text-xs uppercase tracking-widest text-gray-400 pb-2 border-b border-gray-200 dark:border-gray-700 w-full">
+        Privacy
+      </legend>
+
+      <p class="text-xs text-gray-400 leading-relaxed">
+        Elio Leonardo Carchidi si impegna a proteggere e rispettare la tua privacy: le informazioni personali raccolte vengono utilizzate solo per amministrare gli account e fornire i prodotti e servizi richiesti. Potresti essere contattato/a con suggerimenti sui servizi o su altri contenuti che a nostro giudizio potrebbero interessarti.
+      </p>
+
+      <label class="flex items-start gap-3 cursor-pointer">
+        <input type="checkbox" name="consenso_comunicazioni" value="Sì"
+          class="accent-blue-600 w-4 h-4 mt-0.5 shrink-0"
+        />
+        <span class="text-xs text-gray-500 dark:text-gray-400">
+          Accetto di ricevere altre comunicazioni da Studio154 snc di Elio L. Carchidi. Puoi annullare l'iscrizione in qualsiasi momento.
+        </span>
+      </label>
+
+      <label class="flex items-start gap-3 cursor-pointer">
+        <input type="checkbox" name="consenso_dati" value="Sì" required
+          class="accent-blue-600 w-4 h-4 mt-0.5 shrink-0"
+        />
+        <span class="text-xs text-gray-500 dark:text-gray-400">
+          Inviando questa form, consento a Elio Leonardo Carchidi di archiviare e utilizzare le informazioni per fornirti il contenuto richiesto. <span class="text-red-500">*</span>
+        </span>
+      </label>
+    </fieldset>
+
+    <!-- Submit -->
+    <button
+      type="submit"
+      class="w-full rounded-lg bg-blue-600 hover:bg-blue-700 active:bg-blue-800 text-white font-medium px-6 py-3 transition"
+    >
+      Invia richiesta
+    </button>
+
+  </div>
+</form>
+
+<!-- Script Botpoison -->
+<script src="https://unpkg.com/@botpoison/browser" async></script>
+
+
+
+
+
+  
+
+ 
+
+<style is:global>
+  .session-container {
+    max-width: 650px;
+    margin: 1rem auto;
+    padding: 2rem;
+    border: 1px solid #f0f0f0;
+    background-color: #ffffff;
+  }
+
+  .form-header {
+    text-align: center;
+    margin-bottom: 3rem;
+  }
+
+  .form-header h2 {
+    font-family: "Newsreader", Serif; 
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    margin-bottom: 1rem;
+    line-height: 1.2;
+    color: #1a1a1a;
+    font-weight:400;
+  }
+
+  .form-header p {
+    font-family: "Newsreader", Serif;
+    font-size: 1.2rem;
+    line-height: 1.6;
+    color: #555;
+    max-width: 500px;
+    margin: 0 auto;
+  }
+
+  /* STILE PER IL MESSAGGIO DI RINGRAZIAMENTO "ON-PAGE" */
+  /* HubSpot usa spesso la classe .submitted-message dopo l'invio */
+  .submitted-message {
+    text-align: center;
+    padding: 3rem 1rem;
+    font-family: inherit !important;
+  }
+
+  .submitted-message h3 {
+    font-size: 1.8rem;
+    color: #000;
+    margin-bottom: 0.5rem;
+  }
+</style>

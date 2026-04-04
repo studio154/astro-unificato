@@ -1,0 +1,189 @@
+---
+import { AstroSeo } from "@astrolib/seo";
+import BaseLayout from "@/layouts/BlogPostLayout.astro";
+import Text from "@/components/fundations/elements/Text.astro";
+const { frontmatter } = Astro.props;
+import { getEntry } from "astro:content";
+const team = await getEntry("team", frontmatter.team);
+import { getCollection } from "astro:content";
+const allPosts = await getCollection("posts");
+const relatedPosts = allPosts
+  .filter(post => post.slug !== frontmatter.slug)
+  .sort((a, b) => new Date(b.data.pubDate) - new Date(a.data.pubDate))
+  .slice(0, 3);
+const slug = Astro.url.pathname.split('/').filter(Boolean).pop();
+const canonical = "https://www.eliocarchidi.com/blog/posts/" + slug;
+---
+
+<AstroSeo
+  title={frontmatter.title}
+  description={frontmatter.description}
+  canonical={canonical}
+  openGraph={{
+    url: canonical,
+    title: frontmatter.title,
+    description: frontmatter.description,
+    images: frontmatter.image ? [{
+      url: frontmatter.image.url,
+      width: 1200,
+      height: 630,
+      alt: frontmatter.image.alt,
+      type: "image/jpeg",
+    }] : [],
+    site_name: "Elio Carchidi Fotografo",
+    type: "article",
+    locale: "it_IT",
+  }}
+  twitter={{
+    handle: "@eliocarchidi",
+    site: "@eliocarchidi",
+    cardType: "summary_large_image",
+  }}
+/>
+
+<BaseLayout hideBigLogo={true} hideNavigation={false}>
+  
+
+<div class="bg-white">
+<div class="max-w-xl mx-auto text-center text-base-900 mt-24">
+        <Text
+          tag="a"
+          href="/blog/"
+          variant="textlg"
+          class="inline-flex items-center gap-1 hover: transition-colors font-medium"
+        >
+          &larr; Blog
+        </Text></div>
+
+  <!-- HERO / HEADER -->
+  <section class="px-6 py-24 sm:py-32">
+    <div class="mx-auto max-w-7xl grid lg:grid-cols-2 gap-x-16 gap-y-16 items-start">
+
+      <!-- TESTO -->
+      <div class="max-w-xl">
+
+        {frontmatter.category && (
+          <p class="text-sm font-semibold text-indigo-600 uppercase tracking-wide">
+            {frontmatter.category}
+          </p>
+        )}
+
+        <h1 class="mt-2 text-4xl sm:text-5xl font-semibold tracking-tight text-gray-900">
+          {frontmatter.title}
+        </h1>
+
+        <div class="flex items-center gap-4 text-sm text-gray-500 mt-4">
+          <span class="font-medium">{frontmatter.author ?? "Autore"}</span>
+          <span>•</span>
+          <span>
+            {new Date(frontmatter.pubDate).toLocaleDateString("it-IT", {
+              year: "numeric",
+              month: "long",
+              day: "2-digit",
+            })}
+          </span>
+        </div>
+
+        {frontmatter.description && (
+          <p class="mt-6 text-xl text-gray-700 leading-relaxed">
+            {frontmatter.description}
+          </p>
+        )}
+
+      </div>
+
+      <!-- IMMAGINE -->
+      {frontmatter.image && (
+  <div class="lg:pl-10">
+    <div class="aspect-[16/9] overflow-hidden rounded-xl shadow-xl bg-gray-50">
+      <img
+        src={frontmatter.image.url}
+        alt={frontmatter.image.alt}
+        class="w-full h-full object-cover"
+      />
+    </div>
+  </div>
+)}
+    </div>
+  </section>
+
+  <!-- CONTENUTO -->
+  <section class="px-6 pb-24">
+    <div class="mx-auto max-w-3xl">
+
+      <div class="prose prose-lg">
+        <slot />
+      </div>
+
+      <!-- TAG -->
+      {frontmatter.tags && (
+        <div class="flex flex-wrap gap-2 mt-12 pt-6 border-t border-gray-200">
+          {frontmatter.tags.map(tag => (
+            <span class="text-xs border px-3 py-1 rounded-full text-gray-600">
+              {tag}
+            </span>
+          ))}
+        </div>
+      )}
+
+    </div>
+  </section>
+
+</div>
+  {relatedPosts.length > 0 && (
+  <section class="mt-32 border-t border-gray-200 pt-16">
+    <div class="max-w-6xl mx-auto px-6">
+
+      <!-- Titolo -->
+      <h2 class="text-2xl font-semibold text-gray-900 mb-10">
+        Articoli correlati
+      </h2>
+
+      <!-- Grid -->
+      <div class="grid gap-10 md:grid-cols-2 lg:grid-cols-3">
+
+        {relatedPosts.slice(0, 3).map((post) => (
+          <article class="group">
+
+            <a href={`/blog/${post.slug}`} class="block">
+
+              {/* Immagine */}
+{post.data.image && (
+  <div class="overflow-hidden rounded-lg mb-4 aspect-[16/9] bg-gray-100"> 
+    <img
+      src={post.data.image.url}
+      alt={post.data.image.alt}
+      class="w-full h-full object-cover transition duration-500 group-hover:scale-105"
+    />
+  </div>
+)}
+
+              {/* Categoria - Leggermente più grande e leggibile */}
+{post.data.category && (
+  <p class="text-sm uppercase tracking-widest text-indigo-600 mb-3 font-semibold">
+    {post.data.category}
+  </p>
+)}
+
+{/* Titolo - Più grande (text-xl) e con interlinea corretta */}
+<h3 class="text-xl font-semibold text-gray-900 group-hover:text-indigo-600 transition-colors leading-tight">
+  {post.data.title}
+</h3>
+
+{/* Descrizione - Portata a text-base per uniformità con il corpo del testo */}
+{post.data.description && (
+  <p class="text-base text-gray-600 mt-3 line-clamp-3 leading-relaxed">
+    {post.data.description}
+  </p>
+)}
+
+            </a>
+          </article>
+        ))}
+
+      </div>
+
+    </div>
+  </section>
+)}
+</BaseLayout>

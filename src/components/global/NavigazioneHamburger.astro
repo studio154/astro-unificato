@@ -1,0 +1,86 @@
+---
+const currentPath = Astro.url.pathname;
+
+const menuLinks = [
+  { href: "/", label: "Home" },
+  { href: "/portfolio/", label: "Portfolio" },
+  { href: "/atelier/", label: "Atelier" },
+  { href: "/team/elio-carchidi/", label: "Chi sono" },
+  { href: "/contatti/", label: "Contatti" },
+  { href: "/blog/", label: "Journal" },
+];
+---
+
+<nav class="left-0 w-full z-50 border-b border-black-200">
+  <div class=" mx-auto flex items-center justify-between p-4">
+
+    <!-- Logo -->
+    <a href="/" class="flex items-center gap-2">
+      <span class="text-lg font-semibold">Elio leonardo Carchidi</span>
+      
+    </a>
+
+    <!-- Hamburger -->
+    <button
+      id="hamburgerBtn"
+      class="md:hidden flex items-center justify-center w-10 h-10"
+      aria-controls="navbar"
+      aria-expanded="false"
+    >
+      <span class="sr-only">Apri menu</span>
+      <div class="flex flex-col gap-1">
+        <span class="block w-5 h-0.5 bg-black"></span>
+        <span class="block w-5 h-0.5 bg-black"></span>
+        <span class="block w-5 h-0.5 bg-black"></span>
+      </div>
+    </button>
+
+    <!-- Menu desktop -->
+    <div class="hidden md:flex items-center gap-8">
+      {menuLinks.map(link => (
+        <a
+          href={link.href}
+          class={`text-sm transition-colors ${
+            currentPath === link.href
+              ? "text-black font-semibold"
+              : "text-neutral-600 hover:text-black"
+          }`}
+        >
+          {link.label}
+        </a>
+      ))}
+    </div>
+
+  </div>
+
+  <!-- Menu mobile -->
+  <div
+    id="mobileMenu"
+    class="hidden md:hidden border-t border-neutral-200 bg-white"
+  >
+    <div class="flex flex-col px-4 py-4 gap-4">
+      {menuLinks.map(link => (
+        <a
+          href={link.href}
+          class={`text-base ${
+            currentPath === link.href
+              ? "text-black font-semibold"
+              : "text-neutral-700 hover:text-black"
+          }`}
+        >
+          {link.label}
+        </a>
+      ))}
+    </div>
+  </div>
+</nav>
+
+<script>
+  const btn = document.getElementById('hamburgerBtn');
+  const menu = document.getElementById('mobileMenu');
+
+  btn.addEventListener('click', () => {
+    const isOpen = menu.classList.toggle('hidden');
+    btn.setAttribute('aria-expanded', !isOpen);
+  });
+</script>

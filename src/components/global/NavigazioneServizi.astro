@@ -1,0 +1,53 @@
+---
+// Assets
+
+// Fundations
+import Text from "@/components/fundations/elements/Text.astro";
+import Wrapper from "@/components/fundations/containers/Wrapper.astro";
+import Button from "@/components/fundations/elements/Button.astro";
+import NavMenu2 from '@/components/global/NavigazioneHamburger.astro';
+const currentPath = Astro.url.pathname; // prende la path corrente
+---
+
+  <Wrapper variant="standard" >
+    
+       <div
+      class="items-start pt-2 pb-6 lg:pb-6 text-center uppercase 
+      gap-4 lg:gap-6 lg:gap-y-6 mb-10 md:mb-10"
+    >
+
+      <NavMenu2 currentPath={currentPath} />
+      
+    </div>
+    <Text
+        tag="h1"
+        variant="textLG"
+        class="font-serif uppercase lg:order-none text-base-900 text-center "
+      ><a class="hover:text-base-900 text-gallery-5" href="/">Servizi Fotografici Premium – Ritratti, Fine Art e Fotografia Commerciale</a><br>
+    </Text>
+
+    <div
+      class="items-start pt-2 pb-2 lg:pb-6 text-center uppercase grid grid-cols-1 
+      gap-4 lg:gap-6 lg:gap-y-6 mb-4 max-w-2xl m-auto "
+    >
+     
+      <Text
+        tag="h1"
+        variant="textLG"
+        class="order-last font-serif uppercase lg:order-none col-span-full lg:col-span-1: text-base-900"
+      >
+      Offriamo servizi fotografici professionali pensati per valorizzare ogni progetto: dai ritratti d’autore e fotografia fine art alla documentazione di eventi, still-life e produzioni commerciali con Studio154. Ogni servizio è costruito attorno alla luce naturale, alla tua presenza e ai dettagli che rendono ogni immagine autentica ed essenziale.
+
+I nostri ritratti fotografici in atelier combinano eleganza e naturalezza, mentre i servizi corporate e branding supportano aziende e professionisti nel raccontare la loro identità visiva. Per eventi e servizi still-life, Studio154 realizza produzioni curate e professionali, perfette per cataloghi, e-commerce o comunicazione pubblicitaria.
+
+Inoltre, offriamo workshop e formazione fotografica per chi desidera apprendere tecniche professionali e approfondire la fotografia d’autore, sia in studio che in esterni.
+
+Scopri tutti i nostri servizi fotografici, prenota una sessione personalizzata e trasforma ogni momento in immagini che parlano di te con stile, autenticità e qualità professionale.
+      </Text>
+      <Button size="base" variant="default"><a class="hover:text-base-300 item-center" href="/atelier/sessioni-private/"> PRENOTA UNA SESSIONE</a></Button>
+      
+    </div>
+  </Wrapper>
+</header>
+    
+</div>

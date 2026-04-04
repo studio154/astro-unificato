@@ -1,0 +1,196 @@
+---
+// Assets
+import { Image } from "astro:assets";
+// Fundations
+import BaseLayout from "@/layouts/LayoutProdotto.astro";
+import Button from "@/components/fundations/elements/Button.astro";
+import Text from "@/components/fundations/elements/Text.astro";
+import Wrapper from "@/components/fundations/containers/Wrapper.astro";
+import CtaEdizioni from "@/components/cta/CtaEdizioni.astro";
+
+// Components
+const { frontmatter } = Astro.props;
+---
+
+<BaseLayout hideNavigation={true} hideBigLogo={true} hideFooter={false}>
+  <section>
+    <Wrapper variant="prodotto" class="py-12">
+      <!-- Back -->
+
+      <Text
+  tag="a"
+  href="/atelier/edizioni/"
+  variant="textXS"
+  class="inline-flex items-center gap-1 mb-6 opacity-60 hover:opacity-100 transition"
+>
+  &larr; Torna alle edizioni
+</Text>
+
+ <!-- <Text
+        tag="a"
+        href="/"
+        variant="textXS"
+        class="inline-flex items-center gap-1 mb-6 opacity-60 hover:opacity-100 transition"
+      >
+        &larr; home
+      </Text>
+
+      
+      <Text
+        tag="a"
+        href="/atelier/"
+        variant="textXS"
+        class="inline-flex items-center gap-1 mb-6 opacity-60 hover:opacity-100 transition"
+      >
+        &larr; Pacchetti
+      </Text>
+      <Text
+        tag="a"
+        href="javascript:history.back()"
+        variant="textXS"
+        class="inline-flex items-center gap-1 mb-6 opacity-60 hover:opacity-100 transition"
+      >
+        &larr; Torna indietro
+      </Text> -->     
+      
+      <!-- Product layout -->
+      <div class="grid grid-cols-1 lg:grid-cols-12 gap-12 items-start">
+        <!-- IMAGE -->
+        <div class="lg:col-span-7">
+          <Image
+            src={frontmatter.image.url}
+            alt={frontmatter.image.alt}
+            width={1200}
+            height={1600}
+            class="w-full h-auto object-cover"
+          />
+        </div>
+
+        <!-- SIDEBAR -->
+        <aside class="lg:col-span-5 lg:sticky lg:top-24 space-y-8">
+        
+          <!-- Title -->
+          <div>
+            <Text
+              tag="h1"
+              variant="textXL"
+              class="font-serif uppercase leading-tight"
+            >
+              {frontmatter.title}
+            </Text>
+
+            <Text tag="p" variant="textSM" class="mt-4 text-base-600 leading-relaxed">
+              {frontmatter.description}
+            </Text>
+          </div>
+
+          <!-- Price + CTA -->
+          <div class="space-y-4">
+            <!-- <Text tag="p" variant="textBase" class="font-medium">
+              €{frontmatter.price} </Text>--> 
+              <Text tag="p" variant="textLG" class="text-base-600 mb-8">
+  Disponibile su richiesta
+</Text>
+           
+
+            <Button
+  isLink={true}
+  href="/contatti/"
+  size="base"
+  variant="default"
+  class="w-full"
+>
+  Richiedi informazioni sull’opera
+</Button>
+
+           <!-- <Button
+              isLink={true}
+              href={frontmatter.checkout}
+              size="base"
+              variant="default"
+              class="w-full"
+            >
+              Prenota {frontmatter.title} per €{frontmatter.price}
+            </Button>
+            <Button
+              isLink={true}
+              href={frontmatter.checkout2}
+              size="base"
+              variant="accent"
+              class="w-full"
+            >
+              Regala {frontmatter.title} a ${frontmatter.price}
+            </Button> --> 
+          </div>
+
+          <!-- Includes -->
+          <div>
+            <Text tag="h3" variant="textSM" class="font-medium">
+              Dettagli
+            </Text>
+            <ul class="mt-2 space-y-1">
+              {
+                frontmatter.highlights.map((item) => (
+                  <li>
+                    <Text tag="p" variant="textXS" class="text-base-600">
+                      {item}
+                    </Text>
+                  </li>
+                ))
+              }
+            </ul>
+          </div>
+
+          <!-- Specs -->
+          {
+            frontmatter.specifications && (
+              <div>
+                <Text tag="h3" variant="textSM" class="font-medium">
+                  Caratteristiche dell'opera
+                </Text>
+                <ul class="mt-2 space-y-1">
+                  {frontmatter.specifications.map((spec) => (
+                    <li>
+                      <Text tag="p" variant="textXS" class="text-base-600">
+                        {spec.name}: {spec.value}
+                      </Text>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            )
+          }
+
+          <!-- License -->
+          <div>
+            <Text tag="h3" variant="textSM" class="font-medium"> Utilizzo </Text>
+            <Text tag="p" variant="textXS" class="mt-1 text-base-600">
+              {frontmatter.license}
+            </Text>
+          </div>
+          <div class="mt-8 pt-8 border-t border-base-200">
+            <Text tag="h3" variant="textBase" class="font-medium text-base-900"
+              >Domande Frequenti</Text
+            >
+            <div class="mt-4 space-y-4">
+              {
+                frontmatter.faq?.map((item) => (
+                  <div>
+                    <Text tag="h4" variant="textSM" class="text-base-900 ">
+                      {item.question}
+                    </Text>
+                    <Text tag="p" variant="textXS" class="mt-2 text-base-500 ">
+                      {item.answer}
+                    </Text>
+                  </div>
+                ))
+              }
+            </div>
+          </div>
+        </aside>
+      </div>
+      <CtaEdizioni />
+
+    </Wrapper>
+  </section>
+</BaseLayout>

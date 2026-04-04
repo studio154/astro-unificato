@@ -1,0 +1,291 @@
+---
+// EditionForm.astro
+import "@/styles/global.css";
+---
+
+<form
+  action="https://submit-form.com/n5ypQ9vi0"
+  method="POST" class="bg-white dark:bg-gray-900 rounded-2xl p-8"
+>
+<h2 class="text-center">PORTA L'ISTANTE NEL TUO SPAZIO</h2>
+Un’edizione limitata è un frammento di mondo che trova dimora sulle tue pareti. Se hai scelto un’opera o desideri una consulenza sul supporto più adatto ai tuoi ambienti, scrivimi: curerò personalmente ogni dettaglio della stampa per garantire che quel legame resti intatto nel tempo.
+  <hr>
+<!-- Honeypot anti-spam -->
+  <input type="text" name="_honeypot" style="display:none" tabindex="-1" autocomplete="off" />
+
+  <!-- Botpoison anti-spam invisibile -->
+  <input type="hidden" name="_botpoison" data-botpoison-public-key="pk_7d18e25b-fecc-44d3-9f76-962c99cb7ba9" />
+
+  <!-- Redirect dopo invio -->
+  <input type="hidden" name="_redirect" value="https://www.eliocarchidi.com/grazie/" />
+
+  <!-- Reply-to dinamico -->
+  <input type="hidden" name="_replyto" value="" id="replyto-stampa" />
+
+  <div class="space-y-8">
+
+    <!-- SEZIONE: Dati di contatto -->
+    <fieldset class="space-y-5">
+      <legend class="text-xs uppercase tracking-widest text-gray-400 pb-2 border-b border-gray-200 dark:border-gray-700 w-full">
+        Dati di contatto
+      </legend>
+
+      <div>
+        <label for="nome" class="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-1">
+          Nome <span class="text-red-500">*</span>
+        </label>
+        <input
+          type="text" id="nome" name="nome" required autocomplete="name"
+          placeholder="Il tuo nome"
+          class="w-full rounded-lg border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-800 px-4 py-2.5 text-gray-900 dark:text-gray-100 placeholder-gray-400 focus:border-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-500/20 transition"
+        />
+      </div>
+
+      <div>
+        <label for="email" class="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-1">
+          E-mail <span class="text-red-500">*</span>
+        </label>
+        <input
+          type="email" id="email" name="email" required autocomplete="email"
+          placeholder="Per contatto"
+          class="w-full rounded-lg border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-800 px-4 py-2.5 text-gray-900 dark:text-gray-100 placeholder-gray-400 focus:border-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-500/20 transition"
+        />
+      </div>
+
+      <div>
+        <label for="telefono" class="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-1">
+          Telefono
+        </label>
+        <div class="flex gap-2">
+          <span class="flex items-center px-3 rounded-lg border border-gray-300 dark:border-gray-600 bg-gray-50 dark:bg-gray-700 text-gray-500 text-sm">
+            🇮🇹 +39
+          </span>
+          <input
+            type="tel" id="telefono" name="telefono" autocomplete="tel"
+            placeholder="Per contatto veloce"
+            class="flex-1 rounded-lg border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-800 px-4 py-2.5 text-gray-900 dark:text-gray-100 placeholder-gray-400 focus:border-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-500/20 transition"
+          />
+        </div>
+      </div>
+    </fieldset>
+
+    <!-- SEZIONE: Opera di interesse -->
+    <fieldset class="space-y-5">
+      <legend class="text-xs uppercase tracking-widest text-gray-400 pb-2 border-b border-gray-200 dark:border-gray-700 w-full">
+        Opera di interesse
+      </legend>
+
+      <div>
+        <label for="opera" class="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-1">
+          Titolo o riferimento immagine
+        </label>
+        <input
+          type="text" id="opera" name="opera"
+          placeholder="Titolo o riferimento immagine/i"
+          class="w-full rounded-lg border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-800 px-4 py-2.5 text-gray-900 dark:text-gray-100 placeholder-gray-400 focus:border-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-500/20 transition"
+        />
+      </div>
+
+      <div>
+        <label for="provenienza" class="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-1">
+          Dove hai visto questa immagine?
+        </label>
+        <select id="provenienza" name="provenienza"
+          class="w-full rounded-lg border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-800 px-4 py-2.5 text-gray-900 dark:text-gray-100 focus:border-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-500/20 transition"
+        >
+          <option value="">— Seleziona —</option>
+          <option value="Sul sito">Sul sito</option>
+          <option value="Instagram">Instagram</option>
+          <option value="Mostra/Evento">Mostra / Evento</option>
+          <option value="Altro">Altro</option>
+        </select>
+      </div>
+    </fieldset>
+
+    <!-- SEZIONE: Caratteristiche della stampa -->
+    <fieldset class="space-y-5">
+      <legend class="text-xs uppercase tracking-widest text-gray-400 pb-2 border-b border-gray-200 dark:border-gray-700 w-full">
+        Caratteristiche della stampa / edizione
+      </legend>
+
+      <div>
+        <label for="formato" class="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-1">
+          Formato desiderato
+        </label>
+        <select id="formato" name="formato"
+          class="w-full rounded-lg border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-800 px-4 py-2.5 text-gray-900 dark:text-gray-100 focus:border-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-500/20 transition"
+        >
+          <option value="">— Seleziona —</option>
+          <option value="Piccolo (es. 20x30)">Piccolo (es. 20×30)</option>
+          <option value="Medio (es. 40x60)">Medio (es. 40×60)</option>
+          <option value="Grande (es. 60x90)">Grande (es. 60×90)</option>
+          <option value="Molto grande (>70x100)">Molto grande (&gt;70×100)</option>
+          <option value="Non so, vorrei un consiglio">Non so, vorrei un consiglio</option>
+        </select>
+      </div>
+
+      <div>
+        <label class="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-2">
+          Supporto stampa
+        </label>
+        <div class="space-y-2">
+          {[
+            'Carta Fine Art',
+            'Tela',
+            'Dibond / Alluminio',
+          ].map((opt) => (
+            <label class="flex items-center gap-3 cursor-pointer">
+              <input type="radio" name="supporto" value={opt}
+                class="accent-blue-600 w-4 h-4"
+              />
+              <span class="text-sm text-gray-700 dark:text-gray-300">{opt}</span>
+            </label>
+          ))}
+        </div>
+      </div>
+
+      <div>
+        <label class="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-2">
+          Con cornice
+        </label>
+        <div class="space-y-2">
+          {[
+            'Con cornice',
+            'Senza cornice',
+            'Non so, vorrei un consiglio',
+          ].map((opt) => (
+            <label class="flex items-center gap-3 cursor-pointer">
+              <input type="radio" name="cornice" value={opt}
+                class="accent-blue-600 w-4 h-4"
+              />
+              <span class="text-sm text-gray-700 dark:text-gray-300">{opt}</span>
+            </label>
+          ))}
+        </div>
+      </div>
+
+      <div>
+        <label class="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-2">
+          Vuoi che la stampa sia firmata?
+        </label>
+        <div class="flex gap-6">
+          {['Sì', 'No', 'Non è importante'].map((opt) => (
+            <label class="flex items-center gap-2 cursor-pointer">
+              <input type="radio" name="firmata" value={opt}
+                class="accent-blue-600 w-4 h-4"
+              />
+              <span class="text-sm text-gray-700 dark:text-gray-300">{opt}</span>
+            </label>
+          ))}
+        </div>
+      </div>
+    </fieldset>
+
+    <!-- SEZIONE: Tipo di edizione -->
+    <fieldset class="space-y-3">
+      <legend class="text-xs uppercase tracking-widest text-gray-400 pb-2 border-b border-gray-200 dark:border-gray-700 w-full">
+        Tipo di edizione di tuo interesse
+      </legend>
+      <div class="space-y-2">
+        {[
+          'Edizione aperta',
+          'Tiratura limitata',
+          'Edizione esclusiva (unico esemplare)',
+          'Non so, vorrei capire le differenze',
+        ].map((opt) => (
+          <label class="flex items-center gap-3 cursor-pointer">
+            <input type="radio" name="edizione" value={opt}
+              class="accent-blue-600 w-4 h-4"
+            />
+            <span class="text-sm text-gray-700 dark:text-gray-300">{opt}</span>
+          </label>
+        ))}
+      </div>
+    </fieldset>
+
+    <!-- SEZIONE: Tipo di utilizzo -->
+    <fieldset class="space-y-3">
+      <legend class="text-xs uppercase tracking-widest text-gray-400 pb-2 border-b border-gray-200 dark:border-gray-700 w-full">
+        Tipo di utilizzo
+      </legend>
+      <p class="text-xs text-gray-400">Dove verrà esposta/utilizzata?</p>
+      <div class="space-y-2">
+        {[
+          'Uso privato (casa, studio personale)',
+          'Ufficio / studio professionale',
+          'Spazio aperto al pubblico (hotel, ristorante, negozio...)',
+          'Progetto commerciale / brand',
+          'Non sono sicuro',
+        ].map((opt) => (
+          <label class="flex items-center gap-3 cursor-pointer">
+            <input type="radio" name="utilizzo" value={opt}
+              class="accent-blue-600 w-4 h-4"
+            />
+            <span class="text-sm text-gray-700 dark:text-gray-300">{opt}</span>
+          </label>
+        ))}
+      </div>
+    </fieldset>
+
+    <!-- SEZIONE: Richieste aggiuntive -->
+    <fieldset class="space-y-3">
+      <legend class="text-xs uppercase tracking-widest text-gray-400 pb-2 border-b border-gray-200 dark:border-gray-700 w-full">
+        Richieste aggiuntive
+      </legend>
+      <div>
+        <label for="richieste" class="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-1">
+          Raccontami cosa stai cercando
+        </label>
+        <textarea
+          id="richieste" name="richieste" rows="5"
+          placeholder="Descrivi liberamente la tua richiesta..."
+          class="w-full rounded-lg border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-800 px-4 py-2.5 text-gray-900 dark:text-gray-100 placeholder-gray-400 focus:border-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-500/20 transition resize-none"
+        ></textarea>
+      </div>
+    </fieldset>
+
+    <!-- SEZIONE: Privacy e consenso -->
+    <fieldset class="space-y-4">
+      <legend class="text-xs uppercase tracking-widest text-gray-400 pb-2 border-b border-gray-200 dark:border-gray-700 w-full">
+        Privacy
+      </legend>
+
+      <p class="text-xs text-gray-400 leading-relaxed">
+        Elio Leonardo Carchidi si impegna a proteggere e rispettare la tua privacy: le informazioni personali raccolte vengono utilizzate solo per amministrare gli account e fornire i prodotti e servizi richiesti. Potresti essere contattato/a con suggerimenti sui servizi o su altri contenuti che a nostro giudizio potrebbero interessarti.
+      </p>
+
+      <label class="flex items-start gap-3 cursor-pointer">
+        <input type="checkbox" name="consenso_comunicazioni" value="Sì"
+          class="accent-blue-600 w-4 h-4 mt-0.5 shrink-0"
+        />
+        <span class="text-xs text-gray-500 dark:text-gray-400">
+          Accetto di ricevere altre comunicazioni da Studio154 snc di Elio L. Carchidi. Puoi annullare l'iscrizione in qualsiasi momento.
+        </span>
+      </label>
+
+      <label class="flex items-start gap-3 cursor-pointer">
+        <input type="checkbox" name="consenso_dati" value="Sì" required
+          class="accent-blue-600 w-4 h-4 mt-0.5 shrink-0"
+        />
+        <span class="text-xs text-gray-500 dark:text-gray-400">
+          Inviando questa form, consento a Elio Leonardo Carchidi di archiviare e utilizzare le informazioni per fornirti il contenuto richiesto. <span class="text-red-500">*</span>
+        </span>
+      </label>
+    </fieldset>
+
+    <!-- Submit -->
+    <button
+      type="submit"
+      class="w-full rounded-lg bg-blue-600 hover:bg-blue-700 active:bg-blue-800 text-white font-medium px-6 py-3 transition"
+    >
+      Invia richiesta
+    </button>
+
+  </div>
+</form>
+
+<!-- Script Botpoison -->
+<script src="https://unpkg.com/@botpoison/browser" async></script>
+
+
+

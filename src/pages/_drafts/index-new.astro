@@ -1,0 +1,133 @@
+---
+import "@/styles/global.css";
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import Wrapper from "@/components/fundations/containers/Wrapper.astro";
+import Galleria1 from "@/components/gallery/Galleria1.astro";
+import { getCollection } from "astro:content";
+
+const galleries = (await getCollection("gallery"))
+  .sort((a, b) => a.data.order - b.data.order);
+
+import { AstroSeo } from "@astrolib/seo";
+---
+
+<AstroSeo
+  title="Fotografo ritrattista a Roma – Portfolio & Atelier"
+  description="Fotografo ritrattista professionista a Roma. Portfolio di ritratti, servizi fotografici premium e atelier."
+  canonical="https://yourwebsite.com/"
+  openGraph={{
+    url: "https://yourwebsite.com/",
+    title: "Fotografo ritrattista a Roma – Portfolio & Atelier",
+    description: "Fotografo ritrattista professionista a Roma. Portfolio di ritratti, servizi fotografici premium e atelier.",
+    images: [
+      {
+        url: "https://yourwebsite.com/images/og-hero.jpg",
+        width: 1200,
+        height: 630,
+        alt: "Ritratto Premium",
+        type: "image/jpeg",
+      },
+    ],
+    site_name: "Your Site Name",
+    type: "website",
+    locale: "it_IT",
+  }}
+  twitter={{
+    handle: "@yourhandle",
+    site: "@yoursite",
+    cardType: "summary_large_image",
+  }}
+/>
+
+<BaseLayout>
+
+  <!-- Hero -->
+  <Wrapper variant="full" class="relative h-[90vh] flex items-center justify-center text-center overflow-hidden">
+    <img src="/images/hero.jpg" alt="Ritratto Premium" class="absolute inset-0 w-full h-full object-cover z-0"/>
+    <div class="absolute inset-0 bg-black bg-opacity-40 z-10"></div>
+    <div class="relative z-20 max-w-3xl px-6">
+      <h1 class="text-5xl md:text-6xl font-bold tracking-tight leading-tight text-white mb-4">
+        Fotografo ritrattista a Roma
+      </h1>
+      <p class="text-lg md:text-2xl text-white/90 mb-8">
+        Ritratti unici, senza tempo – servizi fotografici professionali e atelier
+      </p>
+      <div class="flex flex-wrap justify-center gap-4">
+        <a href="/portfolio" class="btn-primary">Scopri il portfolio</a>
+        <a href="/contatti" class="btn-secondary">Prenota la tua sessione</a>
+      </div>
+    </div>
+  </Wrapper>
+
+  <!-- Portfolio Preview -->
+  <section class="py-32 bg-white">
+    <Wrapper variant="standard">
+      <h2 class="text-3xl md:text-4xl font-semibold text-center mb-12 tracking-tight">
+        Il mio lavoro
+      </h2>
+      <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8">
+        {galleries.map((post) => (
+          <Galleria1 post={post} class="transition-transform duration-300 hover:scale-105" />
+        ))}
+      </div>
+      <div class="text-center mt-12">
+        <a href="/portfolio" class="btn-primary">Vai al portfolio completo</a>
+      </div>
+    </Wrapper>
+  </section>
+
+  <!-- Servizi -->
+  <section class="py-32 bg-gray-50">
+    <Wrapper variant="standard">
+      <h2 class="text-3xl md:text-4xl font-semibold text-center mb-12 tracking-tight">Servizi fotografici</h2>
+      <div class="grid md:grid-cols-3 gap-8 text-center">
+        <div class="p-6 rounded-lg hover:shadow-lg transition-shadow duration-300">
+          <h3 class="text-xl md:text-2xl font-medium mb-2">Ritratti professionali</h3>
+          <p class="text-gray-700 text-base md:text-lg">Shooting su misura per profili e editoriali</p>
+        </div>
+        <div class="p-6 rounded-lg hover:shadow-lg transition-shadow duration-300">
+          <h3 class="text-xl md:text-2xl font-medium mb-2">Shooting artistici</h3>
+          <p class="text-gray-700 text-base md:text-lg">Progetti creativi costruiti per raccontare chi sei</p>
+        </div>
+        <div class="p-6 rounded-lg hover:shadow-lg transition-shadow duration-300">
+          <h3 class="text-xl md:text-2xl font-medium mb-2">Progetti su commissione</h3>
+          <p class="text-gray-700 text-base md:text-lg">Collaborazioni artistiche e commerciali</p>
+        </div>
+      </div>
+      <div class="text-center mt-12">
+        <a href="/servizi" class="btn-primary">Scopri i servizi</a>
+      </div>
+    </Wrapper>
+  </section>
+
+  <!-- Atelier -->
+  <section class="py-32 bg-white text-center">
+    <Wrapper variant="standard">
+      <h2 class="text-3xl md:text-4xl font-semibold mb-6 tracking-tight">Atelier</h2>
+      <p class="text-gray-700 max-w-3xl mx-auto mb-8 text-lg md:text-xl">
+        Uno spazio dedicato alla fotografia come esperienza. Stampe fine art, progetti personali e sessioni su misura.
+      </p>
+      <a href="/atelier" class="btn-primary">Visita l’atelier</a>
+    </Wrapper>
+  </section>
+
+  <!-- Chi sono -->
+  <section class="py-32 bg-gray-50 text-center">
+    <Wrapper variant="standard">
+      <h2 class="text-3xl md:text-4xl font-semibold mb-6 tracking-tight">Chi sono</h2>
+      <p class="text-gray-700 max-w-2xl mx-auto mb-8 text-lg md:text-xl">
+        Sono un fotografo ritrattista con base a Roma — immagini che restano nel tempo.
+      </p>
+      <a href="/chi-sono" class="btn-secondary">Scopri di più</a>
+    </Wrapper>
+  </section>
+
+  <!-- CTA finale -->
+  <section class="py-32 bg-white text-center">
+    <Wrapper variant="standard">
+      <h2 class="text-3xl md:text-4xl font-semibold mb-6 tracking-tight">Vuoi realizzare il tuo ritratto?</h2>
+      <a href="/contatti" class="btn-primary">Contattami</a>
+    </Wrapper>
+  </section>
+
+</BaseLayout>

@@ -1,0 +1,30 @@
+---
+// Props: currentPath serve per evidenziare la pagina corrente
+interface Props {
+  currentPath: string;
+}
+
+const { currentPath } = Astro.props;
+
+// Definisci i link del menu
+const menuLinks = [
+  { href: "/", label: "HOME" },
+  { href: "/portfolio/", label: "PORTFOLIO" },
+  { href: "/blog/home", label: "SERVIZI" },
+  { href: "/team/elio-carchidi/", label: "CHI SONO" },
+  { href: "/atelier/contatti", label: "CONTATTI" }
+  
+];
+---
+<div class="flex items-center ml-auto text-sm gap-2 col-span-3 lg:col-span-1">
+  {menuLinks.map(link => (
+    <a
+      href={link.href}
+      class={`hover:text-base-500 ${
+        currentPath === link.href ? 'text-purple-500 font-semibold' : ''
+      }`}
+    >
+      {link.label}
+    </a>
+  ))}
+</div>

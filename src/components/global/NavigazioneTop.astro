@@ -1,0 +1,31 @@
+---
+// Assets
+import Logo from "@/components/assets/LogoNavigazione.astro";
+// Fundations
+import Text from "@/components/fundations/elements/Text.astro";
+import Wrapper from "@/components/fundations/containers/Wrapper.astro";
+import NavMenu from '@/components/global/NavigazioneGlobale.astro';
+import BackNav from "@/components/global/BackNav.astro";
+const currentPath = Astro.url.pathname; // prende la path corrente
+---
+
+<Wrapper variant="menu">
+  <div
+    class="items-start pt-4 lg:pb-0 text-center uppercase grid grid-cols-4
+      gap-4 lg:gap-6 lg:gap-y-6 bg-white mb-0 mt-0 p-5 "
+  >
+    <a href="/"><Logo class="h-10 col-span-3 pb-4" /></a>
+    <Text
+      tag="h1"
+      variant="textSM"
+      class="order-last lg:order-none col-span-full lg:col-span-2 text-base-900"
+    >
+      <BackNav />
+    </Text>
+    <div
+      class="flex items-center ml-auto text-sm gap-2 col-span-3 lg:col-span-1"
+    >
+    <NavMenu currentPath={currentPath} />
+    </div>
+  </div>
+</Wrapper>

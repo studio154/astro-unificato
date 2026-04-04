@@ -1,0 +1,83 @@
+---
+// Fundations
+import BaseLayout from "@/layouts/LayoutSessioni.astro";
+import Text from "@/components/fundations/elements/Text.astro";
+import Wrapper from "@/components/fundations/containers/Wrapper.astro";
+// Components
+import StoreEntry from "@/components/store/StoreEntry.astro";
+// Content
+import { getCollection } from "astro:content";
+const allProducts = await getCollection("sessioni");
+import { AstroSeo } from "@astrolib/seo";
+import Button from "@/components/fundations/elements/Button.astro";
+---
+
+<AstroSeo
+  title="Sessioni Private di Ritratto | Portrait Atelier"
+  description="Ritratto fotografico personalizzato, realizzato su commissione. Un processo costruito con attenzione, dialogo e profondità."
+  canonical="https://www.eliocarchidi.com/atelier/sessioni-private/"
+  openGraph={{
+    url: "https://www.eliocarchidi.com/atelier/sessioni-private/",
+    title: "Atelier Fotografico | Stampe d’Autore e Ritratto su Misura",
+    description:
+      "Ritratto fotografico personalizzato, realizzato su commissione. Un processo costruito con attenzione, dialogo e profondità.",
+    images: [
+      {
+        url: "https://yourwebsite.com/og-image.jpg",
+        width: 1200,
+        height: 630,
+        alt: "Open Graph Image Alt",
+        type: "image/jpeg",
+      },
+    ],
+    site_name: "Your Site Name",
+    type: "website",
+    locale: "en_US",
+  }}
+  twitter={{
+    handle: "@yourhandle",
+    site: "@yourwebsite",
+    cardType: "summary_large_image",
+  }}
+/>
+
+<BaseLayout>
+  <section>
+    <Wrapper variant="standard" class="py-2">
+      <!-- <div class="overflow-hidden">
+        <Text tag="h1" variant="textBase" class="font-medium text-base-900">
+          Sessioni Private
+        </Text>
+      </div> -->
+
+      <div
+        class="mt-4 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-y-24 gap-8"
+      >
+        {
+          allProducts.map((post) => (
+            <StoreEntry post={post} basePath="sessioni-private" />
+          ))
+        }
+      </div>
+      <div
+        class="items-start pt-2 pb-2 lg:pb-6 text-center grid grid-cols-1
+      gap-4 lg:gap-6 lg:gap-y-6 mb-4 max-w-2xl uppercase m-auto mt-50"
+      >
+        <Text
+          tag="h1"
+          variant="textLG"
+          class="order-last font-serif lg:order-none col-span-full lg:col-span-1: text-base-900 mb-12"
+        >
+          Vivi un’esperienza di ritratto pensata su misura, dove luce, tempo e
+          presenza si incontrano per raccontare la tua storia. Contattaci per
+          prenotare la tua sessione esclusiva nell’atelier.
+        </Text>
+        <Button size="base" variant="default"
+          ><a class="hover:text-base-300 item-center" href="/contatti/">
+            RICHIEDI INFORMAZIONI</a
+          ></Button
+        >
+      </div>
+    </Wrapper>
+  </section>
+</BaseLayout>

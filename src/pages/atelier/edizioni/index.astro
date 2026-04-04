@@ -1,0 +1,62 @@
+---
+// Fundations
+import BaseLayout from "@/layouts/LayoutEdizioni.astro";
+import CtaEdizioni from "src/components/cta/CtaEdizioni.astro";
+import Wrapper from "@/components/fundations/containers/Wrapper.astro";
+// Components
+import StoreEntry from "@/components/store/StoreEntry.astro";
+// Content
+import { getCollection } from "astro:content";
+const allProducts = await getCollection("edizioni");
+import { AstroSeo } from "@astrolib/seo";
+---
+
+<AstroSeo
+  title="Stampe Fotografiche d’Autore | Edizioni | Elio Leonardo Carchidi"
+  description="Stampe fotografiche d’autore in tiratura limitata. Opere pensate per dialogare con lo spazio, la luce e il tempo, disponibili su richiesta."
+  canonical="https://www.eliocarchidi.com/atelier/stampe/"
+  openGraph={{
+    url: "https://www.eliocarchidi.com/atelier/stampe/",
+    title: "Stampe Fotografiche d’Autore | Atelier",
+    description:
+      "Stampe fotografiche d’autore in tiratura limitata, pensate per abitare gli spazi con eleganza e durata nel tempo.",
+    images: [
+      {
+        url: "https://www.eliocarchidi.com/og-image-stampe.jpg",
+        width: 1200,
+        height: 630,
+        alt: "Stampe fotografiche d’autore di Elio Leonardo Carchidi",
+        type: "image/jpeg",
+      },
+    ],
+    site_name: "Elio Leonardo Carchidi - Atelier Fotografico",
+    type: "website",
+    locale: "it_IT",
+  }}
+  twitter={{
+    handle: "@eliocarchidi",
+    site: "@eliocarchidi",
+    cardType: "summary_large_image",
+  }}
+/>
+
+<BaseLayout>
+  <section>
+    <Wrapper variant="standard" class="py-2">
+      <!-- <div class="overflow-hidden">
+         <Text tag="h1" variant="textBase" class="font-medium text-base-900">
+          Edizioni d'Autore
+        </Text> 
+      </div> -->
+
+      <div
+        class="mt-4 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-y-24 gap-8"
+      >
+        {allProducts.map((post) => <StoreEntry post={post} basePath="edizioni" />)}
+      </div>
+     <CtaEdizioni />
+      
+    </Wrapper>
+    
+  </section>
+</BaseLayout>

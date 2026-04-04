@@ -1,0 +1,86 @@
+---
+// src/components/SessionForm.astro
+import "@/styles/global.css";
+---
+
+<!-- <script src="https://js-eu1.hsforms.net/forms/embed/144459046.js" defer
+></script>
+<div
+  class="hs-form-frame"
+  data-region="eu1"
+  data-form-id="1c62fe7b-623e-4a7b-941e-b817d1aaeb10"
+  data-portal-id="144459046"
+>
+</div> -->
+
+
+
+<div class="session-container">
+  <div class="form-header">
+    <h2>L’arte di vedersi attraverso un ritratto</h2>
+    <p>
+      Una sessione fotografica è un tempo sospeso, dedicato a riscoprire la propria immagine. 
+      Se desideri un ritratto che parli di te, o vuoi regalare un’esperienza di autentica bellezza, 
+      scrivimi qui: progetteremo insieme la luce e l’atmosfera per dare forma alla tua storia. Ricevi informazioni.
+    </p>
+  </div>
+
+  <div class="hubspot-inject-area">
+    <script src="https://js-eu1.hsforms.net/forms/embed/144459046.js" defer></script>
+    <div 
+      class="hs-form-frame" 
+      data-region="eu1" 
+      data-form-id="1c62fe7b-623e-4a7b-941e-b817d1aaeb10" 
+      data-portal-id="144459046"
+    ></div>
+  </div>
+</div>
+
+<style is:global>
+  .session-container {
+    max-width: 650px;
+    margin: 1rem auto;
+    padding: 2rem;
+    border: 1px solid #f0f0f0;
+    background-color: #ffffff;
+  }
+
+  .form-header {
+    text-align: center;
+    margin-bottom: 3rem;
+  }
+
+  .form-header h2 {
+    font-family: "Newsreader", Serif; 
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    margin-bottom: 1rem;
+    line-height: 1.2;
+    color: #1a1a1a;
+    font-weight:400;
+  }
+
+  .form-header p {
+    font-family: "Newsreader", Serif;
+    font-size: 1.2rem;
+    line-height: 1.6;
+    color: #555;
+    max-width: 500px;
+    margin: 0 auto;
+  }
+
+  /* STILE PER IL MESSAGGIO DI RINGRAZIAMENTO "ON-PAGE" */
+  /* HubSpot usa spesso la classe .submitted-message dopo l'invio */
+  .submitted-message {
+    text-align: center;
+    padding: 3rem 1rem;
+    font-family: inherit !important;
+  }
+
+  .submitted-message h3 {
+    font-size: 1.8rem;
+    color: #000;
+    margin-bottom: 0.5rem;
+  }
+</style>

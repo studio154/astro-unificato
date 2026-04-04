@@ -1,0 +1,47 @@
+---
+import BaseLayout from "@/layouts/LayoutContatti.astro";
+import Wrapper from "@/components/fundations/containers/Wrapper-1040.astro";
+import { AstroSeo } from "@astrolib/seo";
+import ContattiFormspark from "@/components/hubspot-form/ContattiFormspark.astro";
+---
+
+<AstroSeo
+  title="Contatti | Elio Leonardo Carchidi - Fotografo di Ritratto"
+  description="Ogni grande progetto nasce da una conversazione. Scrivimi qui: sarà un piacere risponderti personalmente e pianificare il tuo ritratto su misura."
+  canonical="https://www.eliocarchidi.com/contatti/"
+  openGraph={{
+    url: "https://www.eliocarchidi.com/contatti/",
+    title: "Contatti | Elio Leonardo Carchidi - Fotografo di Ritratto",
+    description: "Ogni grande progetto nasce da una conversazione. Scrivimi qui: sarà un piacere risponderti personalmente e pianificare il tuo ritratto su misura.",
+    images: [
+      {
+        url: "https://www.eliocarchidi.com/og-image-contatti.jpg",
+        width: 1200,
+        height: 630,
+        alt: "Modulo contatti per Elio Leonardo Carchidi",
+        type: "image/jpeg",
+      },
+    ],
+    site_name: "Elio Leonardo Carchidi - Contatti",
+    type: "website",
+    locale: "it_IT",
+  }}
+  twitter={{
+    handle: "@eliocarchidi",
+    site: "@eliocarchidi",
+    cardType: "summary_large_image",
+  }}
+/>
+
+<BaseLayout>
+
+  <!-- HERO CONTATTI -->
+  
+  <!-- FORM CONTATTI -->
+  <section>
+    <Wrapper variant="prose" class="p-6 sm:p-4 m-auto max-w-xl">
+      <ContattiFormspark />
+    </Wrapper>
+  </section>
+
+</BaseLayout>

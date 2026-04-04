@@ -1,0 +1,47 @@
+---
+// Assets
+import Logo from "@/components/assets/Logo.astro";
+// Fundations
+import Text from "@/components/fundations/elements/Text.astro";
+import Wrapper from "@/components/fundations/containers/Wrapper.astro";
+import NavMenu from '@/components/global/NavigazioneGlobale.astro';
+const currentPath = Astro.url.pathname; // prende la path corrente
+---
+
+  <Wrapper variant="standard" >
+    <Text
+        tag="h1"
+        variant="textLG"
+        class="font-serif uppercase lg:order-none text-base-900 text-center "
+      ><a class="hover:text-base-900 font-sans text-gallery-5" href="/">Elio Leonardo Carchidi - Fine Art Portraits</a><br>
+    </Text>
+    <!-- <div
+  class="gap-4 lg:col-span-1 items-center grid grid-cols-2 h-14 max-w-110 m-auto mb-10">
+  <Button size="base" variant="default"><a class="hover:text-base-300 item-center" href="#"> Contatti</a></Button><Button size="base" variant="default"><a class="hover:text-base-300" href="#">Prenotazioni</a></Button>
+  
+</div>-->
+    <div
+      class="items-start pt-2 pb-6 lg:pb-6 text-center uppercase grid grid-cols-4 
+      gap-4 lg:gap-6 lg:gap-y-6 mb-10">
+      <a href="/"><Logo class="w-6 h-6" /></a>
+      <Text
+        tag="h1"
+        variant="textLG"
+        class="order-last font-serif uppercase lg:order-none col-span-full lg:col-span-2 text-base-900"
+      >
+      Un luogo dedicato al tempo e alla scelta.
+Qui la fotografia prende forma con misura, attenzione e rispetto per ciò che resta.
+      </Text>
+      <div
+      class="flex items-center ml-auto text-sm gap-2 col-span-3 lg:col-span-1"
+    >
+    <NavMenu currentPath={currentPath} />
+      <!-- <a href="/" class="hover:text-base-800  active:text-red-500"> HOME </a>
+      <a href="/atelier/" class="hover:text-base-500  active:text-red-500"> ATELIER</a>
+      <a href="/blog/home" class="hover:text-base-500  active:text-red-500"> BLOG</a>
+      <a href="/atelier/contatti" class="hover:text-base-500  active:text-red-500"> CONTATTI</a>-->
+    </div>
+    </div>
+  </Wrapper>
+</header>
+</div>

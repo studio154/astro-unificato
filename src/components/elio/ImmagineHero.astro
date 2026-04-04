@@ -1,0 +1,31 @@
+---
+import imageOne from '../../immaginehero/ritratti-fotografici-pierluigi-collina.jpg';
+---
+
+<div class="full-width-container">
+  <img 
+    src={imageOne.src}
+    alt="Descrizione della foto fine-art"
+    class="hero-image"
+    loading="lazy" />
+    
+ 
+  </div>
+
+<style>
+/* CSS per assicurare che sia full width */
+.full-width-container {
+  width: 100vw; 
+  margin-left: calc(50% - 50vw); 
+  position: relative; /* ESSENZIALE per ancorare l'overlay 'absolute' */
+  /* Assicurati che l'altezza sia definita, altrimenti l'overlay potrebbe essere troppo corto */
+  height: 100vh; /* Esempio: altezza al 70% della viewport per non coprire tutto */
+}
+
+.hero-image {
+  width: 100%;
+  height: 100%; /* L'immagine deve riempire l'altezza del contenitore */
+  object-fit: content; /* Assicura che l'immagine copra senza distorcere */
+  display: block;
+}
+</style>

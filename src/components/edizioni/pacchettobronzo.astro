@@ -1,0 +1,19 @@
+---
+const {
+  path,
+  className = "",
+  height = "700px",
+  width = "700px",
+} = Astro.props;
+---
+
+<div
+  class={`tidycal-embed ${className}`}
+  data-path={path}
+  style={`min-height: ${height}; width: ${width};`}
+></div>
+
+<script
+  src="https://asset-tidycal.b-cdn.net/js/embed.js"
+  async
+></script>

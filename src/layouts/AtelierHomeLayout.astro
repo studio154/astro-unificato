@@ -1,0 +1,38 @@
+---
+// Assets
+import BigLogo from "@/components/assets/LogoAtelier.astro";
+// Fundations
+import "@/styles/global.css";
+import BaseHead from "@/components/fundations/head/BaseHead.astro";
+import Wrapper from "@/components/fundations/containers/Wrapper.astro";
+// Components
+import Footer from "@/components/global/Footer.astro";
+import Navigation from "@/components/global/NavigazionePulita.astro";
+
+const {
+  hideBigLogo = false,
+  hideNavigation = false,
+  hideFooter = false,
+} = Astro.props;
+import Favicons from "../components/fundations/head/Favicons.astro";
+---
+
+<html lang="it" class="scroll-smooth">
+  <head>
+    <Favicons />
+    <BaseHead />
+    </head>
+  <body class="flex flex-col bg-gallery-6 min-h-svh">
+    {
+      !hideBigLogo && (
+     
+        <Wrapper variant="standard" class="pt-8">
+           <BigLogo />
+        </Wrapper>
+      )
+    }
+    {!hideNavigation && <Navigation />}
+    <main class="grow"><slot /></main>
+    {!hideFooter && <Footer />}
+  </body>
+</html>

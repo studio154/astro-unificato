@@ -1,0 +1,140 @@
+---
+import BaseLayout from "../layouts/LayoutHome.astro";
+import Wrapper from "../components/fundations/containers/Wrapper.astro";
+import Text from "../components/fundations/elements/Text.astro";
+import { AstroSeo } from "@astrolib/seo";
+import Button from "@/components/fundations/elements/Button.astro";
+import { Image } from "astro:assets";
+import ImmagineEdizioni from "../images/atelier/foto-edizioni-cornici-gallerie-fotografiche.png";
+import ImmagineSessioni from "../images/atelier/cornici-atelier-photo-gallery-ritratto.png";
+
+const base = import.meta.env.BASE_URL;
+
+const pacchetti = [
+  {
+    title: "Edizioni d'Autore",
+    description: "Ritratti e stampe già realizzati, disponibili in edizioni curate e pronte a entrare nel tuo spazio.",
+    image: ImmagineEdizioni,
+    link: `/atelier/edizioni/`,
+  },
+  {
+    title: "Sessioni Private di Ritratto",
+    description: "Un'esperienza di ritratto costruita intorno alla tua presenza, con luce, tempo e attenzione dedicati.",
+    image: ImmagineSessioni,
+    link: `/atelier/sessioni-private/`,
+  },
+];
+---
+
+<AstroSeo
+  title="Elio Leonardo Carchidi | Fotografo di Ritratto a Roma"
+  description="Da oltre 40 anni realizzo ritratti fotografici con luce naturale e attenzione alla presenza. Fine art, corporate ed editoriale. Studio a Roma, disponibile in tutta Italia."
+  canonical="https://www.eliocarchidi.com/atelier/"
+  openGraph={{
+    url: "https://www.eliocarchidi.com/",
+    title: "Elio Leonardo Carchidi | Fotografo di Ritratto a Roma",
+    description: "Da oltre 40 anni realizzo ritratti fotografici con luce naturale e attenzione alla presenza. Fine art, corporate ed editoriale. Studio a Roma, disponibile in tutta Italia.",
+    images: [
+      {
+        url: "https://www.eliocarchidi.com/og-image-home.jpg",
+        width: 1200,
+        height: 630,
+        alt: "Ritratti fotografici di Elio Leonardo Carchidi",
+        type: "image/jpeg",
+      },
+    ],
+    site_name: "Elio Leonardo Carchidi - Atelier Fotografico",
+    type: "website",
+    locale: "it_IT",
+  }}
+  twitter={{
+    handle: "@eliocarchidi",
+    site: "@eliocarchidi",
+    cardType: "summary_large_image",
+  }}
+/>
+
+<BaseLayout>
+  <section>
+    <Wrapper variant="standard" class="py-2">
+<div class="mt-4 md:mt-16 grid gap-16 justify-center grid-cols-1 lg:grid-cols-2">
+  {
+    pacchetti.map((pacchetto) => (
+      <div class="flex flex-col items-center text-center">
+        
+        <!-- Immagine dominante -->
+        <a href={pacchetto.link} class="block overflow-hidden">
+          <Image
+            src={pacchetto.image}
+            alt={pacchetto.title}
+            width={800}
+            height={600}
+            class="w-full"
+          />
+        </a>
+
+        <!-- Titolo -->
+        <Text
+          tag="h2"
+          variant="textBase"
+          class="mt-4 text-lg font-semibold tracking-wide"
+        >
+          {pacchetto.title}
+        </Text>
+
+        <!-- Descrizione -->
+        <Text
+          tag="p"
+          variant="textSmall"
+          class="mt-2 text-base max-w-lg"
+        >
+          {pacchetto.description}
+        </Text>
+
+        <!-- Bottone -->
+        <Button
+          isLink={true}
+          href={pacchetto.link}
+          size="lg"
+          variant="muted"
+          class="mt-4"
+        >
+          {pacchetto.link.includes("edizioni")
+            ? "Esplora le edizioni"
+            : "Prenota il tuo ritratto"}
+        </Button>
+      </div>
+    ))
+  }
+</div>
+
+<!-- SEZIONE APPROCCIO -->
+      <div class="mt-25 md:mt-50 mb-16 md:mb-32 text-center max-w-lg m-auto">
+        <Text
+        tag="h1"
+        variant="textLG"
+        class="font-serif uppercase lg:order-none text-base-900 text-center "
+      ><a class="hover:text-base-900 text-gallery-5" href="/">Un approccio al ritratto</a><br>
+    </Text>
+        <Text
+        tag="h2"
+        variant="textLG"
+        class="order-last font-serif uppercase lg:order-none col-span-full lg:col-span-1: text-base-900"
+      >
+      Da oltre 40 anni lavoro sul ritratto come forma essenziale.
+
+La luce naturale e il tempo sono parte del processo,
+non strumenti da controllare.
+
+Ogni immagine nasce per sottrazione,
+fino a restituire una presenza autentica.
+      </Text>
+
+      <div class="mt-24 flex justify-center">
+  <Button size="base" variant="default">
+    <a class="hover:text-base-300 uppercase" href="/servizi/">Scopri tutti i servizi →</a>
+  </Button>
+</div>
+    </Wrapper>
+  </section>
+</BaseLayout>

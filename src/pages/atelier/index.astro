@@ -1,0 +1,142 @@
+---
+import BaseLayout from "../../layouts/LayoutAtelier.astro";
+import Wrapper from "../../components/fundations/containers/Wrapper.astro";
+import Text from "../../components/fundations/elements/Text.astro";
+import { AstroSeo } from "@astrolib/seo";
+import Button from "@/components/fundations/elements/Button.astro";
+import { Image } from "astro:assets";
+import ImmagineEdizioni from "../../images/atelier/foto-edizioni-cornici-gallerie-fotografiche.png";
+import ImmagineSessioni from "../../images/atelier/cornici-atelier-photo-gallery-ritratto.png";
+
+const base = import.meta.env.BASE_URL;
+
+const pacchetti = [
+  {
+    title: "Edizioni d'Autore",
+    description: "Stampe fine art in tiratura limitata, realizzate su carte museali. Ogni opera è pensata per attraversare il tempo e abitare lo spazio.",
+    image: ImmagineEdizioni,
+    link: `/atelier/edizioni/`,
+  },
+  {
+    title: "Sessioni Private di Ritratto",
+    description: "Sessioni fotografiche individuali, costruite intorno alla persona. Un’esperienza intima, essenziale, guidata dalla luce naturale. ",
+    image: ImmagineSessioni,
+    link: `/atelier/sessioni-private/`,
+  },
+];
+---
+
+<AstroSeo
+  title="Atelier Fotografico | Stampe d’Autore e Ritratto su Misura"
+  description="Atelier fotografico dedicato a stampe d’autore e ritratti su misura. Immagini compiute o create insieme, con attenzione e profondità."
+  canonical="https://www.eliocarchidi.com/atelier/"
+  openGraph={{
+    url: "https://www.eliocarchidi.com/atelier/",
+    title: "Atelier Fotografico | Stampe d’Autore e Ritratto su Misura",
+    description:
+      "Atelier fotografico dedicato a stampe d’autore e ritratti su misura. Immagini compiute o create insieme, con attenzione e profondità.",
+    images: [
+      {
+        url: "https://yourwebsite.com/og-image.jpg",
+        width: 1200,
+        height: 630,
+        alt: "Open Graph Image Alt",
+        type: "image/jpeg",
+      },
+    ],
+    site_name: "Photo Atelier - Galleria Fotografica",
+    type: "website",
+    locale: "it_IT",
+  }}
+  twitter={{
+    handle: "@eliocarchidi",
+    site: "@eliocarchidi",
+    cardType: "summary_large_image",
+  }}
+/>
+
+<BaseLayout>
+  <section>
+    <Wrapper variant="standard" class="py-2">
+      <div
+        class="mt-4 grid gap-8 justify-center grid-cols-1 sm:grid-cols- lg:grid-cols-2"
+      >
+        {
+          pacchetti.map((pacchetto) => (
+            <div class="flex flex-col border border-gray-200 p-4 hover:shadow-xl transition-transform duration-200 bg-gallery-6">
+              <a href={pacchetto.link} class="block overflow-hidden rounded group">
+              <Image
+  src={pacchetto.image}
+  alt={pacchetto.title}
+  width={800}
+  height={600}
+  class="w-full rounded mt-0"
+/>
+              </a>
+
+              <Text
+                tag="h2"
+                variant="textBase"
+                class="mt-2 font-semibold text-xl text-center color-gray"
+              >
+                {pacchetto.title}
+              </Text>
+
+              <Text tag="p" variant="textSmall" class="mt-2 text-l text-center mb-4 max-w-150 m-auto">
+                {pacchetto.description}
+              </Text>
+
+              <Button
+                isLink={true}
+                href={pacchetto.link}
+                size="lg"
+                variant="muted"
+                class="mt-4 w-full mb-8 max-w-150 m-auto"
+              >
+                {pacchetto.link.includes("edizioni")
+                  ? "Esplora le edizioni"
+                  : "Prenota il tuo ritratto"}
+              </Button>
+            </div>
+          ))
+        }
+      </div>
+      <!-- Filosofia -->
+<div
+      class="items-start pt-2 pb-2 mt-24 lg:pb-6 text-center uppercase grid grid-cols-1 
+      gap-4 lg:gap-6 lg:gap-y-6 mb-4 max-w-2xl m-auto "
+    >
+      <Text
+        tag="h1"
+        variant="textLG"
+        class="order-last font-serif uppercase lg:order-none col-span-full lg:col-span-1: text-base-900"
+      >
+      Lavoro per sottrazione.
+      La luce è l’elemento principale, il tempo è parte del processo.
+      Ogni immagine nasce dall’ascolto e dalla presenza,
+        non dalla costruzione.
+     
+    </Text></div>
+ 
+
+    <!-- CTA -->
+    
+    <div
+      class="items-start pt-2 pb-2 lg:pb-6 text-center uppercase grid grid-cols-1 
+      gap-4 lg:gap-6 lg:gap-y-6 mb-4 max-w-2xl m-auto "
+    >
+      <Text
+        tag="p"
+        variant="textM"
+        class="order-last lg:order-none col-span-full lg:col-span-1: text-base-900"
+      >
+      Scopri i servizi disponibili e scegli il percorso più adatto a te.
+     
+    </Text>
+  <Button size="base" variant="default"><a class="hover:text-base-300 item-center" href="/servizi/"> SCOPRI I SERVIZI</a></Button>
+  </div>
+
+  
+    </Wrapper>
+  </section>
+</BaseLayout>
