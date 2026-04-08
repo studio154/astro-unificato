@@ -1,27 +1,17 @@
 ---
-// Fundations
 import BaseLayout from "@/layouts/BaseLayout.astro";
-import Text from "@/components/fundations/elements/Text.astro";
-import Button from "@/components/fundations/elements/Button.astro";
-import Wrapper from "@/components/fundations/containers/Wrapper.astro";
 ---
-
-<BaseLayout hideBigLogo={true} hideNavigation={true} hideFooter={true}>
-  <section>
-    <Wrapper
-      variant="standard"
-      class="flex flex-col h-svh items-center justify-center h-full py-24 text-center lg:py-48"
-    >
-      <Text
-        tag="h1"
-        variant="textLG"
-        class="order-last font-serif uppercase lg:order-none col-span-full lg:col-span-2 text-base-900"
-      >
-        404 – The page you’re looking for doesn’t exist (or never did)
-      </Text>
-      <Button isLink={true} href="/" size="xs" variant="muted" class="mt-8">
-        Go back gome
-      </Button>
-    </Wrapper>
-  </section>
+<BaseLayout title="Pagina non trovata">
+  <script is:inline>
+    // Se la pagina non esiste, dopo 2 secondi ti porto su contatti
+    // Oppure puoi rimuovere lo script e mettere solo un link testuale
+    setTimeout(() => {
+      window.location.href = "/contatti/";
+    }, 2000);
+  </script>
+  <div style="text-align: center; padding: 100px 20px;">
+    <h1>Ops! Pagina non trovata.</h1>
+    <p>Ti stiamo trasferendo alla pagina contatti...</p>
+    <a href="/contatti/" style="text-decoration: underline;">Clicca qui se non vuoi attendere</a>
+  </div>
 </BaseLayout>

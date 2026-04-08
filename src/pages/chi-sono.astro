@@ -1,15 +1,110 @@
 ---
-import BaseLayout from "@/layouts/BaseLayout.astro";
+import TeamLayout from "@/layouts/TeamLayout.astro";
+import { Image } from "astro:assets";
+import { AstroSeo } from "@astrolib/seo";
+
+// Import dell'immagine locale
+import FotoElio from "../images/team/ritratto-elio.jpg";
+
+const frontmatter = {
+  name: "Elio Leonardo Carchidi",
+  role: "Fotografo e Art Director",
+  image: { url: FotoElio, alt: "Elio Leonardo Carchidi" },
+  bio: `Da oltre 40 anni realizzo ritratti fotografici a Roma, combinando maestria tecnica, sensibilità artistica e cura della presenza.  
+La mia fotografia nasce dalla luce naturale e dal tempo dedicato al soggetto: ogni immagine è essenziale, senza artifici, pensata per restituire autenticità e profondità.  
+
+Fondatore di Studio154, collaboro con clienti e produzioni nazionali e internazionali, realizzando ritratti fine art, corporate ed editoriali.  
+La mia filosofia si ispira alla profondità dei classici: “Fatti non foste a viver come bruti ma per seguir virtute e conoscenza” – un principio che guida il mio lavoro e la mia vita.  
+
+Benvenuti nel mio studio: mettetevi comodi e lasciate che il ritratto parli di voi.`,
+  socials: {
+    twitter: "https://twitter.com/eliocarchidi",
+    linkedin: "https://www.linkedin.com/in/eliocarchidi",
+    email: "mailto:info@eliocarchidi.com",
+    website: "https://www.eliocarchidi.com"
+  }
+};
 ---
 
-<BaseLayout title="Test Chi Sono">
-  <section style="padding: 100px 20px; text-align: center; font-family: serif;">
-    <h1 style="font-size: 3rem;">Elio Leonardo Carchidi</h1>
-    <p style="font-size: 1.2rem; color: #666;">TEST DI PUBBLICAZIONE</p>
-    <hr style="width: 50px; margin: 30px auto;">
-    <p>Se vedi questa pagina, il sistema di pubblicazione funziona.</p>
-    <p>Il problema è in un componente del layout precedente.</p>
-    <br>
-    <a href="/" style="text-decoration: underline;">Torna alla Home</a>
+<AstroSeo
+  title="Chi Sono | Elio Leonardo Carchidi - Fotografo di Ritratto a Roma"
+  description="Elio Leonardo Carchidi, fotografo di ritratto a Roma. Da oltre 40 anni realizza immagini essenziali e senza tempo, specializzato in fine art, corporate ed editoriale. Studio disponibile in tutta Italia."
+  canonical="https://www.eliocarchidi.com/chi-sono/"
+  openGraph={{
+    url: "https://www.eliocarchidi.com/chi-sono/",
+    title: "Chi Sono | Elio Leonardo Carchidi - Fotografo di Ritratto a Roma",
+    description: "Elio Leonardo Carchidi, fotografo di ritratto a Roma. Da oltre 40 anni realizza immagini essenziali e senza tempo, specializzato in fine art, corporate ed editoriale. Studio disponibile in tutta Italia.",
+    images: [
+      {
+        url: "https://www.eliocarchidi.com/images/team/ritratto-elio-og.jpg",
+        width: 1200,
+        height: 630,
+        alt: "Elio Leonardo Carchidi - Fotografo di Ritratto",
+        type: "image/jpeg",
+      },
+    ],
+    site_name: "Atelier Fotografico Elio Leonardo Carchidi",
+    type: "website",
+    locale: "it_IT",
+  }}
+  twitter={{
+    handle: "@eliocarchidi",
+    site: "@eliocarchidi",
+    cardType: "summary_large_image",
+  }}
+/>
+
+<TeamLayout frontmatter={frontmatter}>
+  <section class="pt-6 md:pt-12 text-center max-w-xl mx-auto">
+    
+    <!-- Go back -->
+    <a href="javascript:history.back()" class="inline-flex items-center gap-1 text-xs text-gray-600 hover:text-gray-800 mb-4">
+      &larr; Go back
+    </a>
+
+    <!-- Nome e ruolo -->
+    <h1 class="text-3xl md:text-4xl font-semibold mb-2">{frontmatter.name}</h1>
+    <p class="text-lg md:text-xl mb-6">{frontmatter.role}</p>
+
+    <!-- Immagine -->
+    <Image
+      src={frontmatter.image.url}
+      alt={frontmatter.image.alt}
+      width={800}
+      height={800}
+      class="mx-auto rounded-lg shadow-md object-cover w-full max-w-sm mb-6"
+    />
+
+    <!-- Bio -->
+    <div class="space-y-4 mb-8 text-left">
+      {frontmatter.bio.split("\n").map((p) => (
+        <p class="text-base-900 leading-7 font-serif">{p}</p>
+      ))}
+    </div>
+
+    <!-- Social -->
+    <div class="flex justify-center gap-6 mb-12">
+      <a href={frontmatter.socials.twitter} class="text-sm text-base-600 hover:text-base-800">Twitter</a>
+      <a href={frontmatter.socials.linkedin} class="text-sm text-base-600 hover:text-base-800">LinkedIn</a>
+      <a href={frontmatter.socials.email} class="text-sm text-base-600 hover:text-base-800">Email</a>
+      <a href={frontmatter.socials.website} class="text-sm text-base-600 hover:text-base-800">Website</a>
+    </div>
+
+    <!-- CTA Sessione -->
+    
+    </div>
+    <div slot="cta">
+    <div class="flex justify-center mt-12">
+      <a href="/sessioni-private/" class="inline-block rounded-md bg-gray-900 hover:bg-gray-800 text-white font-medium px-6 py-3 transition">
+        Prenota la tua sessione di ritratto
+      </a>
+    </div>
   </section>
-</BaseLayout>
+
+  <!-- Footer minimale -->
+  <section class="bg-gray-50 py-8 text-center">
+    <p class="text-base-600 mb-2">Since 1976 – fotografia di ritratto</p>
+    <p class="text-base-900 mb-1">Lo studio fotografico riceve esclusivamente su appuntamento</p>
+    <p class="font-semibold">Studio154</p>
+  </section>
+</TeamLayout>
