@@ -64,14 +64,16 @@ const pacchetti = [
         
         <!-- Immagine dominante -->
         <a href={pacchetto.link} class="block overflow-hidden">
-          <Image
-            src={pacchetto.image}
-            alt={pacchetto.title}
-            width={800}
-            height={600}
-            class="w-full"
-          />
-        </a>
+        <Image
+          src={pacchetto.image}
+          alt={pacchetto.title}
+          width={800}
+          height={600}
+          class="w-full"
+          loading={index === 0 ? "eager" : "lazy"} 
+          fetchpriority={index === 0 ? "high" : "auto"}
+        />
+      </a>
 
         <!-- Titolo -->
         <Text
