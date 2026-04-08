@@ -13,6 +13,7 @@
   Scrivimi per il tuo ritratto su misura
 </h2>
       <!-- Honeypot anti-spam -->
+       <input type="text" name="_gotcha" style="display:none" />
       <input type="text" name="_honeypot" style="display:none" tabindex="-1" autocomplete="off" />
       <input type="hidden" name="_botpoison" data-botpoison-public-key="pk_7d18e25b-fecc-44d3-9f76-962c99cb7ba9" />
       <input type="hidden" name="_redirect" value="https://www.eliocarchidi.com/grazie/" />
@@ -97,9 +98,15 @@
 <!-- Script Botpoison — carica dal CDN ufficiale -->
 <script src="https://unpkg.com/@botpoison/browser" async></script>
 <script>
+  const form = document.querySelector('form');
   const emailInput = document.getElementById('email');
   const replyto = document.getElementById('replyto-field');
-  document.querySelector('form')?.addEventListener('submit', () => {
+
+  form?.addEventListener('submit', async (e) => {
+    // Sincronizza l'email per Formspark
     if (replyto && emailInput) replyto.value = emailInput.value;
+
+    // Se Botpoison è caricato, protegge l'invio
+    // Nota: Formspark scarterà i messaggi senza il token valido se attivo lato server
   });
 </script>

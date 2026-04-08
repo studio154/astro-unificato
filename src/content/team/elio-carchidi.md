@@ -2,11 +2,11 @@
 name: Elio Leonardo Carchidi
 role: Fotografo e Art Director
 bio: |
-  David Lee is a fashion writer with a focus on sustainable design practices. He writes about the intersection of culture and personal style, offering insights on how the fashion industry is changing.
+  Da oltre quarant'anni, la mia vita si sviluppa attraverso l'obiettivo, dedicando ogni scatto alla ricerca dell'autenticità nel ritratto.
 
-  He believes in promoting eco-friendly choices and ethical production methods. His articles often highlight the role of creativity and culture in shaping modern fashion trends.
+  Non mi limito a documentare un volto, ma cerco di catturare l'anima e l'emozione che rendono ogni individuo unico. La mia esperienza nasce dall'epoca della pellicola, dove la pazienza e la precisione erano fondamentali, e si evolve oggi con le più avanzate tecnologie digitali per offrire un'estetica senza tempo.
 
-  David’s work has been featured in top industry magazines, and he continues to be a leading voice for sustainability in the fashion world.
+  Nel mio Atelier a Roma, trasformo ogni sessione in un'esperienza di scoperta, dove la luce diventa lo strumento per raccontare la tua storia con eleganza, professionalità e quella sensibilità che solo decenni di osservazione possono affinare.
 image:
   url: "/src/images/team/ritratto-elio.jpg"
   alt: "#_"
