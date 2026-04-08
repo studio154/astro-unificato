@@ -6,6 +6,7 @@ import BaseLayout from "@/layouts/BaseLayout.astro";
 import Text from "@/components/fundations/elements/Text.astro";
 import Wrapper from "@/components/fundations/containers/Wrapper.astro";
 
+// RICEVIAMO SOLO IL FRONTMATTER
 const { frontmatter } = Astro.props;
 ---
 
@@ -15,58 +16,83 @@ const { frontmatter } = Astro.props;
       <div class="max-w-xl mx-auto text-center text-base-900">
         <Text
           tag="a"
-          href="/" 
+          href="javascript:history.back()"
           variant="textXS"
-          class="inline-flex items-center gap-1 hover:text-gray-600 transition-colors"
+          class="inline-flex items-center gap-1 hover: transition-colors"
         >
-          &larr; Torna alla Home
+          &larr; Go back
         </Text>
-        
         <Text
           tag="p"
           variant="textXL"
           class="font-light mt-4 font-serif uppercase leading-6"
         >
-          <span class="block opacity-50">{frontmatter.name}</span>
+          <span class="block opacity-50">
+            {frontmatter.name}
+          </span>
+
           <span class="block">{frontmatter.role}</span>
         </Text>
-
         <Image
           alt={frontmatter.image.alt}
           src={frontmatter.image.url}
           width={800}
           height={800}
-          loading="eager" 
+          loading="lazy"
           decoding="async"
-          class="object-cover w-full aspect-square mt-8 rounded-sm"
+          class="object-cover w-full aspect-square mt-8"
         />
-
-        <div class="mt-8 space-y-4 text-left">
+        <div class="mt-8 space-y-4">
           {
             frontmatter.bio.split("\n").map((paragraph) => (
               <Text
                 tag="p"
                 variant="textSM"
-                class="text-base-900 leading-6 font-serif uppercase"
+                class="text-base-900  leading-6 text-balance font-serif uppercase"
               >
                 {paragraph}
               </Text>
             ))
           }
         </div>
-
-        <div class="mt-12 flex justify-center">
-          <a href="/sessioni-private/" class="inline-block rounded-md bg-gray-900 hover:bg-gray-800 text-white font-medium px-8 py-4 transition shadow-lg">
-            Prenota la tua sessione di ritratto
+        <div class="mt-8 flex justify-center">
+  <a href="/sessioni-private/" class="inline-block rounded-md bg-gray-900 hover:bg-gray-800 text-white font-medium px-6 py-3 transition">
+    Prenota la tua sessione di ritratto
+  </a>
+</div>
+        <div class="mt-24">
+          {/* Social Media Links */}
+          <a
+            href={frontmatter.socials.twitter}
+            class="text-sm text-base-600 hover:text-base-800 duration-300"
+            aria-label="X"
+          >
+            Twitter
           </a>
-        </div>
-
-        <div class="mt-16 flex justify-center gap-6 pb-12">
-          <a href={frontmatter.socials.linkedin} class="text-xs uppercase tracking-widest hover:underline">Linkedin</a>
-          <a href={frontmatter.socials.email} class="text-xs uppercase tracking-widest hover:underline">Email</a>
-          <a href={frontmatter.socials.website} class="text-xs uppercase tracking-widest hover:underline">Sito Web</a>
+          <a
+            href={frontmatter.socials.linkedin}
+            class="text-sm text-base-600 hover:text-base-800 duration-300"
+            aria-label="LinkedIn"
+          >
+            Linkedin
+          </a>
+          <a
+            href={frontmatter.socials.email}
+            class="text-sm text-base-600 hover:text-base-800 duration-300"
+            aria-label="Email"
+          >
+            Email
+          </a>
+          <a
+            href={frontmatter.socials.website}
+            class="text-sm text-base-600 hover:text-base-800 duration-300"
+            aria-label="Website"
+          >
+            Website
+          </a>
         </div>
       </div>
     </Wrapper>
   </section>
+  
 </BaseLayout>
