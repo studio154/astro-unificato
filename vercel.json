@@ -1,0 +1,19 @@
+{
+  "redirects": [
+    {
+      "source": "/foto-erotiche/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/wp-content/uploads/:path*",
+      "destination": "http://164.90.190.41/wp-content/uploads/:path*",
+      "permanent": false
+    },
+    {
+      "source": "/((?!contatti|atelier|portfolio|blog|src|_astro|favicon.ico).*)",
+      "destination": "/contatti/",
+      "permanent": false
+    }
+  ]
+}
