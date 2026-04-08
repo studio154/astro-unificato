@@ -44,7 +44,7 @@ const canonical = "https://www.eliocarchidi.com/blog/posts/" + slug;
 <BaseLayout hideBigLogo={true} hideNavigation={false}>
   
 
-<div class="bg-white">
+<div class="bg-white p-4">
 <div class="max-w-xl mx-auto text-center text-base-900 mt-24">
         <Text
           tag="a"
@@ -56,7 +56,7 @@ const canonical = "https://www.eliocarchidi.com/blog/posts/" + slug;
         </Text></div>
 
   <!-- HERO / HEADER -->
-  <section class="px-6 py-24 sm:py-32">
+  <section class="px-6 py-12 sm:py-32">
     <div class="mx-auto max-w-7xl grid lg:grid-cols-2 gap-x-16 gap-y-16 items-start">
 
       <!-- TESTO -->
@@ -68,12 +68,13 @@ const canonical = "https://www.eliocarchidi.com/blog/posts/" + slug;
           </p>
         )}
 
-        <h1 class="mt-2 text-4xl sm:text-5xl font-semibold tracking-tight text-gray-900">
+        <h1 class="text-4xl md:text-5xl font-serif  font-[200] text-black tracking-wide leading-tight "
+         style="font-family: 'Newsreader', serif;">
           {frontmatter.title}
         </h1>
 
         <div class="flex items-center gap-4 text-sm text-gray-500 mt-4">
-          <span class="font-medium">{frontmatter.author ?? "Autore"}</span>
+          <span class="font-medium">{frontmatter.author ?? "Elio L. Carchidi"}</span>
           <span>•</span>
           <span>
             {new Date(frontmatter.pubDate).toLocaleDateString("it-IT", {
@@ -85,7 +86,7 @@ const canonical = "https://www.eliocarchidi.com/blog/posts/" + slug;
         </div>
 
         {frontmatter.description && (
-          <p class="mt-6 text-xl text-gray-700 leading-relaxed">
+          <p class="mt-6 text-m text-gray-700 leading-relaxed">
             {frontmatter.description}
           </p>
         )}
@@ -94,13 +95,30 @@ const canonical = "https://www.eliocarchidi.com/blog/posts/" + slug;
 
       <!-- IMMAGINE -->
       {frontmatter.image && (
-  <div class="lg:pl-10">
-    <div class="aspect-[16/9] overflow-hidden rounded-xl shadow-xl bg-gray-50">
-      <img
-        src={frontmatter.image.url}
-        alt={frontmatter.image.alt}
-        class="w-full h-full object-cover"
-      />
+  <div class="w-full aspect-[16/9] md:aspect-[21/9] relative bg-slate-900 overflow-hidden rounded-xl mb-12">
+    
+    <img
+      src="/src/images/blog/8.jpeg" 
+      alt=""
+      class="absolute inset-0 object-cover w-full h-full opacity-40 grayscale"
+    />
+
+    <div class="absolute inset-0 bg-black/30"></div>
+    
+    <div class="absolute inset-0 flex flex-col items-center justify-center p-8 text-center z-10">
+       
+       <h1 
+         class="text-white text-3xl lg:text-2xl font-serif  font-[200] tracking-wide leading-tight "
+         style="font-family: 'Newsreader', serif;"
+       >
+         {frontmatter.title}
+       </h1>
+       {/* {frontmatter.description && (
+     <p class="text-white/80 text-sm md:text-base font-sans mt-4 max-w-2xl mx-auto line-clamp-2">
+       {frontmatter.description}
+     </p>
+   )} 
+*/}
     </div>
   </div>
 )}
@@ -109,9 +127,9 @@ const canonical = "https://www.eliocarchidi.com/blog/posts/" + slug;
 
   <!-- CONTENUTO -->
   <section class="px-6 pb-24">
-    <div class="mx-auto max-w-3xl">
+    <div class="mx-auto max-w-3xl font-serif">
 
-      <div class="prose prose-lg">
+      <div class="prose prose-lg text-xl">
         <slot />
       </div>
 
