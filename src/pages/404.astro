@@ -1,8 +1,18 @@
 ---
+// Fundations
 import BaseLayout from "@/layouts/BaseLayout.astro";
+import Text from "@/components/fundations/elements/Text.astro";
+import Button from "@/components/fundations/elements/Button.astro";
+import Wrapper from "@/components/fundations/containers/Wrapper.astro";
 ---
-<BaseLayout title="Pagina non trovata">
-  <script is:inline>
+
+<BaseLayout hideBigLogo={true} hideNavigation={true} hideFooter={true}>
+  <section>
+    <Wrapper
+      variant="standard"
+      class="flex flex-col h-svh items-center justify-center h-full py-24 text-center lg:py-48"
+    >
+      <script is:inline>
     // Se la pagina non esiste, dopo 2 secondi ti porto su contatti
     // Oppure puoi rimuovere lo script e mettere solo un link testuale
     setTimeout(() => {
@@ -14,4 +24,9 @@ import BaseLayout from "@/layouts/BaseLayout.astro";
     <p>Ti stiamo trasferendo alla pagina contatti...</p>
     <a href="/contatti/" style="text-decoration: underline;">Clicca qui se non vuoi attendere</a>
   </div>
+      <Button isLink={true} href="/" size="xs" variant="muted" class="mt-8">
+        Go back home
+      </Button>
+    </Wrapper>
+  </section>
 </BaseLayout>
