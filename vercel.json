@@ -11,7 +11,7 @@
       "permanent": false
     },
     {
-      "source": "/((?!contatti|atelier|portfolio|blog|src|_astro|favicon.ico).*)",
+      "source": "/((?!chi-sono|contatti|atelier|portfolio|blog|src|_astro|favicon.ico).*)",
       "destination": "/contatti/",
       "permanent": false
     }
