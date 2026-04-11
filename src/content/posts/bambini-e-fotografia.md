@@ -4,12 +4,12 @@ team: "elio-carchidi"
 pubDate: 2016-12-08
 description: "Non c'è alcun dubbio sul fatto che i bambini sono sempre al centro delle nostre attenzioni. Navigando in rete ho scoperto che ci sono molti siti dedi..."
 image:
-  url: "https://www.eliocarchidi.com/wp-content/uploads/2016/12/Bambini-e-Fotografia_-Consigli-per-i-genitori-e...-molto-altro-ancora-1.png"
+  url: "https://media.eliocarchidi.com/uploads/2016/12/Bambini-e-Fotografia_-Consigli-per-i-genitori-e...-molto-altro-ancora-1.png"
   alt: "Bambini e Fotografia: Consigli per i genitori e... molto altro ancora!"
 tags: ["bambini fotografi","fotografia bambini"]
 ---
 
-<img class="aligncenter wp-image-11160 size-full" src="https://www.eliocarchidi.com/wp-content/uploads/2016/12/bambini-e-fotografia-consigli-suggerimenti.jpg" alt="Bambini e Fotografia Consigli e suggerimenti" width="650" height="448"/>
+<img class="aligncenter wp-image-11160 size-full" src="https://media.eliocarchidi.com/uploads/2016/12/bambini-e-fotografia-consigli-suggerimenti.jpg" alt="Bambini e Fotografia Consigli e suggerimenti" width="650" height="448"/>
 
 Non c'è alcun dubbio sul fatto che i bambini sono sempre al <strong>centro delle nostre attenzioni</strong>.
 

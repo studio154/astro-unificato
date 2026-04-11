@@ -4,13 +4,13 @@ team: "elio-carchidi"
 pubDate: 2023-07-08
 description: "I migliori suggerimenti su come fare un selfie perfetto [toc class=\"centra-toc\"] Scattare foto di te stesso può diventare un modo divertente per espr..."
 image:
-  url: "https://www.eliocarchidi.com/wp-content/uploads/2020/12/1.png"
+  url: "https://media.eliocarchidi.com/uploads/2020/12/1.png"
   alt: "Come fare un selfie. 13 semplici suggerimenti che funzionano."
 tags: ["come fare selfie","ritratti selfie","selfie","suggerimenti selfie"]
 ---
 
 <!-- wp:image {"id":15478,"sizeSlug":"full","align":"center"} -->
-<figure class="wp-block-image aligncenter size-full"><img src="https://www.eliocarchidi.com/wp-content/uploads/2020/11/Come-fare-un-selfie-perfetto-2.png" alt="Come fare un selfie perfetto" class="wp-image-15478"/><figcaption class="wp-element-caption">I migliori suggerimenti su come fare un selfie perfetto</figcaption></figure>
+<figure class="wp-block-image aligncenter size-full"><img src="https://media.eliocarchidi.com/uploads/2020/11/Come-fare-un-selfie-perfetto-2.png" alt="Come fare un selfie perfetto" class="wp-image-15478"/><figcaption class="wp-element-caption">I migliori suggerimenti su come fare un selfie perfetto</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:block {"ref":18223,"metadata":{"blockVisibility":false}} /-->
@@ -40,7 +40,7 @@ tags: ["come fare selfie","ritratti selfie","selfie","suggerimenti selfie"]
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":15524,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://www.eliocarchidi.com/wp-content/uploads/2020/11/come-fare-un-selfie-22.jpg" alt="Fotografia Professionale Consigli e suggerimenti" class="wp-image-15524"/><figcaption class="wp-element-caption">Posizionare la fotocamera in alto funziona nel 90% dei casi. Provaci!</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="https://media.eliocarchidi.com/uploads/2020/11/come-fare-un-selfie-22.jpg" alt="Fotografia Professionale Consigli e suggerimenti" class="wp-image-15524"/><figcaption class="wp-element-caption">Posizionare la fotocamera in alto funziona nel 90% dei casi. Provaci!</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:list {"ordered":true} -->
@@ -74,7 +74,7 @@ tags: ["come fare selfie","ritratti selfie","selfie","suggerimenti selfie"]
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":15525,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://www.eliocarchidi.com/wp-content/uploads/2020/11/come-fare-un-selfie-21.jpg" alt="Formazione Fotografica - Fotografia Professionale" class="wp-image-15525"/><figcaption class="wp-element-caption">Se l'obiettivo è sfinare il viso, inquadralo dal lato che in ombra. È un'ottima ed efficace soluzione.</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="https://media.eliocarchidi.com/uploads/2020/11/come-fare-un-selfie-21.jpg" alt="Formazione Fotografica - Fotografia Professionale" class="wp-image-15525"/><figcaption class="wp-element-caption">Se l'obiettivo è sfinare il viso, inquadralo dal lato che in ombra. È un'ottima ed efficace soluzione.</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:list {"ordered":true} -->
@@ -96,7 +96,7 @@ tags: ["come fare selfie","ritratti selfie","selfie","suggerimenti selfie"]
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":15526,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://www.eliocarchidi.com/wp-content/uploads/2020/11/come-fare-un-selfie-20.jpg" alt="Suggerimenti per ottenere un buon ritratto per social - Fotografia Professionale" class="wp-image-15526"/><figcaption class="wp-element-caption">Prova a scattare da diverse angolazioni, inquadra dall'alto, dal basso, dal lato della luce per creare effetti originali</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="https://media.eliocarchidi.com/uploads/2020/11/come-fare-un-selfie-20.jpg" alt="Suggerimenti per ottenere un buon ritratto per social - Fotografia Professionale" class="wp-image-15526"/><figcaption class="wp-element-caption">Prova a scattare da diverse angolazioni, inquadra dall'alto, dal basso, dal lato della luce per creare effetti originali</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:list {"ordered":true} -->
@@ -130,7 +130,7 @@ tags: ["come fare selfie","ritratti selfie","selfie","suggerimenti selfie"]
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":15527,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://www.eliocarchidi.com/wp-content/uploads/2020/11/come-fare-un-selfie-19.jpg" alt="La migliore inquadratura per un ritratto Professionale" class="wp-image-15527"/><figcaption class="wp-element-caption">Posizionando il tuo viso nelle cosiddette porzioni auree puoi ottenere scatti originali.</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="https://media.eliocarchidi.com/uploads/2020/11/come-fare-un-selfie-19.jpg" alt="La migliore inquadratura per un ritratto Professionale" class="wp-image-15527"/><figcaption class="wp-element-caption">Posizionando il tuo viso nelle cosiddette porzioni auree puoi ottenere scatti originali.</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:list {"ordered":true} -->
@@ -152,7 +152,7 @@ tags: ["come fare selfie","ritratti selfie","selfie","suggerimenti selfie"]
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":15528,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://www.eliocarchidi.com/wp-content/uploads/2020/11/come-fare-un-selfie-18.jpg" alt="Obiettivi adatti per ritratti" class="wp-image-15528"/><figcaption class="wp-element-caption">A meno che non sia nelle tue intenzioni puntare su immagini divertenti evita di inquadrare il viso da troppo vicino. </figcaption></figure>
+<figure class="wp-block-image size-large"><img src="https://media.eliocarchidi.com/uploads/2020/11/come-fare-un-selfie-18.jpg" alt="Obiettivi adatti per ritratti" class="wp-image-15528"/><figcaption class="wp-element-caption">A meno che non sia nelle tue intenzioni puntare su immagini divertenti evita di inquadrare il viso da troppo vicino. </figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:list {"ordered":true} -->
@@ -182,7 +182,7 @@ tags: ["come fare selfie","ritratti selfie","selfie","suggerimenti selfie"]
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":15522,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://www.eliocarchidi.com/wp-content/uploads/2020/11/image-2-1.png" alt="Cellulari e smartphone migliori per la fotografia" class="wp-image-15522"/><figcaption class="wp-element-caption">Se scatti il tuo selfie con uno smartphone usa la fotocamera principale (poteriore) e non la frontale.</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="https://media.eliocarchidi.com/uploads/2020/11/image-2-1.png" alt="Cellulari e smartphone migliori per la fotografia" class="wp-image-15522"/><figcaption class="wp-element-caption">Se scatti il tuo selfie con uno smartphone usa la fotocamera principale (poteriore) e non la frontale.</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:list {"ordered":true} -->
@@ -204,7 +204,7 @@ tags: ["come fare selfie","ritratti selfie","selfie","suggerimenti selfie"]
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":15529,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://www.eliocarchidi.com/wp-content/uploads/2020/11/come-fare-un-selfie-4.jpg" alt="Fotografie belle da pubblicare" class="wp-image-15529"/><figcaption class="wp-element-caption">Usare uno specchio posizionato dietro la telecamera può aiutarti a controllare meglio la posa e la luce</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="https://media.eliocarchidi.com/uploads/2020/11/come-fare-un-selfie-4.jpg" alt="Fotografie belle da pubblicare" class="wp-image-15529"/><figcaption class="wp-element-caption">Usare uno specchio posizionato dietro la telecamera può aiutarti a controllare meglio la posa e la luce</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:list {"ordered":true} -->
@@ -226,7 +226,7 @@ tags: ["come fare selfie","ritratti selfie","selfie","suggerimenti selfie"]
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":15530,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://www.eliocarchidi.com/wp-content/uploads/2020/11/come-fare-un-selfie-17.jpg" alt="Come impostare un selfie - Suggerimenti Fotografia Professionale" class="wp-image-15530"/><figcaption class="wp-element-caption">Se ti rendi conto che tenere lo smartphone in mano ti distrae fatti aiutare da qualcuno nello scatto</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="https://media.eliocarchidi.com/uploads/2020/11/come-fare-un-selfie-17.jpg" alt="Come impostare un selfie - Suggerimenti Fotografia Professionale" class="wp-image-15530"/><figcaption class="wp-element-caption">Se ti rendi conto che tenere lo smartphone in mano ti distrae fatti aiutare da qualcuno nello scatto</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:list {"ordered":true} -->
@@ -256,7 +256,7 @@ tags: ["come fare selfie","ritratti selfie","selfie","suggerimenti selfie"]
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":15531,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://www.eliocarchidi.com/wp-content/uploads/2020/11/come-fare-un-selfie-1-1.jpg" alt="Fare un selfie 4 - Consigli Fotografia Professionale" class="wp-image-15531"/></figure>
+<figure class="wp-block-image size-large"><img src="https://media.eliocarchidi.com/uploads/2020/11/come-fare-un-selfie-1-1.jpg" alt="Fare un selfie 4 - Consigli Fotografia Professionale" class="wp-image-15531"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:list {"ordered":true} -->
@@ -278,7 +278,7 @@ tags: ["come fare selfie","ritratti selfie","selfie","suggerimenti selfie"]
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":15532,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://www.eliocarchidi.com/wp-content/uploads/2020/11/come-fare-un-selfie-16.jpg" alt="Come fare un selfie 6 - Suggerimenti Fotografia Professionale" class="wp-image-15532"/><figcaption class="wp-element-caption">A volte basta girare di poco lo sguardo per rendere più misteriosa la posa.</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="https://media.eliocarchidi.com/uploads/2020/11/come-fare-un-selfie-16.jpg" alt="Come fare un selfie 6 - Suggerimenti Fotografia Professionale" class="wp-image-15532"/><figcaption class="wp-element-caption">A volte basta girare di poco lo sguardo per rendere più misteriosa la posa.</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:list {"ordered":true} -->
@@ -308,15 +308,15 @@ tags: ["come fare selfie","ritratti selfie","selfie","suggerimenti selfie"]
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":15533,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://www.eliocarchidi.com/wp-content/uploads/2020/11/come-fare-un-selfie-14.jpg" alt="Come vestirsi per un selfie" class="wp-image-15533"/><figcaption class="wp-element-caption">Cerca nel tuo guardaroba il vestito più adatto alla situazione che vuoi rappresentare</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="https://media.eliocarchidi.com/uploads/2020/11/come-fare-un-selfie-14.jpg" alt="Come vestirsi per un selfie" class="wp-image-15533"/><figcaption class="wp-element-caption">Cerca nel tuo guardaroba il vestito più adatto alla situazione che vuoi rappresentare</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":15534,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://www.eliocarchidi.com/wp-content/uploads/2020/11/come-fare-un-selfie-15.jpg" alt="Consigli per vestirsi per fare un selfie consigli" class="wp-image-15534"/><figcaption class="wp-element-caption">Cerca di ridurre al minimo gli accessori indossati e punta sull'atmosfera</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="https://media.eliocarchidi.com/uploads/2020/11/come-fare-un-selfie-15.jpg" alt="Consigli per vestirsi per fare un selfie consigli" class="wp-image-15534"/><figcaption class="wp-element-caption">Cerca di ridurre al minimo gli accessori indossati e punta sull'atmosfera</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":15535,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://www.eliocarchidi.com/wp-content/uploads/2020/11/come-fare-un-selfie-13.jpg" alt="Gli abiti giusti per fare un selfie suggerimenti utili" class="wp-image-15535"/><figcaption class="wp-element-caption">Se scegli di indossare un accessorio fai in modo che sia adatto allo stile</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="https://media.eliocarchidi.com/uploads/2020/11/come-fare-un-selfie-13.jpg" alt="Gli abiti giusti per fare un selfie suggerimenti utili" class="wp-image-15535"/><figcaption class="wp-element-caption">Se scegli di indossare un accessorio fai in modo che sia adatto allo stile</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:list {"ordered":true} -->
@@ -350,15 +350,15 @@ tags: ["come fare selfie","ritratti selfie","selfie","suggerimenti selfie"]
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":15538,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://www.eliocarchidi.com/wp-content/uploads/2020/11/come-fare-un-selfie-11-1.jpg" alt="Trucco adatto per i selfie" class="wp-image-15538"/><figcaption class="wp-element-caption">Presta attenzione al trucco, come sai può cambiare completamente l'atmosfera</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="https://media.eliocarchidi.com/uploads/2020/11/come-fare-un-selfie-11-1.jpg" alt="Trucco adatto per i selfie" class="wp-image-15538"/><figcaption class="wp-element-caption">Presta attenzione al trucco, come sai può cambiare completamente l'atmosfera</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":15537,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://www.eliocarchidi.com/wp-content/uploads/2020/11/come-fare-un-selfie-10.jpg" alt="Come truccarsi per fare un selfie consigli" class="wp-image-15537"/><figcaption class="wp-element-caption">Un trucco forte e deciso può sedurre e ammaliare ma potrebbe anche intimorire</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="https://media.eliocarchidi.com/uploads/2020/11/come-fare-un-selfie-10.jpg" alt="Come truccarsi per fare un selfie consigli" class="wp-image-15537"/><figcaption class="wp-element-caption">Un trucco forte e deciso può sedurre e ammaliare ma potrebbe anche intimorire</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":15539,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://www.eliocarchidi.com/wp-content/uploads/2020/11/come-fare-un-selfie-9.jpg" alt="Quale trucco usare per fare un selfie suggerimenti utili" class="wp-image-15539"/><figcaption class="wp-element-caption">Un viso pulito con un trucco leggero è rassicurante e ispira fiducia in chi lo guarda</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="https://media.eliocarchidi.com/uploads/2020/11/come-fare-un-selfie-9.jpg" alt="Quale trucco usare per fare un selfie suggerimenti utili" class="wp-image-15539"/><figcaption class="wp-element-caption">Un viso pulito con un trucco leggero è rassicurante e ispira fiducia in chi lo guarda</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:list {"ordered":true} -->
@@ -455,7 +455,7 @@ tags: ["come fare selfie","ritratti selfie","selfie","suggerimenti selfie"]
 <!-- /wp:list -->
 
 <!-- wp:image {"id":15506,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://www.eliocarchidi.com/wp-content/uploads/2020/11/Come-fare-un-selfie-perfetto-3.jpg" alt="Come fare un selfie perfetto (3)" class="wp-image-15506"/><figcaption class="wp-element-caption">I selfie scattati in casa sono quelli più diffusi. Sfrutta la luce naturale ma bada agli oggetti sullo sfondo.</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="https://media.eliocarchidi.com/uploads/2020/11/Come-fare-un-selfie-perfetto-3.jpg" alt="Come fare un selfie perfetto (3)" class="wp-image-15506"/><figcaption class="wp-element-caption">I selfie scattati in casa sono quelli più diffusi. Sfrutta la luce naturale ma bada agli oggetti sullo sfondo.</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:list {"ordered":true} -->
@@ -477,7 +477,7 @@ tags: ["come fare selfie","ritratti selfie","selfie","suggerimenti selfie"]
 <!-- /wp:list -->
 
 <!-- wp:image {"id":15504,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://www.eliocarchidi.com/wp-content/uploads/2020/11/Schermata-2020-11-27-alle-10.12.19.jpg" alt="Come fare dei bei selfie perfetti" class="wp-image-15504"/><figcaption class="wp-element-caption">Lo sfondo è importante perché descrive il luogo dove ti trovi e racconta una storia.</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="https://media.eliocarchidi.com/uploads/2020/11/Schermata-2020-11-27-alle-10.12.19.jpg" alt="Come fare dei bei selfie perfetti" class="wp-image-15504"/><figcaption class="wp-element-caption">Lo sfondo è importante perché descrive il luogo dove ti trovi e racconta una storia.</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:list {"ordered":true} -->
@@ -499,7 +499,7 @@ tags: ["come fare selfie","ritratti selfie","selfie","suggerimenti selfie"]
 <!-- /wp:list -->
 
 <!-- wp:image {"id":15505,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://www.eliocarchidi.com/wp-content/uploads/2020/11/Schermata-2020-11-27-alle-10.13.06.jpg" alt="Come ottenere un selfie perfetto" class="wp-image-15505"/><figcaption class="wp-element-caption">Puoi creare una cornice visiva in tanti modi uno di questi è quello di posizionare le mani in direzione del viso.</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="https://media.eliocarchidi.com/uploads/2020/11/Schermata-2020-11-27-alle-10.13.06.jpg" alt="Come ottenere un selfie perfetto" class="wp-image-15505"/><figcaption class="wp-element-caption">Puoi creare una cornice visiva in tanti modi uno di questi è quello di posizionare le mani in direzione del viso.</figcaption></figure>
 <!-- /wp:image --></div>
 <!-- /wp:group -->
 
@@ -547,11 +547,11 @@ tags: ["come fare selfie","ritratti selfie","selfie","suggerimenti selfie"]
 <!-- /wp:list -->
 
 <!-- wp:image {"id":15542,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://www.eliocarchidi.com/wp-content/uploads/2020/11/Schermata-2020-11-29-alle-18.18.59.jpg" alt="Come fare un selfie perfetto con photoshop" class="wp-image-15542"/><figcaption class="wp-element-caption">FOTO 1. Ingrandire una porzione di immagine può aiutarti a nascondere parti che non ti piacciono</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="https://media.eliocarchidi.com/uploads/2020/11/Schermata-2020-11-29-alle-18.18.59.jpg" alt="Come fare un selfie perfetto con photoshop" class="wp-image-15542"/><figcaption class="wp-element-caption">FOTO 1. Ingrandire una porzione di immagine può aiutarti a nascondere parti che non ti piacciono</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":15543,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://www.eliocarchidi.com/wp-content/uploads/2020/11/Schermata-2020-11-29-alle-18.13.30.jpg" alt="Come ottenere un selfie perfetto con photoshop" class="wp-image-15543"/><figcaption class="wp-element-caption">FOTO 2. Se l'ambientee alcuni elementi ti disturbano puoi ritaglia l'immagine o crea formati adatti all'uso</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="https://media.eliocarchidi.com/uploads/2020/11/Schermata-2020-11-29-alle-18.13.30.jpg" alt="Come ottenere un selfie perfetto con photoshop" class="wp-image-15543"/><figcaption class="wp-element-caption">FOTO 2. Se l'ambientee alcuni elementi ti disturbano puoi ritaglia l'immagine o crea formati adatti all'uso</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:list {"ordered":true} -->
@@ -561,7 +561,7 @@ tags: ["come fare selfie","ritratti selfie","selfie","suggerimenti selfie"]
 <!-- /wp:list -->
 
 <!-- wp:image {"id":15544,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://www.eliocarchidi.com/wp-content/uploads/2020/11/Schermata-2020-11-29-alle-18.20.46.jpg" alt="Come realizzare un selfie perfetto con photoshop" class="wp-image-15544"/><figcaption class="wp-element-caption">I filtri a volte aiutano ma vanno usati con cautela perché a volte possono rendere l'immagine meno bella</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="https://media.eliocarchidi.com/uploads/2020/11/Schermata-2020-11-29-alle-18.20.46.jpg" alt="Come realizzare un selfie perfetto con photoshop" class="wp-image-15544"/><figcaption class="wp-element-caption">I filtri a volte aiutano ma vanno usati con cautela perché a volte possono rendere l'immagine meno bella</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:list {"ordered":true} -->
@@ -571,7 +571,7 @@ tags: ["come fare selfie","ritratti selfie","selfie","suggerimenti selfie"]
 <!-- /wp:list -->
 
 <!-- wp:image {"id":15545,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://www.eliocarchidi.com/wp-content/uploads/2020/11/Schermata-2020-11-29-alle-18.27.46.jpg" alt="Come creare un selfie perfetto con photoshop" class="wp-image-15545"/><figcaption class="wp-element-caption">Ritoccare le immagini con software di un certo tipo ti permette di "salvare" foto inutilizzabili o venute male</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="https://media.eliocarchidi.com/uploads/2020/11/Schermata-2020-11-29-alle-18.27.46.jpg" alt="Come creare un selfie perfetto con photoshop" class="wp-image-15545"/><figcaption class="wp-element-caption">Ritoccare le immagini con software di un certo tipo ti permette di "salvare" foto inutilizzabili o venute male</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:list {"ordered":true} -->
@@ -581,7 +581,7 @@ tags: ["come fare selfie","ritratti selfie","selfie","suggerimenti selfie"]
 <!-- /wp:list -->
 
 <!-- wp:image {"id":15546,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://www.eliocarchidi.com/wp-content/uploads/2020/11/Schermata-2020-11-29-alle-18.29.31.jpg" alt="Come correggere un selfie con photoshop" class="wp-image-15546"/><figcaption class="wp-element-caption">Sfocare una zona dell'immagine lasciando nitide solo alcune porzioni è un modo efficace per evidenziare il soggetto</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="https://media.eliocarchidi.com/uploads/2020/11/Schermata-2020-11-29-alle-18.29.31.jpg" alt="Come correggere un selfie con photoshop" class="wp-image-15546"/><figcaption class="wp-element-caption">Sfocare una zona dell'immagine lasciando nitide solo alcune porzioni è un modo efficace per evidenziare il soggetto</figcaption></figure>
 <!-- /wp:image --></div>
 <!-- /wp:group -->
 

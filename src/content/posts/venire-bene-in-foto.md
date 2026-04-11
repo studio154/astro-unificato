@@ -4,13 +4,13 @@ team: "elio-carchidi"
 pubDate: 2025-07-09
 description: "Come migliorare la propria fotogenia in 8 semplici mosse e apparire più belle Esiste un modo semplice per venire bene in foto? Forse no, oppure sì. M..."
 image:
-  url: "https://www.eliocarchidi.com/wp-content/uploads/2020/10/3.png"
+  url: "https://media.eliocarchidi.com/uploads/2020/10/3.png"
   alt: "Venire bene in foto. 8 stupidissimi consigli per essere più fotogenici."
 tags: ["fotogenia","fotogenica","fotogenico","servizi fotografici"]
 ---
 
 <!-- wp:image {"id":13332,"sizeSlug":"full","align":"center","className":"size-full wp-image-13332"} -->
-<figure class="wp-block-image aligncenter size-full wp-image-13332"><img src="https://www.eliocarchidi.com/wp-content/uploads/2018/03/venire-bene-in-foto-8-consigli.jpg" alt="venire bene in foto suggerimenti e consigli" class="wp-image-13332"/><figcaption class="wp-element-caption">Come migliorare la propria fotogenia in 8 semplici mosse e apparire più belle</figcaption></figure>
+<figure class="wp-block-image aligncenter size-full wp-image-13332"><img src="https://media.eliocarchidi.com/uploads/2018/03/venire-bene-in-foto-8-consigli.jpg" alt="venire bene in foto suggerimenti e consigli" class="wp-image-13332"/><figcaption class="wp-element-caption">Come migliorare la propria fotogenia in 8 semplici mosse e apparire più belle</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"className":"intro"} -->
@@ -130,7 +130,7 @@ tags: ["fotogenia","fotogenica","fotogenico","servizi fotografici"]
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":13351,"align":"center"} -->
-<figure class="wp-block-image aligncenter"><img src="https://www.eliocarchidi.com/wp-content/uploads/2018/03/venire-bene-in-foto-come-posare-sul-set.jpg" alt="Come venire bene in foto sentendosi a proprio agio" class="wp-image-13351"/></figure>
+<figure class="wp-block-image aligncenter"><img src="https://media.eliocarchidi.com/uploads/2018/03/venire-bene-in-foto-come-posare-sul-set.jpg" alt="Come venire bene in foto sentendosi a proprio agio" class="wp-image-13351"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:list {"ordered":true} -->
@@ -184,7 +184,7 @@ tags: ["fotogenia","fotogenica","fotogenico","servizi fotografici"]
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":13348,"align":"center","className":"size-full wp-image-13348"} -->
-<figure class="wp-block-image aligncenter size-full wp-image-13348"><img src="https://www.eliocarchidi.com/wp-content/uploads/2018/03/venire-bene-in-foto-come-posare2.jpg" alt="Come posare bene nelle foto" class="wp-image-13348"/><figcaption class="wp-element-caption">Scegli di mostrare il tuo lato migliore, il profilo sinistro oppure quello destro</figcaption></figure>
+<figure class="wp-block-image aligncenter size-full wp-image-13348"><img src="https://media.eliocarchidi.com/uploads/2018/03/venire-bene-in-foto-come-posare2.jpg" alt="Come posare bene nelle foto" class="wp-image-13348"/><figcaption class="wp-element-caption">Scegli di mostrare il tuo lato migliore, il profilo sinistro oppure quello destro</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -236,7 +236,7 @@ tags: ["fotogenia","fotogenica","fotogenico","servizi fotografici"]
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":13349,"align":"center","className":"size-full wp-image-13349"} -->
-<figure class="wp-block-image aligncenter size-full wp-image-13349"><img src="https://www.eliocarchidi.com/wp-content/uploads/2018/03/venire-bene-in-foto-come-posare3.jpg" alt="Come venire bene in foto" class="wp-image-13349"/><figcaption class="wp-element-caption">Tenere le braccia staccate dal corpo è sempre una buona idea</figcaption></figure>
+<figure class="wp-block-image aligncenter size-full wp-image-13349"><img src="https://media.eliocarchidi.com/uploads/2018/03/venire-bene-in-foto-come-posare3.jpg" alt="Come venire bene in foto" class="wp-image-13349"/><figcaption class="wp-element-caption">Tenere le braccia staccate dal corpo è sempre una buona idea</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -264,7 +264,7 @@ tags: ["fotogenia","fotogenica","fotogenico","servizi fotografici"]
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":13361,"align":"center","className":"size-full wp-image-13361"} -->
-<figure class="wp-block-image aligncenter size-full wp-image-13361"><img src="https://www.eliocarchidi.com/wp-content/uploads/2018/03/venire-bene-in-foto-come-posare-sul-set-fotografico.jpg" alt="La posa migliore per venire bene in foto" class="wp-image-13361"/><figcaption class="wp-element-caption">La posa migliore per venire bene in foto: testa verso il soffitto e mento in avanti.</figcaption></figure>
+<figure class="wp-block-image aligncenter size-full wp-image-13361"><img src="https://media.eliocarchidi.com/uploads/2018/03/venire-bene-in-foto-come-posare-sul-set-fotografico.jpg" alt="La posa migliore per venire bene in foto" class="wp-image-13361"/><figcaption class="wp-element-caption">La posa migliore per venire bene in foto: testa verso il soffitto e mento in avanti.</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -364,7 +364,7 @@ tags: ["fotogenia","fotogenica","fotogenico","servizi fotografici"]
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":11965,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://www.eliocarchidi.com/wp-content/uploads/2017/08/fotografie-artistiche-su-cornici-900.jpg" alt="Fotografie Artistiche con cornice" class="wp-image-11965"/><figcaption class="wp-element-caption">Solo affidandoti ad un professionista potrai ottenere foto che valgono ora e nel tempo</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="https://media.eliocarchidi.com/uploads/2017/08/fotografie-artistiche-su-cornici-900.jpg" alt="Fotografie Artistiche con cornice" class="wp-image-11965"/><figcaption class="wp-element-caption">Solo affidandoti ad un professionista potrai ottenere foto che valgono ora e nel tempo</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

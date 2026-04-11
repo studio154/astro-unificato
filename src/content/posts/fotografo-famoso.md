@@ -4,14 +4,14 @@ team: "elio-carchidi"
 pubDate: 2013-05-29
 description: "[caption id=\"attachment_2543\" align=\"aligncenter\" width=\"500\"] Sono un fotografo famoso ma nessuno lo sa![/caption] Quando mi chiedono di nominare un..."
 image:
-  url: "https://www.eliocarchidi.com/wp-content/uploads/2013/10/fotografo-famoso-Annie_Leibovitz-300.jpg"
+  url: "https://media.eliocarchidi.com/uploads/2013/10/fotografo-famoso-Annie_Leibovitz-300.jpg"
   alt: "Fotografo famoso e Fotografi famosi. Come diventarlo?"
 tags: []
 ---
 
 <div class="separatore"></div>
 
-[caption id="attachment_2543" align="aligncenter" width="500"]<img class="size-full wp-image-2543 " title="fotografo-famoso-I-am-famous" src="//www.eliocarchidi.com/wp-content/uploads/2013/05/fotografo-famoso-I-am-famous.jpg" alt="Fotografo famoso ma nessuno lo sa" width="500" height="185"/> Sono un fotografo famoso ma nessuno lo sa![/caption]
+[caption id="attachment_2543" align="aligncenter" width="500"]<img class="size-full wp-image-2543 " title="fotografo-famoso-I-am-famous" src="https://media.eliocarchidi.com/uploads/2013/05/fotografo-famoso-I-am-famous.jpg" alt="Fotografo famoso ma nessuno lo sa" width="500" height="185"/> Sono un fotografo famoso ma nessuno lo sa![/caption]
 
 Quando mi chiedono di nominare un <strong>fotografo famoso</strong>, il più professionale tra i più <strong>famosi fotografi</strong> del mondo, faccio sempre spallucce, perché ce ne sono tanti e non è possibile elencarli tutti
 
@@ -43,7 +43,7 @@ La domanda assume un altro tono: "<strong>Come faccio a diventare un fotografo f
 
 Io però, sinceramente, non so proprio cosa rispondere. Non conosco ricette miracolose. I <strong>Fotografi Famosi</strong> che conosco lo sono perchè hanno dedicato tutta la loro vita a questo lavoro e non lo sono diventati per "grazia divina". Lavorano 15 ore al giorno con costanza, con passione mettendo a frutto il loro innato talento.
 
-[caption id="attachment_2546" align="aligncenter" width="527"]<img class=" wp-image-2546  " title="fotografi-famosi-talent-show" src="//www.eliocarchidi.com/wp-content/uploads/2013/05/fotografi-famosi-talent-show.jpg" alt="Fotografi Famosi e talent show" width="527" height="293"/> Fotografi famosi: perchè non pensare ad un talent show?[/caption]
+[caption id="attachment_2546" align="aligncenter" width="527"]<img class=" wp-image-2546  " title="fotografi-famosi-talent-show" src="https://media.eliocarchidi.com/uploads/2013/05/fotografi-famosi-talent-show.jpg" alt="Fotografi Famosi e talent show" width="527" height="293"/> Fotografi famosi: perchè non pensare ad un talent show?[/caption]
 
 La cosa che non mi è chiara, dunque,  è cosa si intende con l'essere "famosi".
 
@@ -67,7 +67,7 @@ Ecco quindi un breve elenco di quelli che io sento di poter fare rientrare nell'
 
  
 <h3>Annie Leibovitz</h3>
-<img class="size-medium wp-image-2511 alignleft" title="fotografo famoso Annie_Leibovitz" src="//www.eliocarchidi.com/wp-content/uploads/2013/05/fotografo-famoso-Annie_Leibovitz-225x300.jpg" alt="fotografo-famoso-Annie-Leibovitz" width="225" height="300"/>Annie Leibovitz è nata il 2 ottobre 1949, a Waterbury, Connecticut. Il suo primo lavoro fu come fotografo ufficiale del famoso Magazine Rolling Stone, dove più tardi divenne capo fotografo. La sua carriera all'interno di questa rivista durò per circa 10 anni per poi passare a lavorare per Vanity Fair nel 1983.
+<img class="size-medium wp-image-2511 alignleft" title="fotografo famoso Annie_Leibovitz" src="https://media.eliocarchidi.com/uploads/2013/05/fotografo-famoso-Annie_Leibovitz-225x300.jpg" alt="fotografo-famoso-Annie-Leibovitz" width="225" height="300"/>Annie Leibovitz è nata il 2 ottobre 1949, a Waterbury, Connecticut. Il suo primo lavoro fu come fotografo ufficiale del famoso Magazine Rolling Stone, dove più tardi divenne capo fotografo. La sua carriera all'interno di questa rivista durò per circa 10 anni per poi passare a lavorare per Vanity Fair nel 1983.
 
 Il suo portafoglio è colmo di immagini che ritraggono personaggi famosi, politici, attori cinematografici e musicisti.
 
@@ -78,7 +78,7 @@ Se vuoi saperne di più dai un'occhiata alla pagina facebook di Annie:
 <strong>https://www.facebook.com/AnnieLeibovitz</strong>
  
 <h3>Ellen von Unwerth</h3>
-<img class="size-medium wp-image-2518 alignleft" title="fotografo-famoso-EllenVonUnwerth" src="//www.eliocarchidi.com/wp-content/uploads/2013/05/fotografo-famoso-EllenVonUnwerth.jpg" alt="fotografo famoso Ellen Von Unwerth" width="300" height="194"/>
+<img class="size-medium wp-image-2518 alignleft" title="fotografo-famoso-EllenVonUnwerth" src="https://media.eliocarchidi.com/uploads/2013/05/fotografo-famoso-EllenVonUnwerth.jpg" alt="fotografo famoso Ellen Von Unwerth" width="300" height="194"/>
 
 Ellen von Unwerth è nata nel 1954 a Francoforte, in Germania.
 
@@ -96,7 +96,7 @@ Dai un'occhiata alla pagina Facebook di Ellen:
 <strong>https://www.facebook.com/pages/Ellen-Von-Unwerth/19216328261</strong>
  
 <h3>Irwing Penn</h3>
-<img class="alignleft size-medium wp-image-2524" title="fotografo-famoso-irwing_penn" src="//www.eliocarchidi.com/wp-content/uploads/2013/05/fotografo-famoso-irwing_penn.jpg" alt="fotografo famoso irwing penn" width="206" height="300"/>
+<img class="alignleft size-medium wp-image-2524" title="fotografo-famoso-irwing_penn" src="https://media.eliocarchidi.com/uploads/2013/05/fotografo-famoso-irwing_penn.jpg" alt="fotografo famoso irwing penn" width="206" height="300"/>
 
 Irving Penn è nato il 16 giugno 1917 a Plainfield, nel New Jersey. Ha frequentato la Scuola del Philadelphia Museum of Industrial Art (ora Università delle Arti) 1934-1938, dove ha studiato disegno, pittura, grafica e arti industriali guidato da Alexey Brodovitch. Ancora studente, Penn ha lavorato insieme a Brodovitch per Harper Bazaar, dove molti dei suoi disegni sono stati pubblicati.
 
@@ -115,7 +115,7 @@ Dai un'occhiata al sito della Fondazione Irwing Penn:
 <strong>//irvingpenn.org/</strong>
  
 <h3>Steven Meisel</h3>
-<img class="alignleft size-medium wp-image-2523" title="fotografo-famoso-steven-meisel-portrait" src="//www.eliocarchidi.com/wp-content/uploads/2013/05/fotografo-famoso-steven-meisel-portrait-218x300.jpg" alt="fotografo famoso steven meisel" width="218" height="300"/>Steven Meisel (nato nel 1954) è un fotografo di moda americano che ha ottenuto un grande plauso popolare per il suo lavoro in USA e in italia per la rivista Vogue oltre che per le sue famose fotografie di Madonna pubblicate nel libro Sex nel 1992.
+<img class="alignleft size-medium wp-image-2523" title="fotografo-famoso-steven-meisel-portrait" src="https://media.eliocarchidi.com/uploads/2013/05/fotografo-famoso-steven-meisel-portrait-218x300.jpg" alt="fotografo famoso steven meisel" width="218" height="300"/>Steven Meisel (nato nel 1954) è un fotografo di moda americano che ha ottenuto un grande plauso popolare per il suo lavoro in USA e in italia per la rivista Vogue oltre che per le sue famose fotografie di Madonna pubblicate nel libro Sex nel 1992.
 
 Oggi è considerato uno dei più famosi fotografi di moda, realizza regolarmente servizi fotografici di grande impatto la rivista Vogue (edizione USA e edizione italiana). Da poco collabora anche con la rivista W (pubblicata anche questa da Condé Nast).
 

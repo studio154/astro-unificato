@@ -4,7 +4,7 @@ team: "elio-carchidi"
 pubDate: 2013-11-22
 description: "Da molto tempo ormai partecipo ai \"casting fotografici\" in qualità di \"fotomodello\", sono un'esperto del settore! [caption id=\"attachment_3375\" align..."
 image:
-  url: "http://www.eliocarchidi.com/wp-content/uploads/2013/11/casting-fotografico-studio154.jpg"
+  url: "http:https://media.eliocarchidi.com/uploads/2013/11/casting-fotografico-studio154.jpg"
   alt: "Come ci si presenta ad un casting fotografico?"
 tags: ["book fotografico","fotomodella","fotomodelle","portfolio fotografico"]
 ---
@@ -12,7 +12,7 @@ tags: ["book fotografico","fotomodella","fotomodelle","portfolio fotografico"]
 <div class="separatore"></div>
 Da molto tempo ormai partecipo ai "<strong>casting fotografici</strong>" in qualità di "<strong>fotomodello</strong>", sono un'esperto del settore!
 
-[caption id="attachment_3375" align="aligncenter" width="550"]<img class="size-full wp-image-3375" src="//www.eliocarchidi.com/wp-content/uploads/2013/11/selezione-casting-fotografico.jpg" alt="Casting Fotografico la selezione" width="550" height="550"/> Il Casting Fotografico, la fase della selezione[/caption]
+[caption id="attachment_3375" align="aligncenter" width="550"]<img class="size-full wp-image-3375" src="https://media.eliocarchidi.com/uploads/2013/11/selezione-casting-fotografico.jpg" alt="Casting Fotografico la selezione" width="550" height="550"/> Il Casting Fotografico, la fase della selezione[/caption]
 
 Ovviamente sto scherzando ed esagerando un pò ma, alla fine, sto anche dicendo la verità.
 
@@ -36,13 +36,13 @@ Si trattava di una vera e propria fatica fisica: per <strong>ottenere le immagin
 
 Il lavoro veniva reperito tramite apposite <strong>Agenzie per Fotomodelle</strong> delegate a contattare e ad informare le ragazze sui <strong>Casting</strong> in atto. Queste agenzie erano particolarmente esperte nel comporre le immagini all'interno del book in maniera tale che la <strong>fotomodella</strong> fosse rappresentata al meglio e si occupavano inoltre di gestire tutti gli <strong>aspetti amministrativi e contrattuali</strong> per suo conto.
 
-[caption id="attachment_3373" align="aligncenter" width="550"]<img class="size-full wp-image-3373" src="//www.eliocarchidi.com/wp-content/uploads/2013/11/stampe-fotografiche-book-fotomodella.jpg" alt="Stampe fotografiche per book" width="550" height="550"/> Le stampe fotografiche del book[/caption]
+[caption id="attachment_3373" align="aligncenter" width="550"]<img class="size-full wp-image-3373" src="https://media.eliocarchidi.com/uploads/2013/11/stampe-fotografiche-book-fotomodella.jpg" alt="Stampe fotografiche per book" width="550" height="550"/> Le stampe fotografiche del book[/caption]
 
 Anche l'organizzazione del <strong>casting fotografico</strong> richiedeva l'utilizzo di strutture predisposte ad-hoc che potevano gestire la <strong>grande affluenza di partecipanti</strong> in ambienti progettati appositamente per lo scopo.
 
 Erano delle vere e proprie <strong>sale di posa</strong> dove veniva predisposto un vero <strong>set-fotografico e/o video</strong> e le/i modelle/i sfilavano ad uno ad uno davanti alla fotocamera e/o alla telecamera.
 
-[caption id="attachment_3388" align="aligncenter" width="550"]<img class="size-full wp-image-3388" src="//www.eliocarchidi.com/wp-content/uploads/2013/11/Casting-Fotografico-Ragazze-in-attesa.jpg" alt="Casting Fotografico, ragazze in attesa" width="550" height="550"/> Casting Fotografico, ragazze in attesa[/caption]
+[caption id="attachment_3388" align="aligncenter" width="550"]<img class="size-full wp-image-3388" src="https://media.eliocarchidi.com/uploads/2013/11/Casting-Fotografico-Ragazze-in-attesa.jpg" alt="Casting Fotografico, ragazze in attesa" width="550" height="550"/> Casting Fotografico, ragazze in attesa[/caption]
 
 Un lavoro enorme che coinvolgeva attivamente molte <strong>figure professionali</strong>: il <strong>fotografo</strong>, il cliente, l'agente per le modelle, l'agente per il casting, l'<strong>operatore video</strong>, l'assistente e, ovviamente, la modella che doveva recarsi sempre di persona sul luogo del <strong>casting fotografico</strong> più di una volta se superava la prima selezione.
 
@@ -56,7 +56,7 @@ Anche l'invio di una fotografia istantanea (spesso richiesta) può essere <stron
 
 Bastare anche un <strong>semplicissimo scatto</strong> realizzato con il proprio telefonino su una parete bianca di casa, esattamente come quello che vedi sotto.
 
-[caption id="attachment_3380" align="aligncenter" width="500"]<img class="size-full wp-image-3380" src="//www.eliocarchidi.com/wp-content/uploads/2013/11/fotografia-istantanea-modella.jpg" alt="Una fotografia istantanea realizzata a casa" width="500" height="500"/> Una fotografia istantanea realizzata a casa[/caption]
+[caption id="attachment_3380" align="aligncenter" width="500"]<img class="size-full wp-image-3380" src="https://media.eliocarchidi.com/uploads/2013/11/fotografia-istantanea-modella.jpg" alt="Una fotografia istantanea realizzata a casa" width="500" height="500"/> Una fotografia istantanea realizzata a casa[/caption]
 
 La domanda a questo punto è: ma queste "<strong>agevolazioni tecnologiche</strong>" hanno reso più semplice la vita delle <strong>fotomodelle</strong>? Hanno veramente fatto crescere le possibilità di <strong>successo per questa</strong>?
 
@@ -88,7 +88,7 @@ D'altra parte è giusto così: <strong>Facebook nasce per "intrattenere"</strong
 
 Tornando a noi, quello che è successo è che alcune di queste "<strong>candidate</strong>", forse per timidezza, per diffidenza o chissà per cos'altro, mi hanno dapprima, <strong>sbrigativamente</strong>, invitato a dare un'occhiata alle <strong>foto pubblicate su Facebook</strong>, altre mi hanno inviato un'email con <strong>decine foto prive di titolo</strong> e molto diverse tra di loro e altre ancora, le più sospettose, mi hanno "intimato" di dare loro informazioni dettagliate sullo svolgimento del lavoro in cambio delle loro fotografie.
 
-[caption id="attachment_3367" align="aligncenter" width="550"]<img class="size-full wp-image-3367" src="//www.eliocarchidi.com/wp-content/uploads/2013/11/casting-fotografico-studio154.jpg" alt="La modella al Casting Fotografico" width="550" height="550"/> Una modella presenzia ad un casting fotografico[/caption]
+[caption id="attachment_3367" align="aligncenter" width="550"]<img class="size-full wp-image-3367" src="https://media.eliocarchidi.com/uploads/2013/11/casting-fotografico-studio154.jpg" alt="La modella al Casting Fotografico" width="550" height="550"/> Una modella presenzia ad un casting fotografico[/caption]
 
 Tutto legittimo, per l'amore di Dio, ma da questi atteggiamenti non ho potuto che trarne delle conclusioni non molto lusinghiere riguardo al loro <strong>livello di professionalità</strong> magari sbagliandomi perchè <strong>si trattava di un giudizio superficiale</strong> ma questo conferma il fatto che la "prima impressione" conta davvero molto.
 
@@ -138,6 +138,6 @@ Io mi limito solo a suggerire a chi ha deciso di <strong>intraprendere questo la
 
 A volte capita che il mio <strong><a title="Lo studio Fotografico" href="//studio154.it/servizi-fotografici-professionisti-ritratti-book-attori-attrici/" target="_blank" rel="noopener">Studio Fotografico</a></strong> <strong>organizzi Casting Fotografici</strong> per i miei lavori o per quelli di altri colleghi e/o i più diversi clienti.
 
-[caption id="attachment_3382" align="aligncenter" width="550"]<img class="size-full wp-image-3382" src="//www.eliocarchidi.com/wp-content/uploads/2013/11/galleria-fotografica-studio154.jpg" alt="Alcuni esempi tratti dalla nostra Galleria Fotografica" width="550" height="323"/> Alcuni esempi di Album tratti dalla nostra Galleria Fotografica[/caption]
+[caption id="attachment_3382" align="aligncenter" width="550"]<img class="size-full wp-image-3382" src="https://media.eliocarchidi.com/uploads/2013/11/galleria-fotografica-studio154.jpg" alt="Alcuni esempi tratti dalla nostra Galleria Fotografica" width="550" height="323"/> Alcuni esempi di Album tratti dalla nostra Galleria Fotografica[/caption]
 
 Se desideri pubblicare GRATIS il tuo Portfolio Fotografico vai alla <a title="La Galleria Fotografica per Fotomodelle" href="//www.forumdifotografia.com/gallery/" target="_blank" rel="noopener"><strong>Galleria Fotografica per Fotomodelle</strong></a>

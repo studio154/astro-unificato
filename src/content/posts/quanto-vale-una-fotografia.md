@@ -4,12 +4,12 @@ team: "elio-carchidi"
 pubDate: 2025-01-11
 description: "[caption id=\"attachment_12909\" align=\"aligncenter\" width=\"800\"] Ci rendiamo veramente conto di quanto vale una fotografia oppure siamo sempre di più c..."
 image:
-  url: "https://www.eliocarchidi.com/wp-content/uploads/2018/02/quanto-vale-una-fotografia-600x600.jpg"
+  url: "https://media.eliocarchidi.com/uploads/2018/02/quanto-vale-una-fotografia-600x600.jpg"
   alt: "Quanto vale una fotografia? Quale è Il vero valore delle fotografie?"
 tags: []
 ---
 
-[caption id="attachment_12909" align="aligncenter" width="800"]<img src="https://www.eliocarchidi.com/wp-content/uploads/2018/02/quanto-vale-una-fotografia-800.jpg" alt="Quanto vale una fotografia" width="800" height="300" class="size-full wp-image-12909" /> Ci rendiamo veramente conto di quanto vale una fotografia oppure siamo sempre di più concentrati sull'inseguire semplicemente il suo miglior prezzo?[/caption]
+[caption id="attachment_12909" align="aligncenter" width="800"]<img src="https://media.eliocarchidi.com/uploads/2018/02/quanto-vale-una-fotografia-800.jpg" alt="Quanto vale una fotografia" width="800" height="300" class="size-full wp-image-12909" /> Ci rendiamo veramente conto di quanto vale una fotografia oppure siamo sempre di più concentrati sull'inseguire semplicemente il suo miglior prezzo?[/caption]
 [toc heading_levels="3,4" class="centra-toc"]
 <p class="intro">Quanto vale una fotografia? Come si valuta il costo delle fotografie d'autore? Cosa ci stiamo perdendo in questi ultimi anni riguardo alla fotografia?</p>
 <hr />
@@ -32,7 +32,7 @@ Immagini che a distanza di quasi 50 anni mi regalano sempre grandi emozioni e no
 
 In tutte le famiglie c'è <strong>un cassetto o una scatola zeppa di fotografie</strong>, alcune bellissime, altre meno ma in ognuna di queste immagini c'è un pezzo della nostra storia, ci sono i nostri ricordi.
 
-[caption id="attachment_12983" align="aligncenter" width="800"]<img src="https://www.eliocarchidi.com/wp-content/uploads/2018/02/il-vero-valore-delle-fotografie-800.jpg" alt="Il vero valore delle fotografie" width="800" height="533" class="size-full wp-image-12983" /> Le fotografie sono la nostra memoria il loro valore emotivo non ha prezzo[/caption]
+[caption id="attachment_12983" align="aligncenter" width="800"]<img src="https://media.eliocarchidi.com/uploads/2018/02/il-vero-valore-delle-fotografie-800.jpg" alt="Il vero valore delle fotografie" width="800" height="533" class="size-full wp-image-12983" /> Le fotografie sono la nostra memoria il loro valore emotivo non ha prezzo[/caption]
 
 È questo che ci lasciano le fotografie, è questa la ragione per la quale <strong>tutti amiamo la fotografia</strong>!
 <hr />
@@ -81,7 +81,7 @@ Quello che emerge è che oggigiorno i ricchi benestanti che si dedicano al colle
 
 Se una volta i tappeti orientali, le auto d'epoca e anche la pittura monopolizzavano il mercato dell'arte attirando l'interesse del collezionista, oggi è <strong>la fotografia che va alla grande</strong>.
 
-[caption id="attachment_12985" align="aligncenter" width="364"]<img src="https://www.eliocarchidi.com/wp-content/uploads/2018/02/isabella-rossellini-ritratto-di-robert-mapplethorpe.jpg" alt="Isabella Rossellini in un ritratto di Robert Mapplethorpe" width="364" height="460" class="size-full wp-image-12985" /> Isabella Rossellini in un ritratto di Robert Mapplethorpe[/caption]
+[caption id="attachment_12985" align="aligncenter" width="364"]<img src="https://media.eliocarchidi.com/uploads/2018/02/isabella-rossellini-ritratto-di-robert-mapplethorpe.jpg" alt="Isabella Rossellini in un ritratto di Robert Mapplethorpe" width="364" height="460" class="size-full wp-image-12985" /> Isabella Rossellini in un ritratto di Robert Mapplethorpe[/caption]
 
 <a href="http://www.mapplethorpe.org/" rel="noopener" target="_blank">Robert Mapplethorpe</a> e <a href="http://www.andreasgursky.com/en" rel="noopener" target="_blank">Andreas Gursky</a> hanno venduto nel 2016 <strong>immagini per 400.000$ (circa 350.000€)</strong>.
 
@@ -104,7 +104,7 @@ Una buona fotografia che vale e che va oltre il suo costo <strong>è possibile o
 
 A questo punto sono assolutamente convinto che proseguire nel <strong>dedicarmi alla fotografia tradizionale</strong>, quella originale fatta a mano, rappresenta per me e per chi ama le cose belle <strong>un dovere oltre che un piacere</strong>.
 
-[caption id="attachment_11464" align="aligncenter" width="488"]<img src="https://www.eliocarchidi.com/wp-content/uploads/2017/03/pierluigi-collina.jpg" alt="Ritratto Fotografico Professionale" width="488" height="488" class="size-full wp-image-11464" /> Un ritratto fotografico in bianco e nero di Pierluigi Collina da me realizzato con tecnica tradizionale giusto qualche tempo fa... questa e altre mie immagini sono state pubblicate in almeno 8 paesi stranieri. <a href="https://www.eliocarchidi.com/le-migliori-gallerie-fotografiche/">Guarda altre mie foto.</a>[/caption]
+[caption id="attachment_11464" align="aligncenter" width="488"]<img src="https://media.eliocarchidi.com/uploads/2017/03/pierluigi-collina.jpg" alt="Ritratto Fotografico Professionale" width="488" height="488" class="size-full wp-image-11464" /> Un ritratto fotografico in bianco e nero di Pierluigi Collina da me realizzato con tecnica tradizionale giusto qualche tempo fa... questa e altre mie immagini sono state pubblicate in almeno 8 paesi stranieri. <a href="https://www.eliocarchidi.com/le-migliori-gallerie-fotografiche/">Guarda altre mie foto.</a>[/caption]
 
 <div style="text-align:center;background-color:#eaeaea;padding:25px;">
 <h2>Sei interessato ad avere una fotografia artistica fatta a mano?</h2>

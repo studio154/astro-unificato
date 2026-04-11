@@ -4,13 +4,13 @@ team: "elio-carchidi"
 pubDate: 2013-02-22
 description: "[caption id=\"attachment_2276\" align=\"alignnone\" width=\"550\"] Corso di Fotografia a Roma nello studio fotografico studio154[/caption]Organizzare un Co..."
 image:
-  url: "http://www.eliocarchidi.com/wp-content/uploads/2011/06/corso-fotografia-roma.jpg"
+  url: "http:https://media.eliocarchidi.com/uploads/2011/06/corso-fotografia-roma.jpg"
   alt: "Corso di Ritratto, Workshop Fotografico a Roma"
 tags: ["corsi fotografia","corso di fotografia","scuola fotografia","workshop fotografici"]
 ---
 
 <div class="separatore"></div>
-[caption id="attachment_2276" align="alignnone" width="550"]<img class="size-full wp-image-2276 " title="corso-fotografia-roma" src="//www.eliocarchidi.com/wp-content/uploads/2011/06/corso-fotografia-roma.jpg" alt="Corsi Fotografia a Roma (Studio154)" width="550" height="284" /> Corso di Fotografia a Roma nello studio fotografico studio154[/caption]Organizzare un <strong>Corso di Fotografia</strong> o un <strong>Workshop di Fotografia</strong> non è una cosa semplice per come sono fatto io.
+[caption id="attachment_2276" align="alignnone" width="550"]<img class="size-full wp-image-2276 " title="corso-fotografia-roma" src="https://media.eliocarchidi.com/uploads/2011/06/corso-fotografia-roma.jpg" alt="Corsi Fotografia a Roma (Studio154)" width="550" height="284" /> Corso di Fotografia a Roma nello studio fotografico studio154[/caption]Organizzare un <strong>Corso di Fotografia</strong> o un <strong>Workshop di Fotografia</strong> non è una cosa semplice per come sono fatto io.
 
 Se poi l'obbiettivo a cui mira chi lo frequenta è quello di raggiungere risultati di apprendimento quantomeno discreti la cosa rischia di pesarmi ancor di più, mi responsabilizza maggiormente.
 

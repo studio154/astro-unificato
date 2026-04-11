@@ -4,7 +4,7 @@ team: "elio-carchidi"
 pubDate: 2012-05-28
 description: "Intervista fotografo di moda per Progresso Fotografico \"SERIE ORO\": Elio Leonardo Carchidi [caption id=\"attachment_3719\" align=\"aligncenter\" width=\"50..."
 image:
-  url: "https://www.eliocarchidi.com/wp-content/uploads/2017/09/progresso-fotografico-copertina-elio-carchidi.jpg"
+  url: "https://media.eliocarchidi.com/uploads/2017/09/progresso-fotografico-copertina-elio-carchidi.jpg"
   alt: "Intervista fotografo di moda su Progresso Fotografico"
 tags: []
 ---
@@ -13,7 +13,7 @@ tags: []
 Elio Leonardo Carchidi</p>
 <hr />
 
-[caption id="attachment_3719" align="aligncenter" width="500"]<img src="//www.eliocarchidi.com/wp-content/uploads/2012/05/progresso-fotografico-copertina-elio-carchidi.jpg" alt="progresso fotografico copertina elio carchidi" width="500" height="657" class="size-full wp-image-3719 aligncenter" /> Foto di copertina di Elio L. Carchidi per la rivista Progresso Fotografico "ORO"[/caption]
+[caption id="attachment_3719" align="aligncenter" width="500"]<img src="https://media.eliocarchidi.com/uploads/2012/05/progresso-fotografico-copertina-elio-carchidi.jpg" alt="progresso fotografico copertina elio carchidi" width="500" height="657" class="size-full wp-image-3719 aligncenter" /> Foto di copertina di Elio L. Carchidi per la rivista Progresso Fotografico "ORO"[/caption]
 <hr />
 <strong>Versione integrale: </strong><a title="Intervista al Fotografo sulla Fotografia in Bianco e Nero" href="//www.eliocarchidi.com/intervista-progresso-fotografico/"><strong>Scarica l'intervista al fotografo (pdf 4 pagine 2.7 mb)</strong></a>
 

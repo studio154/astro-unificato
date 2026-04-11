@@ -4,7 +4,7 @@ team: "elio-carchidi"
 pubDate: 2012-06-12
 description: "Lavorando come Fotografo da molto tempo ho avuto modo di sperimentare diversi tipi di illuminazione. Una discreta quantità di fonti di luce. Voglio sp..."
 image:
-  url: "https://www.eliocarchidi.com/wp-content/uploads/default.png"
+  url: "https://media.eliocarchidi.com/uploads/default.png"
   alt: "Fotografia Digitale: La Luce Fotografica Artificiale"
 tags: ["scuola fotografia"]
 ---

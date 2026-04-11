@@ -4,13 +4,13 @@ team: "elio-carchidi"
 pubDate: 2024-07-23
 description: "Hai mai desiderato catturare la bellezza dei tuoi piatti preferiti in foto? In questo articolo scoprirai come ottenere immagini accattivanti del cibo..."
 image:
-  url: "https://www.eliocarchidi.com/wp-content/uploads/2024/07/fotografare-il-cibo-1-1.jpg"
+  url: "https://media.eliocarchidi.com/uploads/2024/07/fotografare-il-cibo-1-1.jpg"
   alt: "Come fotografare il cibo per immagini accattivanti"
 tags: ["fotografie professionali"]
 ---
 
 <!-- wp:image {"id":17552,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="https://www.eliocarchidi.com/wp-content/uploads/2024/07/fotografare-il-cibo-1-1.jpg" alt="fotografare il cibo" class="wp-image-17552"/></figure>
+<figure class="wp-block-image size-full"><img src="https://media.eliocarchidi.com/uploads/2024/07/fotografare-il-cibo-1-1.jpg" alt="fotografare il cibo" class="wp-image-17552"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"className":"intro"} -->

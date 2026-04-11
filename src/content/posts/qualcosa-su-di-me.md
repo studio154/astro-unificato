@@ -4,12 +4,12 @@ team: "elio-carchidi"
 pubDate: 2012-05-21
 description: "Il mio nome è Elio Leonardo Carchidi e ho creato questo sito da Fotografo. Amo la Fotografia - in realtà, ho sempre amato fare il fotografo. Quando e..."
 image:
-  url: "http://www.eliocarchidi.com/wp-content/uploads/2012/05/elio_leonardo_carchidi_fotografo.jpg"
+  url: "http:https://media.eliocarchidi.com/uploads/2012/05/elio_leonardo_carchidi_fotografo.jpg"
   alt: "Qualcosa su di me fotografo..."
 tags: []
 ---
 
-<img class="alignnone  wp-image-510" title="elio_leonardo_carchidi_fotografo" src="//www.eliocarchidi.com/wp-content/uploads/2012/05/elio_leonardo_carchidi_fotografo.jpg" alt="Fotografo a Roma" width="600" />
+<img class="alignnone  wp-image-510" title="elio_leonardo_carchidi_fotografo" src="https://media.eliocarchidi.com/uploads/2012/05/elio_leonardo_carchidi_fotografo.jpg" alt="Fotografo a Roma" width="600" />
 
 Il mio nome è Elio Leonardo Carchidi e ho creato questo sito da Fotografo.
 Amo la Fotografia - in realtà, ho sempre amato fare il fotografo.

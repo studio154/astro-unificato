@@ -4,14 +4,14 @@ team: "elio-carchidi"
 pubDate: 2017-05-24
 description: "Fare Ritratti Fotografici per mestiere. Fare Ritratti Fotografici per mestiere. Sabato scorso ho avuto un piacevolissimo incontro con alcuni amici. Ab..."
 image:
-  url: "https://www.eliocarchidi.com/wp-content/uploads/2017/05/fare-ritratti-fotografici-mostre-diffuse-fotografia-300.jpg"
+  url: "https://media.eliocarchidi.com/uploads/2017/05/fare-ritratti-fotografici-mostre-diffuse-fotografia-300.jpg"
   alt: "Fare Ritratti Fotografici per mestiere. Incontro sul ritratto fotografico a Mostre Diffuse Fotografia."
 tags: ["fotografia di ritratto","workshop","workshop fotografici"]
 ---
 
 <h2>Fare Ritratti Fotografici per mestiere.</h2>
 <p style="color: #ffffff; line-height: 0.2em;">Fare Ritratti Fotografici per mestiere.</p>
-<a href="https://www.facebook.com/riccardo.cattani/videos/10213056438155356/" target="_blank" rel="noopener"><img class="aligncenter size-full wp-image-11520" src="https://www.eliocarchidi.com/wp-content/uploads/2017/05/fare-ritratti-fotografici-mostre-diffuse-fotografia.jpg" alt="fare ritratti fotografici - Mostre Diffuse Fotografia" width="690" height="473" /></a>
+<a href="https://www.facebook.com/riccardo.cattani/videos/10213056438155356/" target="_blank" rel="noopener"><img class="aligncenter size-full wp-image-11520" src="https://media.eliocarchidi.com/uploads/2017/05/fare-ritratti-fotografici-mostre-diffuse-fotografia.jpg" alt="fare ritratti fotografici - Mostre Diffuse Fotografia" width="690" height="473" /></a>
 
 Sabato scorso ho avuto <a href="http://www.mostrediffuse.it/il-ritratto-per-elio-leonardo-carchidi/" target="_blank" rel="noopener">un piacevolissimo incontro</a> con alcuni amici.
 

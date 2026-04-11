@@ -4,7 +4,7 @@ team: "elio-carchidi"
 pubDate: 2013-10-01
 description: "Tutti i giorni, ormai da mesi, Francesca ed Elisabetta, mi chiedono: ...mi sono accorta che con il mio cellulare e con la mia macchinetta fotografica..."
 image:
-  url: "https://www.eliocarchidi.com/wp-content/uploads/2013/10/Belle-foto-da-stampare-in-grande-formato-a-qualità-migliore_-come-fare…-1.png"
+  url: "https://media.eliocarchidi.com/uploads/2013/10/Belle-foto-da-stampare-in-grande-formato-a-qualità-migliore_-come-fare…-1.png"
   alt: "Belle foto da stampare in grande formato a qualità migliore: come fare..."
 tags: []
 ---
@@ -13,7 +13,7 @@ Tutti i giorni, ormai da mesi, <strong>Francesca ed Elisabetta</strong>, mi chie
 <blockquote style="box-shadow: none; background-color: #fafafa;">
 <h2 style="font-size:1em;">...mi sono accorta che con il mio cellulare e con la mia macchinetta fotografica posso fare belle foto. Il problema è che quando le mando in stampa il risultato che ottengo è pessimo... Come posso ottenere una buona stampa fotografica delle mie foto?</h2>
 </blockquote>
-<img class="aligncenter size-full wp-image-3117" title="foto-vista-mare-orizzonte" src="//www.eliocarchidi.com/wp-content/uploads/2013/09/foto-vista-mare-orizzonte1.jpg" alt="Fotografia vista mare con orizzonte" width="500" height="500"/>
+<img class="aligncenter size-full wp-image-3117" title="foto-vista-mare-orizzonte" src="https://media.eliocarchidi.com/uploads/2013/09/foto-vista-mare-orizzonte1.jpg" alt="Fotografia vista mare con orizzonte" width="500" height="500"/>
 <p style="font-size: 11px; text-align: left; padding: 10px 40px 20px 40px;">Questa foto l'ho scattata quest'estate al mare con uno smartphone Samsung Galaxy, sinceramente non sò dire se è bella oppure no, però mi piace perchè mi ricorda un bel momento di relax vissuto insieme a mio figlio Valerio... mi piacerebbe stamparla e incorniciarla per averla sulla mia scrivania!</p>
 Provo a spiegare meglio di cosa sto parlando...
 

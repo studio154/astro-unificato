@@ -4,7 +4,7 @@ team: "elio-carchidi"
 pubDate: 2024-11-12
 description: "Book Fotografico di Ritratti di Elio Leonardo Carchidi (anni 1992/2002) AGGIORNAMENTO (Novembre 2024) Questo Libro Fotografico contiene una selezione..."
 image:
-  url: "https://www.eliocarchidi.com/wp-content/uploads/2019/12/6.png"
+  url: "https://media.eliocarchidi.com/uploads/2019/12/6.png"
   alt: "Il mio Libro Fotografico: Book Portfolio Fotografico di Elio Carchidi"
 tags: ["Book Fotografici - Articoli","Fotografi Professionisti","bravo fotografo","fotografi famosi","fotografo bravo","fotografo professionista","personaggi famosi","portfolio fotografici","portfolio fotografico","ritratti celebrità","ritratto celebrità","servizio fotografico","studi fotografici","studio fotografico"]
 ---
@@ -14,7 +14,7 @@ tags: ["Book Fotografici - Articoli","Fotografi Professionisti","bravo fotografo
 <!-- /wp:spacer -->
 
 <!-- wp:image {"id":1251,"align":"center"} -->
-<figure class="wp-block-image aligncenter"><img src="https://www.eliocarchidi.com/wp-content/uploads/2012/05/book_fotografico_copertina.png" alt="Book Fotografico dei Ritratti" class="wp-image-1251" title="portfolio fotografico professionale libri fotografia"/><figcaption class="wp-element-caption">Book Fotografico di Ritratti di Elio Leonardo Carchidi (anni 1992/2002)</figcaption></figure>
+<figure class="wp-block-image aligncenter"><img src="https://media.eliocarchidi.com/uploads/2012/05/book_fotografico_copertina.png" alt="Book Fotografico dei Ritratti" class="wp-image-1251" title="portfolio fotografico professionale libri fotografia"/><figcaption class="wp-element-caption">Book Fotografico di Ritratti di Elio Leonardo Carchidi (anni 1992/2002)</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:spacer {"height":"30px"} -->
@@ -135,7 +135,7 @@ tags: ["Book Fotografici - Articoli","Fotografi Professionisti","bravo fotografo
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1251,"sizeSlug":"full","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-full"><img src="https://www.eliocarchidi.com/wp-content/uploads/2012/05/book_fotografico_copertina.png" alt="Book Fotografico dei Ritratti" class="wp-image-1251"/><figcaption class="wp-element-caption">Book Fotografico - Download Gratuito!</figcaption></figure>
+<figure class="wp-block-image aligncenter size-full"><img src="https://media.eliocarchidi.com/uploads/2012/05/book_fotografico_copertina.png" alt="Book Fotografico dei Ritratti" class="wp-image-1251"/><figcaption class="wp-element-caption">Book Fotografico - Download Gratuito!</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->

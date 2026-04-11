@@ -4,12 +4,12 @@ team: "elio-carchidi"
 pubDate: 2018-09-12
 description: "[caption id=\"attachment_13534\" align=\"aligncenter\" width=\"1000\"] Non basta certo un fotografo famoso per farti toccare il cielo con un dito ma... a vo..."
 image:
-  url: "https://www.eliocarchidi.com/wp-content/uploads/2018/09/fotografi-famosi-aspettative-vs-realta-600.jpg"
+  url: "https://media.eliocarchidi.com/uploads/2018/09/fotografi-famosi-aspettative-vs-realta-600.jpg"
   alt: "Fotografi Famosi: Aspettative vs Realtà."
 tags: ["fotografi bravi","fotografi famosi","fotografo bravo","fotografo famoso"]
 ---
 
-[caption id="attachment_13534" align="aligncenter" width="1000"]<img class="size-full wp-image-13534" src="https://www.eliocarchidi.com/wp-content/uploads/2018/09/fotografi-famosi-aspettative-vs-realta-1000.jpg" alt="Fotografi Famosi Aspettative Vs Realtà" width="1000" height="347" /> Non basta certo un fotografo famoso per farti toccare il cielo con un dito ma... a volte potresti illuderti di poterlo fare.[/caption]
+[caption id="attachment_13534" align="aligncenter" width="1000"]<img class="size-full wp-image-13534" src="https://media.eliocarchidi.com/uploads/2018/09/fotografi-famosi-aspettative-vs-realta-1000.jpg" alt="Fotografi Famosi Aspettative Vs Realtà" width="1000" height="347" /> Non basta certo un fotografo famoso per farti toccare il cielo con un dito ma... a volte potresti illuderti di poterlo fare.[/caption]
 
 [toc heading_levels="3,4" class="centra-toc"]
 <p class="intro">Tutti noi cerchiamo sempre il meglio per ottenere il meglio. Succede anche nella fotografia? Affidarsi nelle mani di un professionista famoso è sinonimo di garanzia di risultato? Esistono veramente i fotografi famosi? E come possiamo riconoscerli o trovarli? Ci basta Google per farlo? Soddisfano sempre le nostre aspettative?</p>
@@ -48,7 +48,7 @@ Il fattore di rischio maggiore nel momento della scelta è dunque racchiuso in q
 
 Quello su cui dovremmo tutti riflettere, prima di fare una qualunque scelta, è chiederci se <strong>quello a cui puntiamo è l'"impossibile"</strong>.
 
-[caption id="attachment_13567" align="aligncenter" width="1000"]<img class="wp-image-13567 size-full" src="https://www.eliocarchidi.com/wp-content/uploads/2018/09/alain-delon-danny-de-vito-fotografie.jpg" alt="Fotografi Famosi - Alain Delon e Danny De Vito" width="1000" height="581" /> Alain Delon (a sinistra) e Danny De Vito. Due fotografie di bellezze diverse nel loro genere.[/caption]
+[caption id="attachment_13567" align="aligncenter" width="1000"]<img class="wp-image-13567 size-full" src="https://media.eliocarchidi.com/uploads/2018/09/alain-delon-danny-de-vito-fotografie.jpg" alt="Fotografi Famosi - Alain Delon e Danny De Vito" width="1000" height="581" /> Alain Delon (a sinistra) e Danny De Vito. Due fotografie di bellezze diverse nel loro genere.[/caption]
 
 Avere scelto <strong>un fotografo famoso e anche bravo</strong> (le due cose non sempre coincidono) non vuol dire che (nonostante photoshop) <a href="http://bit.ly/2p2vVTA" target="_blank" rel="noopener">Danny De Vito</a> somiglierà ad <a href="http://bit.ly/2Mr6PH0">Alain Delon</a>... e questo senza nulla togliere a nessuno dei due. Ognunodi questi ha la sua propria bellezza!
 

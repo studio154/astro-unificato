@@ -4,12 +4,12 @@ team: "elio-carchidi"
 pubDate: 2018-08-13
 description: "[caption id=\"attachment_13436\" align=\"aligncenter\" width=\"1000\"] Tinder è la piattaforma online per trovare amicizie e amori. Scegliere il giusto foto..."
 image:
-  url: "https://www.eliocarchidi.com/wp-content/uploads/2018/04/Il-Segreto-delSuccesso-su-Tinder-600.jpg"
+  url: "https://media.eliocarchidi.com/uploads/2018/04/Il-Segreto-delSuccesso-su-Tinder-600.jpg"
   alt: "Fotografo per Ritratti di Successo. Curriculum, Profili e Conoscenze su Tinder."
 tags: ["fotografo per ritratti","ritratti curiculum","ritratti fotografici","ritratto","ritratto curriculum","social","tinder"]
 ---
 
-[caption id="attachment_13436" align="aligncenter" width="1000"]<img class="size-full wp-image-13436" src="https://www.eliocarchidi.com/wp-content/uploads/2018/04/Il-Segreto-del-Successo-su-Tinder.jpg" alt="fotografo per ritratti" width="1000" height="347"/> Tinder è la piattaforma online per trovare amicizie e amori. Scegliere il giusto fotografo per ritratti rappresenta sempre la tua prima arma di successo.[/caption]
+[caption id="attachment_13436" align="aligncenter" width="1000"]<img class="size-full wp-image-13436" src="https://media.eliocarchidi.com/uploads/2018/04/Il-Segreto-del-Successo-su-Tinder.jpg" alt="fotografo per ritratti" width="1000" height="347"/> Tinder è la piattaforma online per trovare amicizie e amori. Scegliere il giusto fotografo per ritratti rappresenta sempre la tua prima arma di successo.[/caption]
 
 [toc heading_levels="3,4" class="centra-toc"]
 <p class="intro">Come trovare un fotografo per ritratti? Come avere successo su Tinder e come funziona? Molti fotografi professionisti hanno da tempo scoperto un filone d'oro molto in voga: quello dei ritratti per curriculum o foto per profili social. Pochi però conoscono Tinder. Io l'ho scoperto da poco!</p>
@@ -53,7 +53,7 @@ Il bello è che non chiedono nulla di proibito, quello che vogliono ottenere son
 
 Per avere foto di questo tipo, prima di rivolgersi ad un fotografo per ritratti esperto, potrebbero provare a farsi fotografare da amici o conoscenti ma evitano perché temono di essere poi presi in giro.
 
-[caption id="attachment_13457" align="aligncenter" width="970"]<img class="size-full wp-image-13457" src="https://www.eliocarchidi.com/wp-content/uploads/2018/04/come-fare-conoscenze-interessanti-su-tinder.jpg" alt="Come fare conoscenze interessanti su Tinder" width="970" height="434"/> Come fare conoscenze interessanti su Tinder vincendo la timidezza e rivolgendosi ad un fotografo per ritratti molto esperto.[/caption]
+[caption id="attachment_13457" align="aligncenter" width="970"]<img class="size-full wp-image-13457" src="https://media.eliocarchidi.com/uploads/2018/04/come-fare-conoscenze-interessanti-su-tinder.jpg" alt="Come fare conoscenze interessanti su Tinder" width="970" height="434"/> Come fare conoscenze interessanti su Tinder vincendo la timidezza e rivolgendosi ad un fotografo per ritratti molto esperto.[/caption]
 
 Non basta nemmeno un selfie a soddisfare la loro più che legittima voglia di apparire al top, preferiscono essere osservati da occhi esterni, dunque sono disposti a pagare un professionista pur di costruire una presentazione veramente efficace.
 
@@ -122,7 +122,7 @@ Prima però di poter raggiungere il punto di svolta, <strong>devi essere fermame
 <h4>La foto di presentazione principale è seducente?</h4>
 Le foto dei ragazzi e delle ragazze posizionati nella top-ten sembrano avere tutte quante delle caratteristiche comuni.
 
-[caption id="attachment_13460" align="aligncenter" width="833"]<img class="wp-image-13460 size-full" src="https://www.eliocarchidi.com/wp-content/uploads/2018/04/foto-perfette-per-siti-di-incontri.jpg" alt="Foto perfette per siti d'incontri" width="833" height="374"/> Un ritratto di buona qualità che lascia scoperto il viso e ti mostra così come sei può aiutare molto a catturare simpatie e consensi perché contribuisce a ispirare fiducia.[/caption]
+[caption id="attachment_13460" align="aligncenter" width="833"]<img class="wp-image-13460 size-full" src="https://media.eliocarchidi.com/uploads/2018/04/foto-perfette-per-siti-di-incontri.jpg" alt="Foto perfette per siti d'incontri" width="833" height="374"/> Un ritratto di buona qualità che lascia scoperto il viso e ti mostra così come sei può aiutare molto a catturare simpatie e consensi perché contribuisce a ispirare fiducia.[/caption]
 
 Il viso è assolutamente scoperto, ben visibile, pulito e per lo più guardano in macchina, ma non sempre. A dire il vero alcuni studi sembrano dimostrare che alle donne piacciono molto gli uomini con lo sguardo che mira lontano (?).
 
@@ -159,7 +159,7 @@ Non finirò mai di ripeterlo: le fotografie di buona qualità si vedono e rappre
 
 Una foto ottenuta ritagliando una porzione di un'altra più grande, magari illuminata malissimo e che non mette in evidenza le tue caratteristiche migliori è quasi certo che porterà a scarsissimi risultati.
 
-[caption id="attachment_13467" align="aligncenter" width="833"]<img class="size-full wp-image-13467" src="https://www.eliocarchidi.com/wp-content/uploads/2018/04/foto-belle-per-siti-di-incontri.jpg" alt="Foto belle per siti d'incontri" width="833" height="325"/> Nessuno dei 3 ragazzi sopra è brutto, sono ragazzi piacenti, anche belli, ma le fotografie che hanno pubblicato sono orrende e questo li penalizza.[/caption]
+[caption id="attachment_13467" align="aligncenter" width="833"]<img class="size-full wp-image-13467" src="https://media.eliocarchidi.com/uploads/2018/04/foto-belle-per-siti-di-incontri.jpg" alt="Foto belle per siti d'incontri" width="833" height="325"/> Nessuno dei 3 ragazzi sopra è brutto, sono ragazzi piacenti, anche belli, ma le fotografie che hanno pubblicato sono orrende e questo li penalizza.[/caption]
 
 L'effetto di una foto brutta su chi la guarda è dirompente: oltre ad essere fastidiosa da guardare trasmette anche l'idea di un fake, di un profilo falso o comunque equivoco. Se vuoi allontanare da te le persone utilizza foto di bassa qualità. Una buona fotografia al contrario fa sottintendere una cura particolare della propria persona.
 <h4 style="color: #d43c67;">FATTORE CRITICO N. 4</h4>
@@ -176,7 +176,7 @@ In pratica si tratta di una valutazione oggettiva che valuta <strong>l'impatto d
 
 Ci vuole un pò di tempo per raccogliere i risultati, può bastare anche qualche ora, ma la cosa bella è che il risultato è assolutamente veritiero visto che i pareri vengono dati da persone comuni che navigano nel web.
 
-[caption id="attachment_13524" align="aligncenter" width="1600"]<img class="wp-image-13524 size-full" src="https://www.eliocarchidi.com/wp-content/uploads/2018/08/fotografo-per-ritratti-tinder.jpg" alt="" width="1600" height="830"/> Questa è una prova che ho voluto fare inserendo un mio ritratto personale su <a href="https://www.photofeeler.com/" target="_blank" rel="noopener noreferrer"><strong>Photofeeler</strong></a>. Una semplice foto in bianco e nero il cui risultato ottenuto mi pare più che buono![/caption]
+[caption id="attachment_13524" align="aligncenter" width="1600"]<img class="wp-image-13524 size-full" src="https://media.eliocarchidi.com/uploads/2018/08/fotografo-per-ritratti-tinder.jpg" alt="" width="1600" height="830"/> Questa è una prova che ho voluto fare inserendo un mio ritratto personale su <a href="https://www.photofeeler.com/" target="_blank" rel="noopener noreferrer"><strong>Photofeeler</strong></a>. Una semplice foto in bianco e nero il cui risultato ottenuto mi pare più che buono![/caption]
 
 Puoi farlo facilmente, così come ho fatto io con un mia ritratto personale (quella che vedi sopra). Questa foto l'hanno votata 63 persone ASSOLUTAMENTE ANONIME, che non mi conoscono e il loro parere è stato, a quanto pare, più che positivo.
 

@@ -4,13 +4,13 @@ team: "elio-carchidi"
 pubDate: 2024-07-19
 description: "Non piacersi in foto succede (quasi) a tutti.Ma perché il soggetto fotografato spesso non è contento del risultato?Ci sono un sacco di motivi per cui..."
 image:
-  url: "https://www.eliocarchidi.com/wp-content/uploads/2024/07/medicina-estetica-e-fotografia-1.jpg"
+  url: "https://media.eliocarchidi.com/uploads/2024/07/medicina-estetica-e-fotografia-1.jpg"
   alt: "Non Piacersi in Foto: Manuale di Sopravvivenza per Non-Fotomodelle"
 tags: ["Book Fotografici - Articoli","ritratti fotografici"]
 ---
 
 <!-- wp:image {"id":17535,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="https://www.eliocarchidi.com/wp-content/uploads/2024/07/medicina-estetica-e-fotografia-1.jpg" alt="Non piacersi in foto i 10 motivi" class="wp-image-17535"/></figure>
+<figure class="wp-block-image size-full"><img src="https://media.eliocarchidi.com/uploads/2024/07/medicina-estetica-e-fotografia-1.jpg" alt="Non piacersi in foto i 10 motivi" class="wp-image-17535"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"className":"intro"} -->

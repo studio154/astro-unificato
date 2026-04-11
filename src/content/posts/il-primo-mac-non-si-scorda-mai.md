@@ -4,7 +4,7 @@ team: "elio-carchidi"
 pubDate: 2014-01-24
 description: "Era solo \"L'inizio della fine della fotografia tradizionale\" (?) Immagino che a voi che mi leggete interesserà davvero poco l'argomento di cui ho scr..."
 image:
-  url: "https://www.eliocarchidi.com/wp-content/uploads/2014/01/Primo-Macintosh-Fotografo-roma-300-copia.jpg"
+  url: "https://media.eliocarchidi.com/uploads/2014/01/Primo-Macintosh-Fotografo-roma-300-copia.jpg"
   alt: "Il primo Mac non si scorda mai: Buon Compleanno Mr. Macintosh!"
 tags: []
 ---
@@ -14,7 +14,7 @@ tags: []
 </blockquote>
 Immagino che a voi che mi leggete interesserà davvero poco l'argomento di cui ho scritto in questo articolo (<strong>vi chiedo scusa per questo</strong>) soprattutto perchè riguarda esclusivamente la mia persona nei confronti della quale però, sono sicuro, alla fine della lettura, non potrete provare altro che sentimenti di "tenerezza" e di "compassionevole simpatia".
 
-[caption id="attachment_3509" align="aligncenter" width="545"]<img class="size-full wp-image-3509" title="ritratto di steve job da giovane" src="//www.eliocarchidi.com/wp-content/uploads/2014/01/ritratto-di-steve-job-da-giovane.jpg" alt="ritratto di steve job da giovane" width="545" height="413" /> Uno Steve Job giovane e pensoso ai tempi del Mac (30 anni fa)[/caption]
+[caption id="attachment_3509" align="aligncenter" width="545"]<img class="size-full wp-image-3509" title="ritratto di steve job da giovane" src="https://media.eliocarchidi.com/uploads/2014/01/ritratto-di-steve-job-da-giovane.jpg" alt="ritratto di steve job da giovane" width="545" height="413" /> Uno Steve Job giovane e pensoso ai tempi del Mac (30 anni fa)[/caption]
 
 Magari l'esperienza raccontata potrà pure essere utile a qualcuno, per esempio a chi ancora <strong>nutre dei dubbi</strong> riguardo le proprie <strong>scelte lavorative</strong> a conferma del fatto che farsi guidare dal proprio istinto pur scontrandosi con le mode il più delle volte "ripaga" e anticipa!
 
@@ -26,7 +26,7 @@ Ho trovato dunque giusto e doveroso da parte mia rivolgere i miei migliori e sin
 
 Anche per me <strong>30 anni fa</strong> iniziò questa passione che ancora vive e dalla quale da allora non sono più riuscito a staccarmi.
 
-[caption id="attachment_3513" align="aligncenter" width="446"]<img class="size-full wp-image-3513" src="//www.eliocarchidi.com/wp-content/uploads/2014/01/primo-mac-elio-carchidi.jpg" alt="Il mio primo Mac" width="446" height="463" /> Eccomi sottobraccio al mio secondo amato "Primo Mac"[/caption]
+[caption id="attachment_3513" align="aligncenter" width="446"]<img class="size-full wp-image-3513" src="https://media.eliocarchidi.com/uploads/2014/01/primo-mac-elio-carchidi.jpg" alt="Il mio primo Mac" width="446" height="463" /> Eccomi sottobraccio al mio secondo amato "Primo Mac"[/caption]
 
 Se non ricordo male spesi circa 2.500.000 Lire (una fortuna) ed eravamo davvero in pochi a possederlo il "<strong>Mac</strong>".
 
@@ -52,7 +52,7 @@ In aggiunta riceverai in anteprima l'aggiornamento sulla data di pubblicazione d
 
 <strong>La registrazione è ASSOLUTAMENTE GRATUITA e non comporta alcun impegno da parte tua!</strong>
 
-[caption id="attachment_3302" align="aligncenter" width="550"]<img class="size-full wp-image-3302" src="//www.eliocarchidi.com/wp-content/uploads/2013/11/diventare-fotografo-professionista-uscita.jpg" alt="Diventare Fotografo Professionista" width="550" height="326" /> <em><strong>Diventare Fotografo professionista</strong>, in uscita a breve</em>[/caption]
+[caption id="attachment_3302" align="aligncenter" width="550"]<img class="size-full wp-image-3302" src="https://media.eliocarchidi.com/uploads/2013/11/diventare-fotografo-professionista-uscita.jpg" alt="Diventare Fotografo Professionista" width="550" height="326" /> <em><strong>Diventare Fotografo professionista</strong>, in uscita a breve</em>[/caption]
 
 <div style="background-color: #eeeeee; border: 1px solid #cccccc; margin: 15px 0px 15px 0px; padding: 25px;"><form id="mc-embedded-subscribe-form" class="validate" action="//eliocarchidi.us7.list-manage.com/subscribe/post?u=7ceb484eec890b0a95345f084&id=3a1d00797f" method="post" name="mc-embedded-subscribe-form" novalidate="" target="_blank"><label for="mce-EMAIL">Ricevi gli aggiornamenti. Lascia il tuo indirizzo email</label>
 <input id="mce-EMAIL" class="email" name="EMAIL" required="" type="email" value="" placeholder="indirizzo email" /></form></div>

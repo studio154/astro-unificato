@@ -4,13 +4,13 @@ team: "elio-carchidi"
 pubDate: 2019-04-12
 description: "I migliori flash fotografici sono quelli che ti rendono la vita semplice in ogni situazione. [toc heading_levels=\"3,4\" class=\"centra-toc\"] Quali sono..."
 image:
-  url: "https://www.eliocarchidi.com/wp-content/uploads/2019/04/Fotografo-professionista-a-Roma-1.jpg"
+  url: "https://media.eliocarchidi.com/uploads/2019/04/Fotografo-professionista-a-Roma-1.jpg"
   alt: "I migliori flash fotografici per scattare dentro e fuori. Di giorno o di notte."
 tags: ["flash fotografici","flash fotografico","luce flash","luce fotografica artificiale"]
 ---
 
 <!-- wp:image {"id":13929} -->
-<figure class="wp-block-image"><img src="https://www.eliocarchidi.com/wp-content/uploads/2019/04/migliori-flash-fotografici-del-mondo.jpg" alt="I migliori flash fotografici del mondo" class="wp-image-13929"/><figcaption><strong>I migliori flash fotografici sono quelli che ti rendono la vita semplice in ogni situazione.</strong></figcaption></figure>
+<figure class="wp-block-image"><img src="https://media.eliocarchidi.com/uploads/2019/04/migliori-flash-fotografici-del-mondo.jpg" alt="I migliori flash fotografici del mondo" class="wp-image-13929"/><figcaption><strong>I migliori flash fotografici sono quelli che ti rendono la vita semplice in ogni situazione.</strong></figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:shortcode -->
@@ -34,7 +34,7 @@ tags: ["flash fotografici","flash fotografico","luce flash","luce fotografica ar
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":13940,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="https://www.forumdifotografia.com/store/product/407-kit-flash-fotografici-professionali-portatili-profoto-b10/" target="_blank" rel="noreferrer noopener"><img src="https://www.eliocarchidi.com/wp-content/uploads/2019/04/kit-flash-fotografici-professionali-profoto-B10-portatile-1024x1024.jpg" alt="" class="wp-image-13940"/></a><figcaption>I migliori flash fotografici per lavorare senza pensieri: Profoto B10 a batteria</figcaption></figure>
+<figure class="wp-block-image"><a href="https://www.forumdifotografia.com/store/product/407-kit-flash-fotografici-professionali-portatili-profoto-b10/" target="_blank" rel="noreferrer noopener"><img src="https://media.eliocarchidi.com/uploads/2019/04/kit-flash-fotografici-professionali-profoto-B10-portatile-1024x1024.jpg" alt="" class="wp-image-13940"/></a><figcaption>I migliori flash fotografici per lavorare senza pensieri: Profoto B10 a batteria</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3} -->
@@ -46,7 +46,7 @@ tags: ["flash fotografici","flash fotografico","luce flash","luce fotografica ar
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":13942,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="https://www.forumdifotografia.com/store/product/406-flash-fotografico-portatile-professionale-b10-profoto/" target="_blank" rel="noreferrer noopener"><img src="https://www.eliocarchidi.com/wp-content/uploads/2019/04/flash-fotografico-professionale-profoto-B10-noleggio-1023x1024.jpg" alt="" class="wp-image-13942"/></a><figcaption>Il flash fotografico della profoto (modello B10) è ottimo anche come fonte di luce continua</figcaption></figure>
+<figure class="wp-block-image"><a href="https://www.forumdifotografia.com/store/product/406-flash-fotografico-portatile-professionale-b10-profoto/" target="_blank" rel="noreferrer noopener"><img src="https://media.eliocarchidi.com/uploads/2019/04/flash-fotografico-professionale-profoto-B10-noleggio-1023x1024.jpg" alt="" class="wp-image-13942"/></a><figcaption>Il flash fotografico della profoto (modello B10) è ottimo anche come fonte di luce continua</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3} -->

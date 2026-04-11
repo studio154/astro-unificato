@@ -4,12 +4,12 @@ team: "elio-carchidi"
 pubDate: 2017-10-24
 description: "[caption id=\"attachment_12806\" align=\"aligncenter\" width=\"800\"] Marketing per fotografi: coltivare la propria crescita è la soluzione![/caption] [toc..."
 image:
-  url: "https://www.eliocarchidi.com/wp-content/uploads/2017/10/marketing-per-fotografi-agricoltore-cacciatore-600.jpg"
+  url: "https://media.eliocarchidi.com/uploads/2017/10/marketing-per-fotografi-agricoltore-cacciatore-600.jpg"
   alt: "Marketing per fotografi: sei più cacciatore o agricoltore?"
 tags: ["marketing fotografi","seo fotografi"]
 ---
 
-[caption id="attachment_12806" align="aligncenter" width="800"]<img src="https://www.eliocarchidi.com/wp-content/uploads/2017/10/marketing-per-fotografi-agricoltore-cacciatore-800-c.jpg" alt="Marketing per fotografi" width="800" height="300" class="size-full wp-image-12806" /> Marketing per fotografi: coltivare la propria crescita è la soluzione![/caption]
+[caption id="attachment_12806" align="aligncenter" width="800"]<img src="https://media.eliocarchidi.com/uploads/2017/10/marketing-per-fotografi-agricoltore-cacciatore-800-c.jpg" alt="Marketing per fotografi" width="800" height="300" class="size-full wp-image-12806" /> Marketing per fotografi: coltivare la propria crescita è la soluzione![/caption]
 [toc heading_levels="3,4" class="centra-toc"]
 <p class="intro">Oggi nel marketing per fotografi esistono sostanzialmente 2 modi per procacciare clienti e per provare a far crescere la propria autorevolezza: la caccia vs l'agricoltura.</p>
 <hr />

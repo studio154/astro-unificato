@@ -4,13 +4,13 @@ team: "elio-carchidi"
 pubDate: 2023-07-08
 description: "Consigli e suggerimenti su come vestirsi per il servizio fotografico [toc class=\"centra-toc\"] Una delle domande più frequenti che viene posta ad un f..."
 image:
-  url: "https://www.eliocarchidi.com/wp-content/uploads/2022/01/come-vestirti-per-il-tuo-photoshooting-2.jpeg"
+  url: "https://media.eliocarchidi.com/uploads/2022/01/come-vestirti-per-il-tuo-photoshooting-2.jpeg"
   alt: "Come vestirsi per il servizio fotografico: 10 +1 consigli e 2 suggerimenti utili."
 tags: ["Book Fotografici - Articoli","servizi fotografici"]
 ---
 
 <!-- wp:image {"id":16531,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="https://www.eliocarchidi.com/wp-content/uploads/2022/01/come-vestirti-per-il-tuo-photoshooting-2.jpeg" alt="Come vestirsi per il servizio fotografico. Consigli e suggerimenti." class="wp-image-16531"/><figcaption class="wp-element-caption">Consigli e suggerimenti su come vestirsi per il servizio fotografico</figcaption></figure>
+<figure class="wp-block-image size-full"><img src="https://media.eliocarchidi.com/uploads/2022/01/come-vestirti-per-il-tuo-photoshooting-2.jpeg" alt="Come vestirsi per il servizio fotografico. Consigli e suggerimenti." class="wp-image-16531"/><figcaption class="wp-element-caption">Consigli e suggerimenti su come vestirsi per il servizio fotografico</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:shortcode -->
@@ -155,7 +155,7 @@ tags: ["Book Fotografici - Articoli","servizi fotografici"]
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":16595,"sizeSlug":"full","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-full"><img src="https://www.eliocarchidi.com/wp-content/uploads/2022/01/come-vestirsi-bene-per-un-servizio-fotografico.jpeg" alt="Come vestirsi per un servizio fotografico" class="wp-image-16595"/><figcaption class="wp-element-caption">Usare maniche e gonne lunghe o pantaloni può essere una buona idea.</figcaption></figure>
+<figure class="wp-block-image aligncenter size-full"><img src="https://media.eliocarchidi.com/uploads/2022/01/come-vestirsi-bene-per-un-servizio-fotografico.jpeg" alt="Come vestirsi per un servizio fotografico" class="wp-image-16595"/><figcaption class="wp-element-caption">Usare maniche e gonne lunghe o pantaloni può essere una buona idea.</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -285,7 +285,7 @@ tags: ["Book Fotografici - Articoli","servizi fotografici"]
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":16598,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="https://www.eliocarchidi.com/wp-content/uploads/2022/01/come-vestirsi-in-un-servizio-fotografico-1.jpeg" alt="" class="wp-image-16598"/><figcaption class="wp-element-caption">Esprimiti liberamente come veramente senti e mostra quello che sei.</figcaption></figure>
+<figure class="wp-block-image size-full"><img src="https://media.eliocarchidi.com/uploads/2022/01/come-vestirsi-in-un-servizio-fotografico-1.jpeg" alt="" class="wp-image-16598"/><figcaption class="wp-element-caption">Esprimiti liberamente come veramente senti e mostra quello che sei.</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -505,7 +505,7 @@ tags: ["Book Fotografici - Articoli","servizi fotografici"]
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":16599,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="https://www.eliocarchidi.com/wp-content/uploads/2022/01/abbigliamento-per-un-servizio-fotografico-1.jpeg" alt="trucco per servizio fotografico personale" class="wp-image-16599"/></figure>
+<figure class="wp-block-image size-full"><img src="https://media.eliocarchidi.com/uploads/2022/01/abbigliamento-per-un-servizio-fotografico-1.jpeg" alt="trucco per servizio fotografico personale" class="wp-image-16599"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

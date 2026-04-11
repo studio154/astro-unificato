@@ -4,13 +4,13 @@ team: "elio-carchidi"
 pubDate: 2019-12-08
 description: "Cosa mi ha insegnato il ritratto di Pierluigi Collina riguardo al fatto di rivolgersi ad un fotografo professionista? Che non solo i VIP possono otte..."
 image:
-  url: "https://www.eliocarchidi.com/wp-content/uploads/2019/12/7.png"
+  url: "https://media.eliocarchidi.com/uploads/2019/12/7.png"
   alt: "Uno dei migliori ritratti fotografici al mondo che puoi effettivamente avere anche tu."
 tags: ["fotografi famosi","ritratti celebrità","ritratti fotografici","ritratto fotografico"]
 ---
 
 <!-- wp:image {"id":14542,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://www.eliocarchidi.com/wp-content/uploads/2019/12/migliori-ritratti-fotografici-al-mondo-1.jpg" alt="Migliori Ritratti Fotografici al Mondo" class="wp-image-14542"/></figure>
+<figure class="wp-block-image size-large"><img src="https://media.eliocarchidi.com/uploads/2019/12/migliori-ritratti-fotografici-al-mondo-1.jpg" alt="Migliori Ritratti Fotografici al Mondo" class="wp-image-14542"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"className":"intro"} -->

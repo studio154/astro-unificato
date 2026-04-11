@@ -4,12 +4,12 @@ team: "elio-carchidi"
 pubDate: 2012-07-25
 description: "Hi everybody, are you finding for a photographer to take your photo shoot in Italy? Are you finding for Italian Photographers English Speaking? You’r..."
 image:
-  url: "http://eliocarchidi.com/wp-content/uploads/2011/05/Elio_Closeup02.jpg"
+  url: "https://media.eliocarchidi.com/uploads/2011/05/Elio_Closeup02.jpg"
   alt: "Italian Photographers English Speaking"
 tags: []
 ---
 
-<img class="alignleft size-thumbnail wp-image-4075" src="//www.eliocarchidi.com/wp-content/uploads/2014/11/Ritratto-fotografia-tondo-small-Elio_Closeup02-150x150.jpg" alt="Fotografo Elio Leonardo Carchidi" width="150" height="150" />
+<img class="alignleft size-thumbnail wp-image-4075" src="https://media.eliocarchidi.com/uploads/2014/11/Ritratto-fotografia-tondo-small-Elio_Closeup02-150x150.jpg" alt="Fotografo Elio Leonardo Carchidi" width="150" height="150" />
 Hi everybody,
 are you finding for a photographer to take your photo shoot in Italy? Are you finding for Italian Photographers English Speaking?
 <h3>You’re in luck!</h3>

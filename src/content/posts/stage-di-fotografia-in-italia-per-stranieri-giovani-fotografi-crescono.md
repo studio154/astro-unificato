@@ -4,12 +4,12 @@ team: "elio-carchidi"
 pubDate: 2012-12-17
 description: "[caption id=\"attachment_2230\" align=\"aligncenter\" width=\"576\"] Istituto di Formazione Professionale Fotografica di Madrid[/caption] Il termine \"Stage\"..."
 image:
-  url: "http://www.eliocarchidi.com/wp-content/uploads/2012/12/elio-luca-david-studio154.jpg"
+  url: "http:https://media.eliocarchidi.com/uploads/2012/12/elio-luca-david-studio154.jpg"
   alt: "Stage di fotografia in Italia per stranieri: giovani fotografi crescono"
 tags: []
 ---
 
-[caption id="attachment_2230" align="aligncenter" width="576"]<img class=" wp-image-2230" title="Istituto-formazione-fotografia-madrid" src="//www.eliocarchidi.com/wp-content/uploads/2012/12/4068621901_48942c26a5_z.jpg" alt="Istituto di Formazione per la Fotografia" width="576" height="432" /> Istituto di Formazione Professionale Fotografica di Madrid[/caption]
+[caption id="attachment_2230" align="aligncenter" width="576"]<img class=" wp-image-2230" title="Istituto-formazione-fotografia-madrid" src="https://media.eliocarchidi.com/uploads/2012/12/4068621901_48942c26a5_z.jpg" alt="Istituto di Formazione per la Fotografia" width="576" height="432" /> Istituto di Formazione Professionale Fotografica di Madrid[/caption]
 
 Il termine "Stage" indica un periodo di "tirocinio formativo". Nello specifico con il termine "Stage di Fotografia" si intende la pratica di ospitare un giovane Fotografo (di norma straniero) in uno Studio Fotografico Professionale. L'apprendista Fotografo frequenta per un periodo prestabilito lo Studio con l'obiettivo di diventare in futuro lui stesso un professionista della Fotografia.
 
@@ -45,7 +45,7 @@ David è un giovane fotografo spagnolo di Madrid che frequenta lo IES.
 
 È lui l'ultimo ragazzo, in ordine di tempo, che è stato ospite nel mio studio.
 
-[caption id="attachment_2234" align="aligncenter" width="576"]<img class=" wp-image-2234" title="elio-luca-david-studio154" src="//www.eliocarchidi.com/wp-content/uploads/2012/12/elio-luca-david-studio154.jpg" alt="Studio Fotografico Studio154, David, Elio e Luca" width="576" height="432" /> David, Elio e Luca nello Studio Fotografico di Studio154 a Roma[/caption]
+[caption id="attachment_2234" align="aligncenter" width="576"]<img class=" wp-image-2234" title="elio-luca-david-studio154" src="https://media.eliocarchidi.com/uploads/2012/12/elio-luca-david-studio154.jpg" alt="Studio Fotografico Studio154, David, Elio e Luca" width="576" height="432" /> David, Elio e Luca nello Studio Fotografico di Studio154 a Roma[/caption]
 
 Bene: una vera e propria rivelazione. Questo ragazzo 27enne si è dimostrato sin dal primo momento disponibile, efficiente. Davvero un gran lavoratore dotato di una grande dose di passione per la Fotografia e della giusta dose di umiltà. Si è perfettamente integrato nella nostra struttura in poche ore diventando uno dei nostri.
 
@@ -59,11 +59,11 @@ In poco meno di 40 giorni David ha avuto occasione di assistere e di partecipare
 
 La cosa per la quale David confessava di esserci di più grati è stata quella di aver avuto l'occasione di conoscere i grandi "Dire Straits", ospiti del nostro studio, dei quali è fan sfegatato da quando era bambino e dei quali aveva assistito a tutti i concerti. Non poteva credere ai suoi occhi.
 
-[caption id="attachment_2239" align="aligncenter" width="500"]<img class="size-full wp-image-2239" title="david-direstraits" src="//www.eliocarchidi.com/wp-content/uploads/2012/12/david-direstraits.jpg" alt="David a Studio154 con un "pezzo" dei Dire Straits" width="500" height="333" /> David a Studio154 con un "pezzo" dei Dire Straits[/caption]
+[caption id="attachment_2239" align="aligncenter" width="500"]<img class="size-full wp-image-2239" title="david-direstraits" src="https://media.eliocarchidi.com/uploads/2012/12/david-direstraits.jpg" alt="David a Studio154 con un "pezzo" dei Dire Straits" width="500" height="333" /> David a Studio154 con un "pezzo" dei Dire Straits[/caption]
 
 Un'altra passione di David sono le automobili. Lui, infatti, prima di dedicarsi alla Fotografia, proprio per la passione dei motori che aveva, ha lavorato per circa 8 anni come autista di pulman. Trovarsi all'interno dell'Aston Martin originale di james Bond per lui è stato come vivere in un sogno. A pochi giorni dal suo arrivo a Roma si è verificata la circostanza di dover fotografare questa vettura nel nostro Studio Fotografico Daylight. David si trovava così a lavorare su un set fotografico del quale la protagonista era la sua macchina preferita.
 
-[caption id="attachment_2253" align="aligncenter" width="550"]<img class="size-full wp-image-2253" title="aston-martin-david-studio154" src="//www.eliocarchidi.com/wp-content/uploads/2012/12/aston-martin-david-studio154.jpg" alt="Aston Martin Fotografia in Studio Fotografico" width="550" height="413" /> L'Aston Martin di James Bond con David alla guida...[/caption]
+[caption id="attachment_2253" align="aligncenter" width="550"]<img class="size-full wp-image-2253" title="aston-martin-david-studio154" src="https://media.eliocarchidi.com/uploads/2012/12/aston-martin-david-studio154.jpg" alt="Aston Martin Fotografia in Studio Fotografico" width="550" height="413" /> L'Aston Martin di James Bond con David alla guida...[/caption]
 
 E poi nei giorni a seguire ha assistito me e Luca nella realizzazione di alcuni Servizi Fotografici di Still-life per il gioiello e durante la realizzazione di Cataloghi di Moda e Look Book.
 

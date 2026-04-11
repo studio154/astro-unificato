@@ -4,13 +4,13 @@ team: "elio-carchidi"
 pubDate: 2014-07-18
 description: "\"Perchè mi sta succedendo questo? Perché sto arrivando ad odiare la fotografia? Una delle cose che ho amato veramente, la fotografia, si sta trasforma..."
 image:
-  url: "https://www.eliocarchidi.com/wp-content/uploads/2014/07/fare-soldi-con-la-fotografia-300.jpg"
+  url: "https://media.eliocarchidi.com/uploads/2014/07/fare-soldi-con-la-fotografia-300.jpg"
   alt: "Come fare soldi con la fotografia, come fare il fotografo senza dover svendere la propria macchina fotografica"
 tags: ["Blog del Fotografo","Blog di Fotografia"]
 ---
 
 <blockquote>"Perchè mi sta succedendo questo? Perché sto arrivando ad odiare la fotografia? Una delle cose che ho amato veramente, la fotografia, si sta trasformando in qualcosa di odioso che sta distruggendo la mia creatività, sta uccidendo la mia passione e sta caricando la mia vita di stress!"</blockquote>
-<a href="//www.eliocarchidi.com/wp-content/uploads/2014/07/fare-soldi-con-la-fotografia.jpg"><img class="aligncenter size-full wp-image-3813" src="//www.eliocarchidi.com/wp-content/uploads/2014/07/fare-soldi-con-la-fotografia.jpg" alt="fare soldi con la fotografia" width="550" height="287" /></a>
+<a href="https://media.eliocarchidi.com/uploads/2014/07/fare-soldi-con-la-fotografia.jpg"><img class="aligncenter size-full wp-image-3813" src="https://media.eliocarchidi.com/uploads/2014/07/fare-soldi-con-la-fotografia.jpg" alt="fare soldi con la fotografia" width="550" height="287" /></a>
 
 Sono passati un pò di anni da quando, per inseguire <strong>la mia passione per la fotografia</strong>, mi sono trasferito a Roma per frequentare prima l'Università e poi iscrivermi ad una delle più prestigiose <strong>Scuole di Fotografia della città</strong>.
 

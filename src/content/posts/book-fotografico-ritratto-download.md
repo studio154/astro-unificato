@@ -4,7 +4,7 @@ team: "elio-carchidi"
 pubDate: 2018-12-28
 description: "Questo mio Book Fotografico di Ritratto contiene una selezione, aggiornata al 2012, di Fotografie di Personaggi Italiani Famosi. Se desideri dare un'o..."
 image:
-  url: "http://www.eliocarchidi.com/wp-content/uploads/2011/05/copertina_book_elio1.jpg"
+  url: "http:https://media.eliocarchidi.com/uploads/2011/05/copertina_book_elio1.jpg"
   alt: "Book Fotografico di Ritratto"
 tags: ["Book Fotografici - Articoli","Fotografi Professionisti","book fotografico","bravo fotografo","fotografi","fotografi famosi","fotografi roma","fotografia","fotografo bravo","fotografo famoso","fotografo professionista","fotografo roma","migliore fotografo","personaggi famosi","portfolio fotografici","portfolio fotografico","ritratti celebrità","ritratti fotografici","ritratti vip","ritratto celebrità","ritratto fotografico","ritratto vip","servizi fotografici","servizio fotografico","studi fotografici","studio fotografico"]
 ---
@@ -22,7 +22,7 @@ Se sei interessato a seguire in tempo reale tutti i miei nuovi progetti fotograf
 </ol>
 Una volta ottenuto l'accesso, potrai anche scaricarne una copia sulla tua scrivania e così guardarlo ogni volta che lo vorrai!
 
-[caption id="attachment_623" align="aligncenter" width="331"]<img class=" wp-image-623  " title="copertina_book_elio" src="//www.eliocarchidi.com/wp-content/uploads/2011/05/copertina_book_elio1.jpg" alt="Copertina del Book Fotografico di Elio Carchidi" width="331" height="427" /> La copertina del mio Libro Fotografico di Ritratto[/caption]
+[caption id="attachment_623" align="aligncenter" width="331"]<img class=" wp-image-623  " title="copertina_book_elio" src="https://media.eliocarchidi.com/uploads/2011/05/copertina_book_elio1.jpg" alt="Copertina del Book Fotografico di Elio Carchidi" width="331" height="427" /> La copertina del mio Libro Fotografico di Ritratto[/caption]
 
 <strong>SE DESIDERI PUBBLICARE IL MIO BOOK FOTOGRAFICO SUL TUO SITO</strong> (puoi farlo liberamente):
 

@@ -4,7 +4,7 @@ team: "elio-carchidi"
 pubDate: 2025-07-09
 description: "Ecco un post chiaro, semplice e adatto a \"non tecnici\", per spiegare in modo comprensibile le differenze tra ottimizzazione foto, ritocco semplice e..."
 image:
-  url: "https://www.eliocarchidi.com/wp-content/uploads/2025/07/fotografia-ottimizzazione-base-1.jpg"
+  url: "https://media.eliocarchidi.com/uploads/2025/07/fotografia-ottimizzazione-base-1.jpg"
   alt: "📸 Perché la tua foto professionale non è come un selfie (e cosa vuol dire ritoccarla davvero)"
 tags: ["ottimizzazione foto","servizio fotografico"]
 ---
@@ -46,7 +46,7 @@ tags: ["ottimizzazione foto","servizio fotografico"]
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":18723,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="https://www.eliocarchidi.com/wp-content/uploads/2025/07/fotografia-ottimizzazione-base-1.jpg" alt="ottimizzazione base foto raw" class="wp-image-18723"/></figure>
+<figure class="wp-block-image size-full"><img src="https://media.eliocarchidi.com/uploads/2025/07/fotografia-ottimizzazione-base-1.jpg" alt="ottimizzazione base foto raw" class="wp-image-18723"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -66,7 +66,7 @@ tags: ["ottimizzazione foto","servizio fotografico"]
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":18724,"width":"300px","sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="https://www.eliocarchidi.com/wp-content/uploads/2025/07/ritocco-fotografico-semplice-1.jpg" alt="ottimizzazione foto ritocco semplice" class="wp-image-18724" style="width:300px"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="https://media.eliocarchidi.com/uploads/2025/07/ritocco-fotografico-semplice-1.jpg" alt="ottimizzazione foto ritocco semplice" class="wp-image-18724" style="width:300px"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -86,7 +86,7 @@ tags: ["ottimizzazione foto","servizio fotografico"]
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":18727,"width":"300px","sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full is-resized"><img src="https://www.eliocarchidi.com/wp-content/uploads/2025/07/ritocco-fotografico-avanzato-1.jpg" alt="" class="wp-image-18727" style="width:300px"/></figure>
+<figure class="wp-block-image size-full is-resized"><img src="https://media.eliocarchidi.com/uploads/2025/07/ritocco-fotografico-avanzato-1.jpg" alt="" class="wp-image-18727" style="width:300px"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

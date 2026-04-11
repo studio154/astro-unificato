@@ -4,7 +4,7 @@ team: "elio-carchidi"
 pubDate: 2012-12-11
 description: "Riflessione semiseria sulla Fotografia di Moda e sull'aspirante Fotografo di Moda... Il Fotografo di Moda ama essere \"cool\"! Anche io ho provato, in..."
 image:
-  url: "https://www.eliocarchidi.com/wp-content/uploads/2012/12/orangotango-fotografo.jpg"
+  url: "https://media.eliocarchidi.com/uploads/2012/12/orangotango-fotografo.jpg"
   alt: "Al Fotografo di Moda piace il \"cool\"!"
 tags: ["Blog del Fotografo","Fotografo Blogger"]
 ---
@@ -16,7 +16,7 @@ Il Fotografo di Moda ama essere "cool"!
 
 Anche io ho provato, in veste di Fotografo, qualche anno fa, a diventare "cool" e quindi nessun biasimo nei confronti di chi oggi, appassionato di Fotografia, continua ad essere affascinato dal volerlo diventare ad ogni costo.
 
-<img class="aligncenter size-full wp-image-2209" title="orangotango-fotografo" src="//www.eliocarchidi.com/wp-content/uploads/2012/12/orangotango-fotografo.jpg" alt="L' orango tango fotografo di moda" width="600" height="461" />
+<img class="aligncenter size-full wp-image-2209" title="orangotango-fotografo" src="https://media.eliocarchidi.com/uploads/2012/12/orangotango-fotografo.jpg" alt="L' orango tango fotografo di moda" width="600" height="461" />
 
 Vent'anni fa però era tutto un pò diverso. Oggi la domanda si è molto ridimensionata e l'offerta, al contrario, è molto inflazionata.
 
@@ -38,7 +38,7 @@ Nella fase evolutiva che porta un tranquillo e appassionato fotografo (non ancor
 
 Veri ed evidenti cambiamenti "fisici", "estetici" ed "interiori".
 
-<img class="aligncenter size-full wp-image-2207" title="scimmia-fotografo" src="//www.eliocarchidi.com/wp-content/uploads/2012/12/scimmia-fotografo.jpg" alt="Il fotografo di Moda cool" width="600" height="395" />
+<img class="aligncenter size-full wp-image-2207" title="scimmia-fotografo" src="https://media.eliocarchidi.com/uploads/2012/12/scimmia-fotografo.jpg" alt="Il fotografo di Moda cool" width="600" height="395" />
 
 Ad esempio alcuni di loro, con vista da falco, li vedi indossare grandi occhialoni (ovviamente con lenti non graduate) che però sono, appunto, alla moda.
 
@@ -60,7 +60,7 @@ Insomma il Fotografo di Moda è votato al sacrificio. Va a letto tardi e ha semp
 
 È necessario farlo. A tutti i costi: il gioco vale la candela.
 
-<img class="aligncenter size-full wp-image-2212" title="fotografi-stilisti-milanesi" src="//www.eliocarchidi.com/wp-content/uploads/2012/12/fotografi-stilisti-milanesi.jpg" alt="Fotografo Cool e stilista Cool" width="500" height="345" />
+<img class="aligncenter size-full wp-image-2212" title="fotografi-stilisti-milanesi" src="https://media.eliocarchidi.com/uploads/2012/12/fotografi-stilisti-milanesi.jpg" alt="Fotografo Cool e stilista Cool" width="500" height="345" />
 
 Essere un fotografo alla moda è (quasi) sempre meglio che non esserlo:
 

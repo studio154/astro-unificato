@@ -4,7 +4,7 @@ team: "elio-carchidi"
 pubDate: 2013-10-16
 description: "Vi presento alcuni degli ospiti del mio studio... Sono passati circa 7 anni da quando, per la prima volta, ho aperto al \"pubblico\" il mio Studio Foto..."
 image:
-  url: "https://www.eliocarchidi.com/wp-content/uploads/2013/10/clienti-elio-carchidi-300.jpg"
+  url: "https://media.eliocarchidi.com/uploads/2013/10/clienti-elio-carchidi-300.jpg"
   alt: "Testimonial, attrici e personaggi famosi ospiti dello Studio Fotografico Studio154"
 tags: ["Blog di Fotografia","Fotografo Blogger"]
 ---

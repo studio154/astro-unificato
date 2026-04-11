@@ -4,7 +4,7 @@ team: "elio-carchidi"
 pubDate: 2014-01-15
 description: "A pensarci bene trovo veramente paradossale che in un momento come quello che stiamo vivendo altro non si senta dire in giro che \"la fotografia è mor..."
 image:
-  url: "https://www.eliocarchidi.com/wp-content/uploads/2014/01/fotografare-con-iphone-300.jpg"
+  url: "https://media.eliocarchidi.com/uploads/2014/01/fotografare-con-iphone-300.jpg"
   alt: "\"La fotografia è morta, viva la fotografia!\" Colpa di Iphone e di Instagram?"
 tags: ["fotocamera digitale","fotografo professionista","instagram","iphone","la fotografia è morta","libri","professione fotografo"]
 ---
@@ -12,7 +12,7 @@ tags: ["fotocamera digitale","fotografo professionista","instagram","iphone","la
 <div class="separatore"></div>
 A pensarci bene <strong>trovo veramente paradossale</strong> che in un momento come quello che stiamo vivendo altro non si senta dire in giro che "<strong>la fotografia è morta</strong>".
 
-[caption id="attachment_3461" align="aligncenter" width="550"]<img class="size-full wp-image-3461" src="//www.eliocarchidi.com/wp-content/uploads/2014/01/la-fotografia-e-morta.jpg" alt="La fotografia e morta" width="550" height="580" /> La fotografia è morta? Colpa di IPhone e Instagram![/caption]
+[caption id="attachment_3461" align="aligncenter" width="550"]<img class="size-full wp-image-3461" src="https://media.eliocarchidi.com/uploads/2014/01/la-fotografia-e-morta.jpg" alt="La fotografia e morta" width="550" height="580" /> La fotografia è morta? Colpa di IPhone e Instagram![/caption]
 
 Eppure mai come adesso la <strong>fotografia è viva</strong>.
 
@@ -28,7 +28,7 @@ Mio padre possedeva infatti una fantastica <strong>fotocamera reflex "Praktica"<
 
 Ovviamente non succedeva tutti i giorni, capitava che io scattassi, se non ricordo male, 4 o 5 volte all'anno e ogni volta, prima di incominciare, dovevo valutare preventivamente la spesa che avrei dovuto sostenere. Per verificare il risultato del mio "lavoro" dovevo attendere un bel pò di tempo, anche mesi. <strong>Un "rullino"</strong> poteva rimanere montato nella <strong>macchina fotografica</strong> anche per anni interi prima di arrivare alla fine e quindi poter essere stampato.
 
-[caption id="attachment_3469" align="aligncenter" width="528"]<img class="size-full wp-image-3469" src="//www.eliocarchidi.com/wp-content/uploads/2014/01/fotocamera-praktica-anni60.jpg" alt="Fotocamera praktica anni 60" width="528" height="436" /> La vecchia fotocamera Praktica di mio padre[/caption]
+[caption id="attachment_3469" align="aligncenter" width="528"]<img class="size-full wp-image-3469" src="https://media.eliocarchidi.com/uploads/2014/01/fotocamera-praktica-anni60.jpg" alt="Fotocamera praktica anni 60" width="528" height="436" /> La vecchia fotocamera Praktica di mio padre[/caption]
 
 <strong>La fotografia</strong>, allora, rappresentava davvero una "<strong>memoria storica</strong>": le foto del mio compleanno, che cade a giugno, capitava di vederle a Natale quando ero già invecchiato di 6 mesi :-(
 
@@ -42,7 +42,7 @@ E non ci bastano neppure. Siamo sempre pronti ad acquistarne di nuove perchè ta
 
 <strong>Mio figlio Valerio</strong>, che ha quasi 11 anni, possiede (come tutti i suoi amici del resto) la sua <strong>bella macchina fotografica</strong>, il suo Mini Ipad e la Nintendo DS: ogni volta ha l'imbarazzo della scelta su quale di questi strumenti usare <strong>per fare le sue fotografie</strong> e raccontare le sue esperienze.
 
-[caption id="attachment_3491" align="aligncenter" width="550"]<img class="size-full wp-image-3491" src="//www.eliocarchidi.com/wp-content/uploads/2014/01/bambini-con-iphone.jpg" alt="Bambini con IPhone" width="550" height="310" /> Beata gioventù! Ai miei tempi non era così...[/caption]
+[caption id="attachment_3491" align="aligncenter" width="550"]<img class="size-full wp-image-3491" src="https://media.eliocarchidi.com/uploads/2014/01/bambini-con-iphone.jpg" alt="Bambini con IPhone" width="550" height="310" /> Beata gioventù! Ai miei tempi non era così...[/caption]
 
 Scatta belle immagini rivedendole in tempo reale e racconta tante storie ogni volta che ne ha voglia. Se qualcuna delle foto che fa non gli piace la cestina e la rifà cambiando inquadratura, composizione etc. Quando è ispirato può arrivare a scattare anche <strong>centinaia di immagini</strong>.
 
@@ -54,7 +54,7 @@ Io insisto col dire che questo è veramente <strong>un momento storico per la fo
 
 <strong>Iphone e Instagram</strong> sono semplicemente due dei simboli più rappresentativi di questo cambiamento sono gli strumenti attraverso i quali tutti noi stiamo mettendo in atto questa grande "<strong>rivoluzione fotografica</strong>".
 
-[caption id="attachment_3467" align="aligncenter" width="550"]<img class="size-full wp-image-3467" src="//www.eliocarchidi.com/wp-content/uploads/2014/01/instagram-filtri-effetti.jpg" alt="IPhone e Instagram effetti e filtri" width="550" height="275" /> Effetti e filtri fotografici con IPhone e Instagram[/caption]
+[caption id="attachment_3467" align="aligncenter" width="550"]<img class="size-full wp-image-3467" src="https://media.eliocarchidi.com/uploads/2014/01/instagram-filtri-effetti.jpg" alt="IPhone e Instagram effetti e filtri" width="550" height="275" /> Effetti e filtri fotografici con IPhone e Instagram[/caption]
 
 Nessuno può dire se sia giusto o sbagliato ma la cosa è innegabile e certamente irreversibile.
 
@@ -78,7 +78,7 @@ C'è da preoccuparsi?
 
 Forse qualcosa di vero in queste affermazioni ci sarà pure ma non vi nego che per quanto ci provi non riesco a convincermi del tutto.
 
-[caption id="attachment_3471" align="aligncenter" width="550"]<img class="size-full wp-image-3471 " src="//www.eliocarchidi.com/wp-content/uploads/2014/01/fotografare-con-iphone.jpg" alt="Fare fotografie con Iphone" width="550" height="355" /> Fotografare con Iphone fa malissimo, attenti a come usarlo![/caption]
+[caption id="attachment_3471" align="aligncenter" width="550"]<img class="size-full wp-image-3471 " src="https://media.eliocarchidi.com/uploads/2014/01/fotografare-con-iphone.jpg" alt="Fare fotografie con Iphone" width="550" height="355" /> Fotografare con Iphone fa malissimo, attenti a come usarlo![/caption]
 
 Da che mondo è mondo il progresso, oltre a portarsi dietro vittime innocenti, ha regalato all'umanità intera anche grandi benefici. <strong>Perché nella fotografia non dovrebbe essere così?</strong>
 
@@ -104,7 +104,7 @@ Non mi sono risentito granchè, un pò me lo aspettavo. Il soggetto rientra in q
 
 Assisto dunque anch'io come tutti allo svilimento della <strong>professionalità del fotografo</strong> e in parte la subisco. Però non riesco per questo ad immaginare che la colpa di tutto questo sia da attribuire ad un'<strong>apparecchiatura tecnologica</strong> e/o ad un <strong>software fotografico</strong>. Cosa c'entrano l'<strong>Iphone e Instagram</strong> con tutto questo?
 
-[caption id="attachment_3473" align="aligncenter" width="550"]<img class="size-full wp-image-3473" src="//www.eliocarchidi.com/wp-content/uploads/2014/01/fine-del-lavoro.jpg" alt="Due libri da leggere anche se (forse) ormai è troppo tardi!" width="550" height="438" /> Due libri da leggere anche se (forse) ormai è troppo tardi![/caption]
+[caption id="attachment_3473" align="aligncenter" width="550"]<img class="size-full wp-image-3473" src="https://media.eliocarchidi.com/uploads/2014/01/fine-del-lavoro.jpg" alt="Due libri da leggere anche se (forse) ormai è troppo tardi!" width="550" height="438" /> Due libri da leggere anche se (forse) ormai è troppo tardi![/caption]
 
 Io, ad essere sincero, <strong>non posso lamentarmi</strong> granchè del mio lavoro pur raccogliendo intorno molto malcontento.
 
@@ -140,4 +140,4 @@ In aggiunta riceverai in anteprima l'aggiornamento sulla data di pubblicazione d
 
 <strong>La registrazione è ASSOLUTAMENTE GRATUITA e non comporta alcun impegno da parte tua!</strong>
 
-[caption id="attachment_3302" align="aligncenter" width="550"]<img class="size-full wp-image-3302" src="//www.eliocarchidi.com/wp-content/uploads/2013/11/diventare-fotografo-professionista-uscita.jpg" alt="Diventare Fotografo Professionista" width="550" height="326" /> <em><strong>Diventare Fotografo professionista</strong>, in uscita a breve</em>[/caption]
+[caption id="attachment_3302" align="aligncenter" width="550"]<img class="size-full wp-image-3302" src="https://media.eliocarchidi.com/uploads/2013/11/diventare-fotografo-professionista-uscita.jpg" alt="Diventare Fotografo Professionista" width="550" height="326" /> <em><strong>Diventare Fotografo professionista</strong>, in uscita a breve</em>[/caption]

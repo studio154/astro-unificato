@@ -4,12 +4,12 @@ team: "elio-carchidi"
 pubDate: 2016-02-18
 description: "[caption id=\"attachment_6176\" align=\"aligncenter\" width=\"650\"] La Catena di Sant'Antonio dei Fotografi[/caption] Stabilito che voglio diventare un fot..."
 image:
-  url: "https://www.eliocarchidi.com/wp-content/uploads/2016/02/fotografo-professionista-articoli-suggerimenti-300.jpg"
+  url: "https://media.eliocarchidi.com/uploads/2016/02/fotografo-professionista-articoli-suggerimenti-300.jpg"
   alt: "La Catena di Sant'Antonio dei Fotografi"
 tags: ["Blog del Fotografo","Blog di Fotografia"]
 ---
 
-[caption id="attachment_6176" align="aligncenter" width="650"]<img src="//www.eliocarchidi.com/wp-content/uploads/2016/02/fotografo-professionista-articoli-suggerimenti.jpg" alt="La Catena di Sant'Antonio dei Fotografi" width="650" height="341" class="size-full wp-image-6176" /> La Catena di Sant'Antonio dei Fotografi[/caption]
+[caption id="attachment_6176" align="aligncenter" width="650"]<img src="https://media.eliocarchidi.com/uploads/2016/02/fotografo-professionista-articoli-suggerimenti.jpg" alt="La Catena di Sant'Antonio dei Fotografi" width="650" height="341" class="size-full wp-image-6176" /> La Catena di Sant'Antonio dei Fotografi[/caption]
 <b>Stabilito che voglio diventare un fotografo professionista cosa faccio per diventarlo?</b>
 
 Io, osservando gli altri e basandomi sulla mia esperienza personale, ho constatato che ci sono pochi modi per farlo, diciamo 3:

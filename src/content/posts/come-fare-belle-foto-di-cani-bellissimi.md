@@ -4,13 +4,13 @@ team: "elio-carchidi"
 pubDate: 2017-05-28
 description: "Belle foto di cani bellissimi. Una storia fotografica di meticci, tutta da raccontare. [caption id=\"attachment_11544\" align=\"aligncenter\" width=\"800\"]..."
 image:
-  url: "https://www.eliocarchidi.com/wp-content/uploads/2017/05/foto-cani-bellissimi-meticci-13.jpg"
+  url: "https://media.eliocarchidi.com/uploads/2017/05/foto-cani-bellissimi-meticci-13.jpg"
   alt: "Come fare belle foto di cani bellissimi. Un servizio fotografico dedicato agli animali più amati."
 tags: ["foto di animali","foto di cani","pets photography","ritratti di cani"]
 ---
 
 <h2>Belle foto di cani bellissimi. Una storia fotografica di meticci, tutta da raccontare.</h2>
-[caption id="attachment_11544" align="aligncenter" width="800"]<img class="size-full wp-image-11544" src="https://www.eliocarchidi.com/wp-content/uploads/2017/05/foto-cani-bellissimi-meticci-13.jpg" alt="Una (a caso) delle foto di cani bellissimi" width="800" height="800" /> TEDDY-LOVE: Una (a caso) delle foto di cani bellissimi fotografati per Valeria[/caption]
+[caption id="attachment_11544" align="aligncenter" width="800"]<img class="size-full wp-image-11544" src="https://media.eliocarchidi.com/uploads/2017/05/foto-cani-bellissimi-meticci-13.jpg" alt="Una (a caso) delle foto di cani bellissimi" width="800" height="800" /> TEDDY-LOVE: Una (a caso) delle foto di cani bellissimi fotografati per Valeria[/caption]
 <h3>Un servizio fotografico dedicato ai cani.
 La storia:</h3>
 <div class="separatore"></div>
@@ -92,9 +92,9 @@ Ecco una piccola selezione delle fotografie che abbiamo ottenuto nella nostra gi
 Se vuoi ricevere <strong>Il Calendario dei Cani Meticci</strong> contatta direttamente Valeria o se preferisci scrivi a me e glielo farò sapere.
 <h3>Alcuni momenti dello shooting ripresi da Canale5</h3>
 <div class="separatore"></div>
-<a href="http://www.video.mediaset.it/video/l_arca_di_noe/full/puntata-del-20-novembre_665700.html" target="_blank" rel="noopener"><img class="aligncenter size-full wp-image-11573" src="https://www.eliocarchidi.com/wp-content/uploads/2017/05/calendario-cani-meticci-foto-belle.jpg" alt="Foto di cani meticci - Calendario" width="700" height="410" /></a>
+<a href="http://www.video.mediaset.it/video/l_arca_di_noe/full/puntata-del-20-novembre_665700.html" target="_blank" rel="noopener"><img class="aligncenter size-full wp-image-11573" src="https://media.eliocarchidi.com/uploads/2017/05/calendario-cani-meticci-foto-belle.jpg" alt="Foto di cani meticci - Calendario" width="700" height="410" /></a>
 
-<a href="http://www.video.mediaset.it/video/l_arca_di_noe/full/puntata-del-20-novembre_665700.html" target="_blank" rel="noopener"><img class="aligncenter size-full wp-image-11569" src="https://www.eliocarchidi.com/wp-content/uploads/2017/05/belle-foto-di-cani-bellissimi-roma.jpg" alt="belle-foto-di-cani-bellissimi-roma" width="700" height="405" /></a>
+<a href="http://www.video.mediaset.it/video/l_arca_di_noe/full/puntata-del-20-novembre_665700.html" target="_blank" rel="noopener"><img class="aligncenter size-full wp-image-11569" src="https://media.eliocarchidi.com/uploads/2017/05/belle-foto-di-cani-bellissimi-roma.jpg" alt="belle-foto-di-cani-bellissimi-roma" width="700" height="405" /></a>
 
-<a href="http://www.video.mediaset.it/video/l_arca_di_noe/full/puntata-del-20-novembre_665700.html" target="_blank" rel="noopener"><img class="aligncenter size-full wp-image-11570" src="https://www.eliocarchidi.com/wp-content/uploads/2017/05/belle-foto-di-cani-per-calendario.jpg" alt="belle-foto-di-cani-bellissimi-per-calendario" width="700" height="405" /></a>
+<a href="http://www.video.mediaset.it/video/l_arca_di_noe/full/puntata-del-20-novembre_665700.html" target="_blank" rel="noopener"><img class="aligncenter size-full wp-image-11570" src="https://media.eliocarchidi.com/uploads/2017/05/belle-foto-di-cani-per-calendario.jpg" alt="belle-foto-di-cani-bellissimi-per-calendario" width="700" height="405" /></a>
 <div class="separatore"></div>

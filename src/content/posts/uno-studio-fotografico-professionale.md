@@ -4,7 +4,7 @@ team: "elio-carchidi"
 pubDate: 2011-09-11
 description: "Il mio Studio Fotografico si trova a Roma in Via Casilina 3A a pochi metri da Porta Maggiore. Molti mi chiedono quali caratteristiche debba avere uno..."
 image:
-  url: "https://www.eliocarchidi.com/wp-content/uploads/default.png"
+  url: "https://media.eliocarchidi.com/uploads/default.png"
   alt: "Uno Studio Fotografico Professionale"
 tags: []
 ---

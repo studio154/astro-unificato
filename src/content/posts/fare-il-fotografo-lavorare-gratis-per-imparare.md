@@ -4,12 +4,12 @@ team: "elio-carchidi"
 pubDate: 2015-07-23
 description: "[caption id=\"attachment_12445\" align=\"aligncenter\" width=\"792\"] Fare il fotografo significa lavorare gratis?[/caption] Fare il fotografo è il sogno di..."
 image:
-  url: "https://www.eliocarchidi.com/wp-content/uploads/2015/07/Cercasi-Fotografo-Schiavo-300.jpg"
+  url: "https://media.eliocarchidi.com/uploads/2015/07/Cercasi-Fotografo-Schiavo-300.jpg"
   alt: "Fare il Fotografo: lavorare gratis per imparare?"
 tags: ["Blog di Fotografia","Fotografi Professionisti","fare il fotografo","fotografo professionista"]
 ---
 
-[caption id="attachment_12445" align="aligncenter" width="792"]<img class="wp-image-12445 size-full" src="https://www.eliocarchidi.com/wp-content/uploads/2015/07/Cercasi-Fotografo-Schiavo-800.jpg" alt="Fare il fotografo: lavorare gratis?" width="792" height="406" /> Fare il fotografo significa lavorare gratis?[/caption]
+[caption id="attachment_12445" align="aligncenter" width="792"]<img class="wp-image-12445 size-full" src="https://media.eliocarchidi.com/uploads/2015/07/Cercasi-Fotografo-Schiavo-800.jpg" alt="Fare il fotografo: lavorare gratis?" width="792" height="406" /> Fare il fotografo significa lavorare gratis?[/caption]
 <h2>Fare il fotografo è il sogno di molti ragazzi...</h2>
 Da qualche anno ricevo una buona quantità di curricula da parte di giovani ragazzi che vorrebbero <strong>fare il fotografo</strong>, dovrei averne accumulato più di 1000.
 

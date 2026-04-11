@@ -4,13 +4,13 @@ team: "elio-carchidi"
 pubDate: 2025-07-09
 description: "Quella che stai leggendo è una spiegazione molto chiara e trasparente sui costi di un servizio fotografico, distinguendo cosa include un servizio fot..."
 image:
-  url: "https://www.eliocarchidi.com/wp-content/uploads/2025/07/cos-include-un-servizio-fotografico.jpg"
+  url: "https://media.eliocarchidi.com/uploads/2025/07/cos-include-un-servizio-fotografico.jpg"
   alt: "Cosa include un servizio fotografico per foto professionali?"
 tags: ["servizi fotografici","servizi fotografici attori"]
 ---
 
 <!-- wp:image {"id":18732,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="https://www.eliocarchidi.com/wp-content/uploads/2025/07/cos-include-un-servizio-fotografico.jpg" alt="Cosa include un servizio fotografico" class="wp-image-18732"/></figure>
+<figure class="wp-block-image size-full"><img src="https://media.eliocarchidi.com/uploads/2025/07/cos-include-un-servizio-fotografico.jpg" alt="Cosa include un servizio fotografico" class="wp-image-18732"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"className":"intro"} -->
@@ -30,7 +30,7 @@ tags: ["servizi fotografici","servizi fotografici attori"]
 <!-- /wp:heading -->
 
 <!-- wp:image {"id":18679,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="https://www.eliocarchidi.com/wp-content/uploads/2025/07/cosa-e-incluso-nel-servizio-fotografico.jpg" alt="Cosa include un servizio fotografico" class="wp-image-18679"/></figure>
+<figure class="wp-block-image size-full"><img src="https://media.eliocarchidi.com/uploads/2025/07/cosa-e-incluso-nel-servizio-fotografico.jpg" alt="Cosa include un servizio fotografico" class="wp-image-18679"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:separator -->

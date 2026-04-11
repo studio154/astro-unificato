@@ -4,13 +4,13 @@ team: "elio-carchidi"
 pubDate: 2024-07-31
 description: "**Guida per Prepararsi a una Sessione Fotografica Indimenticabile con un’Abbronzatura Perfetta** Sommario1. Sfrutta al Massimo la Luce ( e l'ombra) N..."
 image:
-  url: "https://www.eliocarchidi.com/wp-content/uploads/2024/07/farsi-fotografare-con-abbronzatura-perfetta.jpeg"
+  url: "https://media.eliocarchidi.com/uploads/2024/07/farsi-fotografare-con-abbronzatura-perfetta.jpeg"
   alt: "Come Farsi Fotografare con un’Abbronzatura Perfetta: Guida per Aspiranti Modelle del Sole!"
 tags: ["Blog di Fotografia","Book Fotografici - Articoli","ritratti fotografici"]
 ---
 
 <!-- wp:image {"id":17582,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="https://www.eliocarchidi.com/wp-content/uploads/2024/07/farsi-fotografare-con-abbronzatura-perfetta.jpeg" alt="" class="wp-image-17582"/></figure>
+<figure class="wp-block-image size-full"><img src="https://media.eliocarchidi.com/uploads/2024/07/farsi-fotografare-con-abbronzatura-perfetta.jpeg" alt="" class="wp-image-17582"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"className":"intro"} -->
@@ -50,7 +50,7 @@ tags: ["Blog di Fotografia","Book Fotografici - Articoli","ritratti fotografici"
 <!-- /wp:spacer -->
 
 <!-- wp:image {"id":17594,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="https://www.eliocarchidi.com/wp-content/uploads/2024/07/abbronzatura-perfetta-immagini-modelle-8.jpeg" alt="" class="wp-image-17594"/><figcaption class="wp-element-caption">Usa la luce – e l'ombra – naturale (Immagine creata con AI per almeno 100 ragioni 🤔).</figcaption></figure>
+<figure class="wp-block-image size-full"><img src="https://media.eliocarchidi.com/uploads/2024/07/abbronzatura-perfetta-immagini-modelle-8.jpeg" alt="" class="wp-image-17594"/><figcaption class="wp-element-caption">Usa la luce – e l'ombra – naturale (Immagine creata con AI per almeno 100 ragioni 🤔).</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:spacer {"height":"30px"} -->
@@ -70,7 +70,7 @@ tags: ["Blog di Fotografia","Book Fotografici - Articoli","ritratti fotografici"
 <!-- /wp:spacer -->
 
 <!-- wp:image {"id":17574,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="https://www.eliocarchidi.com/wp-content/uploads/2024/07/abbronzatura-perfetta-immagini-modelle-0.jpeg" alt="modella con abbronzatura perfetta" class="wp-image-17574"/><figcaption class="wp-element-caption">Posa con sicurezza (Immagine creata con AI per almeno 100 ragioni 🤔).</figcaption></figure>
+<figure class="wp-block-image size-full"><img src="https://media.eliocarchidi.com/uploads/2024/07/abbronzatura-perfetta-immagini-modelle-0.jpeg" alt="modella con abbronzatura perfetta" class="wp-image-17574"/><figcaption class="wp-element-caption">Posa con sicurezza (Immagine creata con AI per almeno 100 ragioni 🤔).</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:spacer {"height":"30px"} -->
@@ -90,7 +90,7 @@ tags: ["Blog di Fotografia","Book Fotografici - Articoli","ritratti fotografici"
 <!-- /wp:spacer -->
 
 <!-- wp:image {"id":17575,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="https://www.eliocarchidi.com/wp-content/uploads/2024/07/abbronzatura-perfetta-immagini-modelle-1.jpeg" alt="il giusto outfit per abbronzatura perfetta" class="wp-image-17575"/><figcaption class="wp-element-caption">Scegli i colori giusti (Immagine creata con AI per almeno 100 ragioni 🤔).</figcaption></figure>
+<figure class="wp-block-image size-full"><img src="https://media.eliocarchidi.com/uploads/2024/07/abbronzatura-perfetta-immagini-modelle-1.jpeg" alt="il giusto outfit per abbronzatura perfetta" class="wp-image-17575"/><figcaption class="wp-element-caption">Scegli i colori giusti (Immagine creata con AI per almeno 100 ragioni 🤔).</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:spacer {"height":"30px"} -->
@@ -116,7 +116,7 @@ tags: ["Blog di Fotografia","Book Fotografici - Articoli","ritratti fotografici"
 <!-- /wp:spacer -->
 
 <!-- wp:image {"id":17589,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="https://www.eliocarchidi.com/wp-content/uploads/2024/07/abbronzatura-perfetta-immagini-modelle-11.jpeg" alt="" class="wp-image-17589"/><figcaption class="wp-element-caption">Usa accessori strategici (Immagine creata con AI per almeno 100 ragioni 🤔).</figcaption></figure>
+<figure class="wp-block-image size-full"><img src="https://media.eliocarchidi.com/uploads/2024/07/abbronzatura-perfetta-immagini-modelle-11.jpeg" alt="" class="wp-image-17589"/><figcaption class="wp-element-caption">Usa accessori strategici (Immagine creata con AI per almeno 100 ragioni 🤔).</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:spacer {"height":"30px"} -->
@@ -136,7 +136,7 @@ tags: ["Blog di Fotografia","Book Fotografici - Articoli","ritratti fotografici"
 <!-- /wp:spacer -->
 
 <!-- wp:image {"id":17576,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="https://www.eliocarchidi.com/wp-content/uploads/2024/07/abbronzatura-perfetta-immagini-modelle-7.jpeg" alt="riflessi sull'acqua del mare per abbronzatura perfetta" class="wp-image-17576"/><figcaption class="wp-element-caption">Usa il riflesso dell'acqua (Immagine creata con AI per almeno 100 ragioni 🤔).</figcaption></figure>
+<figure class="wp-block-image size-full"><img src="https://media.eliocarchidi.com/uploads/2024/07/abbronzatura-perfetta-immagini-modelle-7.jpeg" alt="riflessi sull'acqua del mare per abbronzatura perfetta" class="wp-image-17576"/><figcaption class="wp-element-caption">Usa il riflesso dell'acqua (Immagine creata con AI per almeno 100 ragioni 🤔).</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:spacer {"height":"30px"} -->
@@ -156,7 +156,7 @@ tags: ["Blog di Fotografia","Book Fotografici - Articoli","ritratti fotografici"
 <!-- /wp:spacer -->
 
 <!-- wp:image {"id":17577,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="https://www.eliocarchidi.com/wp-content/uploads/2024/07/abbronzatura-perfetta-immagini-modelle-4.jpeg" alt="" class="wp-image-17577"/><figcaption class="wp-element-caption">Sfrutta il vento e la brezza (Immagine creata con AI per almeno 100 ragioni <em>🤔</em>).</figcaption></figure>
+<figure class="wp-block-image size-full"><img src="https://media.eliocarchidi.com/uploads/2024/07/abbronzatura-perfetta-immagini-modelle-4.jpeg" alt="" class="wp-image-17577"/><figcaption class="wp-element-caption">Sfrutta il vento e la brezza (Immagine creata con AI per almeno 100 ragioni <em>🤔</em>).</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:spacer {"height":"30px"} -->
@@ -182,7 +182,7 @@ tags: ["Blog di Fotografia","Book Fotografici - Articoli","ritratti fotografici"
 <!-- /wp:spacer -->
 
 <!-- wp:image {"id":17578,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="https://www.eliocarchidi.com/wp-content/uploads/2024/07/abbronzatura-perfetta-immagini-modelle-9.jpeg" alt="abbronzatura perfetta fotografata al tramonto" class="wp-image-17578"/><figcaption class="wp-element-caption">E infine... divertiti e rilassati Posa con sicurezza (Immagine creata con AI per almeno 100 ragioni 🤔).</figcaption></figure>
+<figure class="wp-block-image size-full"><img src="https://media.eliocarchidi.com/uploads/2024/07/abbronzatura-perfetta-immagini-modelle-9.jpeg" alt="abbronzatura perfetta fotografata al tramonto" class="wp-image-17578"/><figcaption class="wp-element-caption">E infine... divertiti e rilassati Posa con sicurezza (Immagine creata con AI per almeno 100 ragioni 🤔).</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:separator -->

@@ -4,13 +4,13 @@ team: "elio-carchidi"
 pubDate: 2021-03-07
 description: "Foto ritratti corporate e foto aziendali per manager e team di lavoro. Indipendentemente dal settore in cui operi, mostrare le persone che compongono..."
 image:
-  url: "https://www.eliocarchidi.com/wp-content/uploads/2021/03/Foto-ritratti-corporate-headshot-aziendali-1.png"
+  url: "https://media.eliocarchidi.com/uploads/2021/03/Foto-ritratti-corporate-headshot-aziendali-1.png"
   alt: "Foto ritratti corporate. Foto aziendali per manager e professionisti."
 tags: ["foto aziendali","foto corporate","foto manager","ritratti corporate"]
 ---
 
 <!-- wp:image {"id":16245,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://www.eliocarchidi.com/wp-content/uploads/2021/03/Foto-ritratti-corporate-headshot-aziendali-1.png" alt="Foto ritratti corporate e foto aziendali per manager" class="wp-image-16245"/><figcaption>Foto ritratti corporate e foto aziendali per manager e team di lavoro.</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="https://media.eliocarchidi.com/uploads/2021/03/Foto-ritratti-corporate-headshot-aziendali-1.png" alt="Foto ritratti corporate e foto aziendali per manager" class="wp-image-16245"/><figcaption>Foto ritratti corporate e foto aziendali per manager e team di lavoro.</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"className":"intro"} -->

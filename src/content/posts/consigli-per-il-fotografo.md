@@ -4,7 +4,7 @@ team: "elio-carchidi"
 pubDate: 2013-10-15
 description: "Quando guardo una foto di me stesso trovo molte cose che non mi piacciono. I capelli (pochi e radi), la mia carnagione, il mio sguardo da miope, la f..."
 image:
-  url: "https://www.eliocarchidi.com/wp-content/uploads/2013/10/timid-confused-girl-300.jpg"
+  url: "https://media.eliocarchidi.com/uploads/2013/10/timid-confused-girl-300.jpg"
   alt: "Consigli per il fotografo: Come mettere a proprio agio una donna (o un uomo) che ha deciso di farsi fotografare da te."
 tags: ["Blog di Fotografia","Fotografo Blogger"]
 ---
@@ -13,7 +13,7 @@ tags: ["Blog di Fotografia","Fotografo Blogger"]
 Quando guardo una <strong>foto di me stesso</strong> trovo molte cose che non mi piacciono.
 I capelli (pochi e radi), la mia carnagione, il mio sguardo da miope, la forma del mio viso non perfettamente simmetrico e così via. Dipende poi dal momento e dal mio stato d'animo ma in ogni caso non sono quasi mai soddisfatto di come appaio in foto, trovo sempre qualcosa che non va.
  
-[caption id="attachment_3233" align="aligncenter" width="450"]<img src="//www.eliocarchidi.com/wp-content/uploads/2013/10/elio-leonardo-carchidi.jpg" alt="Elio leonardo Carchidi Ritratto" title="elio-leonardo-carchidi" width="450" height="450" class="size-full wp-image-3233" /> Una mia foto: per piacermi ho tagliato la parte alta della mia testa...[/caption]
+[caption id="attachment_3233" align="aligncenter" width="450"]<img src="https://media.eliocarchidi.com/uploads/2013/10/elio-leonardo-carchidi.jpg" alt="Elio leonardo Carchidi Ritratto" title="elio-leonardo-carchidi" width="450" height="450" class="size-full wp-image-3233" /> Una mia foto: per piacermi ho tagliato la parte alta della mia testa...[/caption]
 
 Ma io <strong>faccio il fotografo</strong>!
 
@@ -25,7 +25,7 @@ Molti uomini (intendo dire maschi) dichiarano di non amare molto il fatto di <st
 
 Le donne invece, quasi sempre, agiscono al contrario: quando capita di doversi fare fotografare, per quanto lo desiderino, dichiarano apertamente di essere affascinate da questa esperienza ma di provare una certa riluttanza a posare attribuendola al fatto di non sopportare alcuni loro "difetti estetici" che, il più delle volte (per non dire quasi sempre), sembrano essere oltretutto inesistenti. Quindi non solo parlano di ciò che non amano del loro viso e/o del loro corpo ma utilizzano candidamente questa strategia per sublimare le loro (fisiologiche) insicurezze.
  
-[caption id="attachment_3237" align="aligncenter" width="407"]<img src="//www.eliocarchidi.com/wp-content/uploads/2013/10/photodune-861580-timid-confused-girl-xs.jpg" alt="Una ragazza timida e confusa" title="Una ragazza timida e confusa" width="407" height="492" class="size-full wp-image-3237" /> Questa ragazza sembra non sentirsi a proprio agio nel posare[/caption]
+[caption id="attachment_3237" align="aligncenter" width="407"]<img src="https://media.eliocarchidi.com/uploads/2013/10/photodune-861580-timid-confused-girl-xs.jpg" alt="Una ragazza timida e confusa" title="Una ragazza timida e confusa" width="407" height="492" class="size-full wp-image-3237" /> Questa ragazza sembra non sentirsi a proprio agio nel posare[/caption]
 
 Ogni volta che devo <strong>fotografare una donna</strong> non posso non tenere conto di questo aspetto e non posso dimenticare che anche e soprattutto una donna, davanti alla <strong>macchina fotografica</strong>, potrebbe sentirsi esattamente così come mi sento io quando vedo me stesso ritratto in foto.
 
@@ -45,7 +45,7 @@ Ogni volta che un uomo e/o una donna prenotano il loro servizio fotografico io n
 
 <strong><h3>Consigli per il fotografo: 4 suggerimenti preziosi per mettere (e mettersi) a proprio agio durante lo svolgimento della sessione fotografica</h3></strong>
  
-[caption id="attachment_3246" align="aligncenter" width="470"]<img src="//www.eliocarchidi.com/wp-content/uploads/2013/10/photodune-220883-cheerful-woman-resting-face-in-hands-xs.jpg" alt="Una ragazza carina e rilassata" title="Una ragazza carina e rilassata" width="470" height="426" class="size-full wp-image-3246" /> Questa ragazza sembra proprio essere a suo agio...[/caption]
+[caption id="attachment_3246" align="aligncenter" width="470"]<img src="https://media.eliocarchidi.com/uploads/2013/10/photodune-220883-cheerful-woman-resting-face-in-hands-xs.jpg" alt="Una ragazza carina e rilassata" title="Una ragazza carina e rilassata" width="470" height="426" class="size-full wp-image-3246" /> Questa ragazza sembra proprio essere a suo agio...[/caption]
 
 Prima di elencarti i consigli che avevo promesso di lasciarti è necessario però sottolineare una cosa che ritengo molto importante e che non è un semplice consiglio ma è una vera e propria imposizione che dovrai darti prima di cominciare a fotografare chicchessia: non farti mai uscire dalla bocca la parola <strong>"photoshop"</strong>.
 

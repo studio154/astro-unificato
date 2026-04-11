@@ -4,13 +4,13 @@ team: "elio-carchidi"
 pubDate: 2019-06-23
 description: "Portfolio Fotografico di fotografia di medicina estetica e dermatologia per Relife Company by Menarini [toc heading_levels=\"3,4\" class=\"centra-toc\"]..."
 image:
-  url: "https://www.eliocarchidi.com/wp-content/uploads/2019/06/9.png"
+  url: "https://media.eliocarchidi.com/uploads/2019/06/9.png"
   alt: "Fotografia di medicina estetica e dermatologia. Portfolio Fotografico Professionale."
 tags: ["foto medicali","fotografia beauty","fotografia dermatologia","fotografia medicina estetica"]
 ---
 
 <!-- wp:image {"id":13992} -->
-<figure class="wp-block-image"><img src="https://www.eliocarchidi.com/wp-content/uploads/2019/06/fotografia-in-medicina-estetica-menarini-relife-c.png" alt="" class="wp-image-13992"/><figcaption>Portfolio Fotografico di fotografia di medicina estetica e dermatologia per Relife Company by Menarini</figcaption></figure>
+<figure class="wp-block-image"><img src="https://media.eliocarchidi.com/uploads/2019/06/fotografia-in-medicina-estetica-menarini-relife-c.png" alt="" class="wp-image-13992"/><figcaption>Portfolio Fotografico di fotografia di medicina estetica e dermatologia per Relife Company by Menarini</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:shortcode -->
@@ -42,7 +42,7 @@ tags: ["foto medicali","fotografia beauty","fotografia dermatologia","fotografia
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":14227} -->
-<figure class="wp-block-image"><img src="https://www.eliocarchidi.com/wp-content/uploads/2019/06/medicina.estetica-dermatologia-paris.jpg" alt="" class="wp-image-14227"/></figure>
+<figure class="wp-block-image"><img src="https://media.eliocarchidi.com/uploads/2019/06/medicina.estetica-dermatologia-paris.jpg" alt="" class="wp-image-14227"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3} -->
@@ -68,7 +68,7 @@ tags: ["foto medicali","fotografia beauty","fotografia dermatologia","fotografia
 <!-- /wp:list -->
 
 <!-- wp:image {"id":14224} -->
-<figure class="wp-block-image"><img src="https://www.eliocarchidi.com/wp-content/uploads/2019/06/medicina-estetica-dermatologia.jpg" alt="" class="wp-image-14224"/><figcaption>Palazzo dei Congressi di Parigi. Mostra fotografica esclusiva per Relife Company</figcaption></figure>
+<figure class="wp-block-image"><img src="https://media.eliocarchidi.com/uploads/2019/06/medicina-estetica-dermatologia.jpg" alt="" class="wp-image-14224"/><figcaption>Palazzo dei Congressi di Parigi. Mostra fotografica esclusiva per Relife Company</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3} -->
@@ -92,7 +92,7 @@ tags: ["foto medicali","fotografia beauty","fotografia dermatologia","fotografia
 <!-- /wp:separator -->
 
 <!-- wp:genesis-blocks/gb-cta {"buttonText":"Guarda le immagini","buttonBackgroundColor":"#d43c67","buttonSize":"gb-button-size-large","titleFontSize":44,"ctaTextFontSize":22,"ctaBackgroundColor":"#313131","ctaTextColor":"#ffffff","imgID":14010,"dimRatio":30} -->
-<div style="background-color:#313131;text-align:center" class="wp-block-genesis-blocks-gb-cta gb-block-cta gb-font-size-22"><div class="gb-cta-image-wrap"><img class="gb-cta-image has-background-dim-30 has-background-dim" src="https://www.eliocarchidi.com/wp-content/uploads/2019/06/fotografie-dermatologia-medicina-estetica.jpg" alt="Medicina estetica e dermatologia"/></div><div class="gb-cta-content"><h2 class="gb-cta-title gb-font-size-44" style="color:#ffffff">Guarda la Galleria Fotografica</h2><div class="gb-cta-text gb-font-size-32" style="color:#ffffff"><p>Fotografie di medicina estetica e dermatologia</p></div></div><div class="gb-cta-button"><a href="https://www.eliocarchidi.com/fotografie-per-industrie-farmaceutiche-e-cosmesi/" target="_self" rel="noopener noreferrer" class="gb-button gb-button-shape-rounded gb-button-size-large" style="color:#ffffff;background-color:#d43c67">Guarda le immagini</a></div></div>
+<div style="background-color:#313131;text-align:center" class="wp-block-genesis-blocks-gb-cta gb-block-cta gb-font-size-22"><div class="gb-cta-image-wrap"><img class="gb-cta-image has-background-dim-30 has-background-dim" src="https://media.eliocarchidi.com/uploads/2019/06/fotografie-dermatologia-medicina-estetica.jpg" alt="Medicina estetica e dermatologia"/></div><div class="gb-cta-content"><h2 class="gb-cta-title gb-font-size-44" style="color:#ffffff">Guarda la Galleria Fotografica</h2><div class="gb-cta-text gb-font-size-32" style="color:#ffffff"><p>Fotografie di medicina estetica e dermatologia</p></div></div><div class="gb-cta-button"><a href="https://www.eliocarchidi.com/fotografie-per-industrie-farmaceutiche-e-cosmesi/" target="_self" rel="noopener noreferrer" class="gb-button gb-button-shape-rounded gb-button-size-large" style="color:#ffffff;background-color:#d43c67">Guarda le immagini</a></div></div>
 <!-- /wp:genesis-blocks/gb-cta -->
 
 <!-- wp:paragraph {"align":"center"} -->

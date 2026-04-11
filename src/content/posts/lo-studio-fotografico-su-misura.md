@@ -4,7 +4,7 @@ team: "elio-carchidi"
 pubDate: 2017-09-17
 description: "[toc] [caption id=\"attachment_1231\" align=\"aligncenter\" width=\"860\"] Il mio studio fotografico 'STUDIO154', una sala di posa completamente attrezzata...."
 image:
-  url: "https://www.eliocarchidi.com/wp-content/uploads/2017/09/studiofotograficolimbobianco-300.jpg"
+  url: "https://media.eliocarchidi.com/uploads/2017/09/studiofotograficolimbobianco-300.jpg"
   alt: "Lo Studio Fotografico su misura"
 tags: []
 ---
@@ -12,7 +12,7 @@ tags: []
 [toc]
 <div class="separatore"></div>
 
-[caption id="attachment_1231" align="aligncenter" width="860"]<img class="wp-image-1231 size-full" title="studio fotografico a roma con limbo bianco" src="https://www.eliocarchidi.com/wp-content/uploads/2011/09/studiofotograficolimbobianco.jpg" alt="Studio fotografico a roma con limbo bianco" width="860" height="387" /> Il mio studio fotografico 'STUDIO154', una sala di posa completamente attrezzata.[/caption]
+[caption id="attachment_1231" align="aligncenter" width="860"]<img class="wp-image-1231 size-full" title="studio fotografico a roma con limbo bianco" src="https://media.eliocarchidi.com/uploads/2011/09/studiofotograficolimbobianco.jpg" alt="Studio fotografico a roma con limbo bianco" width="860" height="387" /> Il mio studio fotografico 'STUDIO154', una sala di posa completamente attrezzata.[/caption]
 
 Una delle cose delle quali vado più fiero nel mio <strong>Lavoro di Fotografo</strong> è quello di aver conquistato un mio personale privilegio che è quello di avere una <strong>Sala di Posa Privata</strong>.
 
@@ -22,7 +22,7 @@ Non è stato facile metterlo in piedi. Ce n'è voluta, ma ce l'ho fatta!
 
 Dopo circa 30 anni di <strong>Mestiere di Fotografo</strong>, svolto qua e là (nel salotto di casa mia, a casa di amici e di clienti, in spazi reperiti fortunosamente oppure in pseudo <strong>Studi Fotografici</strong> allestiti presso le Aziende per le quali ho lavorato, qualche anno fa, esattamente 15 anni fa, ho deciso che era venuta l'ora di dedicare tutte le mie energie per allestire il mio <strong>Studio Fotografico</strong>.
 
-[caption id="attachment_12032" align="aligncenter" width="900"]<img class="wp-image-12032 size-full" title="Studio_Fotografico_Limbo" src="https://www.eliocarchidi.com/wp-content/uploads/2011/09/studio-fotografico-fotografo-elio-carchidi-roma.jpg" alt="Studio Fotografico su Misura Fotografo Elio Carchidi a Roma" width="900" height="600" /> Confortevole, riservato, completo con tutte le migliori attrezzature fotografiche in-home.[/caption]
+[caption id="attachment_12032" align="aligncenter" width="900"]<img class="wp-image-12032 size-full" title="Studio_Fotografico_Limbo" src="https://media.eliocarchidi.com/uploads/2011/09/studio-fotografico-fotografo-elio-carchidi-roma.jpg" alt="Studio Fotografico su Misura Fotografo Elio Carchidi a Roma" width="900" height="600" /> Confortevole, riservato, completo con tutte le migliori attrezzature fotografiche in-home.[/caption]
 
 Non tutti i Fotografi possiedono un proprio Studio Fotografico, beati loro! E non li biasimo affatto, anzi...
 

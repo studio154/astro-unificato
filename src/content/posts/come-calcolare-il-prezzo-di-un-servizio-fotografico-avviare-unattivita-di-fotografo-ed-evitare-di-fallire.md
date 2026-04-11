@@ -4,14 +4,14 @@ team: "elio-carchidi"
 pubDate: 2015-10-23
 description: "Questo articolo è dedicato a tutti i fotografi, in particolare a tutti i giovani fotografi che amano la fotografia e sperano un giorno di diventare de..."
 image:
-  url: "https://www.eliocarchidi.com/wp-content/uploads/2015/10/calcolare-il-prezzo-di-un-servizio-fotografico-einstein-300.jpg"
+  url: "https://media.eliocarchidi.com/uploads/2015/10/calcolare-il-prezzo-di-un-servizio-fotografico-einstein-300.jpg"
   alt: "Come calcolare il prezzo di un servizio fotografico, avviare un’attività di fotografo ed evitare di fallire"
 tags: []
 ---
 
 <strong>Questo articolo è dedicato a tutti i fotografi, in particolare a tutti i giovani fotografi che amano la fotografia e sperano un giorno di diventare dei liberi professionisti.</strong>
 
-<img class="aligncenter size-full wp-image-5643" src="//www.eliocarchidi.com/wp-content/uploads/2015/10/calcolare-il-prezzo-di-un-servizio-fotografico-einstein.jpg" alt="Calcolare il prezzo di un servizio fotografico" width="661" height="370" />
+<img class="aligncenter size-full wp-image-5643" src="https://media.eliocarchidi.com/uploads/2015/10/calcolare-il-prezzo-di-un-servizio-fotografico-einstein.jpg" alt="Calcolare il prezzo di un servizio fotografico" width="661" height="370" />
 <h2><span style="color: #f15123;">Premessa</span></h2>
 Fare il Fotografo Professionista sta diventando sempre più difficile.
 

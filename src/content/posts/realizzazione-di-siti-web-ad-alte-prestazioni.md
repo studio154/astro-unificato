@@ -4,7 +4,7 @@ team: "elio-carchidi"
 pubDate: 2012-05-25
 description: "Esistono un'infinità di siti web per fotografi ma pochi, veramente pochi, riescono ad ottenere prestazioni eccezionali [caption id=\"attachment_12511\"..."
 image:
-  url: "https://www.eliocarchidi.com/wp-content/uploads/2017/10/strategie-di-promozione-per-fotografi.jpg"
+  url: "https://media.eliocarchidi.com/uploads/2017/10/strategie-di-promozione-per-fotografi.jpg"
   alt: "Realizzazione di Siti Web Per Fotografi ad Alte Prestazioni"
 tags: []
 ---
@@ -12,7 +12,7 @@ tags: []
 <p class="intro">Esistono un'infinità di siti web per fotografi ma pochi, veramente pochi, riescono ad ottenere prestazioni eccezionali</p>
 
 
-[caption id="attachment_12511" align="aligncenter" width="1200"]<img class="wp-image-12511 size-full" src="https://www.eliocarchidi.com/wp-content/uploads/2017/10/siti-web-per-fotografi-ad-alte-prestazioni.jpg" alt="Siti web per fotografi ad alte prestazioni" width="1200" height="901" /> Siti web per fotografi ad alte prestazioni[/caption]
+[caption id="attachment_12511" align="aligncenter" width="1200"]<img class="wp-image-12511 size-full" src="https://media.eliocarchidi.com/uploads/2017/10/siti-web-per-fotografi-ad-alte-prestazioni.jpg" alt="Siti web per fotografi ad alte prestazioni" width="1200" height="901" /> Siti web per fotografi ad alte prestazioni[/caption]
 
 Il web rappresenta una buona opportunità per il fotografo.
 

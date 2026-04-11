@@ -4,12 +4,12 @@ team: "elio-carchidi"
 pubDate: 2012-06-07
 description: "[caption id=\"attachment_813\" align=\"alignnone\" width=\"600\"] Campagna Pubblicitaria Simobil[/caption] Un paio di mesi fà due Agenzie Pubblicitarie (Vbg..."
 image:
-  url: "http://www.eliocarchidi.com/wp-content/uploads/2012/06/Simobil_Top_Talk_2012_Pierluigi-Collina_Fotografo_Elio_Carchidi_07.jpg"
+  url: "http:https://media.eliocarchidi.com/uploads/2012/06/Simobil_Top_Talk_2012_Pierluigi-Collina_Fotografo_Elio_Carchidi_07.jpg"
   alt: "Una campagna pubblicitaria per la (prima) compagnia telefonica slovena"
 tags: []
 ---
 
-[caption id="attachment_813" align="alignnone" width="600"]<img class="size-full wp-image-813" title="Simobil_Top_Talk_2012_Pierluigi-Collina_Fotografo_Elio_Carchidi_07" src="//www.eliocarchidi.com/wp-content/uploads/2012/06/Simobil_Top_Talk_2012_Pierluigi-Collina_Fotografo_Elio_Carchidi_07.jpg" alt="Campagna Pubblicitaria Simobil Elio Carchidi" width="600" height="400" /> Campagna Pubblicitaria Simobil[/caption]
+[caption id="attachment_813" align="alignnone" width="600"]<img class="size-full wp-image-813" title="Simobil_Top_Talk_2012_Pierluigi-Collina_Fotografo_Elio_Carchidi_07" src="https://media.eliocarchidi.com/uploads/2012/06/Simobil_Top_Talk_2012_Pierluigi-Collina_Fotografo_Elio_Carchidi_07.jpg" alt="Campagna Pubblicitaria Simobil Elio Carchidi" width="600" height="400" /> Campagna Pubblicitaria Simobil[/caption]
 
 Un paio di mesi fà due <strong>Agenzie Pubblicitarie</strong> (<strong>Vbg / Subtotal e Futuristični Marketing</strong>) mi hanno contattato dalla Slovenia per richiedere i <strong>Ritratti di Pierluigi Collina</strong>, il famoso <strong>Arbitro Internazionale di Calcio</strong>.
 
@@ -17,7 +17,7 @@ Avevano scelto le <strong>Mie Fotografie</strong> per illustrare l'immagine coor
 
 E' inutile negare che fa sempre piacere essere contattato spontaneamente da un <strong>Agenzia Pubblicitaria</strong>. Anche perchè, spesso, accade che per lavorare con queste bisogna essere molto più abili nelle Public Relation che non puntare alla qualità. E la mia eccellenza non è di certo questa. Oltretutto non l'ho mai cercata. Quando (raramente) c'ho provato ho trovato insopportabile dover lavorare con uno stuolo (molto numeroso) di persone intorno ognuna delle quali diceva la sua!
 
-[caption id="attachment_814" align="alignnone" width="600"]<a href="//www.eliocarchidi.com/wp-content/uploads/2012/06/Simobil_Top_Talk_2012_Pierluigi-Collina_Fotografo_Elio_Carchidi_04.jpg"><img class="size-full wp-image-814" title="Simobil_Top_Talk_2012_Pierluigi-Collina_Fotografo_Elio_Carchidi_04" src="//www.eliocarchidi.com/wp-content/uploads/2012/06/Simobil_Top_Talk_2012_Pierluigi-Collina_Fotografo_Elio_Carchidi_04.jpg" alt="La Grafica della Campagna Pubblicitaria Simobil con le Foto di Elio Carchidi" width="600" height="400" /></a> La Grafica della Campagna Pubblicitaria[/caption]
+[caption id="attachment_814" align="alignnone" width="600"]<a href="https://media.eliocarchidi.com/uploads/2012/06/Simobil_Top_Talk_2012_Pierluigi-Collina_Fotografo_Elio_Carchidi_04.jpg"><img class="size-full wp-image-814" title="Simobil_Top_Talk_2012_Pierluigi-Collina_Fotografo_Elio_Carchidi_04" src="https://media.eliocarchidi.com/uploads/2012/06/Simobil_Top_Talk_2012_Pierluigi-Collina_Fotografo_Elio_Carchidi_04.jpg" alt="La Grafica della Campagna Pubblicitaria Simobil con le Foto di Elio Carchidi" width="600" height="400" /></a> La Grafica della Campagna Pubblicitaria[/caption]
 
 Ma in questo caso la soddisfazione è stata molteplice:
 
@@ -29,7 +29,7 @@ Ma in questo caso la soddisfazione è stata molteplice:
 
 Sottolineo questi 3 punti come motivo di grande soddisfazione non tanto perchè io sia particolamente attaccato al denaro oppure perchè si sia trattato di così tanto denaro da cambiarmi la vita ma perchè questi atteggiamenti sono così rari da rimanere stupiti. E poi sono questi comportamenti civili quelli che effettivamente danno forza e voglia di continuare a praticare questa professione. Ovviamente con le dovute cautele.
 
-[caption id="attachment_815" align="alignnone" width="600"]<a href="//www.eliocarchidi.com/wp-content/uploads/2012/06/Simobil_Top_Talk_2012_Pierluigi-Collina_Fotografo_Elio_Carchidi_06.jpg"><img class="size-full wp-image-815" title="Simobil_Top_Talk_2012_Pierluigi-Collina_Fotografo_Elio_Carchidi_06" src="//www.eliocarchidi.com/wp-content/uploads/2012/06/Simobil_Top_Talk_2012_Pierluigi-Collina_Fotografo_Elio_Carchidi_06.jpg" alt="La Presentazione della campagna pubblicitaria Simobil" width="600" height="400" /></a> La Presentazione della Campagna con l'arbitro Pierluigi Collina[/caption]
+[caption id="attachment_815" align="alignnone" width="600"]<a href="https://media.eliocarchidi.com/uploads/2012/06/Simobil_Top_Talk_2012_Pierluigi-Collina_Fotografo_Elio_Carchidi_06.jpg"><img class="size-full wp-image-815" title="Simobil_Top_Talk_2012_Pierluigi-Collina_Fotografo_Elio_Carchidi_06" src="https://media.eliocarchidi.com/uploads/2012/06/Simobil_Top_Talk_2012_Pierluigi-Collina_Fotografo_Elio_Carchidi_06.jpg" alt="La Presentazione della campagna pubblicitaria Simobil" width="600" height="400" /></a> La Presentazione della Campagna con l'arbitro Pierluigi Collina[/caption]
 
 Nei tanti anni nei quali testardamente ho insistito nel dedicarmi alla <strong>Fotografia</strong> ho visto un pò di tutto non solo attraverso gli occhi ma anche con il cuore.
 

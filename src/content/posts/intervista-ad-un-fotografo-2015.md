@@ -4,14 +4,14 @@ team: "elio-carchidi"
 pubDate: 2016-05-17
 description: "Articolo pubblicato sulla rivista \"Fotografare\" (ottobre 2015) - Intervista ad un fotografo Elio Carchidi ci racconta i suoi ritratti di gente che con..."
 image:
-  url: "https://www.eliocarchidi.com/wp-content/uploads/2017/09/interviste-fotografi-fotografare.jpg"
+  url: "https://media.eliocarchidi.com/uploads/2017/09/interviste-fotografi-fotografare.jpg"
   alt: "Intervista ad un fotografo (Fotografare, Ottobre 2015)"
 tags: []
 ---
 
 <h2>Articolo pubblicato sulla rivista "Fotografare" (ottobre 2015) - Intervista ad un fotografo</h2>
 
-<img src="//www.eliocarchidi.com/wp-content/uploads/2016/05/intervista-ad-un-fotografo-rivista-fotografare-2015.jpg" alt="Intervista ad un fotografo" width="650" height="350" class="alignnone size-full wp-image-6583" />
+<img src="https://media.eliocarchidi.com/uploads/2016/05/intervista-ad-un-fotografo-rivista-fotografare-2015.jpg" alt="Intervista ad un fotografo" width="650" height="350" class="alignnone size-full wp-image-6583" />
 
 <blockquote>Elio Carchidi ci racconta i suoi ritratti di gente che conta: sportivi, attori, modelle, tutti con il suo taglio unico.</blockquote>
 
@@ -48,4 +48,4 @@ Un suggerimento che ricordo essermi stato veramente utile e che tuttora impiego 
 il tempo di esposizione viene fissato al numero più prossimo al valore ASA [= ISO] della pellicola utilizzata (125 ASA = 1/125sec) per poi impostare [<strong><a href="//www.eliocarchidi.com/interviste-sulla-fotografia-fotografare-2015/" title="interviste sulla fotografia - fotografare 2015">CONTINUA...</a></strong>]
 
 <h3><strong><a href="//www.eliocarchidi.com/interviste-sulla-fotografia-fotografare-2015/">Articolo pubblicato sulla rivista "Fotografare" (Download Pdf - ottobre 2015)</a><br />Intervista ad un fotografo</strong></h3>
-<a href="//www.eliocarchidi.com/interviste-sulla-fotografia-fotografare-2015/"><img src="//www.eliocarchidi.com/wp-content/uploads/2016/05/interviste-sulla-fotografia-fotografare-ottobre-2015.jpg" alt="Interviste sulla fotografia - Fotografare" width="908" height="600" class="aligncenter size-full wp-image-6594" /></a>
+<a href="//www.eliocarchidi.com/interviste-sulla-fotografia-fotografare-2015/"><img src="https://media.eliocarchidi.com/uploads/2016/05/interviste-sulla-fotografia-fotografare-ottobre-2015.jpg" alt="Interviste sulla fotografia - Fotografare" width="908" height="600" class="aligncenter size-full wp-image-6594" /></a>

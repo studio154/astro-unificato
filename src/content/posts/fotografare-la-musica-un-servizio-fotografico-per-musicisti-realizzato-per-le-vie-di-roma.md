@@ -4,14 +4,14 @@ team: "elio-carchidi"
 pubDate: 2013-12-13
 description: "[caption id=\"attachment_3429\" align=\"aligncenter\" width=\"550\"] Musical Band Kvatro: Roma, zona Campo de'Fiori[/caption] Se ho scelto di fare questo l..."
 image:
-  url: "https://www.eliocarchidi.com/wp-content/uploads/2013/12/Musical-Band-Kvatro-300.jpg"
+  url: "https://media.eliocarchidi.com/uploads/2013/12/Musical-Band-Kvatro-300.jpg"
   alt: "Fotografare la musica:  un servizio fotografico per musicisti realizzato per le vie di Roma"
 tags: []
 ---
 
 <div class="separatore"></div>
 
-[caption id="attachment_3429" align="aligncenter" width="550"]<img class="size-full wp-image-3429" src="//www.eliocarchidi.com/wp-content/uploads/2013/12/Musical-Band-Kvatro-02.jpg" alt="Musical Band Kvatro" width="550" height="302" /> Musical Band Kvatro: Roma, zona Campo de'Fiori[/caption]
+[caption id="attachment_3429" align="aligncenter" width="550"]<img class="size-full wp-image-3429" src="https://media.eliocarchidi.com/uploads/2013/12/Musical-Band-Kvatro-02.jpg" alt="Musical Band Kvatro" width="550" height="302" /> Musical Band Kvatro: Roma, zona Campo de'Fiori[/caption]
 
 Se ho scelto di fare questo lavoro l'ho fatto perchè <strong>mi piace fotografare le persone</strong> (tutte) e stare a contatto con loro. realizzare un servizio fotografico per musicisti per me è come fare musica. Una delle cose che adoro di più, appunto, è lavorare con i <strong>musicisti</strong> e con gli <strong>artisti in genere</strong>, attori, uomini di spettacolo.
 
@@ -50,7 +50,7 @@ Io di solito ho già nella mia testa una <strong>bella lista di location</strong
 
 Insomma bisogna pianificare bene tutto prima di avviarsi allo <strong>shooting fotografico</strong> per evitare che il lavoro diventi un vero e proprio massacro per tutti e anche per i <strong>musicisti</strong>.
 
-[caption id="attachment_3432" align="aligncenter" width="550"]<img class="size-full wp-image-3432" src="//www.eliocarchidi.com/wp-content/uploads/2013/12/Musical-Band-Kvatro-05.jpg" alt="Music Band Kvatro: Roma, scalinata del Campidoglio" width="550" height="367" /> Music Band Kvatro: Roma, scalinata del Campidoglio[/caption]
+[caption id="attachment_3432" align="aligncenter" width="550"]<img class="size-full wp-image-3432" src="https://media.eliocarchidi.com/uploads/2013/12/Musical-Band-Kvatro-05.jpg" alt="Music Band Kvatro: Roma, scalinata del Campidoglio" width="550" height="367" /> Music Band Kvatro: Roma, scalinata del Campidoglio[/caption]
 
 Lo <strong>scatto fotografico</strong> che vedi sopra è stato realizzato di notte sulle scale del <strong>Campidoglio di Roma</strong>. Per farlo ho dovuto usare un flash/lampeggiatore, portatile a batteria, molto potente accessoriato con un ombrello per ottenere una luce ragionevolmente morbida e compensare l'effetto delle luci delle macchine che passano sullo sfondo.
 
@@ -68,7 +68,7 @@ So che detta così può sembrare una cosa semplice da sapere, ma la pressione ch
 
 Per ogni <strong>Servizio Fotografico</strong> che realizzo per me i primi 30 minuti fanno solo da riscaldamento. Tranne che in rari casi solitamente tutto quello che ho scattato nella prima mezz'ora di lavoro lo butto via. Da quel momento in poi tutto dovrebbe filare liscio.
 
-[caption id="attachment_3434" align="aligncenter" width="550"]<img class="size-full wp-image-3434" src="//www.eliocarchidi.com/wp-content/uploads/2013/12/Musical-Band-Kvatro-03.jpg" alt="Music Band Kvatro: Roma, Via Giulia" width="550" height="367" /> Music Band Kvatro: Roma, Via Giulia[/caption]
+[caption id="attachment_3434" align="aligncenter" width="550"]<img class="size-full wp-image-3434" src="https://media.eliocarchidi.com/uploads/2013/12/Musical-Band-Kvatro-03.jpg" alt="Music Band Kvatro: Roma, Via Giulia" width="550" height="367" /> Music Band Kvatro: Roma, Via Giulia[/caption]
 
 <strong>SCATTO E RI-SCATTO:</strong>
 

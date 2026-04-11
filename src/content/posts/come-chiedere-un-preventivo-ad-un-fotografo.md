@@ -4,13 +4,13 @@ team: "elio-carchidi"
 pubDate: 2025-07-17
 description: "Ricevo spesso richieste così: “Ciao, vorrei sapere quanto costano i tuoi ritratti.” Capisco perfettamente: il prezzo conta. Ma senza sapere cosa c’è..."
 image:
-  url: "https://www.eliocarchidi.com/wp-content/uploads/2025/07/fotografo-famoso-prezzi-servizio-fotografico.png"
+  url: "https://media.eliocarchidi.com/uploads/2025/07/fotografo-famoso-prezzi-servizio-fotografico.png"
   alt: "Mi mandi un preventivo?"
 tags: ["prezzi servizi fotografici","prezzo servizio fotografico"]
 ---
 
 <!-- wp:image {"id":18762,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="https://www.eliocarchidi.com/wp-content/uploads/2025/07/fotografo-famoso-prezzi-servizio-fotografico-1.png" alt="come richiedere un preventivo al fotografo" class="wp-image-18762"/></figure>
+<figure class="wp-block-image size-full"><img src="https://media.eliocarchidi.com/uploads/2025/07/fotografo-famoso-prezzi-servizio-fotografico-1.png" alt="come richiedere un preventivo al fotografo" class="wp-image-18762"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"className":"intro"} -->
@@ -200,7 +200,7 @@ tags: ["prezzi servizi fotografici","prezzo servizio fotografico"]
 <!-- /wp:list -->
 
 <!-- wp:image {"id":18759,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="https://www.eliocarchidi.com/wp-content/uploads/2025/07/fotografo-famoso-prezzi-servizio-fotografico-2.png" alt="chiedere un preventivo ad un fotografo" class="wp-image-18759"/><figcaption class="wp-element-caption">Entrambe sono foto della stessa ragazza. Ma solo una la rappresenta davvero.</figcaption></figure>
+<figure class="wp-block-image size-full"><img src="https://media.eliocarchidi.com/uploads/2025/07/fotografo-famoso-prezzi-servizio-fotografico-2.png" alt="chiedere un preventivo ad un fotografo" class="wp-image-18759"/><figcaption class="wp-element-caption">Entrambe sono foto della stessa ragazza. Ma solo una la rappresenta davvero.</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

@@ -4,13 +4,13 @@ team: "elio-carchidi"
 pubDate: 2012-01-08
 description: "[caption id=\"attachment_425\" align=\"aligncenter\" width=\"588\" caption=\"Claudia Koll, Ritratto inedito\"][/caption] Questa immagine rappresenta per me u..."
 image:
-  url: "http://www.eliocarchidi.com/wp-content/uploads/2011/09/Fotografia_Ritratto_Claudia_Koll1.jpg"
+  url: "http:https://media.eliocarchidi.com/uploads/2011/09/Fotografia_Ritratto_Claudia_Koll1.jpg"
   alt: "Claudia Koll: Ritratto classico inedito (senza photoshop)"
 tags: []
 ---
 
 <div class="separatore"></div>
-[caption id="attachment_425" align="aligncenter" width="588" caption="Claudia Koll, Ritratto inedito"]<img class="size-full wp-image-425" title="Fotografia_Claudia_Koll_Inedita" src="//www.eliocarchidi.com/wp-content/uploads/2012/01/Fotografia_Claudia_Koll_Inedita1.jpg" alt="Ritratto_Claudia_Koll_Inedito" width="588" height="800" />[/caption]
+[caption id="attachment_425" align="aligncenter" width="588" caption="Claudia Koll, Ritratto inedito"]<img class="size-full wp-image-425" title="Fotografia_Claudia_Koll_Inedita" src="https://media.eliocarchidi.com/uploads/2012/01/Fotografia_Claudia_Koll_Inedita1.jpg" alt="Ritratto_Claudia_Koll_Inedito" width="588" height="800" />[/caption]
 
 Questa immagine rappresenta per me uno dei regali più graditi che la <strong>Fotografia</strong> mi ha riservato.
 E credo sarebbe così per chiunque al posto mio.

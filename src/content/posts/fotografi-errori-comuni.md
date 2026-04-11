@@ -4,14 +4,14 @@ team: "elio-carchidi"
 pubDate: 2017-02-27
 description: "Sei un Fotografo alle prime armi o appartieni alla schiera dei fotografi di lunga data? Bene, questo articolo fa per te! Leggi con attenzione l'elenco..."
 image:
-  url: "https://www.eliocarchidi.com/wp-content/uploads/2017/02/3-errori-da-evitare-per-300.jpg"
+  url: "https://media.eliocarchidi.com/uploads/2017/02/3-errori-da-evitare-per-300.jpg"
   alt: "Fotografi: I 3 Errori più Comuni da Evitare per Vivere e Fotografare Meglio"
 tags: []
 ---
 
 Sei un <strong>Fotografo alle prime armi</strong> o appartieni alla schiera dei fotografi di lunga data? Bene, <strong>questo articolo fa per te</strong>!
 
-<img class="aligncenter wp-image-10969 size-medium" src="https://www.eliocarchidi.com/wp-content/uploads/2016/07/3-errori-da-evitare-per-596x300.jpg" alt="Fotografi 3 errori da evitare" width="596" height="300" />
+<img class="aligncenter wp-image-10969 size-medium" src="https://media.eliocarchidi.com/uploads/2016/07/3-errori-da-evitare-per-596x300.jpg" alt="Fotografi 3 errori da evitare" width="596" height="300" />
 
 Leggi con attenzione l'elenco degli errori più comuni da evitare, per <strong>fotografare e vivere felicemente godendoti la vita</strong>.
 <h2>Ecco i <strong>3 errori più comuni</strong> per un fotografo:</h2>

@@ -4,12 +4,12 @@ team: "elio-carchidi"
 pubDate: 2016-12-28
 description: "Considerati i numerosi messaggi che ricevo costantemente da parte di ragazzi e ragazze, interessati a partecipare ad un \"casting\", non potevo esimerm..."
 image:
-  url: "https://www.eliocarchidi.com/wp-content/uploads/2016/12/book-fotografico-attrici-300.jpg"
+  url: "https://media.eliocarchidi.com/uploads/2016/12/book-fotografico-attrici-300.jpg"
   alt: "Il miglior modo che conosco per presentarsi bene ad un casting"
 tags: ["Book Fotografici - Articoli","book fotografico"]
 ---
 
-<img class="aligncenter size-full wp-image-11201" src="https://www.eliocarchidi.com/wp-content/uploads/2016/12/book-fotografico-attrici.jpg" alt="Book Fotografico Attrici" width="680" height="510" />
+<img class="aligncenter size-full wp-image-11201" src="https://media.eliocarchidi.com/uploads/2016/12/book-fotografico-attrici.jpg" alt="Book Fotografico Attrici" width="680" height="510" />
 
 Considerati i numerosi messaggi che ricevo costantemente da parte di <strong>ragazzi e ragazze, interessati a partecipare ad un "casting", </strong>non potevo esimermi dall'affrontare nuovamente l'argomento.
 

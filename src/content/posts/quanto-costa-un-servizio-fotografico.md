@@ -4,13 +4,13 @@ team: "elio-carchidi"
 pubDate: 2026-01-29
 description: "Quanto costa un servizio fotografico? Spesso mi scrivono dicendo: “Ho visto le tue fotografie e mi piacerebbe fare un ritratto, ma non so quanto può..."
 image:
-  url: "https://www.eliocarchidi.com/wp-content/uploads/2020/10/2.png"
+  url: "https://media.eliocarchidi.com/uploads/2020/10/2.png"
   alt: "Quanto costa un Servizio Fotografico? Risponde il Fotografo."
 tags: []
 ---
 
 <!-- wp:image {"id":12465,"align":"center","className":"size-full wp-image-12465"} -->
-<figure class="wp-block-image aligncenter size-full wp-image-12465"><img src="https://www.eliocarchidi.com/wp-content/uploads/2013/11/quanto-costa-un-servizio-fotografico-800.jpg" alt="Quanto costa un Servizio Fotografico" class="wp-image-12465"/><figcaption class="wp-element-caption">Quanto costa un servizio fotografico?</figcaption></figure>
+<figure class="wp-block-image aligncenter size-full wp-image-12465"><img src="https://media.eliocarchidi.com/uploads/2013/11/quanto-costa-un-servizio-fotografico-800.jpg" alt="Quanto costa un Servizio Fotografico" class="wp-image-12465"/><figcaption class="wp-element-caption">Quanto costa un servizio fotografico?</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"className":"intro"} -->
@@ -198,7 +198,7 @@ Regalare un ritratto significa...</a></li><li class=""><a href="#4-quanto-costa-
 <!-- /wp:spacer -->
 
 <!-- wp:image {"id":16715,"sizeSlug":"full","linkDestination":"custom"} -->
-<figure class="wp-block-image size-full"><a href="https://studio154.it/prezzi-servizi-fotografici-professionali.html" target="_blank" rel="noopener"><img src="https://www.eliocarchidi.com/wp-content/uploads/2022/02/prezz-servizi-fotografici-professionali-banner-h2-1.png" alt="Prezzi servizi fotografici" class="wp-image-16715"/></a></figure>
+<figure class="wp-block-image size-full"><a href="https://studio154.it/prezzi-servizi-fotografici-professionali.html" target="_blank" rel="noopener"><img src="https://media.eliocarchidi.com/uploads/2022/02/prezz-servizi-fotografici-professionali-banner-h2-1.png" alt="Prezzi servizi fotografici" class="wp-image-16715"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:group {"metadata":{"name":"#7 quanto si spende"},"layout":{"type":"constrained"}} -->
@@ -232,7 +232,7 @@ Regalare un ritratto significa...</a></li><li class=""><a href="#4-quanto-costa-
 <!-- /wp:spacer -->
 
 <!-- wp:image {"id":16715,"sizeSlug":"full","linkDestination":"custom"} -->
-<figure class="wp-block-image size-full"><a href="https://studio154.it/prezzi-servizi-fotografici-professionali.html" target="_blank" rel="noopener"><img src="https://www.eliocarchidi.com/wp-content/uploads/2022/02/prezz-servizi-fotografici-professionali-banner-h2-1.png" alt="Prezzi servizi fotografici" class="wp-image-16715"/></a></figure>
+<figure class="wp-block-image size-full"><a href="https://studio154.it/prezzi-servizi-fotografici-professionali.html" target="_blank" rel="noopener"><img src="https://media.eliocarchidi.com/uploads/2022/02/prezz-servizi-fotografici-professionali-banner-h2-1.png" alt="Prezzi servizi fotografici" class="wp-image-16715"/></a></figure>
 <!-- /wp:image -->
 
 <!-- wp:separator {"opacity":"css"} -->

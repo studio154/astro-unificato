@@ -4,7 +4,7 @@ team: "elio-carchidi"
 pubDate: 2012-05-25
 description: "Nel mio Studio Fotografico Studio154 a Roma ci sono altri Fotografi Professionisti che lavorano con me e tutti realizziamo Servizi Fotografici di Alt..."
 image:
-  url: "http://www.eliocarchidi.com/wp-content/uploads/2014/02/ritratto-backstage-fotografico.jpg"
+  url: "http:https://media.eliocarchidi.com/uploads/2014/02/ritratto-backstage-fotografico.jpg"
   alt: "A Studio154 realizziamo Servizi Fotografici Professionali di Alto Livello"
 tags: []
 ---

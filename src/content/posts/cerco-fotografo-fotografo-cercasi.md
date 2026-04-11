@@ -4,13 +4,13 @@ team: "elio-carchidi"
 pubDate: 2011-06-02
 description: "[caption id=\"attachment_2263\" align=\"alignnone\" width=\"500\"] Fotografi e Fotografia sul web[/caption] Ho avuto modo di riscontrare che uno dei termin..."
 image:
-  url: "http://www.eliocarchidi.com/wp-content/uploads/2011/06/fotografia-motori-di-ricerca.jpg"
+  url: "http:https://media.eliocarchidi.com/uploads/2011/06/fotografia-motori-di-ricerca.jpg"
   alt: "Cerco Fotografo, Fotografo Cercasi"
 tags: ["Fotografi Professionisti","bravo fotografo","cerco fotografo","fotografi affidabili","fotografo affidabile","fotografo cercasi"]
 ---
 
 <div class="separatore"></div>
-[caption id="attachment_2263" align="alignnone" width="500"]<img class="wp-image-2263 " title="fotografia-motori-di-ricerca" src="//www.eliocarchidi.com/wp-content/uploads/2011/06/fotografia-motori-di-ricerca.jpg" alt="La Fotografia e i fotografi nei motori di ricerca" width="500" height="327" /> Fotografi e Fotografia sul web[/caption]
+[caption id="attachment_2263" align="alignnone" width="500"]<img class="wp-image-2263 " title="fotografia-motori-di-ricerca" src="https://media.eliocarchidi.com/uploads/2011/06/fotografia-motori-di-ricerca.jpg" alt="La Fotografia e i fotografi nei motori di ricerca" width="500" height="327" /> Fotografi e Fotografia sul web[/caption]
 
 Ho avuto modo di riscontrare che uno dei termini – keywords – maggiormente utilizzati sul web (esattamente sui motori di ricerca) per "rintracciare" un Fotografo è "<strong>Cerco Fotografo</strong>" – primo in classifica – seguito dal termine "<strong>Fotografo Cercasi</strong>".
 

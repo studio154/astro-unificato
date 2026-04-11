@@ -4,13 +4,13 @@ team: "elio-carchidi"
 pubDate: 2021-03-07
 description: "Le tue Foto professionali top il tuo miglior venditore! Se sei un professionista, un manager, un blogger, un influencer, uno youtubber oppure hai un..."
 image:
-  url: "https://www.eliocarchidi.com/wp-content/uploads/2021/03/Foto-Professionali-Top-1.png"
+  url: "https://media.eliocarchidi.com/uploads/2021/03/Foto-Professionali-Top-1.png"
   alt: "Foto Professionali Top. Rendi le tue foto il tuo miglior venditore."
 tags: ["foto per professionisti","fotografie professionali","servizi fotografici"]
 ---
 
 <!-- wp:image {"id":16231,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://www.eliocarchidi.com/wp-content/uploads/2021/03/Foto-Professionali-Top-1.png" alt="Foto professionali top" class="wp-image-16231"/><figcaption class="wp-element-caption">Le tue Foto professionali top il tuo miglior venditore!</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="https://media.eliocarchidi.com/uploads/2021/03/Foto-Professionali-Top-1.png" alt="Foto professionali top" class="wp-image-16231"/><figcaption class="wp-element-caption">Le tue Foto professionali top il tuo miglior venditore!</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"className":"intro"} -->

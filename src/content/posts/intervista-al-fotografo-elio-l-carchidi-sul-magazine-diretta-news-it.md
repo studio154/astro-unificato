@@ -4,7 +4,7 @@ team: "elio-carchidi"
 pubDate: 2011-10-09
 description: "Una bella intervista quella rilasciata a Simone Ciloni, ne sono orgoglioso sia per l'interesse professionale dimostratomi ma anche e sopratutto per l'..."
 image:
-  url: "http://eliocarchidi.com/wp-content/uploads/2011/10/intervista_fotografo_elio_carchidi.jpg"
+  url: "https://media.eliocarchidi.com/uploads/2011/10/intervista_fotografo_elio_carchidi.jpg"
   alt: "Intervista al Fotografo Elio L. Carchidi sul Magazine \"Diretta News.it\""
 tags: ["Fotografi Professionisti","fotografia professionale","fotografo professionista","intervista fotografo","interviste fotografi","interviste fotografia","interviste fotografo","interviste sulla fotografia"]
 ---
@@ -19,7 +19,7 @@ Ho accettato con piacere di concedere questa intervista sia perché Simone si è
 
 <hr />
 
-[caption id="attachment_316" align="aligncenter" width="600"]<img class="size-full wp-image-316" src="https://www.eliocarchidi.com/wp-content/uploads/2011/10/intervista_fotografo_elio_carchidi.jpg" alt="intervista_fotografo_elio_carchidi" width="600" height="534" /> Intervista al Elio leonardo Carchidi su Direttanews.it[/caption]
+[caption id="attachment_316" align="aligncenter" width="600"]<img class="size-full wp-image-316" src="https://media.eliocarchidi.com/uploads/2011/10/intervista_fotografo_elio_carchidi.jpg" alt="intervista_fotografo_elio_carchidi" width="600" height="534" /> Intervista al Elio leonardo Carchidi su Direttanews.it[/caption]
 
 <hr />
 

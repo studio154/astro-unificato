@@ -4,14 +4,14 @@ team: "elio-carchidi"
 pubDate: 2016-11-27
 description: "\"...per presentarmi al meglio al casting cosa indossare?\" Casting cosa indossare e... cosa non indossare Le cose da tenere presente! Se sei una modell..."
 image:
-  url: "https://www.eliocarchidi.com/wp-content/uploads/2016/11/casting-cosa-indossare-300.jpg"
+  url: "https://media.eliocarchidi.com/uploads/2016/11/casting-cosa-indossare-300.jpg"
   alt: "Casting Cosa Indossare: Quale è l'abbigliamento giusto per presentarsi."
 tags: ["casting","casting moda","fotomodella","fotomodelle","moda","modelle"]
 ---
 
 <p style="text-align: center;"><strong>"</strong><em>...per presentarmi al meglio al casting cosa indossare?</em><strong>"
 </strong></p>
-<img class="aligncenter size-full wp-image-11145" src="https://www.eliocarchidi.com/wp-content/uploads/2016/11/casting-cosa-indossare.jpg" alt="Casting cosa indossare - Suggerimenti e Consigli" width="650" height="488" />
+<img class="aligncenter size-full wp-image-11145" src="https://media.eliocarchidi.com/uploads/2016/11/casting-cosa-indossare.jpg" alt="Casting cosa indossare - Suggerimenti e Consigli" width="650" height="488" />
 <h2>Casting cosa indossare e... cosa non indossare</h2>
 <h3>Le cose da tenere presente!</h3>
 Se sei una modella o un modello ti sarai sicuramente posto questa domanda:

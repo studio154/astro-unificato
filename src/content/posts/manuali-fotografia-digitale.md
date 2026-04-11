@@ -4,7 +4,7 @@ team: "elio-carchidi"
 pubDate: 2018-12-24
 description: "Manuali Fotografia Digitale: semplici e utili Lavorando come Fotografo da molto tempo ho avuto modo di sperimentare diversi tipi di illuminazione. Un..."
 image:
-  url: "https://www.eliocarchidi.com/wp-content/uploads/2018/12/Manuali-Fotografia-Digitale-La-luce-fotografica-artificiale-2.png"
+  url: "https://media.eliocarchidi.com/uploads/2018/12/Manuali-Fotografia-Digitale-La-luce-fotografica-artificiale-2.png"
   alt: "Manuali Fotografia Digitale - La luce fotografica artificiale"
 tags: ["Guida fotografica","Manuali Fotografia Digitale","Vademecum Fotografia","guide fotografiche","luce artificiale","luce flash","luce fluorescenza","luce fotografica artificiale","luce tungsteno","set fotografico"]
 ---
@@ -14,7 +14,7 @@ tags: ["Guida fotografica","Manuali Fotografia Digitale","Vademecum Fotografia",
 <a title="Manuali fotografia digitale" href="https://www.eliocarchidi.com/category/lezioni-di-fotografia/">Manuali Fotografia Digitale: semplici e utili</a>
 
 </div>
-<a href="//studio154.it/studio_fotografico_studio154/guida-sulla-luce-fotografica-artificiale-manuale-gratuito/"><img class="alignleft wp-image-984 size-medium" style="margin: 0px 15px 0px 5px; border: 0px none; box-shadow: #ffffff 0px 0px 0px;" title="COPERTINA_La-Luce-Fotografica-Artificiale_MOD-SMALL" src="https://www.eliocarchidi.com/wp-content/uploads/2012/07/COPERTINA_La-Luce-Fotografica-Artificiale_MOD-SMALL-230x300.png" alt="Manuali Fotografia Digitale - Manuale Luce Fotografica Artificiale" width="230" height="300"/></a>Lavorando come Fotografo da molto tempo ho avuto modo di sperimentare diversi tipi di illuminazione. Una discreta quantità di fonti di luce.
+<a href="//studio154.it/studio_fotografico_studio154/guida-sulla-luce-fotografica-artificiale-manuale-gratuito/"><img class="alignleft wp-image-984 size-medium" style="margin: 0px 15px 0px 5px; border: 0px none; box-shadow: #ffffff 0px 0px 0px;" title="COPERTINA_La-Luce-Fotografica-Artificiale_MOD-SMALL" src="https://media.eliocarchidi.com/uploads/2012/07/COPERTINA_La-Luce-Fotografica-Artificiale_MOD-SMALL-230x300.png" alt="Manuali Fotografia Digitale - Manuale Luce Fotografica Artificiale" width="230" height="300"/></a>Lavorando come Fotografo da molto tempo ho avuto modo di sperimentare diversi tipi di illuminazione. Una discreta quantità di fonti di luce.
 
 Ho voluto spendere qualche parola su questo argomento per cercare di aiutarti a comprendere alcuni elementi di base sul colore della luce artificiale.
 

@@ -4,12 +4,12 @@ team: "elio-carchidi"
 pubDate: 2018-12-21
 description: "[caption id=\"attachment_13595\" align=\"aligncenter\" width=\"1000\"] Perché regalare fotografie è un regalo perfetto? Perché è per tutti, dura nel tempo e..."
 image:
-  url: "https://www.eliocarchidi.com/wp-content/uploads/2018/10/le-fotografie-sono-il-regalo-perfetto-600.jpg"
+  url: "https://media.eliocarchidi.com/uploads/2018/10/le-fotografie-sono-il-regalo-perfetto-600.jpg"
   alt: "Un servizio fotografico è un regalo perfetto! Da fare o ricevere."
 tags: ["regalo fotografico","servizi fotografici"]
 ---
 
-[caption id="attachment_13595" align="aligncenter" width="1000"]<img class="wp-image-13595 size-full" src="https://www.eliocarchidi.com/wp-content/uploads/2018/10/le-fotografie-sono-il-regalo-perfetto-or.jpg" alt="Regalare un servizio fotografico è un regalo perfetto!" width="1000" height="347" /> Perché regalare fotografie è un regalo perfetto? Perché è per tutti, dura nel tempo ed è anche utile![/caption]
+[caption id="attachment_13595" align="aligncenter" width="1000"]<img class="wp-image-13595 size-full" src="https://media.eliocarchidi.com/uploads/2018/10/le-fotografie-sono-il-regalo-perfetto-or.jpg" alt="Regalare un servizio fotografico è un regalo perfetto!" width="1000" height="347" /> Perché regalare fotografie è un regalo perfetto? Perché è per tutti, dura nel tempo ed è anche utile![/caption]
 
 [toc heading_levels="3,4" class="centra-toc"]
 <p class="intro">Se stai impazzendo perché non sai cosa regalare ad una tua amica, a tua figlia, a tua moglie o a chiunque desideri fare felice, questa è l'idea giusta per te: un servizio fotografico è un regalo perfetto!</p>
@@ -62,7 +62,7 @@ Inoltre <strong>il divertimento è garantito</strong>! Posare su <strong>un vero
 
 Puoi scegliere <a href="https://studio154.it/idee-regalo-con-fotografie-regala-un-servizio-fotografico/" target="_blank" rel="noopener"><strong>il servizio fotografico da regalare</strong></a> tra le varie soluzioni che suggerisce il mio studio sul sito dedicato e prenotare subito online quello migliore per te.
 
-<a title="Prenota il tuo servizio fotografico" href="https://studio154.it/idee-regalo-con-fotografie-regala-un-servizio-fotografico/" target="_blank" rel="noopener"><img class="wp-image-13621 size-full" src="https://www.eliocarchidi.com/wp-content/uploads/2018/10/regalare-un-servizio-fotografico-2018.jpg" alt="Regalare un Servizio Fotografico 2018" width="800" height="548" /></a>
+<a title="Prenota il tuo servizio fotografico" href="https://studio154.it/idee-regalo-con-fotografie-regala-un-servizio-fotografico/" target="_blank" rel="noopener"><img class="wp-image-13621 size-full" src="https://media.eliocarchidi.com/uploads/2018/10/regalare-un-servizio-fotografico-2018.jpg" alt="Regalare un Servizio Fotografico 2018" width="800" height="548" /></a>
 
 Misura il tuo budget e stai pur certo che, qualunque soluzione sceglierai, quella sarà la spesa giusta per un omaggio prezioso, di alto valore, che non potrà che essere apprezzato.
 

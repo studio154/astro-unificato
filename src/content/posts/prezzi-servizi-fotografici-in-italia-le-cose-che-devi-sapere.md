@@ -10,7 +10,7 @@ tags: ["prezzi servizi fotografici","prezzo servizio fotografico"]
 ---
 
 <!-- wp:image {"id":15587,"sizeSlug":"large","linkDestination":"none"} 
-<figure class="wp-block-image size-large"><img src="https://www.eliocarchidi.com/wp-content/uploads/2020/01/5.png" alt="Prezzi Medi Servizi Fotografici Roma" class="wp-image-15587"/></figure> -->
+<figure class="wp-block-image size-large"><img src="https://media.eliocarchidi.com/uploads/2020/01/5.png" alt="Prezzi Medi Servizi Fotografici Roma" class="wp-image-15587"/></figure> -->
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"className":"intro"} -->

@@ -4,7 +4,7 @@ team: "elio-carchidi"
 pubDate: 2011-09-24
 description: "Una bella intervista al Fotografo Elio Carchidi per il MagazineVirtuale di Canon (Canon Imaging Store) firmata Mosè Franchi. [caption id=\"attachment_..."
 image:
-  url: "http://fotografo.eliocarchidi.com/wp-content/uploads/2011/09/intervista-elio-carchidi-Canon.jpg"
+  url: "https://media.eliocarchidi.com/uploads/2011/09/intervista-elio-carchidi-Canon.jpg"
   alt: "Canon: intervista il Fotografo"
 tags: ["fotografi","fotografo bravo","fotografo professionista","intervista fotografo","interviste fotografi","interviste fotografia"]
 ---
@@ -12,7 +12,7 @@ tags: ["fotografi","fotografo bravo","fotografo professionista","intervista foto
 <div class="separatore"></div>
 <strong>Una bella intervista al Fotografo Elio Carchidi per il MagazineVirtuale di Canon (<a title="Canon Imaging Store" href="//www.eliocarchidi.com/interviste-fotografi-canon-magazine/">Canon Imaging Store</a>) firmata Mosè Franchi.</strong>
 
-[caption id="attachment_628" align="alignnone" width="500"]<img class=" wp-image-628  " title="Fotografia_Ritratto_Claudia_Koll" src="//www.eliocarchidi.com/wp-content/uploads/2011/09/Fotografia_Ritratto_Claudia_Koll1.jpg" alt="Fotografia Ritratto di Claudia Koll" width="500" height="650" /> Ritratto di Claudia Koll. Pellicola Bianco e Nero[/caption]
+[caption id="attachment_628" align="alignnone" width="500"]<img class=" wp-image-628  " title="Fotografia_Ritratto_Claudia_Koll" src="https://media.eliocarchidi.com/uploads/2011/09/Fotografia_Ritratto_Claudia_Koll1.jpg" alt="Fotografia Ritratto di Claudia Koll" width="500" height="650" /> Ritratto di Claudia Koll. Pellicola Bianco e Nero[/caption]
 
 <span style="color: #808080;"><strong>INSEGUENDO LA CURIOSITA’</strong></span>
 
@@ -62,7 +62,7 @@ Grazie a Elio Leonardo Carchidi
 
 <strong> R] </strong>No, anche perché ho una certa predilezione per le nuove tecnologie. Mi ritengo fortunato nell’aver vissuto quelle esperienze, che mi hanno messo in condizione di conoscere meglio le cose. Oggi c’è meno fatica ed egoisticamente penso vi siano troppi fotografi: peraltro tutti molto visibili (vedi internet). Come dire: la concorrenza è elevata, per cui bisogna inventarsi altre cose. Io, ad esempio, mi sono orientato verso il noleggio di attrezzature e studio professionali. L’entrata che ne deriva mi permette di non correre dietro ai piccoli lavori, ma anche di conoscere altri professionisti: di stare al passo con i tempi. L'attività, comunque, è nata spontaneamente con la fondazione della società STUDIO154, che si prefigge l'obiettivo di diventare col tempo un "polo culturale fotografico". Non si tratta quindi di solo lucro.
 
-[caption id="attachment_633" align="alignnone" width="500"]<img class=" wp-image-633    " title="Claudia_Koll_Ritratto_Tradizionale" src="//www.eliocarchidi.com/wp-content/uploads/2011/09/Claudia_Koll_Ritratto_Tradizionale.jpg" alt="Claudia Koll fotografata da Elio Carchidi" width="500" height="620" /> Claudia Koll fotografata da Elio Carchidi (pellicola Bianco e Nero)[/caption]
+[caption id="attachment_633" align="alignnone" width="500"]<img class=" wp-image-633    " title="Claudia_Koll_Ritratto_Tradizionale" src="https://media.eliocarchidi.com/uploads/2011/09/Claudia_Koll_Ritratto_Tradizionale.jpg" alt="Claudia Koll fotografata da Elio Carchidi" width="500" height="620" /> Claudia Koll fotografata da Elio Carchidi (pellicola Bianco e Nero)[/caption]
 
 <strong>D] Come ti definiresti? In ambito fotografico, intendo? </strong>
 
@@ -76,7 +76,7 @@ Grazie a Elio Leonardo Carchidi
 
 <strong>R]</strong> Il rapporto umano. Occorre dimenticare di avere di fronte un soggetto – oggetto, riconoscendo la persona: in quel caso si riesce a costruire un buon ritratto. Sono i rapporti personali a vincere, la tecnica deve andare da sola. Quanto ti ho detto potrà sembrare retorico, ma la realtà è quella. Io conosco dei ragazzi bravissimi, che di fronte ad una persona da ritrarre si bloccano. La relazione, poi, deve essere brevissima e veloce: bastano pochi minuti per entrare in contatto con chi si vuole ritrarre.
 
-[caption id="attachment_636" align="alignnone" width="500"]<img class=" wp-image-636   " title="Fotografie_Amanda_Lear" src="//www.eliocarchidi.com/wp-content/uploads/2011/09/Fotografie_Amanda_Lear1.jpg" alt="Fotografia Ritratto di amanda Lear" width="500" height="230" /> Amanda Lear fotografata da Elio Leonardo Carchidi (Bianco e Nero digitale)[/caption]
+[caption id="attachment_636" align="alignnone" width="500"]<img class=" wp-image-636   " title="Fotografie_Amanda_Lear" src="https://media.eliocarchidi.com/uploads/2011/09/Fotografie_Amanda_Lear1.jpg" alt="Fotografia Ritratto di amanda Lear" width="500" height="230" /> Amanda Lear fotografata da Elio Leonardo Carchidi (Bianco e Nero digitale)[/caption]
 
 <strong>D] Quasi un atteggiamento istintivo …</strong>
 

@@ -4,7 +4,7 @@ team: "elio-carchidi"
 pubDate: 2017-09-30
 description: "Servizi Fotografici Glamour Professionali Ambientati [caption id=\"attachment_12244\" align=\"aligncenter\" width=\"800\"] Liliane, una delle foto realizzat..."
 image:
-  url: "https://www.eliocarchidi.com/wp-content/uploads/2022/02/prezz-servizi-fotografici-professionali-banner-s2-1.png"
+  url: "https://media.eliocarchidi.com/uploads/2022/02/prezz-servizi-fotografici-professionali-banner-s2-1.png"
   alt: "Servizi Fotografici Glamour e Fotografie Erotiche e di Bellezza"
 tags: []
 ---
@@ -12,7 +12,7 @@ tags: []
 <p class="intro">Servizi Fotografici Glamour Professionali Ambientati</p>
 
 
-[caption id="attachment_12244" align="aligncenter" width="800"]<img class="wp-image-12244 size-full" title="fotografie-glamour-liliane" src="https://www.eliocarchidi.com/wp-content/uploads/2012/09/Servizi-Fotografici-Nudo-Glamour.jpg" alt="Servizi Fotografici Glamour Nudo" width="800" height="800"/> Liliane, una delle foto realizzate insieme[/caption]
+[caption id="attachment_12244" align="aligncenter" width="800"]<img class="wp-image-12244 size-full" title="fotografie-glamour-liliane" src="https://media.eliocarchidi.com/uploads/2012/09/Servizi-Fotografici-Nudo-Glamour.jpg" alt="Servizi Fotografici Glamour Nudo" width="800" height="800"/> Liliane, una delle foto realizzate insieme[/caption]
 
 Qualche anno fa uno dei generi fotografici più in auge e anche più ambiti dai Fotografi era quello della Fotografia di Glamour, i Servizi Fotografici Glamour.
 
@@ -21,7 +21,7 @@ Riviste famose come Playboy, Penthouse e via discorrendo facevano vendite oggi i
 Oggi il mercato è un pò cambiato. I costumi, le mode e le nuove tecnologie hanno reso la Fotografia di Glamour quasi obsoleta relegandola ad un ruolo di secondo piano sopratutto nel settore della Fotografia Professionale.
 <div style="text-align: center; border: 1px solid #E6E6E6; background: #FAFAFA; margin-top: 30px; margin-bottom: 30px; padding: 25px;">
 
-<img class="aligncenter wp-image-1947 size-full" style="box-shadow: 0 0 0 #FaFaFa; margin-top: 10px;" title="Brochure Servizio Fotografico Nudo e Glamour" src="https://www.eliocarchidi.com/wp-content/uploads/2012/09/fotografie-glamour-fotografo-roma.jpg" alt="Fotografie glamour a roma" width="250" height="355"/>
+<img class="aligncenter wp-image-1947 size-full" style="box-shadow: 0 0 0 #FaFaFa; margin-top: 10px;" title="Brochure Servizio Fotografico Nudo e Glamour" src="https://media.eliocarchidi.com/uploads/2012/09/fotografie-glamour-fotografo-roma.jpg" alt="Fotografie glamour a roma" width="250" height="355"/>
 <h3><a title="Scarica Gratis la Brochure di Fotografia Glamour e Nudo" href="https://www.eliocarchidi.com/manuali-fotografia-ebook-fotografici/le-fotografie-glamour-di-liliane/">Scarica GRATIS la Brochure completa con tutte le immagini del Servizio Fotografico <span style="color: #599f00;">SUBITO E GRATIS</span></a></h3>
 <p class="intro">Puoi effettuare liberamente il download e vedere tutte le immagini realizzate per questo servizio fotografico ma ricorda che che si tratta di fotografie di <strong>Nudo Artistico</strong> e che, sebbene non siano pornografiche o volgari, potrebbero urtare la sensibilità di taluni lettori .</p>
 
@@ -38,7 +38,7 @@ Lo dico con grande sincerità! Non è raro per me ricevere richieste di questo g
 
 Non per presunzione ma al contrario perchè intuisco sin dal primo approccio con la modella che potrei non essere in grado di creare il feeling necessario che viene richiesto in queste circostanze. Correrei solo il rischio di rimanere deluso dai risultati e di creare in me e nella persona mi si è affidata un profondo senso di frustrazione.
 
-[caption id="attachment_1374" align="aligncenter" width="541"]<a title="Scarica l'Ebook di Fotografie Erotiche" href="https://www.eliocarchidi.com/manuali-fotografia-ebook-fotografici/le-fotografie-glamour-di-liliane/"><img class="wp-image-1374 size-full" title="fotografia-nudo-artistico-liliane" src="https://www.eliocarchidi.com/wp-content/uploads/2012/09/fotografia-nudo-artistico-liliane.jpg" alt="Servizio Fotografico Nudo – Liliane sotto la doccia" width="541" height="584"/></a> Servizio Fotografico Nudo – Liliane sotto la doccia[/caption]
+[caption id="attachment_1374" align="aligncenter" width="541"]<a title="Scarica l'Ebook di Fotografie Erotiche" href="https://www.eliocarchidi.com/manuali-fotografia-ebook-fotografici/le-fotografie-glamour-di-liliane/"><img class="wp-image-1374 size-full" title="fotografia-nudo-artistico-liliane" src="https://media.eliocarchidi.com/uploads/2012/09/fotografia-nudo-artistico-liliane.jpg" alt="Servizio Fotografico Nudo – Liliane sotto la doccia" width="541" height="584"/></a> Servizio Fotografico Nudo – Liliane sotto la doccia[/caption]
 
 Liliane mi ha chiesto di realizzare queste immagini per lei con la massima spontaneità e genuinità. Con una dolcezza e una sicurezza di sè davvero incommensurabili. Sapeva già di poter ottenere delle fotografie irresistibili. Piccolo particolare, non di poco conto: Liliane NON è una modella professionista!
 
@@ -66,7 +66,7 @@ Ho raccolto una parte delle immagini realizzate durante questa sessione fotograf
 Le ho messe insieme creando un libro fotografico davvero molto accattivante sia per la bellezza della modella che per la naturalezza delle fotografie.
 <div style="text-align: center; border: 1px solid #E6E6E6; background: #FAFAFA; margin-top: 30px; margin-bottom: 30px; padding: 25px;">
 <h2>Servizi Fotografici Glamour</h2>
-<p style="text-align: center;"><img class="wp-image-1947 size-full alignnone" style="border: 0 none; box-shadow: 0 0 0 #FFFFFF; margin: 0 15px 0 5px;" title="Raccolta-Fotografie-Glamour-Liliane" src="https://www.eliocarchidi.com/wp-content/uploads/2012/09/fotografie-glamour-fotografo-roma.jpg" alt="Fotografie glamour a roma" width="250" height="355"/></p>
+<p style="text-align: center;"><img class="wp-image-1947 size-full alignnone" style="border: 0 none; box-shadow: 0 0 0 #FFFFFF; margin: 0 15px 0 5px;" title="Raccolta-Fotografie-Glamour-Liliane" src="https://media.eliocarchidi.com/uploads/2012/09/fotografie-glamour-fotografo-roma.jpg" alt="Fotografie glamour a roma" width="250" height="355"/></p>
 Questa raccolta è a tua disposizione puoi liberamente scaricarla.
 Ovviamente è un regalo da parte mia e sopratutto da parte di Liliane che ha reso possibile la realizzazione di questo Servizio Fotografico.
 Quindi è ASSOLUTAMENTE GRATIS!

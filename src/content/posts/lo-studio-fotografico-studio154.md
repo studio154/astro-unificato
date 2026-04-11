@@ -4,7 +4,7 @@ team: "elio-carchidi"
 pubDate: 2012-05-22
 description: "Domanda: Quale è Il Migliore Studio Fotografico di Roma? Intanto chiariamo un aspetto: il termine \"studio fotografico\" un tempo definiva la bottega ar..."
 image:
-  url: "https://www.eliocarchidi.com/wp-content/uploads/default.png"
+  url: "https://media.eliocarchidi.com/uploads/default.png"
   alt: "Il Migliore Studio Fotografico di Roma"
 tags: []
 ---

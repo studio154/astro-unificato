@@ -4,13 +4,13 @@ team: "elio-carchidi"
 pubDate: 2024-07-14
 description: "Vuoi scoprire come la medicina estetica e la fotografia possono trasformare la tua bellezza? Sei nel posto giusto! In questo articolo ti guiderò alla..."
 image:
-  url: "https://www.eliocarchidi.com/wp-content/uploads/2024/07/medicina-estetica-e-fotografia.jpeg"
+  url: "https://media.eliocarchidi.com/uploads/2024/07/medicina-estetica-e-fotografia.jpeg"
   alt: "Scopri come la medicina estetica e la fotografia possono trasformare la tua bellezza"
 tags: ["fotografi beauty","fotografia medicina estetica"]
 ---
 
 <!-- wp:image {"id":17524,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="https://www.eliocarchidi.com/wp-content/uploads/2024/07/medicina-estetica-e-fotografia.jpeg" alt="medicina estetica trattamenti estetici" class="wp-image-17524"/></figure>
+<figure class="wp-block-image size-full"><img src="https://media.eliocarchidi.com/uploads/2024/07/medicina-estetica-e-fotografia.jpeg" alt="medicina estetica trattamenti estetici" class="wp-image-17524"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"className":"intro"} -->

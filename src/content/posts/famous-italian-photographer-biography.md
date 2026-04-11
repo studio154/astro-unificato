@@ -4,7 +4,7 @@ team: "elio-carchidi"
 pubDate: 2012-07-25
 description: "Elio Leonardo Carchidi, high experienced Italian Portrait Photographer in Rome and famous italian photographer. Elio L. Carchidi (qualifying at the be..."
 image:
-  url: "http://www.eliocarchidi.com/wp-content/uploads/2012/05/elio_leonardo_carchidi_fotografo.jpg"
+  url: "http:https://media.eliocarchidi.com/uploads/2012/05/elio_leonardo_carchidi_fotografo.jpg"
   alt: "Famous Italian Photographer Biography"
 tags: []
 ---
@@ -13,7 +13,7 @@ tags: []
 
 <hr />
 
-<img class="alignleft size-thumbnail wp-image-510" src="https://www.eliocarchidi.com/wp-content/uploads/2012/05/elio_leonardo_carchidi_fotografo-300x300.jpg" alt="photographer in rome elio leonardo carchidi" width="300" height="300" /><strong>Elio L. Carchidi</strong> (qualifying at the best schools in Italy) began photographing for the best fashion and hairstyles magazine in 1980s. His fashion work and celebrity portraiture, known for stark backgrounds and dramatic lighting effects. His work reflects the 1980s Italian cultural trend.
+<img class="alignleft size-thumbnail wp-image-510" src="https://media.eliocarchidi.com/uploads/2012/05/elio_leonardo_carchidi_fotografo-300x300.jpg" alt="photographer in rome elio leonardo carchidi" width="300" height="300" /><strong>Elio L. Carchidi</strong> (qualifying at the best schools in Italy) began photographing for the best fashion and hairstyles magazine in 1980s. His fashion work and celebrity portraiture, known for stark backgrounds and dramatic lighting effects. His work reflects the 1980s Italian cultural trend.
 A highly respected photo retoucher, he has worked and continues to work with some of the best and famous Italian and international photographers.
 
 Many famous actors and well known people have enjoyed his virtual liftings!

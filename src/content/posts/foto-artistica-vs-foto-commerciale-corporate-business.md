@@ -4,7 +4,7 @@ team: "elio-carchidi"
 pubDate: 2022-04-04
 description: "Quale è la differenza tra una foto artistica e una foto business Qual è la differenza tra foto artistica e foto commerciale...."
 image:
-  url: "https://www.eliocarchidi.com/wp-content/uploads/default.png"
+  url: "https://media.eliocarchidi.com/uploads/default.png"
   alt: "Foto Artistica vs Foto Commerciale / Corporate / Business"
 tags: ["ritratti corporate","ritratto fotografico"]
 ---
@@ -14,7 +14,7 @@ tags: ["ritratti corporate","ritratto fotografico"]
 <!-- /wp:shortcode -->
 
 <!-- wp:image {"id":16740,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="https://www.eliocarchidi.com/wp-content/uploads/2022/04/Foto-Artistica-Foto-Business.jpeg" alt="Differenza tra foto artistica e foto business" class="wp-image-16740"/><figcaption>Quale è la differenza tra una foto artistica e una foto business</figcaption></figure>
+<figure class="wp-block-image size-full"><img src="https://media.eliocarchidi.com/uploads/2022/04/Foto-Artistica-Foto-Business.jpeg" alt="Differenza tra foto artistica e foto business" class="wp-image-16740"/><figcaption>Quale è la differenza tra una foto artistica e una foto business</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"className":"intro"} -->
@@ -70,7 +70,7 @@ tags: ["ritratti corporate","ritratto fotografico"]
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":16369,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="https://www.eliocarchidi.com/wp-content/uploads/2021/04/fotografie-professionali-cosmetica-26.jpg" alt="" class="wp-image-16369"/><figcaption>Esempio di foto artistica ©eliocarchidi (vietata ogni riproduzione e diffusione)</figcaption></figure>
+<figure class="wp-block-image size-full"><img src="https://media.eliocarchidi.com/uploads/2021/04/fotografie-professionali-cosmetica-26.jpg" alt="" class="wp-image-16369"/><figcaption>Esempio di foto artistica ©eliocarchidi (vietata ogni riproduzione e diffusione)</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->
@@ -122,7 +122,7 @@ tags: ["ritratti corporate","ritratto fotografico"]
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":11885,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="https://www.eliocarchidi.com/wp-content/uploads/2017/09/ritratti-corporate-chef-silvia2.jpg" alt="" class="wp-image-11885"/><figcaption>Esempio di foto business / corporate ©eliocarchidi (vietata ogni riproduzione e diffusione)</figcaption></figure>
+<figure class="wp-block-image size-full"><img src="https://media.eliocarchidi.com/uploads/2017/09/ritratti-corporate-chef-silvia2.jpg" alt="" class="wp-image-11885"/><figcaption>Esempio di foto business / corporate ©eliocarchidi (vietata ogni riproduzione e diffusione)</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading -->

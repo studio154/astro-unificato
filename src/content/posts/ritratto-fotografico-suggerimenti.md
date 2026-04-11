@@ -4,7 +4,7 @@ team: "elio-carchidi"
 pubDate: 2025-12-16
 description: "Un mio ritratto fotografico di Pierluigi Collina Fotografia di Ritratto: il Ritratto Fotografico Il Ritratto fotografico: un modo semplice per farne..."
 image:
-  url: "https://www.eliocarchidi.com/wp-content/uploads/2017/09/Ritratto-fotografico_-4-suggerimenti-rapidi-per-realizzare-ritratti-fotografici-efficaci-1.png"
+  url: "https://media.eliocarchidi.com/uploads/2017/09/Ritratto-fotografico_-4-suggerimenti-rapidi-per-realizzare-ritratti-fotografici-efficaci-1.png"
   alt: "Come realizzare un buon ritratto fotografico"
 tags: ["fotografo ritratto.fotografia ritratto","ritratto fotografico"]
 ---
@@ -14,7 +14,7 @@ tags: ["fotografo ritratto.fotografia ritratto","ritratto fotografico"]
 <!-- /wp:separator -->
 
 <!-- wp:image {"id":11464,"align":"center","className":"size-full wp-image-11464"} -->
-<figure class="wp-block-image aligncenter size-full wp-image-11464"><img src="https://www.eliocarchidi.com/wp-content/uploads/2017/03/pierluigi-collina.jpg" alt="Ritratto Fotografico Professionale" class="wp-image-11464"/><figcaption class="wp-element-caption">Un mio ritratto fotografico di Pierluigi Collina</figcaption></figure>
+<figure class="wp-block-image aligncenter size-full wp-image-11464"><img src="https://media.eliocarchidi.com/uploads/2017/03/pierluigi-collina.jpg" alt="Ritratto Fotografico Professionale" class="wp-image-11464"/><figcaption class="wp-element-caption">Un mio ritratto fotografico di Pierluigi Collina</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:separator -->
@@ -86,7 +86,7 @@ tags: ["fotografo ritratto.fotografia ritratto","ritratto fotografico"]
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":3582,"align":"center","className":"size-full wp-image-3582"} -->
-<figure class="wp-block-image aligncenter size-full wp-image-3582"><img src="//www.eliocarchidi.com/wp-content/uploads/2014/02/ritratto-fotografico-beauty.jpg" alt="Ritratto Fotografico di Beauty" class="wp-image-3582"/><figcaption class="wp-element-caption">Un esempio di ritratto fotografico "pulito" realizzato in studio</figcaption></figure>
+<figure class="wp-block-image aligncenter size-full wp-image-3582"><img src="https://media.eliocarchidi.com/uploads/2014/02/ritratto-fotografico-beauty.jpg" alt="Ritratto Fotografico di Beauty" class="wp-image-3582"/><figcaption class="wp-element-caption">Un esempio di ritratto fotografico "pulito" realizzato in studio</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -138,7 +138,7 @@ tags: ["fotografo ritratto.fotografia ritratto","ritratto fotografico"]
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":3587,"align":"center","className":"size-full wp-image-3587"} -->
-<figure class="wp-block-image aligncenter size-full wp-image-3587"><img src="//www.eliocarchidi.com/wp-content/uploads/2014/02/ritratto-backstage-fotografico.jpg" alt="Backstage ritratto fotografico" class="wp-image-3587"/><figcaption class="wp-element-caption">2 luci possono bastare. Un flash per controluce e un beauty dish davanti.</figcaption></figure>
+<figure class="wp-block-image aligncenter size-full wp-image-3587"><img src="https://media.eliocarchidi.com/uploads/2014/02/ritratto-backstage-fotografico.jpg" alt="Backstage ritratto fotografico" class="wp-image-3587"/><figcaption class="wp-element-caption">2 luci possono bastare. Un flash per controluce e un beauty dish davanti.</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -154,7 +154,7 @@ tags: ["fotografo ritratto.fotografia ritratto","ritratto fotografico"]
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":3585,"align":"center","className":"size-full wp-image-3585"} -->
-<figure class="wp-block-image aligncenter size-full wp-image-3585"><img src="//www.eliocarchidi.com/wp-content/uploads/2014/02/fotografo-ritratto.jpg" alt="Il fotografo di ritratto" class="wp-image-3585"/><figcaption class="wp-element-caption">Piegati un pò sulle ginocchia per inquadrare sotto gli occhi</figcaption></figure>
+<figure class="wp-block-image aligncenter size-full wp-image-3585"><img src="https://media.eliocarchidi.com/uploads/2014/02/fotografo-ritratto.jpg" alt="Il fotografo di ritratto" class="wp-image-3585"/><figcaption class="wp-element-caption">Piegati un pò sulle ginocchia per inquadrare sotto gli occhi</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

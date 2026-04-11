@@ -4,13 +4,13 @@ team: "elio-carchidi"
 pubDate: 2025-07-25
 description: "📸 Cosa Scegliere tra Smartphone o Fotocamera?Guida semiseria per non sbagliare e divertirti ad ogni scatto.La fotografia è un linguaggio. Che tu usi..."
 image:
-  url: "https://www.eliocarchidi.com/wp-content/uploads/2025/07/fotocamera-o-smartphone-2026.png"
+  url: "https://media.eliocarchidi.com/uploads/2025/07/fotocamera-o-smartphone-2026.png"
   alt: "Smartphone o Fotocamera? Guida Gratuita."
 tags: ["Guida fotografica","IPhone xx","iphone"]
 ---
 
 <!-- wp:image {"id":18788,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="https://www.eliocarchidi.com/wp-content/uploads/2025/07/fotocamera-o-smartphone-2026.png" alt="smartphone o fotocamera" class="wp-image-18788"/></figure>
+<figure class="wp-block-image size-full"><img src="https://media.eliocarchidi.com/uploads/2025/07/fotocamera-o-smartphone-2026.png" alt="smartphone o fotocamera" class="wp-image-18788"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"className":"intro"} -->
@@ -64,7 +64,7 @@ tags: ["Guida fotografica","IPhone xx","iphone"]
 <!-- /wp:separator -->
 
 <!-- wp:image {"id":18791,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="https://www.eliocarchidi.com/wp-content/uploads/2025/07/fotocamera-o-smartphone-in-viaggio-1.jpg" alt="smartphone o fotocamera in viaggio" class="wp-image-18791"/><figcaption class="wp-element-caption">Un tramonto come questo deve essere colto al volo. Non hai tempo e hai il cellulare in mano pronto per lo scatto.</figcaption></figure>
+<figure class="wp-block-image size-full"><img src="https://media.eliocarchidi.com/uploads/2025/07/fotocamera-o-smartphone-in-viaggio-1.jpg" alt="smartphone o fotocamera in viaggio" class="wp-image-18791"/><figcaption class="wp-element-caption">Un tramonto come questo deve essere colto al volo. Non hai tempo e hai il cellulare in mano pronto per lo scatto.</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:separator -->
@@ -100,7 +100,7 @@ tags: ["Guida fotografica","IPhone xx","iphone"]
 <!-- /wp:separator -->
 
 <!-- wp:image {"id":18793,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="https://www.eliocarchidi.com/wp-content/uploads/2025/07/fotocamera-o-smartphone-in-studio-1.jpg" alt="smartphone o fotocamera in studio" class="wp-image-18793"/><figcaption class="wp-element-caption">Vuoi di più dalle tue fotografie, sei appassionato e potresti anche pensare di monetizzare la tua passione. Non hai scelta: Ti serve una fotocamera perché il tuo smartphone non basta.</figcaption></figure>
+<figure class="wp-block-image size-full"><img src="https://media.eliocarchidi.com/uploads/2025/07/fotocamera-o-smartphone-in-studio-1.jpg" alt="smartphone o fotocamera in studio" class="wp-image-18793"/><figcaption class="wp-element-caption">Vuoi di più dalle tue fotografie, sei appassionato e potresti anche pensare di monetizzare la tua passione. Non hai scelta: Ti serve una fotocamera perché il tuo smartphone non basta.</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:separator -->
@@ -151,8 +151,8 @@ tags: ["Guida fotografica","IPhone xx","iphone"]
 <p>Hai ancora dubbi?<br />Ho preparato per te un PDF chiaro e semplice:<br /><strong>“Smartphone o fotocamera? Guida pratica per scegliere (senza farsi fregare)”</strong></p>
 <!-- /wp:paragraph -->
 
-<!-- wp:cover {"url":"https://www.eliocarchidi.com/wp-content/uploads/2025/07/smartphone-o-fotocamera-cover-small.jpg","id":18808,"alt":"guida pdf download gratuito smartphone o fotocamera","dimRatio":0,"isUserOverlayColor":true,"focalPoint":{"x":0.5,"y":0.5},"contentPosition":"bottom center","isDark":false,"sizeSlug":"full"} -->
-<div class="wp-block-cover is-light has-custom-content-position is-position-bottom-center"><img class="wp-block-cover__image-background wp-image-18808 size-full" alt="guida pdf download gratuito smartphone o fotocamera" src="https://www.eliocarchidi.com/wp-content/uploads/2025/07/smartphone-o-fotocamera-cover-small.jpg" style="object-position:50% 50%" data-object-fit="cover" data-object-position="50% 50%"/><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<!-- wp:cover {"url":"https://media.eliocarchidi.com/uploads/2025/07/smartphone-o-fotocamera-cover-small.jpg","id":18808,"alt":"guida pdf download gratuito smartphone o fotocamera","dimRatio":0,"isUserOverlayColor":true,"focalPoint":{"x":0.5,"y":0.5},"contentPosition":"bottom center","isDark":false,"sizeSlug":"full"} -->
+<div class="wp-block-cover is-light has-custom-content-position is-position-bottom-center"><img class="wp-block-cover__image-background wp-image-18808 size-full" alt="guida pdf download gratuito smartphone o fotocamera" src="https://media.eliocarchidi.com/uploads/2025/07/smartphone-o-fotocamera-cover-small.jpg" style="object-position:50% 50%" data-object-fit="cover" data-object-position="50% 50%"/><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
 <div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"accent","width":50,"style":{"border":{"radius":"8px"}},"fontSize":"large"} -->
 <div class="wp-block-button has-custom-width wp-block-button__width-50"><a class="wp-block-button__link has-accent-background-color has-background has-large-font-size has-custom-font-size wp-element-button" href="https://2e09ba.share-eu1.hsforms.com/2qN1DSFYYT_CFi6aJ5dqf3Q" style="border-radius:8px">👉 <strong>SCARICA GRATIS!</strong> 👈</a></div>
 <!-- /wp:button --></div>
