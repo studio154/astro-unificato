@@ -1,0 +1,10 @@
+{
+  "name": "Elio Carchidi Fotografo",
+  "short_name": "Elio Carchidi",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ],
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "display": "standalone"
+}
