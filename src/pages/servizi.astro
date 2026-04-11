@@ -10,31 +10,31 @@ const services = [
     title: "Ritratti d’Autore",
     description: "Sessioni fotografiche personalizzate nell’atelier, con luce naturale e composizione studiata. Ogni ritratto racconta una storia unica, pensato per collezioni private, gallerie e spazi museali. Possibilità di stampa Fine Art su carta cotone 310g, firmata e numerata.",
     icon: "/src/images/icone/events.svg",
-    image: "/src/images/gallery/foto-corporate/fine-art-shop-9.jpg"
+    image: "https://media.eliocarchidi.com/uploads/2021/04/fotografie-professionali-cosmetica-26.jpg"
   },
   {
     title: "Corporate & Branding",
     description: "Servizi fotografici professionali per aziende, team e brand, realizzati su misura per valorizzare identità e comunicazione visiva. Shooting in sede o in location selezionate, ritratti individuali e di gruppo, immagini per siti web, cataloghi e social media.",
     icon: "/src/images/icone/events.svg",
-    image: "/src/images/gallery/foto-corporate/fine-art-shop-9.jpg"
+    image: "https://media.eliocarchidi.com/uploads/2026/03/agnese-0961.jpg"
   },
   {
     title: "Eventi & Still-life",
     description: "Copertura fotografica completa di eventi, prodotti e scenografie, affidata al nostro studio partner Studio154. Ideale per cataloghi, e-commerce, campagne pubblicitarie e reportage aziendali. Servizio chiavi in mano, dalla produzione alla post-produzione.",
     icon: "/src/images/icone/events.svg",
-    image: "/src/images/gallery/foto-corporate/fine-art-shop-9.jpg"
+    image: "https://media.eliocarchidi.com/uploads/2026/03/foto-still-life-ecommerce.jpg"
   },
   {
     title: "Collaborazioni & Studio154",
     description: "Progetti condivisi con altri fotografi e professionisti, per servizi commerciali di livello medio e medio-alto. Studio154 coordina il team e gestisce la produzione per garantire qualità e coerenza del brand.",
     icon: "/src/images/icone/events.svg",
-    image: "/src/images/gallery/foto-corporate/fine-art-shop-9.jpg"
+    image: "https://media.eliocarchidi.com/uploads/2026/03/fotografi-eventi-istituzionali-eventi-aziendali3.jpg"
   },
   {
     title: "Formazione & Workshop",
-    description: "Corsi personaCorsi personalizzati e workshop fotografici, in studio o all’aperto, per imparare tecniche professionali, gestione della luce e storytelling visivo. Adatto a fotografi emergenti e appassionati che vogliono affinare la propria pratica creativa.lizzati e workshop per apprendere tecniche fotografiche professionali, sia in studio che in esterni.",
+    description: "Corsi personalizzati e workshop fotografici, in studio o all’aperto, per imparare tecniche professionali, gestione della luce e storytelling visivo. Adatto a fotografi emergenti e appassionati che vogliono affinare la propria pratica creativa.lizzati e workshop per apprendere tecniche fotografiche professionali, sia in studio che in esterni.",
     icon: "/src/images/icone/events.svg",
-    image: "/src/images/gallery/foto-corporate/fine-art-shop-9.jpg"
+    image: "https://media.eliocarchidi.com/uploads/2026/03/formazione-workshop-corsi-fotografia.jpg"
   },
 ];
 ---
@@ -94,9 +94,10 @@ const services = [
       <div class="grid grid-cols-1 md:grid-cols-2 gap-12">
         {services.slice(1).map((service) => (
           <div class="bg-white shadow-md rounded-2xl overflow-hidden flex flex-col">
-            <div class="relative h-64 w-full">
-              <img src={service.image} alt={service.title} class="w-full h-full object-cover"/>
-            </div>
+  <div class="relative h-64 w-full">
+    <img src={service.image} alt={service.title} class="w-full h-full object-cover "/>
+    <div class="absolute inset-0 bg-amber-80"></div>
+  </div>
             <div class="p-6 flex flex-col flex-1">
               <div class="flex items-center gap-4 mb-4">
                 <img src={service.icon} alt="" class="w-8 h-8"/>
@@ -110,7 +111,7 @@ const services = [
 
       <!-- CTA Finale -->
       <div class="text-center mt-12">
-        <Text tag="h2" variant="text2XL" class="font-serif mb-4">
+        <Text tag="h2" variant="text-2xl" class="mb-4">
           Vuoi prenotare un servizio?
         </Text>
         <a href="/contatti/" class="inline-block px-8 py-4 bg-base-900 text-white uppercase font-medium rounded-lg hover:bg-base-700 transition">
