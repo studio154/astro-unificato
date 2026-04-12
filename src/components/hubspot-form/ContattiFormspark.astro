@@ -1,112 +1,124 @@
 ---
-// FormContatto.astro
 ---
+
 <section class="py-12 px-4 md:py-16">
   <div class="max-w-xl mx-auto bg-white rounded-lg shadow-md p-6 md:p-8">
 
     <form
       action="https://submit-form.com/ZSgDwLQLv"
       method="POST"
-      class="space-y-4 md:space-y-5">
-      
-    <h2 class="text-xl md:text-2xl font-semibold text-gray-900 mb-8 text-center">
-  Scrivimi per il tuo ritratto su misura
-</h2>
+      class="space-y-4 md:space-y-5"
+    >
+
+      <h2 class="text-xl md:text-2xl font-semibold text-gray-900 mb-8 text-center">
+        Scrivimi per il tuo ritratto su misura
+      </h2>
+
+      <!-- TURNSTILE -->
+      <div class="flex justify-center">
+        <div class="cf-turnstile" data-sitekey="0x4AAAAAAC8h4eqJDvK07CAM"></div>
+      </div>
+
       <!-- Honeypot anti-spam -->
-       <input type="text" name="_gotcha" style="display:none" />
-      <input type="text" name="_honeypot" style="display:none" tabindex="-1" autocomplete="off" />
-      <input type="hidden" name="_botpoison" data-botpoison-public-key="pk_7d18e25b-fecc-44d3-9f76-962c99cb7ba9" />
+      <input type="text" name="_gotcha" class="hidden" tabindex="-1" autocomplete="off" />
+      <input type="text" name="_honeypot" class="hidden" tabindex="-1" autocomplete="off" />
+
+      <!-- Redirect -->
       <input type="hidden" name="_redirect" value="https://www.eliocarchidi.com/grazie/" />
-      <input type="hidden" name="_replyto" value="" id="replyto-field" />
+
+      <!-- Reply-to -->
+      <input type="hidden" name="_replyto" id="replyto-field" />
 
       <!-- Nome -->
       <div>
-        <label for="nome" class="block text-sm font-medium text-gray-700 mb-1">
-          Nome <span class="text-red-500">*</span>
-        </label>
+        <label class="block text-sm font-medium text-gray-700 mb-1">Nome *</label>
         <input
-          type="text" id="nome" name="nome" required autocomplete="name"
+          type="text"
+          name="nome"
+          required
+          autocomplete="name"
+          class="w-full rounded-md border border-gray-300 px-4 py-2.5 focus:border-gray-700 focus:ring-2 focus:ring-gray-700/20"
           placeholder="Il tuo nome"
-          class="w-full rounded-md border border-gray-300 bg-white px-4 py-2.5 text-gray-900 placeholder-gray-400 focus:border-gray-700 focus:ring-2 focus:ring-gray-700/20 transition"
         />
       </div>
 
       <!-- Email -->
       <div>
-        <label for="email" class="block text-sm font-medium text-gray-700 mb-1">
-          Email <span class="text-red-500">*</span>
-        </label>
+        <label class="block text-sm font-medium text-gray-700 mb-1">Email *</label>
         <input
-          type="email" id="email" name="email" required autocomplete="email"
+          type="email"
+          name="email"
+          id="email"
+          required
+          autocomplete="email"
+          class="w-full rounded-md border border-gray-300 px-4 py-2.5 focus:border-gray-700 focus:ring-2 focus:ring-gray-700/20"
           placeholder="mario@esempio.it"
-          class="w-full rounded-md border border-gray-300 bg-white px-4 py-2.5 text-gray-900 placeholder-gray-400 focus:border-gray-700 focus:ring-2 focus:ring-gray-700/20 transition"
         />
       </div>
 
       <!-- Telefono -->
       <div>
-        <label for="telefono" class="block text-sm font-medium text-gray-700 mb-1">
-          Telefono
-        </label>
+        <label class="block text-sm font-medium text-gray-700 mb-1">Telefono</label>
         <input
-          type="tel" id="telefono" name="telefono" autocomplete="tel"
+          type="tel"
+          name="telefono"
+          autocomplete="tel"
+          class="w-full rounded-md border border-gray-300 px-4 py-2.5 focus:border-gray-700 focus:ring-2 focus:ring-gray-700/20"
           placeholder="+39 333 1234567"
-          class="w-full rounded-md border border-gray-300 bg-white px-4 py-2.5 text-gray-900 placeholder-gray-400 focus:border-gray-700 focus:ring-2 focus:ring-gray-700/20 transition"
         />
       </div>
 
       <!-- Servizio -->
       <div>
-        <label for="servizio" class="block text-sm font-medium text-gray-700 mb-1">
-          Servizio / prodotto di interesse
-        </label>
-        <select id="servizio" name="servizio"
-          class="w-full rounded-md border border-gray-300 bg-white px-4 py-2.5 text-gray-900 focus:border-gray-700 focus:ring-2 focus:ring-gray-700/20 transition"
+        <label class="block text-sm font-medium text-gray-700 mb-1">Servizio</label>
+        <select
+          name="servizio"
+          class="w-full rounded-md border border-gray-300 px-4 py-2.5 focus:border-gray-700 focus:ring-2 focus:ring-gray-700/20"
         >
           <option value="">— Seleziona —</option>
-          <option value="Informazioni generali">Informazioni generali</option>
-          <option value="Richiesta preventivo">Richiesta preventivo</option>
-          <option value="Assistenza post-vendita">Assistenza post-vendita</option>
+          <option value="Ritratto Fine Art">Ritratto Fine Art</option>
+          <option value="Corporate">Corporate</option>
+          <option value="Ritratti persone famose">Ritratti persone famose</option>
           <option value="Altro">Altro</option>
         </select>
       </div>
 
       <!-- Messaggio -->
       <div>
-        <label for="messaggio" class="block text-sm font-medium text-gray-700 mb-1">
-          Messaggio <span class="text-red-500">*</span>
-        </label>
+        <label class="block text-sm font-medium text-gray-700 mb-1">Messaggio *</label>
         <textarea
-          id="messaggio" name="messaggio" required rows="5"
+          name="messaggio"
+          rows="5"
+          required
+          class="w-full rounded-md border border-gray-300 px-4 py-2.5 focus:border-gray-700 focus:ring-2 focus:ring-gray-700/20 resize-none"
           placeholder="Scrivi qui la tua richiesta..."
-          class="w-full rounded-md border border-gray-300 bg-white px-4 py-2.5 text-gray-900 placeholder-gray-400 focus:border-gray-700 focus:ring-2 focus:ring-gray-700/20 transition resize-none"
         ></textarea>
       </div>
 
-      <!-- Pulsante -->
-      <button type="submit"
-        class="w-full rounded-md bg-gray-900 hover:bg-gray-800 text-white font-medium px-6 py-3 transition-colors duration-200"
+      <!-- Submit -->
+      <button
+        type="submit"
+        class="w-full rounded-md bg-gray-900 hover:bg-gray-800 text-white font-medium px-6 py-3 transition"
       >
         Invia Messaggio
       </button>
 
     </form>
-
   </div>
 </section>
 
-<!-- Script Botpoison — carica dal CDN ufficiale -->
-<script src="https://unpkg.com/@botpoison/browser" async></script>
+<!-- Turnstile script -->
+<script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
+
+<!-- Reply-to sync -->
 <script>
-  const form = document.querySelector('form');
-  const emailInput = document.getElementById('email');
-  const replyto = document.getElementById('replyto-field');
+  const form = document.querySelector("form");
+  const emailInput = document.getElementById("email");
+  const replyto = document.getElementById("replyto-field");
 
-  form?.addEventListener('submit', async (e) => {
-    // Sincronizza l'email per Formspark
-    if (replyto && emailInput) replyto.value = emailInput.value;
-
-    // Se Botpoison è caricato, protegge l'invio
-    // Nota: Formspark scarterà i messaggi senza il token valido se attivo lato server
+  form?.addEventListener("submit", () => {
+    if (emailInput && replyto) {
+      replyto.value = emailInput.value;
+    }
   });
 </script>
