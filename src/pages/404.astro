@@ -1,32 +1,44 @@
 ---
-// Fundations
-import BaseLayout from "@/layouts/BaseLayout.astro";
-import Text from "@/components/fundations/elements/Text.astro";
-import Button from "@/components/fundations/elements/Button.astro";
+import BaseLayout from "@/layouts/BlogPostLayout.astro";
 import Wrapper from "@/components/fundations/containers/Wrapper.astro";
 ---
 
-<BaseLayout hideBigLogo={true} hideNavigation={true} hideFooter={true}>
+<BaseLayout hideBigLogo={true} hideNavigation={false} hideFooter={false}>
   <section>
     <Wrapper
       variant="standard"
-      class="flex flex-col h-svh items-center justify-center h-full py-24 text-center lg:py-48"
+      class="flex flex-col items-center justify-center py-24 text-center lg:py-32"
     >
-      <script is:inline>
-    // Se la pagina non esiste, dopo 2 secondi ti porto su contatti
-    // Oppure puoi rimuovere lo script e mettere solo un link testuale
-    setTimeout(() => {
-      window.location.href = "/contatti/";
-    }, 2000);
-  </script>
-  <div style="text-align: center; padding: 100px 20px;">
-    <h1>Ops! Pagina non trovata.</h1>
-    <p>Ti stiamo trasferendo alla pagina contatti...</p>
-    <a href="/contatti/" style="text-decoration: underline;">Clicca qui se non vuoi attendere</a>
-  </div>
-      <Button isLink={true} href="/" size="xs" variant="muted" class="mt-8">
-        Go back home
-      </Button>
+      
+      <!-- titolo -->
+      <h1 class="text-2xl md:text-3xl font-light mb-4">
+        Questa pagina non è disponibile
+      </h1>
+
+      <!-- testo -->
+      <p class="text-sm md:text-base opacity-70 max-w-md mb-8 leading-relaxed">
+        Stiamo aggiornando e modernizzando il sito con tecnologie più recenti. Durante la migrazione, alcuni contenuti potrebbero non essere ancora accessibili.
+Puoi continuare la navigazione oppure contattarci per qualsiasi informazione.
+      </p>
+
+      <!-- azioni -->
+      <div class="flex flex-col sm:flex-row gap-4 mt-2">
+        <a href="/" class="text-sm underline">
+          Continua la navigazione
+        </a>
+        <a href="/contatti/" class="text-sm underline">
+          Contattaci
+        </a>
+      </div>
+
+      <!-- spazio gallerie (opzionale, super consigliato) -->
+      <!-- attiva quando vuoi -->
+      <!--
+      <div class="w-full max-w-5xl grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mt-16">
+        <Galleria1 post={...} />
+      </div>
+      -->
+
     </Wrapper>
   </section>
 </BaseLayout>

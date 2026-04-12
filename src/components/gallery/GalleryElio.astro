@@ -1,6 +1,4 @@
 ---
-// Assets
-import { Image } from "astro:assets";
 // Fundations
 import Text from "@/components/fundations/elements/Text.astro";
 // Content
@@ -13,7 +11,7 @@ const { title, url, thumbnail, category } = {
 ---
 
 <figure class="relative">
-  <a
+  
     href={url}
     aria-label={`See more of: ${title}`}
     class="absolute inset-0 z-10"
@@ -21,12 +19,9 @@ const { title, url, thumbnail, category } = {
     <span class="sr-only">{title}</span>
     <span class="sr-only">{category}</span>
   </a>
-  <Image
+  <img
     src={thumbnail}
     alt={title}
-    width={1200}
-    height={1500}
-    sizes="(max-width: 768px) 90vw, 600px"
     class="object-cover w-full h-auto"
   />
   <figcaption class="sr-only">

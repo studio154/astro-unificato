@@ -28,12 +28,11 @@ checkout: "/atelier/prenotazioni/edizioni-fotografiche/"
 checkout2: "/atelier/prenotazioni/regalare-fotografie/"
 
 image:
-  url: "/src/images/edizioni/momenti-riflessi/thumbnail.jpg"
+  url: "/src/images/edizioni/momenti-riflessi/1.jpeg"
   alt: "Form Object 01 on a sculpted stone pedestal"
 images:
-  - url: "/src/images/edizioni/momenti-riflessi/1.jpg"
+  - url: "/src/images/edizioni/momenti-riflessi/1.jpeg"
     alt: "Close-up of Form Object 01 texture"
-  - url: "/src/images/edizioni/momenti-riflessi/2.jpg"
-    alt: "Form Object 01 styled on a wooden desk"
+  
  
 ---

@@ -23,7 +23,14 @@ const {
   </head>
 
   <body class="flex flex-col bg-gallery-1 min-h-svh">
-   {!hideNavigation && <Navigation />}
+   
+   {
+      !hideNavigation && (
+        <Wrapper variant="standard" class="pt-8 mb-0">
+          <Navigation />
+        </Wrapper>
+      )
+    }
     {
       !hideBigLogo && (
         <Wrapper variant="standard" class="pt-8">
@@ -34,7 +41,7 @@ const {
 
    
 
-    <main class="grow"><slot /></main>
+    <main class="grow mt-2"><slot /></main>
 
     {!hideFooter && <Footer />}
   </body>

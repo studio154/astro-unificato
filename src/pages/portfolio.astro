@@ -1,5 +1,5 @@
 ---
-import BaseLayout from "@/layouts/LayoutServizi.astro";
+import BaseLayout from "@/layouts/LayoutPortfolio.astro";
 import Wrapper from "@/components/fundations/containers/Wrapper.astro";
 import Text from "../components/fundations/elements/Text.astro";
 import Galleria1 from "@/components/gallery/Galleria1.astro";
@@ -45,7 +45,7 @@ import Button from "@/components/fundations/elements/Button.astro";
   <!-- GALLERIA SERVIZI -->
   <section>
     <Wrapper variant="standard" class="py-2">
-      <div class="mt-4 md:mt-16 gap-16 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 md:gap-12">
+      <div class="mt-4 md:mt-16 gap-16 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 md:gap-24 ">
         {galleries.map((post) => (
           <Galleria1 post={post} />
         ))}

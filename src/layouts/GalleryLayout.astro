@@ -1,6 +1,6 @@
 ---
 // Assets
-import { Image } from "astro:assets";
+
 // Fundations
 import BaseLayout from "@/layouts/BaseLayout.astro";
 import Text from "@/components/fundations/elements/Text.astro";
@@ -45,7 +45,7 @@ const { frontmatter } = Astro.props;
       <div class={`${frontmatter.imageGrid} mt-8`}> 
         {
           frontmatter.thumbnail && (
-            <Image
+            <img
               src={frontmatter.thumbnail.url}
               alt={frontmatter.thumbnail.alt}
               class={`object-cover ${frontmatter.thumbnailClass}`}
@@ -54,7 +54,7 @@ const { frontmatter } = Astro.props;
         }
         {
           frontmatter.images.map((image) => (
-            <Image
+            <img
               src={image.url}
               alt={image.alt}
               class={`object-cover ${image.class}`}

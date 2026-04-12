@@ -27,11 +27,10 @@ faq:
 checkout: "/atelier/prenotazioni/edizioni-fotografiche/"
 checkout2: "/atelier/prenotazioni/regalare-fotografie/"
 image:
-  url: "/src/images/edizioni/orizzonti-silenziosi/thumbnail.jpg"
+  url: "/src/images/edizioni/orizzonti-silenziosi/2.jpeg"
   alt: "Orizzonti Silenziosi - stampa fotografica d’autore"
 images:
-  - url: "/src/images/edizioni/orizzonti-silenziosi/1.jpg"
+  - url: "/src/images/edizioni/orizzonti-silenziosi/2.jpeg"
     alt: "Dettaglio della stampa"
-  - url: "/src/images/edizioni/orizzonti-silenziosi/2.jpg"
-    alt: "Orizzonti Silenziosi - ambientata in uno spazio moderno"
+ 
 ---

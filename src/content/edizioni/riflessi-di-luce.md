@@ -27,12 +27,11 @@ faq:
 checkout: "/atelier/prenotazioni/edizioni-fotografiche/"
 checkout2: "/atelier/prenotazioni/regalare-fotografie/"
 image:
-  url: "/src/images/edizioni/riflessi-di-luce/thumbnail.jpg"
+  url: "/src/images/edizioni/riflessi-di-luce/3.jpeg"
   alt: "Riflessi di Luce - stampa fotografica d’autore"
 images:
-  - url: "/src/images/edizioni/riflessi-di-luce/1.jpg"
+  - url: "/src/images/edizioni/riflessi-di-luce/3.jpeg"
     alt: "Riflessi di Luce - vista frontale"
-  - url: "/src/images/edizioni/riflessi-di-luce/2.jpg"
-    alt: "Dettaglio della stampa"
+  
   
 ---

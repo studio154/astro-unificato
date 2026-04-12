@@ -136,22 +136,22 @@ const gallery = defineCollection({
       title: z.string(),
       description: z.string(),
       thumbnail: z.object({
-        url: image(),
+        url: z.string(),
         alt: z.string(),
         title: z.string().optional(),
       }),
       thumbnailClass: z.string().optional(),
       imageGrid: z.string().optional(),
       images: z
-        .array(
-          z.object({
-            url: image(),
-            alt: z.string(),
-            title: z.string().optional(),
-            class: z.string().optional(),
-          })
-        )
-        .optional(),
+  .array(
+    z.object({
+      url: z.string(),
+      alt: z.string(),
+      title: z.string().optional(),
+      class: z.string().optional(),
+    })
+  )
+  .optional(),
     }),
 });
 
@@ -165,22 +165,22 @@ const portfolio = defineCollection({
       title: z.string(),
       description: z.string(),
       thumbnail: z.object({
-        url: image(),
+        url: z.string(),
         alt: z.string(),
         title: z.string().optional(),
       }),
       thumbnailClass: z.string().optional(),
       imageGrid: z.string().optional(),
       images: z
-        .array(
-          z.object({
-            url: image(),
-            alt: z.string(),
-            title: z.string().optional(),
-            class: z.string().optional(),
-          })
-        )
-        .optional(),
+  .array(
+    z.object({
+      url: z.string(),
+      alt: z.string(),
+      title: z.string().optional(),
+      class: z.string().optional(),
+    })
+  )
+  .optional(),
     }),
 });
 

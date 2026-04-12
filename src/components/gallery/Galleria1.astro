@@ -1,6 +1,6 @@
 ---
 // Assets
-import { Image } from "astro:assets";
+
 // Fundations
 import Text from "@/components/fundations/elements/Text.astro";
 // Content
@@ -14,24 +14,41 @@ const { title, url, thumbnail, category } = {
 
 <article class="relative">
   
-  <Image
+ <div class="relative group rounded-2xl overflow-hidden cursor-pointer">
+
+  <img
     src={thumbnail}
     alt={title}
-    width={800}
-    height={700}
-    class="border-b border-base-900 object-cover object-center w-full pt-4 mt-4 mb-4 aspect-9/12"
+    class="w-full aspect-9/12 object-cover object-center transition duration-1000 ease-out group-hover:scale-110 group-hover:brightness-75"
   />
+
+  <!-- overlay più scenico -->
+  <div class="absolute inset-0 bg-black/0 group-hover:bg-black/40 transition duration-700"></div>
+
+  <!-- testo centrato (effetto galleria) -->
+  <div class="absolute inset-0 flex items-center justify-center z-10">
+    <div class="text-center opacity-0 group-hover:opacity-100 transition duration-500">
+
+      <p class="text-white text-xs tracking-[0.3em] uppercase opacity-70">
+        Lavori selezionati
+      </p>
+
+      <h3 class="text-white text-2xl md:text-3xl font-light mt-2">
+        {title}
+      </h3>
+
+    </div>
+  </div>
+
   <a
     href={url}
-    title={title}
-    title={`Read more: ${title}`}
     aria-label={`See more of: ${title}`}
-    class="absolute inset-0 z-10"
-  >
-  </a>
+    class="absolute inset-0 z-20"
+  />
 
-  <Text tag="h3" variant="textBase" class="font-medium text-base-900"
+</div>
+ <!-- TESTO SOTTO LA FOTO <Text tag="h3" variant="textBase" class="font-medium text-base-900"
     >{`${title}`}</Text
   >
-  <Text tag="p" variant="textSM" class="text-base-900 border-b border-base-400">{category}</Text>
+  <Text tag="p" variant="textSM" class="text-base-900 border-b border-base-400">{category}</Text> -->
 </article>

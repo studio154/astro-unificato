@@ -2,7 +2,7 @@
 // Assets
 import { Image } from "astro:assets";
 // Fundations
-import BaseLayout from "@/layouts/BaseLayout.astro";
+import BaseLayout from "@/layouts/LayoutPulito.astro";
 import Text from "@/components/fundations/elements/Text.astro";
 import Wrapper from "@/components/fundations/containers/Wrapper.astro";
 
@@ -10,22 +10,23 @@ import Wrapper from "@/components/fundations/containers/Wrapper.astro";
 const { frontmatter } = Astro.props;
 ---
 
-<BaseLayout hideBigLogo={true} hideNavigation={true}>
+<BaseLayout hideBigLogo={true} hideNavigation={false}>
   <section>
     <Wrapper variant="standard" class="pt-2">
       <div class="max-w-xl mx-auto text-center text-base-900">
-        <Text
+        <!--<Text
           tag="a"
           href="javascript:history.back()"
           variant="textXS"
           class="inline-flex items-center gap-1 hover: transition-colors"
         >
           &larr; Go back
-        </Text>
+        </Text> -->
+        
         <Text
           tag="p"
           variant="textXL"
-          class="font-light mt-4 font-serif uppercase leading-6"
+          class="font-light mt-4 font-serif uppercase leading-6 mt-12"
         >
           <span class="block opacity-50">
             {frontmatter.name}
@@ -40,7 +41,7 @@ const { frontmatter } = Astro.props;
           height={800}
           loading="lazy"
           decoding="async"
-          class="object-cover w-full aspect-square mt-8"
+          class="object-cover w-full aspect-square mt-8 rounded-2xl"
         />
         <div class="mt-8 space-y-4">
           {

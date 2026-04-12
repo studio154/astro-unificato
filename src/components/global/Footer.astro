@@ -8,36 +8,50 @@ import Wrapper from "@/components/fundations/containers/Wrapper.astro";
 
 <footer>
   <Wrapper variant="standard" class="pb-8 pt-20 lg:pt-20">
-    <!-- <LogoFooter /> -->
     <div class="mt-8 space-y-4 w-full">
       <Text
         tag="p"
         variant="textXL"
         class="max-w-xl mx-auto font-light font-serif uppercase text-center leading-6 text-base-900"
       >
-      Since <time datetime="2025-06-01" class="font-sans"> </time> 1976  
-      <span class="block"> fotografia di ritratto </span>
-        
+        Since <time datetime="2025-06-01" class="font-sans"> </time> 1976  
+        <span class="block"> fotografia di ritratto </span>
       </Text>
+
       <Text
         tag="p"
         variant="textBase"
         class="max-w-xl mx-auto font-serif uppercase text-balance text-center leading-tight text-base-900"
       >
         <span>Lo studio fotografico riceve</span><br />
-        
-      esclusivamente su appuntamento
-      <div
-        class="grid grid-cols-1 text-center md:grid-cols-3 mt-8 uppercase text-base-900"
-      >
-        <Text tag="p" variant="textM" class="md:text-left"><a href="https://studio154.it/" title="studio fotografico studio154" target="_blank">Studio154</a></Text>
-        <Text tag="p" variant="textM" class="mt-2 text-base font-medium"
-          ><a href="/" title="sito ufficiale home" >ELIO LEONARDO CARCHIDI</a></Text
-        >
-        <Text tag="p" variant="textM" class="md:text-right"
-          ><a href="/contatti/" title="invia una richiesta" >RICHIEDI UN APPUNTAMENTO</a></Text
-        >
+        esclusivamente su appuntamento
+      </Text>
+
+      <div class="grid grid-cols-1 text-center md:grid-cols-3 mt-8 uppercase text-base-900">
+        <Text tag="p" variant="textM" class="md:text-left">
+          <a href="https://studio154.it/" title="studio fotografico studio154" target="_blank">
+            Studio154
+          </a>
+        </Text>
+
+        <Text tag="p" variant="textM" class="mt-2 text-base font-medium">
+          <a href="/" title="sito ufficiale home">
+            ELIO LEONARDO CARCHIDI
+          </a>
+        </Text>
+
+        <Text tag="p" variant="textM" class="md:text-right">
+          <a href="/contatti/" title="invia una richiesta">
+            RICHIEDI UN APPUNTAMENTO
+          </a>
+        </Text>
       </div>
+
+      <!-- COPYRIGHT -->
+      <p class="mt-10 text-xs md:text-sm text-base-900/60 italic tracking-wide text-center">
+        © Elio Carchidi — Tutti i diritti riservati. Uso non autorizzato vietato.
+      </p>
+
     </div>
   </Wrapper>
 </footer>

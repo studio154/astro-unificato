@@ -1,6 +1,5 @@
 ---
 // Assets
-import { Image } from "astro:assets";
 // Fundations
 import BaseLayout from "@/layouts/BaseLayout.astro";
 import Text from "@/components/fundations/elements/Text.astro";
@@ -9,7 +8,7 @@ const { frontmatter = {} } = Astro.props;
 import "@/styles/global.css";
 ---
 
-<BaseLayout hideBigLogo={true} hideNavigation={true} hideFooter={true}>
+<BaseLayout hideBigLogo={true} hideNavigation={true} hideFooter={false}>
   
   <section class={`${frontmatter.bgColor} ${frontmatter.textColor}`}>
     <Wrapper variant="standard" class="py-8 text-center">
@@ -48,14 +47,14 @@ import "@/styles/global.css";
           {
             frontmatter.thumbnail && (
               <figure class="mb-8 break-inside-avoid">
-                <Image
+                <img
                   src={frontmatter.thumbnail.url}
                   alt={frontmatter.thumbnail.alt}
                   class={`w-full h-auto object-cover ${frontmatter.thumbnailClass}`}
                   
                 />
                 <figcaption class="mt-2 opacity-60 text-center">
-                Riferimento: <span class="mt-2 opacity-60 text-center">{frontmatter.thumbnail.title}</span>
+                Lavori selezionati: <span class="mt-2 opacity-60 text-center">{frontmatter.thumbnail.title}</span>
               </figcaption>
                
      </figure>
@@ -66,7 +65,7 @@ import "@/styles/global.css";
           {
             (frontmatter.images || []).map((image) => (
               <figure class="mb-8 break-inside-avoid">
-                <Image
+                <img
                   src={image.url}
                   alt={image.alt}
                   class={`w-full h-auto object-cover ${image.class ?? ""}`}
@@ -75,7 +74,7 @@ import "@/styles/global.css";
                 />
                 <figcaption
                class="mt-2 opacity-60 text-center">
-                Riferimento: <span class="mt-2 opacity-60 text-center">{image.title}</span>
+                Scatto selezionato: <span class="mt-2 opacity-60 text-center">{image.title}</span>
                 </figcaption>
               </figure>
             ))
