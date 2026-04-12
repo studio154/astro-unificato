@@ -7,7 +7,8 @@ import BaseHead from "@/components/fundations/head/BaseHead.astro";
 import Wrapper from "@/components/fundations/containers/Wrapper.astro";
 // Components
 import Footer from "@/components/global/Footer.astro";
-import Navigation from "@/components/global/NavigazioneContatti.astro";
+import Navigation from "@/components/global/NavigazioneHamburger.astro";
+import Text from "@/components/fundations/elements/Text.astro";
 // Hides the big logo, navigation, or footer on selected screens by passing props:
 
 const {
@@ -15,22 +16,19 @@ const {
   hideNavigation = false,
   hideFooter = false,
 } = Astro.props;
+import Favicons from '../components/fundations/head/Favicons.astro';
 ---
 
 <html lang="it" class="scroll-smooth">
+  <html lang="it" class="scroll-smooth">
   <head>
+     <Favicons />
     <BaseHead />
   </head>
 
   <body class="flex flex-col bg-gallery-1 min-h-svh">
    
-   {
-      !hideNavigation && (
-        <Wrapper variant="standard" class="pt-8 mb-0">
-          <Navigation />
-        </Wrapper>
-      )
-    }
+   {!hideNavigation && <Navigation />}
     {
       !hideBigLogo && (
         <Wrapper variant="standard" class="pt-8">
@@ -39,9 +37,38 @@ const {
       )
     }
 
-   
+   <div
+      class="items-start pt-2 pb-6 lg:pb-6 text-center uppercase 
+      gap-4 lg:gap-6 lg:gap-y-6 mb-10 md:mb-10"
+    >
+    </div>
+    <Text
+        tag="h1"
+        variant="textLG"
+        class="font-serif uppercase lg:order-none text-base-900 text-center "
+      ><a class="hover:text-base-900 text-gallery-5" href="/">Elio Leonardo Carchidi - Fotografo di Ritratto</a><br>
+    </Text>
 
-    <main class="grow mt-2"><slot /></main>
+    <div
+      class="items-start pt-2 pb-2 lg:pb-6 text-center uppercase grid grid-cols-1 
+      gap-4 lg:gap-6 lg:gap-y-6 mb-4 max-w-2xl m-auto "
+    >
+     
+      <Text
+        tag="h1"
+        variant="textLG"
+        class="order-last font-serif uppercase lg:order-none col-span-full lg:col-span-1: text-base-900"
+      >
+      Ogni grande progetto nasce da una conversazione. Scrivimi qui: sarà un piacere risponderti personalmente e pianificare insieme il tuo ritratto su misura.
+
+
+      </Text>
+      
+      
+    </div>
+
+    <main class="grow"><slot /></main>
+    
 
     {!hideFooter && <Footer />}
   </body>

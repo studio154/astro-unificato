@@ -44,8 +44,8 @@ const canonical = "https://www.eliocarchidi.com/blog/posts/" + slug;
 <BaseLayout hideBigLogo={true} hideNavigation={false}>
   
 
-<div class="bg-white p-4">
-<div class="max-w-xl mx-auto text-center text-base-900 mt-24">
+<Wrapper variant="standard">
+<div class="max-w-xl mx-auto text-center text-base-900 pt-24">
         <Text
           tag="a"
           href="/blog/"
@@ -56,7 +56,7 @@ const canonical = "https://www.eliocarchidi.com/blog/posts/" + slug;
         </Text></div>
 
   <!-- HERO / HEADER -->
-  <section class="px-6 py-12 sm:py-32">
+  <section class="py-16 md:py-24 lg:py-32">
     <div class="mx-auto max-w-7xl grid lg:grid-cols-2 gap-x-16 gap-y-16 items-start">
 
       <!-- TESTO -->
@@ -126,7 +126,7 @@ const canonical = "https://www.eliocarchidi.com/blog/posts/" + slug;
   </section>
 
   <!-- CONTENUTO -->
-  <section class="px-6 pb-24">
+  <section class="pb-24">
     <div class="mx-auto max-w-3xl font-serif">
 
       <div class="prose prose-lg text-xl">
@@ -204,4 +204,5 @@ const canonical = "https://www.eliocarchidi.com/blog/posts/" + slug;
     </div>
   </section>
 )}
+</Wrapper>
 </BaseLayout>
