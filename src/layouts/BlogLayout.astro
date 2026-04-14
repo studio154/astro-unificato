@@ -13,7 +13,8 @@ const relatedPosts = allPosts
   .sort((a, b) => new Date(b.data.pubDate) - new Date(a.data.pubDate))
   .slice(0, 3);
 const slug = Astro.url.pathname.split('/').filter(Boolean).pop();
-const canonical = "https://www.eliocarchidi.com/blog/posts/" + slug;
+const canonical = "https://www.eliocarchidi.com/" + slug;
+const getPostUrl = (post) => `/${post.slug}`;
 ---
 
 <AstroSeo
@@ -164,7 +165,7 @@ const canonical = "https://www.eliocarchidi.com/blog/posts/" + slug;
         {relatedPosts.slice(0, 3).map((post) => (
           <article class="group">
 
-            <a href={`/blog/${post.slug}`} class="block">
+            <a href={getPostUrl(post)} class="block">
 
               {/* Immagine */}
 {post.data.image && (

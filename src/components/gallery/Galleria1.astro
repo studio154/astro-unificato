@@ -19,6 +19,7 @@ const { title, url, thumbnail, category } = {
   <img
     src={thumbnail}
     alt={title}
+    category={category}
     class="w-full aspect-9/12 object-cover object-center transition duration-1000 ease-out group-hover:scale-110 group-hover:brightness-75"
   />
 
@@ -47,8 +48,8 @@ const { title, url, thumbnail, category } = {
   />
 
 </div>
- <!-- TESTO SOTTO LA FOTO <Text tag="h3" variant="textBase" class="font-medium text-base-900"
-    >{`${title}`}</Text
+ <!-- TESTO SOTTO LA FOTO --><Text tag="h3" variant="textBase" class="font-medium text-base-900"
+    >{`See more of: ${title}`}</Text
   >
-  <Text tag="p" variant="textSM" class="text-base-900 border-b border-base-400">{category}</Text> -->
+  <Text tag="p" variant="textSM" class="text-base-900 border-b border-base-400">{category}</Text> 
 </article>
