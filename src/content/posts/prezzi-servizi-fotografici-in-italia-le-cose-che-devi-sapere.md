@@ -4,7 +4,7 @@ team: "elio-carchidi"
 pubDate: 2026-01-29
 description: "PREZZI MEDI SERVIZI FOTOGRAFICI: I veri prezzi medi di un servizio fotografico. Come scegliere quello adatto a te senza spendere di più di quanto è n..."
 image:
-  url: "/src/images/blog/prezzi-servizi-fotografici-in-italia.jpg"
+  url: "https://media.eliocarchidi.com/uploads/2020/01/5.png"
   alt: "Prezzi Medi Servizi Fotografici in Italia"
 tags: ["prezzi servizi fotografici","prezzo servizio fotografico"]
 ---
