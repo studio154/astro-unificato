@@ -1,0 +1,99 @@
+---
+const { title, description, image } = Astro.props;
+import BaseHead from "@/components/fundations/head/BaseHead.astro";
+import Favicons from '@/components/fundations/head/Favicons.astro';
+import Footer from "@/components/global/Footer.astro";
+import NavigationHamburger from "@/components/global/NavigazioneHamburger.astro";
+import "@/styles/global.css";
+
+// 1. Logica Immagine (R2)
+// Se il campo 'image' non c'è nel frontmatter, finalImageUrl sarà null e non vedrai box vuoti.
+const baseUrl = "https://media.eliocarchidi.com/uploads";
+let finalImageUrl = null;
+
+if (image) {
+    const cleanPath = image.replace(/^(.*?)(wp-content\/uploads\/|uploads\/)?/, '').replace(/^\//, '');
+    finalImageUrl = `${baseUrl}/${cleanPath}`;
+}
+---
+
+<html lang="it" class="scroll-smooth">
+  <head>
+    <Favicons />
+    <BaseHead title={title} description={description} />
+  </head>
+  
+  <body class="flex flex-col bg-white min-h-svh">
+    <NavigationHamburger />
+
+    <main class="grow">
+  <article class="max-w-4xl mx-auto px-6 py-20">
+    <header class="text-center mb-16">
+      <h1 class="titolo-testata-fisso">{title}</h1>
+      
+      {finalImageUrl && (
+        <div class="mt-12 rounded-2xl overflow-hidden shadow-xl aspect-video bg-slate-100">
+          <img src={finalImageUrl} alt={title} class="w-full h-full object-cover" />
+        </div>
+      )}
+    </header>
+
+    <div class="prose prose-lg md:prose-xl prose-slate mx-auto max-w-none">
+      <slot />
+    </div>
+  </article>
+</main>
+
+    <Footer />
+  </body>
+</html>
+
+<style is:global>
+  /* 1. NASCONDIAMO IL TITOLO DEL FRONTMATTER (quello segnaposto) */
+  .titolo-testata-fisso {
+    display: none !important;
+  }
+
+  /* 2. TRASFORMIAMO IL PRIMO H2 DEL TESTO NEL TITOLO PRINCIPALE */
+  .prose h2:first-of-type {
+    display: block !important;
+    font-size: 3.5rem !important; /* Grandezza da titolo */
+    text-align: center !important;
+    color: #0f172a !important;
+    font-weight: 700 !important;
+    line-height: 1.1 !important;
+    margin-top: 0 !important;
+    margin-bottom: 1.5rem !important;
+    font-family: 'Newsreader', serif !important;
+  }
+
+  /* 3. IL PARAGRAFO SUBITO DOPO L'H2 DIVENTA IL SOTTOTITOLO */
+  .prose h2:first-of-type + p {
+    text-align: center !important;
+    font-size: 1.5rem !important;
+    font-style: italic !important;
+    color: #64748b !important;
+    max-width: 800px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    margin-bottom: 4rem !important;
+    line-height: 1.4 !important;
+  }
+
+  /* 4. TUTTI GLI ALTRI H2 (quelli che vengono dopo) RIMANGONO NORMALI */
+  .prose h2:first-of-type ~ h2 {
+    font-size: 2rem !important;
+    text-align: left !important;
+    margin-top: 3rem !important;
+  }
+
+  /* Resto del testo */
+  .prose p {
+    text-align: left;
+    font-family: 'Newsreader', serif;
+  }
+
+  @media (max-width: 768px) {
+    .prose h2:first-of-type { font-size: 2.5rem !important; }
+  }
+</style>

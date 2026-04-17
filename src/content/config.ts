@@ -227,6 +227,17 @@ const servizi = defineCollection({
     }),
 });
 
+// --- SCHEMA PAGINE (EX WORDPRESS) ---
+const pagine = defineCollection({
+  type: 'content', // Importante per gestire il corpo del testo Markdown
+  schema: z.object({
+    title: z.string(),
+    description: z.string().optional(),
+    image: z.string().optional(), // URL immagine (stringa perché spesso viene da WP)
+    pubDate: z.date().optional(),
+  }),
+});
+
 export const collections = {
   team,
   store,
@@ -237,4 +248,5 @@ export const collections = {
   sessioni,
   portfolio,
   servizi,
+  pagine, // <--- Aggiunta qui
 };

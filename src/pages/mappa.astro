@@ -1,0 +1,114 @@
+---
+import { getCollection } from 'astro:content';
+import LayoutPagine from '@/layouts/LayoutPagine.astro';
+
+const tutteLePagine = await getCollection('pagine'); 
+const pagineOrdinate = tutteLePagine.sort((a, b) => (a.data.title || "").localeCompare(b.data.title || ""));
+---
+
+<LayoutPagine title="Mappa">
+  <div id="mappa-esclusiva">
+    
+    <div class="header-mappa">
+      <h1>Indice Gestionale Pagine</h1>
+      <p>{tutteLePagine.length} elementi trovati</p>
+    </div>
+    
+    <div class="griglia-mappa">
+      {pagineOrdinate.map(pagina => (
+        <a href={`/${pagina.slug}`} class="card-mappa">
+          <span class="titolo-piccolo">{pagina.data.title || "Senza Titolo"}</span>
+          <span class="path-leggero">/{pagina.slug}</span>
+        </a>
+      ))}
+    </div>
+
+  </div>
+</LayoutPagine>
+
+<style is:inline>
+  /* 1. Nascondiamo il titolo del layout */
+  .titolo-testata-fisso, .page-title {
+    display: none !important;
+  }
+
+  #mappa-esclusiva {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 40px 20px;
+  }
+
+  #mappa-esclusiva .header-mappa {
+    text-align: left; /* Allineato a sinistra per un look più pulito */
+    margin-bottom: 40px;
+    border-left: 4px solid #3b82f6;
+    padding-left: 20px;
+  }
+
+  #mappa-esclusiva .header-mappa h1 {
+    font-size: 28px !important; /* Titolo della pagina mappa */
+    font-weight: 700 !important;
+    margin: 0 !important;
+    color: #1e293b !important;
+  }
+
+  /* 2. La Griglia */
+  #mappa-esclusiva .griglia-mappa {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 16px;
+  }
+
+  /* 3. La Card */
+  #mappa-esclusiva .card-mappa {
+    display: flex !important;
+    flex-direction: column !important;
+    padding: 20px !important;
+    background: #ffffff !important;
+    border: 1px solid #e2e8f0 !important;
+    border-radius: 12px !important;
+    text-decoration: none !important;
+    transition: all 0.2s ease-in-out;
+  }
+
+  #mappa-esclusiva .card-mappa:hover {
+    background: #ffffff !important;
+    border-color: #3b82f6 !important;
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1) !important;
+    transform: translateY(-2px);
+  }
+
+  /* 4. IL TITOLO (Bilanciato) */
+  #mappa-esclusiva .titolo-piccolo {
+    display: block !important;
+    font-size: 17px !important; /* Dimensione ideale: né gigante né minuscola */
+    font-weight: 600 !important;
+    color: #0f172a !important;
+    line-height: 1.4 !important;
+    margin-bottom: 8px !important;
+    font-family: system-ui, -apple-system, sans-serif !important;
+  }
+
+  /* 5. IL PATH (Leggero e tecnico) */
+  #mappa-esclusiva .path-leggero {
+    display: block !important;
+    font-size: 12px !important;
+    font-weight: 400 !important;
+    color: #64748b !important;
+    font-family: ui-monospace, monospace !important;
+    background: #f8fafc;
+    padding: 4px 8px;
+    border-radius: 6px;
+    width: fit-content;
+  }
+
+  /* Mobile Adjustments */
+  @media (max-width: 640px) {
+    #mappa-esclusiva .titolo-piccolo {
+      font-size: 15px !important;
+    }
+    #mappa-esclusiva .griglia-mappa {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>
