@@ -1,31 +1,40 @@
 ---
 import { AstroSeo } from "@astrolib/seo";
+
+// Recuperiamo le proprietà passate dal Layout o dal Markdown
+const { title, description, image } = Astro.props;
+
+// I tuoi dati standard (quelli che avevi nella Home e nei Servizi)
+const defaultTitle = "Elio Leonardo Carchidi | Fotografo di Ritratto a Roma";
+const defaultDesc = "Da oltre 40 anni realizzo ritratti fotografici con luce naturale a Roma. Fine art, corporate ed editoriale.";
+const defaultOgImage = "https://www.eliocarchidi.com/og-image-home.jpg";
+const siteUrl = "https://www.eliocarchidi.com";
 ---
 
 <AstroSeo
-  title="Titolo della pagina"
-  description="A detailed description of your page content."
-  canonical="https://yourwebsite.com/current-page"
+  title={title ? `${title} | Elio Carchidi` : defaultTitle}
+  description={description || defaultDesc}
+  canonical={Astro.url.href}
   openGraph={{
-    url: "https://yourwebsite.com/current-page",
-    title: "Your Page Title",
-    description: "A detailed description of your page content.",
+    url: Astro.url.href,
+    title: title || defaultTitle,
+    description: description || defaultDesc,
     images: [
       {
-        url: "https://yourwebsite.com/og-image.jpg",
+        url: image || defaultOgImage,
         width: 1200,
         height: 630,
-        alt: "Open Graph Image Alt",
+        alt: title || defaultTitle,
         type: "image/jpeg",
       },
     ],
-    site_name: "Your Site Name",
+    site_name: "Elio Leonardo Carchidi - Atelier Fotografico",
     type: "website",
-    locale: "en_US",
+    locale: "it_IT",
   }}
   twitter={{
-    handle: "@yourhandle",
-    site: "@yourwebsite",
+    handle: "@eliocarchidi",
+    site: "@eliocarchidi",
     cardType: "summary_large_image",
   }}
 />

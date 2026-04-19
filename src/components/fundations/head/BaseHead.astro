@@ -1,11 +1,15 @@
 ---
+// 1. Devi "accettare" la variabile image qui
+const { title, description, image } = Astro.props;
 import Meta from "@/components/fundations/head/Meta.astro";
 import Fonts from "@/components/fundations/head/Fonts.astro";
 import Favicons from "@/components/fundations/head/Favicons.astro";
 ---
-<Meta />
+
+<Meta title={title} description={description} image={image} />
 <Fonts />
 <Favicons />
+
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,600;1,6..72,400&display=swap" rel="stylesheet">
@@ -15,7 +19,5 @@ import Favicons from "@/components/fundations/head/Favicons.astro";
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-
   gtag('config', 'G-5PL5HD300T');
 </script>
-
