@@ -2,8 +2,9 @@
 layout: ../../../../layouts/LayoutCorso.astro
 title: "Corso di Fotografia Online Gratuito: Indice"
 description: "Benvenuto al corso base di fotografia online. 10 lezioni gratuite per imparare a fotografare partendo da zero con Elio Carchidi."
-image: "formazione/2017/11/10-lezioni-di-fotografia-corso-gratuito.jpg"
+image: "formazione/2022/03/fondamenti-della-fotografia-ebook.jpeg"
 ---
+![Corso di Fotografia Bianco e Nero](https://media.eliocarchidi.com/uploads/formazione/2022/03/fondamenti-della-fotografia-ebook.jpeg)
 
 # Corso di Fotografia Online Gratuito
 ## Benvenuto nella tua bottega artigiana digitale

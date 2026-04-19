@@ -21,11 +21,7 @@ if (image) {
     finalImageUrl = `${baseUrl}/${cleanPath}`;
 }
 
-// DEBUG: Vedrai questi messaggi nel terminale (nero) dove gira Astro
-console.log("--- DEBUG LAYOUT ---");
-console.log("Titolo trovato:", title);
-console.log("Immagine originale:", image);
-console.log("Immagine finale calcolata:", finalImageUrl);
+
 ---
 
 <html lang="it" class="scroll-smooth">
@@ -47,7 +43,7 @@ console.log("Immagine finale calcolata:", finalImageUrl);
           <h1 class="titolo-testata-fisso">{title}</h1>
           
           {finalImageUrl && (
-            <div class="mt-12 rounded-2xl overflow-hidden shadow-xl aspect-video bg-slate-100">
+            <div class="mt-12 rounded-2xl overflow-hidden shadow-xl bg-slate-100">
               <img src={finalImageUrl} alt={title} class="w-full h-full object-cover" />
             </div>
           )}
