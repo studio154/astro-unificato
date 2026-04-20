@@ -9,7 +9,7 @@ image: "formazione/2022/03/scuola-di-fotografia-roma-corsi-di-fotografia-1.png"
 
 ---
 
-![Scuola di fotografia a Roma](https://media.eliocarchidi.com/uploads/formazione/2022/03/scuola-di-fotografia-roma-corsi-di-fotografia-1.png)
+<!-- ![Scuola di fotografia a Roma](https://media.eliocarchidi.com/uploads/formazione/2022/03/scuola-di-fotografia-roma-corsi-di-fotografia-1.png)-->
 
 ---
 

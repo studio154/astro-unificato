@@ -6,7 +6,7 @@ description: "Evita le false promesse nei workshop di fotografia."
 image: "formazione/2025/02/workshop-di-fotografia-aprile-2025-2.jpg"
 ---
 
-![workshop di fotografia corsi di fotografia 2025](https://media.eliocarchidi.com/uploads/formazione/2025/02/workshop-di-fotografia-aprile-2025-2.jpg)
+<!-- ![workshop di fotografia corsi di fotografia 2025](https://media.eliocarchidi.com/uploads/formazione/2025/02/workshop-di-fotografia-aprile-2025-2.jpg)-->
 
 
 <!-- wp:spacer {"height":"50px"} -->
@@ -122,5 +122,5 @@ image: "formazione/2025/02/workshop-di-fotografia-aprile-2025-2.jpg"
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>👉 <strong><a href="https://www.eliocarchidi.com/formazione-fotografica/club-della-fotografia-pagina-contatti/">Vuoi saperne di più?</a></strong> Scrivimi per ricevere tutte le informazioni sul workshop e riservare il tuo posto! 📷✨</p>
+<p>👉 <strong><a href="https://www.eliocarchidi.com/contatti/">Vuoi saperne di più?</a></strong> Scrivimi per ricevere tutte le informazioni sul workshop e riservare il tuo posto! 📷✨</p>
 <!-- /wp:paragraph -->

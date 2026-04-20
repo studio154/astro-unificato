@@ -13,7 +13,28 @@ const menuLinks = [
 import Wrapper from "@/components/fundations/containers/Wrapper.astro";
 import Text from "@/components/fundations/elements/Text.astro";
 ---
+<div class="top-bar">
+  <div class="container">
+    <a href="/formazione-fotografica" class="cta-formazione pl-12">Vai all'Area Formazione →</a>
+  </div>
+</div>
 
+<style>
+  .top-bar {
+    background: #111;
+    color: white;
+    font-size: 0.8rem;
+    padding: 5px 0;
+    display: flex;
+    justify-content: space-between;
+  }
+  .cta-formazione {
+    font-weight: bold;
+    color: #ffcc00; /* Un colore che stacca */
+    text-decoration: none;
+    
+  }
+</style>
 <Wrapper variant="standard">
   <nav class="left-0 w-full z-50 border-b border-black-200">
     
