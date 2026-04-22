@@ -11,15 +11,17 @@ import Navigation from "@/components/global/NavigazioneIndex.astro";
 // Hides the big logo, navigation, or footer on selected screens by passing props:
 // <BaseLayout hideBigLogo={true} hideNavigation={true} hideFooter={true}>
 
-const { hideBigLogo = false, hideNavigation = false, hideFooter = false } = Astro.props;
-import Favicons from '../components/fundations/head/Favicons.astro';
+const {
+  hideBigLogo = false,
+  hideNavigation = false,
+  hideFooter = false,
+} = Astro.props;
+import Favicons from "../components/fundations/head/Favicons.astro";
 ---
 
-
-
-<html lang="en" class="scroll-smooth">
+<html lang="it" class="scroll-smooth">
   <head>
-     <Favicons />
+    <Favicons />
     <BaseHead />
   </head>
   <body class="flex flex-col bg-gallery-1 min-h-svh">
@@ -30,9 +32,9 @@ import Favicons from '../components/fundations/head/Favicons.astro';
         </Wrapper>
       )
     }
-    
+
     {!hideNavigation && <Navigation />}
-  
+
     <main class="grow"><slot /></main>
     {!hideFooter && <Footer />}
   </body>

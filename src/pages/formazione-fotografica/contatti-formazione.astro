@@ -1,16 +1,16 @@
 ---
-import BaseLayout from "@/layouts/LayoutContatti.astro";
+import BaseLayout from "@/layouts/LayoutCorso.astro";
 import Wrapper from "@/components/fundations/containers/Wrapper-1040.astro";
 import { AstroSeo } from "@astrolib/seo";
 import ContattiQualificati from "@/components/hubspot-form/ContattiQualificati.astro";
 ---
 
 <AstroSeo
-  title="Contatti | Elio Leonardo Carchidi - Fotografo di Ritratto"
-  description="Ogni grande progetto nasce da una conversazione. Scrivimi qui: sarà un piacere risponderti personalmente e pianificare il tuo ritratto su misura."
-  canonical="https://www.eliocarchidi.com/contatti/"
+  title="Formazione Fotografica | Contatti | Elio Leonardo Carchidi"
+  description="Ogni grande progetto nasce da una conversazione. Scrivimi qui: sarà un piacere risponderti personalmente e pianificare la tua formazione fotografica su misura."
+  canonical="https://www.eliocarchidi.com/contatti-formazione/"
   openGraph={{
-    url: "https://www.eliocarchidi.com/contatti/",
+    url: "https://www.eliocarchidi.com/contatti-formazione/",
     title: "Contatti | Elio Leonardo Carchidi - Fotografo di Ritratto",
     description: "Ogni grande progetto nasce da una conversazione. Scrivimi qui: sarà un piacere risponderti personalmente e pianificare il tuo ritratto su misura.",
     images: [
@@ -22,7 +22,7 @@ import ContattiQualificati from "@/components/hubspot-form/ContattiQualificati.a
         type: "image/jpeg",
       },
     ],
-    site_name: "Elio Leonardo Carchidi - Contatti",
+    site_name: "Elio Leonardo Carchidi - Contatti Formazione",
     type: "website",
     locale: "it_IT",
   }}
@@ -35,8 +35,7 @@ import ContattiQualificati from "@/components/hubspot-form/ContattiQualificati.a
 
 <BaseLayout>
 
-  <!-- HERO CONTATTI 
-   <div class="max-w-3xl mx-auto my-12 px-6">
+   <!--<div class="max-w-3xl mx-auto my-12 px-6">
   <div class="relative p-8 border border-neutral-200 bg-neutral-50/50 rounded-lg shadow-sm">
     <div class="absolute -top-4 left-6 bg-white px-3 py-1 border border-neutral-200 text-xs tracking-widest uppercase font-semibold text-neutral-500">
       Aggiornamento Tecnologico
@@ -66,7 +65,7 @@ import ContattiQualificati from "@/components/hubspot-form/ContattiQualificati.a
   
   <!-- FORM CONTATTI -->
   <section>
-    <Wrapper variant="prose" class="p-6 sm:p-2 m-auto max-w-l">
+    <Wrapper variant="standard" class="p-6 sm:p-2 m-auto max-w-l">
       <ContattiQualificati />
     </Wrapper>
   </section>

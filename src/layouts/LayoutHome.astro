@@ -13,6 +13,7 @@ import Navigation from "@/components/global/NavigazioneIndex.astro";
 
 const { hideBigLogo = false, hideNavigation = false, hideFooter = false } = Astro.props;
 import Favicons from '../components/fundations/head/Favicons.astro';
+import TobBar from '@/components/cta/TopBarFormazione.astro';
 ---
 
 
@@ -21,12 +22,16 @@ import Favicons from '../components/fundations/head/Favicons.astro';
   <head>
      <Favicons />
     <BaseHead />
+    
   </head>
   <body class="flex flex-col bg-gallery-1 min-h-svh">
+    <TobBar />
     {
       !hideBigLogo && (
         <Wrapper variant="standard" class="pt-8">
           <BigLogo />
+          
+
         </Wrapper>
       )
     }

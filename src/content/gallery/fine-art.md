@@ -2,16 +2,16 @@
 bgColor: "bg-gallery-1"
 textColor: "text-base-900"
 category: "Ritratto Fine Art"
-title: ""
-order: 0
+title: "Ritatto Artistico"
+order: 2
 description: "Ritratti intimi e pittorici che esplorano luce, forma e presenza umana. Un linguaggio visivo essenziale ispirato alla ritrattistica classica, reinterpretata in chiave contemporanea."
 # - Use `imageGrid` to control the grid container (e.g. columns, gaps, etc.)
 # - Use `class` on each image to control its span and position in the grid
 # - This gives you full visual control: overlap, asymmetry, large hero blocks, etc.
 thumbnail:
-  url: "/images/gallery/ritratti-fine-art/thumbnail.jpg"
-  alt: "prova1"
-  title: "Uomo ritratto"
+  url: "https://media.eliocarchidi.com/uploads/2026/04/C-Fotografia-Fine-Art-Foto-Autoriali-1.jpg"
+  alt: "Fotografia-Fine-Art-Foto-Autoriali"
+  title: "Nudo di donna"
 # - Use `thumbnailClass` to control the span of the thumbnail image on GalleryLayout.astro
 imageGrid: "grid grid-cols-3 md:grid-cols-1 ms:grid-cols-1 gap-8 text-black"
 thumbnailClass: "lg:col-span-3 rounded w-full"

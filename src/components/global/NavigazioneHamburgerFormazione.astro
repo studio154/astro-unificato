@@ -2,26 +2,24 @@
 const currentPath = Astro.url.pathname;
 
 const menuLinks = [
-  { href: "/", label: "Home" },
-  { href: "/portfolio/", label: "Portfolio" },
-  { href: "/atelier/", label: "Atelier" },
-  { href: "/chi-sono/", label: "Chi sono" },
-  { href: "/contatti/", label: "Contatti" },
-  { href: "/blog/", label: "Journal" },
+  { href: "/formazione-fotografica/", label: "Home" },
+  { href: "/formazione-fotografica/corsi-di-fotografia-roma-gratis", label: "Contenuti" },
+  { href: "/formazione-fotografica/contatti-formazione/", label: "Contatti" },
+  { href: "/formazione-fotografica/journal/", label: "Journal" },
 ];
 
 import Wrapper from "@/components/fundations/containers/Wrapper.astro";
 import Text from "@/components/fundations/elements/Text.astro";
 ---
-<Wrapper variant="standard">
-  <nav class="left-0 w-full z-50 border-b border-black-200">
+<Wrapper variant="default bg-black">
+  <nav class="left-0 w-full z-50 border-b border-black-200 bg-black ;">
     
-    <div class="mx-auto flex items-center justify-between p-4">
+    <div class="mx-auto flex items-center justify-between p-4 pl-12 p">
 
       <!-- Logo -->
-      <a href="/" class="flex items-center gap-2">
-        <span class="text-lg font-semibold uppercase tracking-wide">
-          Elio Leonardo Carchidi
+      <a href="/formazione-fotografica/" class="flex items-center gap-2">
+        <span class="text-lg font-semibold uppercase tracking-wide text-neutral-400 hover: text-white">
+          Formazione Fotografica
         </span>
       </a>
 
@@ -34,9 +32,9 @@ import Text from "@/components/fundations/elements/Text.astro";
       >
         <span class="sr-only">Apri menu</span>
         <div class="flex flex-col gap-1">
-          <span class="block w-5 h-0.5 bg-black"></span>
-          <span class="block w-5 h-0.5 bg-black"></span>
-          <span class="block w-5 h-0.5 bg-black"></span>
+          <span class="block w-5 h-0.5 bg-white"></span>
+          <span class="block w-5 h-0.5 bg-white"></span>
+          <span class="block w-5 h-0.5 bg-white"></span>
         </div>
       </button>
 
@@ -49,8 +47,8 @@ import Text from "@/components/fundations/elements/Text.astro";
             variant="textBase"
             class={`transition-colors ${
               currentPath === link.href
-                ? "text-black font-semibold"
-                : "text-neutral-600 hover:text-black"
+                ? "text-neutral-600 font-semibold"
+                : "text-neutral-400 hover:text-neutral-200"
             }`}
           >
             {link.label}
