@@ -27,10 +27,10 @@ faq:
 checkout: "/atelier/prenotazioni/edizioni-fotografiche/"
 checkout2: "/atelier/prenotazioni/regalare-fotografie/"
 image:
-  url: "/src/images/edizioni/orizzonti-silenziosi/2.jpeg"
+  url: "https://media.eliocarchidi.com/uploads/2026/04/edizioni-orizzonti-silenziosi.png"
   alt: "Orizzonti Silenziosi - stampa fotografica d’autore"
 images:
-  - url: "/src/images/edizioni/orizzonti-silenziosi/2.jpeg"
+  - url: "https://media.eliocarchidi.com/uploads/2026/04/edizioni-orizzonti-silenziosi.png"
     alt: "Dettaglio della stampa"
  
 ---

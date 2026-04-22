@@ -4,7 +4,7 @@ import BaseLayout from "@/layouts/LayoutEdizioni.astro";
 import CtaEdizioni from "src/components/cta/CtaEdizioni.astro";
 import Wrapper from "@/components/fundations/containers/Wrapper.astro";
 // Components
-import StoreEntry from "@/components/store/StoreEntry.astro";
+import EdizioniEntry from "@/components/edizioni/EdizioniEntry.astro";
 // Content
 import { getCollection } from "astro:content";
 const allProducts = await getCollection("edizioni");
@@ -52,7 +52,7 @@ import { AstroSeo } from "@astrolib/seo";
       <div
         class="mt-4 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-y-24 gap-8"
       >
-        {allProducts.map((post) => <StoreEntry post={post} basePath="edizioni" />)}
+        {allProducts.map((post) => <EdizioniEntry post={post} basePath="edizioni" />)}
       </div>
      <CtaEdizioni />
       

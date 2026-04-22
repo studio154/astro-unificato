@@ -28,10 +28,10 @@ checkout: "/atelier/prenotazioni/edizioni-fotografiche/"
 checkout2: "/atelier/prenotazioni/regalare-fotografie/"
 
 image:
-  url: "/src/images/edizioni/momenti-riflessi/1.jpeg"
+  url: "https://media.eliocarchidi.com/uploads/2026/04/edizioni-orizzonti-silenziosi-bw.png"
   alt: "Form Object 01 on a sculpted stone pedestal"
 images:
-  - url: "/src/images/edizioni/momenti-riflessi/1.jpeg"
+  - url: "https://media.eliocarchidi.com/uploads/2026/04/edizioni-orizzonti-silenziosi-bw.png"
     alt: "Close-up of Form Object 01 texture"
   
  
