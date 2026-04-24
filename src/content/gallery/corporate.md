@@ -1,5 +1,5 @@
 ---
-bgColor: bg-gallery-1
+bgColor: bg-white
 textColor: text-base-900
 category: "Foto Corporate Headshot"
 title: "Ritratto Corporate"

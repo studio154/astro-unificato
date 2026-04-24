@@ -50,7 +50,7 @@ import "@/styles/global.css";
                 <img
                   src={frontmatter.thumbnail.url}
                   alt={frontmatter.thumbnail.alt}
-                  class={`w-full h-auto object-cover ${frontmatter.thumbnailClass}`}
+                  class={`w-full h-auto rounded-2xl object-cover ${frontmatter.thumbnailClass}`}
                   
                 />
                 <figcaption class="mt-2 opacity-60 text-center">
@@ -68,7 +68,7 @@ import "@/styles/global.css";
                 <img
                   src={image.url}
                   alt={image.alt}
-                  class={`w-full h-auto object-cover ${image.class ?? ""}`}
+                  class={`w-full h-auto rounded-2xl object-cover ${image.class ?? ""}`}
                   title={image.title}
                   
                 />

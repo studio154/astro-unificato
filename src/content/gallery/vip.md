@@ -1,5 +1,5 @@
 ---
-bgColor: bg-gallery-1
+bgColor: bg-white
 textColor: text-base-900
 category: "Ritratti di Personaggi Noti"
 title: "Ritratti VIP"
@@ -149,6 +149,9 @@ images:
     alt: "Ritratti di Personaggi Noti Amanda Lear"
     title: "Amanda Lear"
     class: "lg:col-span-2"
-  
-  
+
+  - url: "https://media.eliocarchidi.com/uploads/2026/04/ART-Ritratto-Omar-Kamal.jpg"
+    alt: "Ritratti di Personaggi Noti Omar Kamal"
+    title: "Omar Kamal"
+    class: "lg:col-span-2"
 ---

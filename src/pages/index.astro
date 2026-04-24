@@ -5,8 +5,8 @@ import Text from "../components/fundations/elements/Text.astro";
 import { AstroSeo } from "@astrolib/seo";
 import Button from "@/components/fundations/elements/Button.astro";
 import { Image } from "astro:assets";
-import ImmagineEdizioni from "../images/atelier/foto-edizioni-cornici-gallerie-fotografiche.png";
-import ImmagineSessioni from "../images/atelier/cornici-atelier-photo-gallery-ritratto.png";
+import ImmagineEdizioni from "../images/edizioni/cornici-atelier-gallery-edizioni-bn1.png";
+import ImmagineSessioni from "../images/atelier/foto-edizioni-cornici-gallerie-fotografiche.png";
 ---
 
 <AstroSeo
@@ -43,6 +43,42 @@ import ImmagineSessioni from "../images/atelier/cornici-atelier-photo-gallery-ri
       <div class="mt-4 md:mt-16 grid gap-16 grid-cols-1 lg:grid-cols-2 max-w-5xl mx-auto">
         
         <div class="flex flex-col items-center text-center">
+          <a href="/atelier/sessioni-private/" class="block overflow-hidden">
+            <Image
+              src={ImmagineSessioni}
+              alt="Sessioni Private di Ritratto - Elio Leonardo Carchidi"
+              width={610}
+              height={410}
+              class="w-full"
+              loading="lazy"
+            />
+          </a>
+          <Text
+            tag="h2"
+            variant="textBase"
+            class="mt-4 text-lg font-semibold tracking-wide"
+          >
+            Sessioni Private di Ritratto
+          </Text>
+          <Text
+            tag="p"
+            variant="textSmall"
+            class="mt-2 text-base max-w-lg"
+          >
+            Un'esperienza di ritratto costruita intorno alla tua presenza, con luce, tempo e attenzione dedicati.
+          </Text>
+          <Button
+            isLink={true}
+            href="/atelier/sessioni-private/"
+            size="lg"
+            variant="default"
+            class="mt-4"
+          >
+            Prenota il tuo ritratto
+          </Button>
+        </div>
+
+        <div class="flex flex-col items-center text-center">
           <a href="/atelier/edizioni/" class="block overflow-hidden">
             <Image
               src={ImmagineEdizioni}
@@ -72,48 +108,14 @@ import ImmagineSessioni from "../images/atelier/cornici-atelier-photo-gallery-ri
             isLink={true}
             href="/atelier/edizioni/"
             size="lg"
-            variant="muted"
+            variant="default"
             class="mt-4"
           >
             Esplora le edizioni
           </Button>
         </div>
 
-        <div class="flex flex-col items-center text-center">
-          <a href="/atelier/sessioni-private/" class="block overflow-hidden">
-            <Image
-              src={ImmagineSessioni}
-              alt="Sessioni Private di Ritratto - Elio Leonardo Carchidi"
-              width={610}
-              height={410}
-              class="w-full"
-              loading="lazy"
-            />
-          </a>
-          <Text
-            tag="h2"
-            variant="textBase"
-            class="mt-4 text-lg font-semibold tracking-wide"
-          >
-            Sessioni Private di Ritratto
-          </Text>
-          <Text
-            tag="p"
-            variant="textSmall"
-            class="mt-2 text-base max-w-lg"
-          >
-            Un'esperienza di ritratto costruita intorno alla tua presenza, con luce, tempo e attenzione dedicati.
-          </Text>
-          <Button
-            isLink={true}
-            href="/atelier/sessioni-private/"
-            size="lg"
-            variant="muted"
-            class="mt-4"
-          >
-            Prenota il tuo ritratto
-          </Button>
-        </div>
+        
 
       </div>
 
