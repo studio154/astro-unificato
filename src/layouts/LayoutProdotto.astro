@@ -7,7 +7,7 @@ import BaseHead from "@/components/fundations/head/BaseHead.astro";
 import Wrapper from "@/components/fundations/containers/Wrapper.astro";
 // Components
 import Footer from "@/components/global/Footer.astro";
-import Navigation from "@/components/global/NavigazioneTop.astro";
+import Navigation from "@/components/global/NavigazioneHamburgerStandard.astro";
 // Hides the big logo, navigation, or footer on selected screens by passing props:
 // <BaseLayout hideBigLogo={true} hideNavigation={true} hideFooter={true}>
 
@@ -22,7 +22,7 @@ import Favicons from '../components/fundations/head/Favicons.astro';
      <Favicons />
     <BaseHead />
   </head>
-  <body class="flex flex-col bg-gallery-1 min-h-svh">
+  <body class="flex flex-col bg-gallery-6 min-h-svh">
     {
       !hideBigLogo && (
         <Wrapper variant="standard" class="pt-8">

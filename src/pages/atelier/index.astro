@@ -5,23 +5,24 @@ import Text from "../../components/fundations/elements/Text.astro";
 import { AstroSeo } from "@astrolib/seo";
 import Button from "@/components/fundations/elements/Button.astro";
 import { Image } from "astro:assets";
-import ImmagineEdizioni from "../../images/atelier/foto-edizioni-cornici-gallerie-fotografiche.png";
-import ImmagineSessioni from "../../images/atelier/cornici-atelier-photo-gallery-ritratto.png";
+import ImmagineEdizioni from "../../images/atelier/natura-bn-edizioni-fotografiche.png";
+import ImmagineSessioni from "../../images/atelier/foto-edizioni-cornici-gallerie-fotografiche.png";
 
 const base = import.meta.env.BASE_URL;
 
 const pacchetti = [
-  {
-    title: "Edizioni d'Autore",
-    description: "Stampe fine art in tiratura limitata, realizzate su carte museali. Ogni opera è pensata per attraversare il tempo e abitare lo spazio.",
-    image: ImmagineEdizioni,
-    link: `/atelier/edizioni/`,
-  },
+  
   {
     title: "Sessioni Private di Ritratto",
     description: "Sessioni fotografiche individuali, costruite intorno alla persona. Un’esperienza intima, essenziale, guidata dalla luce naturale. ",
     image: ImmagineSessioni,
     link: `/atelier/sessioni-private/`,
+  },
+  {
+    title: "Edizioni d'Autore",
+    description: "Stampe fine art in tiratura limitata, realizzate su carte museali. Ogni opera è pensata per attraversare il tempo e abitare lo spazio.",
+    image: ImmagineEdizioni,
+    link: `/atelier/edizioni/`,
   },
 ];
 ---
@@ -90,7 +91,7 @@ const pacchetti = [
                 isLink={true}
                 href={pacchetto.link}
                 size="lg"
-                variant="muted"
+                variant="default"
                 class="mt-4 w-full mb-8 max-w-150 m-auto"
               >
                 {pacchetto.link.includes("edizioni")

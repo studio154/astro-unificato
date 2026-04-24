@@ -5,20 +5,17 @@
 import Text from "@/components/fundations/elements/Text.astro";
 import Wrapper from "@/components/fundations/containers/Wrapper.astro";
 import Button from "@/components/fundations/elements/Button.astro";
-import NavMenu2 from '@/components/global/NavigazioneHamburger.astro';
+import NavMenu from '@/components/global/NavigazioneHamburgerStandard.astro';
 const currentPath = Astro.url.pathname; // prende la path corrente
 ---
 
   <Wrapper variant="standard" >
     
-       <div
-      class="items-start pt-2 pb-6 lg:pb-6 text-center uppercase 
-      gap-4 lg:gap-6 lg:gap-y-6 mb-10 md:mb-10"
-    >
+       
 
-      <NavMenu2 currentPath={currentPath} />
+      <NavMenu currentPath={currentPath} />
       
-    </div>
+    
     <Text
         tag="h1"
         variant="textLG"

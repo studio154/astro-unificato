@@ -22,7 +22,7 @@ const { frontmatter } = Astro.props;
         >
           &larr; Go back
         </Text> -->
-        
+
         <Text
           tag="p"
           variant="textXL"
@@ -57,10 +57,13 @@ const { frontmatter } = Astro.props;
           }
         </div>
         <div class="mt-8 flex justify-center">
-  <a href="/sessioni-private/" class="inline-block rounded-md bg-gray-900 hover:bg-gray-800 text-white font-medium px-6 py-3 transition">
-    Prenota la tua sessione di ritratto
-  </a>
-</div>
+          <a
+            href="/sessioni-private/"
+            class="inline-block rounded-md bg-gray-900 hover:bg-gray-800 text-white font-medium px-6 py-3 transition"
+          >
+            Prenota la tua sessione di ritratto
+          </a>
+        </div>
         <div class="mt-24">
           {/* Social Media Links */}
           <a
@@ -95,5 +98,4 @@ const { frontmatter } = Astro.props;
       </div>
     </Wrapper>
   </section>
-  
 </BaseLayout>

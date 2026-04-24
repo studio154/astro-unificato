@@ -12,18 +12,18 @@ import CtaEdizioni from "@/components/cta/CtaEdizioni.astro";
 const { frontmatter } = Astro.props;
 ---
 
-<BaseLayout hideNavigation={true} hideBigLogo={true} hideFooter={false}>
+<BaseLayout hideNavigation={false} hideBigLogo={true} hideFooter={false}>
   <section>
     <Wrapper variant="prodotto" class="py-12">
       <!-- Back -->
 
       <Text
   tag="a"
-  href="/atelier/edizioni/"
+  href="/atelier/"
   variant="textXS"
   class="inline-flex items-center gap-1 mb-6 opacity-60 hover:opacity-100 transition"
 >
-  &larr; Torna alle edizioni
+  &larr; Atelier
 </Text>
 
  <!-- <Text
