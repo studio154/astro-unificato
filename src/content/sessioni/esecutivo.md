@@ -1,7 +1,8 @@
 ---
 title: "Sessione Esecutiva di Ritratto"
-price: "799€"
 description: "L’esperienza più completa di ritratto in atelier..."
+price: 799
+priceLabel: "799"
 image:
   url: "/src/images/pacchetti/avanzato/thumbnail.jpeg"
   alt: "Ritratto Esecutivo in Atelier"

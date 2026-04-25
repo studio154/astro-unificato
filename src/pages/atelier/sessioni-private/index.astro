@@ -1,13 +1,14 @@
 ---
-// Fundations
 import BaseLayout from "@/layouts/LayoutSessioni.astro";
 import Text from "@/components/fundations/elements/Text.astro";
 import Wrapper from "@/components/fundations/containers/Wrapper.astro";
-// Components
-import StoreEntry from "@/components/store/StoreEntry.astro";
-// Content
+import SessioniEntry from "@/components/sessioni/SessioniEntry.astro";
 import { getCollection } from "astro:content";
-const allProducts = await getCollection("sessioni");
+
+const allProducts = (await getCollection("sessioni")).sort(
+  (a, b) => a.data.price - b.data.price
+);
+
 import { AstroSeo } from "@astrolib/seo";
 import Button from "@/components/fundations/elements/Button.astro";
 ---
@@ -55,7 +56,7 @@ import Button from "@/components/fundations/elements/Button.astro";
       >
         {
           allProducts.map((post) => (
-            <StoreEntry post={post} basePath="sessioni-private" />
+            <SessioniEntry post={post} basePath="sessioni-private" />
           ))
         }
       </div>

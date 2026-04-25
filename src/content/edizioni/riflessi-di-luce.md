@@ -1,7 +1,9 @@
 ---
 title: "Riflessi di Luce"
+price: 100
+priceLabel: "Disponibile su richiesta"
 description: "Stampa fotografica d’autore, edizione limitata, che cattura la luce naturale e la presenza autentica. Perfetta per ambienti domestici e professionali."
-price: "Disponibile su richiesta"
+
 license: "L’opera può essere esposta in ambienti privati o commerciali. Non è consentita la riproduzione o la vendita senza autorizzazione. Contattaci per richieste particolari."
 highlights:
   - "Stampa fotografica Fine Art su carta cotone 310g"

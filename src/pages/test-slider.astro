@@ -1,0 +1,16 @@
+---
+
+import BaseLayout from "@/layouts/GalleryLayout.astro";
+import Slider from "@/components/fundations/scripts/KeenSlider.astro";
+---
+
+
+
+<BaseLayout hideBigLogo={true}>
+<div class="w-full">
+  <slot />
+  <Slider />
+</div>
+    
+</BaseLayout>
+

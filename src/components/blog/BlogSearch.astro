@@ -30,41 +30,46 @@ const posts = await Promise.all(
   </button>
 
   <div
-    id="searchModal"
-    class="fixed inset-0 z-50 hidden overflow-y-auto bg-black/10 backdrop-blur-sm"
-    role="dialog"
-    aria-modal="true"
-  >
-    <div class="min-h-screen px-4 text-center">
-      <div
-        class="relative inline-block w-full max-w-xl mt-12 mb-8 text-left align-middle lg:mt-48 transition-all transform"
-      >
-        <div class="hidden">
-          <button
-            type="button"
-            id="closeSearch"
-            class="cursor-pointer text-base-400 hover:text-base-600"
-            aria-label="Close search"
-          >
-            ×
-          </button>
-        </div>
-        <input
-          type="text"
-          id="searchInput"
-          placeholder="Search posts..."
-          class="block w-full h-10 px-4 py-2 text-xs leading-tight align-middle bg-white border border-transparent rounded-full transition duration-300 ease-in-out focus:z-10 text-base-500 ring-1 ring-base-200 placeholder-base-400 focus:border-accent-50 focus:ring-accent-500 focus:ring-2 focus:outline-none shadow-sm"
-        />
-        <div
-          id="searchResults"
-          class="w-full mt-2 overflow-hidden overflow-y-auto rounded-lg max-h-100 divide-y divide-base-200 scrollbar-hide"
+  id="searchModal"
+  class="fixed inset-0 z-50 hidden overflow-y-auto bg-white/85 backdrop-blur-md"
+  role="dialog"
+  aria-modal="true"
+>
+  <div class="min-h-screen px-4">
+    <div class="mx-auto w-full max-w-2xl pt-24 lg:pt-36">
+
+      <div class="flex items-center justify-between mb-6">
+        <p class="font-serif text-sm uppercase tracking-[0.25em] text-base-500">
+          Cerca nel Journal
+        </p>
+
+        <button
+          type="button"
+          id="closeSearch"
+          class="text-sm uppercase tracking-wide text-base-500 hover:text-base-900"
+          aria-label="Chiudi ricerca"
         >
-        </div>
+          Chiudi
+        </button>
       </div>
+
+      <input
+        type="text"
+        id="searchInput"
+        placeholder="Scrivi una parola, un tema, un argomento..."
+        class="w-full border-0 border-b border-base-300 bg-transparent px-0 py-4 font-serif text-2xl text-base-900 placeholder:text-base-400 focus:border-base-900 focus:outline-none focus:ring-0"
+      />
+
+      <div
+        id="searchResults"
+        class="mt-8 max-h-[60vh] overflow-y-auto border-t border-base-200"
+      ></div>
+
     </div>
   </div>
 </div>
-
+</div>
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@7.1.0"></script>
 <script is:inline define:vars={{ posts }}>
   window.addEventListener("load", () => {
     const searchButton = document.getElementById("searchButton");
@@ -101,50 +106,68 @@ const posts = await Promise.all(
       searchResults.classList.add("hidden");
     }
 
-    function renderResults(results) {
-      if (!searchInput.value.trim()) {
-        searchResults.innerHTML = "";
-        searchResults.classList.add("hidden");
-        return;
-      }
+    function formatDate(date) {
+  return new Date(date).toLocaleDateString("it-IT", {
+    year: "numeric",
+    month: "long",
+    day: "2-digit",
+  });
+}
 
-      if (results.length === 0) {
-        searchResults.innerHTML = `
-          <div>
-            <h3 class="p-4 duration-300 hover:bg-white/80 backdrop-blur bg-white/90">
-              There's nothing here.
-            </h3>
-          </div>
-        `;
-        searchResults.classList.remove("hidden");
-        return;
-      }
+function renderResults(results) {
+  if (!searchInput.value.trim()) {
+    searchResults.innerHTML = `
+      <div class="py-8 text-sm text-base-500">
+        Inizia a scrivere per cercare tra gli articoli.
+      </div>
+    `;
+    searchResults.classList.remove("hidden");
+    return;
+  }
 
-      searchResults.innerHTML = results
-        .map(
-          (result) => `
-          <div class="relative block p-4 duration-300 hover:bg-white/80 backdrop-blur bg-white/90">
-            <a href="/blog/posts/${result.item.slug}" class="absolute inset-0 z-10"></a>
-            <p class="block text-xs text-sm text-base-600">
-              ${new Date(result.item.pubDate).toLocaleDateString("en-US", {
-                year: "numeric",
-                month: "long",
-                day: "2-digit",
-              })}
-            </p>
-            <h3 class="block mt-2 text-sm font-medium text-base-900 ">
-              ${result.item.title}
-            </h3>
-            <p class="block text-xs text-base-600">
-              ${result.item.description}
-            </p>
-          </div>
-        `
-        )
-        .join("");
+  if (results.length === 0) {
+    searchResults.innerHTML = `
+      <div class="py-8">
+        <p class="font-serif text-xl text-base-900">Nessun risultato trovato.</p>
+        <p class="mt-2 text-sm text-base-500">
+          Prova con una parola più semplice o con un tema diverso.
+        </p>
+      </div>
+    `;
+    searchResults.classList.remove("hidden");
+    return;
+  }
 
-      searchResults.classList.remove("hidden");
-    }
+  searchResults.innerHTML = results
+    .slice(0, 8)
+    .map(
+      (result) => `
+        <a 
+          href="/${result.item.slug}/" 
+          class="group block border-b border-base-200 py-5 transition hover:opacity-70"
+        >
+          <p class="mb-2 text-xs uppercase tracking-[0.18em] text-base-400">
+            ${formatDate(result.item.pubDate)}
+          </p>
+
+          <h3 class="font-serif text-xl leading-snug text-base-900">
+            ${result.item.title}
+          </h3>
+
+          ${
+            result.item.description
+              ? `<p class="mt-2 line-clamp-2 text-sm leading-relaxed text-base-600">
+                  ${result.item.description}
+                </p>`
+              : ""
+          }
+        </a>
+      `
+    )
+    .join("");
+
+  searchResults.classList.remove("hidden");
+}
 
     searchButton.addEventListener("click", openSearch);
     searchButton.addEventListener("touchend", openSearch);
@@ -164,12 +187,14 @@ const posts = await Promise.all(
       }
     });
 
-    // NEW: Click outside modal content to close
-    searchModal.addEventListener("click", (e) => {
-      const modalContent = e.target.closest(".inline-block");
-      if (!modalContent) {
-        closeSearchModal(e);
-      }
-    });
+    /*
+ // NEW: Click outside modal content to close
+ searchModal.addEventListener("click", (e) => {
+   const modalContent = e.target.closest(".inline-block");
+   if (!modalContent) {
+     closeSearchModal(e);
+   }
+ });
+*/
   });
 </script>

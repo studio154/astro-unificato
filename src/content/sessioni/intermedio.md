@@ -1,6 +1,7 @@
 ---
 title: "Sessione Completa di Ritratto"
-price: "499€"
+price: 499
+priceLabel: "499€"
 description: "Una sessione di ritratto più approfondita, progettata per catturare luce, presenza e dettagli unici. Ideale per chi desidera un’esperienza immersiva e più scatti da scegliere e conservare nel tempo."
 image:
   url: "/src/images/pacchetti/intermedio/thumbnail.jpeg"

@@ -84,13 +84,15 @@ const { frontmatter } = Astro.props;
             </Text>
           </div>
 
-          <!-- Price + CTA -->
+          <!-- Prezzo + CTA -->
           <div class="space-y-4">
-            <!-- <Text tag="p" variant="textBase" class="font-medium">
-              €{frontmatter.price} </Text>--> 
-              <Text tag="p" variant="textLG" class="text-base-600 mb-8">
-  Disponibile su richiesta
-</Text>
+            <Text tag="p" variant="textXL" class="font-medium">
+              €{frontmatter.price} 
+              <!-- ETICHETTA SE NECESSARIA €{frontmatter.priceLabel}-->
+              </Text>
+              <!-- SOLO TESTO SENZA PREZZO
+                <Text tag="p" variant="textLG" class="text-base-600 mb-8">
+            Disponibile su richiesta </Text>-->
            
 
             <Button

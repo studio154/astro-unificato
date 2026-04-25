@@ -3,11 +3,12 @@
 import { Image } from "astro:assets";
 // Fundations
 import Text from "@/components/fundations/elements/Text.astro";
-const { title, url, image, price } = {
+const { title, url, image, price, priceLabel } = {
   url: "" + Astro.props.post.slug,
   title: Astro.props.post.data.title,
   image: Astro.props.post.data.image.url,
   price: Astro.props.post.data.price,
+  priceLabel: Astro.props.post.data.priceLabel,
 };
 ---
 
@@ -30,8 +31,8 @@ const { title, url, image, price } = {
     >
       {title}
     </Text>
-    <Text tag="p" variant="textSM" class="text-base-500">
-      {price}
+    <Text tag="p" variant="textLG" class="text-base-900">
+      €{price}
     </Text>
   </div>
 </div>

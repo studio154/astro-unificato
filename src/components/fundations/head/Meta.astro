@@ -1,10 +1,14 @@
 ---
 import { AstroSeo } from "@astrolib/seo";
 
-// 1. Recuperiamo i dati che arrivano da BaseHead
-const { title, description, image } = Astro.props;
+const {
+  title,
+  description,
+  canonical,
+  image,
+  ogType = "website",
+} = Astro.props;
 
-// 2. Valori di riserva se mancano nel Markdown (es. per la Home)
 const defaultTitle = "Elio Leonardo Carchidi | Fotografo di Ritratto a Roma";
 const defaultDesc = "Da oltre 40 anni realizzo ritratti fotografici con luce naturale a Roma.";
 const defaultOgImage = "https://www.eliocarchidi.com/og-image-home.jpg";
@@ -16,17 +20,16 @@ const defaultOgImage = "https://www.eliocarchidi.com/og-image-home.jpg";
 <meta name="theme-color" content="#ffffff" />
 
 <AstroSeo
-  <AstroSeo
   title={title ? `${title} | Elio Carchidi` : defaultTitle}
   description={description || defaultDesc}
-  canonical={Astro.url.href}
+  canonical={canonical || Astro.url.href}
   openGraph={{
-    url: Astro.url.href,
+    url: canonical || Astro.url.href,
     title: title || defaultTitle,
     description: description || defaultDesc,
     images: [
       {
-        url: image || defaultOgImage,
+        url: image?.url || image || defaultOgImage,
         width: 1200,
         height: 630,
         alt: title || defaultTitle,
@@ -34,7 +37,7 @@ const defaultOgImage = "https://www.eliocarchidi.com/og-image-home.jpg";
       },
     ],
     site_name: "Elio Leonardo Carchidi - Atelier Fotografico",
-    type: "website",
+    type: ogType,
     locale: "it_IT",
   }}
   twitter={{

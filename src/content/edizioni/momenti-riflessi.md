@@ -1,7 +1,8 @@
 ---
 title: "Momenti Riflessi"
+price: 0
+priceLabel: "Disponibile su richiesta"
 description: "Stampa fotografica d’autore, edizione limitata, che cattura momenti di luce e riflessi naturali. Ideale per spazi domestici o professionali che vogliono un tocco poetico."
-price: "Disponibile su richiesta"
 license: "L’opera può essere esposta in ambienti privati o commerciali. Non è consentita la riproduzione o la vendita senza autorizzazione. Contattaci per richieste particolari."
 highlights:
   - "Stampa fotografica Fine Art su carta cotone 310g"

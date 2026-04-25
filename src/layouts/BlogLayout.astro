@@ -13,37 +13,21 @@ const relatedPosts = allPosts
   .sort((a, b) => new Date(b.data.pubDate) - new Date(a.data.pubDate))
   .slice(0, 3);
 const slug = Astro.url.pathname.split('/').filter(Boolean).pop();
-const canonical = "https://www.eliocarchidi.com/" + slug;
+const canonical = `https://www.eliocarchidi.com/${slug}/`;
 const getPostUrl = (post) => `/${post.slug}`;
 ---
 
-<AstroSeo
+
+
+<BaseLayout
   title={frontmatter.title}
   description={frontmatter.description}
   canonical={canonical}
-  openGraph={{
-    url: canonical,
-    title: frontmatter.title,
-    description: frontmatter.description,
-    images: frontmatter.image ? [{
-      url: frontmatter.image.url,
-      width: 1200,
-      height: 630,
-      alt: frontmatter.image.alt,
-      type: "image/jpeg",
-    }] : [],
-    site_name: "Elio Carchidi Fotografo",
-    type: "article",
-    locale: "it_IT",
-  }}
-  twitter={{
-    handle: "@eliocarchidi",
-    site: "@eliocarchidi",
-    cardType: "summary_large_image",
-  }}
-/>
-
-<BaseLayout hideBigLogo={true} hideNavigation={false}>
+  image={frontmatter.image}
+  ogType="article"
+  hideBigLogo={true}
+  hideNavigation={false}
+>
   
 
 <Wrapper variant="standard">

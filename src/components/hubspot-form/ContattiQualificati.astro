@@ -15,51 +15,29 @@
 
 
 <style is:global>
-  /* Usiamo lo stesso stile elegante dell'Atelier */
   .contact-container {
-    max-width: auto;
-    margin: 1rem auto;
-    padding: 0.5rem;
-    border: 1px solid #f0f0f0;
-    background-color: #ffffff;
-  }
-
-  .form-header {
-    text-align: center;
-    margin-bottom: 3rem;
-  }
-
-  .form-header h2 {
-    font-family: "Newsreader", Serif;
-    font-size: 1.5rem;
-    text-transform: uppercase;
-    letter-spacing: 3px;
-    margin-bottom: 1rem;
-    color: #1a1a1a;
-    font-weight:400;
-  }
-
-  .form-header p {
-    font-size: 1.05rem;
-    line-height: 1.7;
-    color: #444;
-    max-width: 550px;
+    width: 100%;
+    max-width: 720px;
     margin: 0 auto;
-    font-style: italic; /* Un tocco più intimo per i contatti */
+    padding-inline: 1rem;
+    overflow-x: hidden;
   }
 
-  .form-header .sottotitolo {
-    font-size: 0.8rem;
-    line-height: 1.7;
-    color: #444;
-    max-width: 550px;
-    margin: 0 auto;
-    margin-top:1rem;
-    font-style: italic; /* Un tocco più intimo per i contatti */
+  .hubspot-inject-area {
+    width: 100%;
+    min-height: 760px;
+    overflow-x: hidden;
   }
 
-  /* HubSpot fix */
   .hs-form-frame {
+    width: 100%;
+    max-width: 100%;
     margin-top: 2rem;
+    overflow-x: hidden;
+  }
+
+  .hs-form-frame iframe {
+    width: 100% !important;
+    max-width: 100% !important;
   }
 </style>

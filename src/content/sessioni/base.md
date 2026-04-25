@@ -1,5 +1,6 @@
 ---
-price: "249€"
+price: 249
+priceLabel: "249€"
 title: "Sessione Base di Ritratto"
 description: "Una sessione fotografica su misura, pensata per catturare la tua presenza in modo autentico ed elegante. Luce, tempo e attenzione dedicata rendono ogni scatto un’esperienza unica e personale, adatta a raccontare chi sei attraverso l’immagine."
 highlights:

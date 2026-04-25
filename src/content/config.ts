@@ -5,7 +5,8 @@ const edizioni = defineCollection({
   schema: ({ image }) =>
     z.object({
       title: z.string(),
-      price: z.string(),
+      price: z.number(),
+      priceLabel: z.string().optional(),  
       checkout: z.string().optional(),
       checkout2: z.string().optional(),
       description: z.string(),
@@ -47,7 +48,8 @@ const sessioni = defineCollection({
   schema: ({ image }) =>
     z.object({
       title: z.string(),
-      price: z.string(),
+      price: z.number(),
+      priceLabel: z.string().optional(), 
       checkout: z.string().optional(),
       checkout2: z.string().optional(),
       description: z.string(),
@@ -83,45 +85,6 @@ const team = defineCollection({
           linkedin: z.string().optional(),
           email: z.string().optional(),
         })
-        .optional(),
-    }),
-});
-
-const store = defineCollection({
-  schema: ({ image }) =>
-    z.object({
-      price: z.string(),
-      title: z.string(),
-      checkout: z.string().optional(),
-      checkout2: z.string().optional(),
-      license: z.string().optional(),
-      highlights: z.array(z.string()).default([]),
-      specifications: z
-        .array(
-          z.object({
-            name: z.string(),
-            value: z.string(),
-          })
-        )
-        .optional(),
-      description: z.string(),
-      image: z.object({
-        url: image(),
-        alt: z.string(),
-      }),
-      images: z.array(
-        z.object({
-          url: image(),
-          alt: z.string(),
-        })
-      ).optional(),
-      faq: z
-        .array(
-          z.object({
-            question: z.string(),
-            answer: z.string(),
-          })
-        )
         .optional(),
     }),
 });
@@ -240,7 +203,6 @@ const pagine = defineCollection({
 
 export const collections = {
   team,
-  store,
   gallery,
   infopages,
   posts: postsCollection,
