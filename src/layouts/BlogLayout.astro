@@ -1,20 +1,23 @@
 ---
-import { AstroSeo } from "@astrolib/seo";
 import Wrapper from "@/components/fundations/containers/Wrapper.astro";
 import BaseLayout from "@/layouts/BlogPostLayout.astro";
 import Text from "@/components/fundations/elements/Text.astro";
-const { frontmatter } = Astro.props;
-import { getEntry } from "astro:content";
-const team = await getEntry("team", frontmatter.team);
 import { getCollection } from "astro:content";
+
+const { frontmatter } = Astro.props;
+
 const allPosts = await getCollection("posts");
+
 const relatedPosts = allPosts
-  .filter(post => post.slug !== frontmatter.slug)
+  .filter((post) => post.slug !== frontmatter.slug)
   .sort((a, b) => new Date(b.data.pubDate) - new Date(a.data.pubDate))
   .slice(0, 3);
-const slug = Astro.url.pathname.split('/').filter(Boolean).pop();
+
+const slug = Astro.url.pathname.split("/").filter(Boolean).pop();
+
 const canonical = `https://www.eliocarchidi.com/${slug}/`;
-const getPostUrl = (post) => `/${post.slug}`;
+
+const getPostUrl = (post) => `/${post.slug}/`;
 ---
 
 

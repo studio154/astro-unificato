@@ -9,6 +9,11 @@
       "source": "/wp-content/uploads/:path*",
       "destination": "http://164.90.190.41/wp-content/uploads/:path*",
       "permanent": false
+    },
+    {
+      "source": "/blog/posts/:slug*",
+      "destination": "/:slug*",
+      "permanent": true
     }
   ]
 }
