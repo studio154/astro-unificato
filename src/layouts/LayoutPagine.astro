@@ -5,6 +5,9 @@ import Favicons from '@/components/fundations/head/Favicons.astro';
 import Footer from "@/components/global/Footer.astro";
 import NavigationHamburger from "@/components/global/NavigazioneHamburgerStandard.astro";
 import "@/styles/global.css";
+import NewsletterForm from "../components/cta/NewsletterSendFox.astro";
+
+const { frontmatter } = Astro.props;
 
 // 1. Logica Immagine (R2)
 // Se il campo 'image' non c'è nel frontmatter, finalImageUrl sarà null e non vedrai box vuoti.
@@ -27,9 +30,9 @@ if (image) {
     <div class="bg-white"><NavigationHamburger /></div>
 
     <main class="grow">
-  <article class="max-w-4xl mx-auto px-6 py-20 bg-white-100 border-1">
+  <article class="max-w-4xl mx-auto px-6 py-20 bg-white">
     <header class="text-center mb-16">
-      <h1 class="titolo-testata-fisso">{title}</h1>
+      <h1 class="hidden">{title}</h1>
       
       {finalImageUrl && (
         <div class="mt-12 rounded-2xl overflow-hidden shadow-xl aspect-video bg-slate-100">
@@ -41,6 +44,9 @@ if (image) {
     <div class="prose prose-lg md:prose-xl prose-slate mx-auto max-w-3xl">
   <slot />
 </div>
+
+
+{frontmatter?.showNewsletter && <NewsletterForm />}
   </article>
 </main>
 

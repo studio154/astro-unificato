@@ -1,16 +1,16 @@
 ---
 // Assets
-import LogoFooter from "@/components/assets/LogoIndex.astro";
 // Fundations
 import Text from "@/components/fundations/elements/Text.astro";
 import Wrapper from "@/components/fundations/containers/Wrapper.astro";
+import SocialLinks from "@/components/fundations/icons/SocialLinks.astro";
 ---
 
 <footer>
   <Wrapper variant="standard" class="pb-8 pt-20 lg:pt-20">
     <div class="mt-8 space-y-4 w-full">
       <Text
-        tag="p"
+        tag="h1"
         variant="textXL"
         class="max-w-xl mx-auto font-light font-serif uppercase text-center leading-6 text-base-900"
       >
@@ -21,7 +21,7 @@ import Wrapper from "@/components/fundations/containers/Wrapper.astro";
       <Text
         tag="p"
         variant="textBase"
-        class="max-w-xl mx-auto font-serif uppercase text-balance text-center leading-tight text-base-900"
+        class="max-w-xl mx-auto !font-serif uppercase text-balance text-center leading-tight text-base-900"
       >
         <span>Lo studio fotografico riceve</span><br />
         esclusivamente su appuntamento
@@ -34,7 +34,7 @@ import Wrapper from "@/components/fundations/containers/Wrapper.astro";
           </a>
         </Text>
 
-        <Text tag="p" variant="textM" class="mt-2 text-base font-medium">
+        <Text tag="p" variant="textM" class="site-title mt-2 text-base font-medium">
           <a href="/" title="sito ufficiale home">
             ELIO LEONARDO CARCHIDI
           </a>
@@ -46,11 +46,13 @@ import Wrapper from "@/components/fundations/containers/Wrapper.astro";
           </a>
         </Text>
       </div>
-
+      <!-- SOCIAL -->
+      <SocialLinks />
       <!-- COPYRIGHT -->
       <p class="mt-10 text-xs md:text-sm text-base-900/60 italic tracking-wide text-center">
         © Elio Carchidi — Tutti i diritti riservati. Uso non autorizzato vietato.
       </p>
+      
 
     </div>
   </Wrapper>
