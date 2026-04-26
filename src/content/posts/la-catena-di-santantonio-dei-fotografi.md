@@ -2,7 +2,7 @@
 title: "La Catena di Sant'Antonio dei Fotografi"
 team: "elio-carchidi"
 pubDate: 2016-02-18
-description: "[caption id=\"attachment_6176\" align=\"aligncenter\" width=\"650\"] La Catena di Sant'Antonio dei Fotografi[/caption] Stabilito che voglio diventare un fot..."
+description: "Stabilito che voglio diventare un fot..."
 image:
   url: "https://media.eliocarchidi.com/uploads/2016/02/fotografo-professionista-articoli-suggerimenti-300.jpg"
   alt: "La Catena di Sant'Antonio dei Fotografi"

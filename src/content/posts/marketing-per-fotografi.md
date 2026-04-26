@@ -2,7 +2,7 @@
 title: "Marketing per fotografi: sei più cacciatore o agricoltore?"
 team: "elio-carchidi"
 pubDate: 2017-10-24
-description: "[caption id=\"attachment_12806\" align=\"aligncenter\" width=\"800\"] Marketing per fotografi: coltivare la propria crescita è la soluzione![/caption] [toc..."
+description: "[toc..."
 image:
   url: "https://media.eliocarchidi.com/uploads/2017/10/marketing-per-fotografi-agricoltore-cacciatore-600.jpg"
   alt: "Marketing per fotografi: sei più cacciatore o agricoltore?"

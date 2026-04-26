@@ -2,7 +2,7 @@
 title: "Il mio incontro da fotografo con il fantastico mondo di Canon"
 team: "elio-carchidi"
 pubDate: 2017-09-19
-description: "Intervista sulla fotografia firmata Canon [caption id=\"attachment_11979\" align=\"alignnone\" width=\"584\"] Intervista sulla Fotografia Canon Magazine[/ca..."
+description: "Intervista sulla fotografia firmata Canon"
 image:
   url: "https://media.eliocarchidi.com/uploads/2017/09/canon-magazine-interviste-fotografi.jpg"
   alt: "Il mio incontro da fotografo con il fantastico mondo di Canon"

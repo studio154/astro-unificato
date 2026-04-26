@@ -2,7 +2,7 @@
 title: "Realizzazione di Siti Web Per Fotografi ad Alte Prestazioni"
 team: "elio-carchidi"
 pubDate: 2012-05-25
-description: "Esistono un'infinità di siti web per fotografi ma pochi, veramente pochi, riescono ad ottenere prestazioni eccezionali [caption id=\"attachment_12511\"..."
+description: "Esistono un'infinità di siti web per fotografi ma pochi, veramente pochi, riescono ad ottenere prestazioni eccezionali"
 image:
   url: "https://media.eliocarchidi.com/uploads/2017/10/strategie-di-promozione-per-fotografi.jpg"
   alt: "Realizzazione di Siti Web Per Fotografi ad Alte Prestazioni"

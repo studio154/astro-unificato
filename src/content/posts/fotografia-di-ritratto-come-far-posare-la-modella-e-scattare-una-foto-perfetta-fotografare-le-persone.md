@@ -2,7 +2,7 @@
 title: "Fotografia di Ritratto, come far posare la modella e scattare una foto perfetta | Fotografare le persone"
 team: "elio-carchidi"
 pubDate: 2012-10-23
-description: "Far posare la modella e ottenere fotografie perfette [caption id=\"attachment_1681\" align=\"alignright\" width=\"250\"] Il Ritratto. La Gioconda (Monna Li..."
+description: "Far posare la modella e ottenere fotografie perfette"
 image:
   url: "https://media.eliocarchidi.com/uploads/2012/10/Fotografia-di-Ritratto-come-far-posare-la-modella-e-scattare-una-foto-perfetta-_-Fotografare-le-persone-1.png"
   alt: "Fotografia di Ritratto, come far posare la modella e scattare una foto perfetta | Fotografare le persone"

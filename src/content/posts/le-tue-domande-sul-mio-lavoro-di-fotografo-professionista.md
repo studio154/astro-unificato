@@ -2,7 +2,7 @@
 title: "Domanda: Come si diventa Fotografo Professionista?"
 team: "elio-carchidi"
 pubDate: 2012-06-18
-description: "[caption id=\"attachment_3585\" align=\"alignnone\" width=\"493\"] Piegarsi un pò sulle ginocchia per inquadrare sotto gli occhi[/caption] Poni la tua doma..."
+description: "Poni la tua doma..."
 image:
   url: "http:https://media.eliocarchidi.com/uploads/2011/05/eliocarchidi_mac_photoshop.jpg"
   alt: "Domanda: Come si diventa Fotografo Professionista?"

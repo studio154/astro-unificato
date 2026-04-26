@@ -2,7 +2,7 @@
 title: "La Fotografia in Bianco e Nero"
 team: "elio-carchidi"
 pubDate: 2012-01-07
-description: "[caption id=\"attachment_383\" align=\"alignright\" width=\"228\"] Copertina Progresso Fotografico di Elio Carchidi[/caption] Copertina e Intervista ad Eli..."
+description: "Copertina e Intervista ad Eli..."
 image:
   url: "http:https://media.eliocarchidi.com/uploads/2012/01/Ritratti_Fotografie_Biagio_Izzo_01.jpg"
   alt: "La Fotografia in Bianco e Nero"

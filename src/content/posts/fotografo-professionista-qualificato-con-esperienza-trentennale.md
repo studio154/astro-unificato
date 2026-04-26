@@ -2,7 +2,7 @@
 title: "Fotografo Professionista Qualificato con Esperienza Trentennale"
 team: "elio-carchidi"
 pubDate: 2012-09-23
-description: "[caption id=\"attachment_3233\" align=\"aligncenter\" width=\"450\"] Sono un fotografo professionista qualificato! Embè?[/caption] Da oltre 30 anni faccio..."
+description: "Da oltre 30 anni faccio..."
 image:
   url: "http:https://media.eliocarchidi.com/uploads/2013/10/elio-leonardo-carchidi.jpg"
   alt: "Fotografo Professionista Qualificato con Esperienza Trentennale"

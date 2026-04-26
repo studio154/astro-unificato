@@ -1,7 +1,7 @@
 ---
 title: "Foto Artistiche Classiche in Bianco e Nero e Colori. Foto Fine-Art."
 pubDate: 2017-08-18
-description: "Foto Artistiche Classiche Bianco e Nero Anni '80/'90 Fotografie realizzate con tecnica analogica manuale, pellicola B/N lavorata a mano, stampa manuale su cart"
+description: "Foto Artistiche Classiche Bianco e Nero Anni'80/'90 Fotografie realizzate con tecnica analogica manuale, pellicola B/N lavorata a mano, stampa manuale su cart"
 image: ""
 ---
 

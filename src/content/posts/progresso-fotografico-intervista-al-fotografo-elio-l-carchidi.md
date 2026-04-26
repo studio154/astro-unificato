@@ -2,7 +2,7 @@
 title: "Intervista fotografo di moda su Progresso Fotografico"
 team: "elio-carchidi"
 pubDate: 2012-05-28
-description: "Intervista fotografo di moda per Progresso Fotografico \"SERIE ORO\": Elio Leonardo Carchidi [caption id=\"attachment_3719\" align=\"aligncenter\" width=\"50..."
+description: "Intervista fotografo di moda per Progresso Fotografico \"SERIE ORO\": Elio Leonardo Carchidi"
 image:
   url: "https://media.eliocarchidi.com/uploads/2017/09/progresso-fotografico-copertina-elio-carchidi.jpg"
   alt: "Intervista fotografo di moda su Progresso Fotografico"

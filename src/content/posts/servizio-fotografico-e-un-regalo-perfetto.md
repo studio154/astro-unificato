@@ -2,7 +2,7 @@
 title: "Un servizio fotografico è un regalo perfetto! Da fare o ricevere."
 team: "elio-carchidi"
 pubDate: 2018-12-21
-description: "[caption id=\"attachment_13595\" align=\"aligncenter\" width=\"1000\"] Perché regalare fotografie è un regalo perfetto? Perché è per tutti, dura nel tempo e..."
+description: ""
 image:
   url: "https://media.eliocarchidi.com/uploads/2018/10/le-fotografie-sono-il-regalo-perfetto-600.jpg"
   alt: "Un servizio fotografico è un regalo perfetto! Da fare o ricevere."

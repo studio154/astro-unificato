@@ -2,7 +2,7 @@
 title: "Lo Studio Fotografico su misura"
 team: "elio-carchidi"
 pubDate: 2017-09-17
-description: "[toc] [caption id=\"attachment_1231\" align=\"aligncenter\" width=\"860\"] Il mio studio fotografico 'STUDIO154', una sala di posa completamente attrezzata...."
+description: ""
 image:
   url: "https://media.eliocarchidi.com/uploads/2017/09/studiofotograficolimbobianco-300.jpg"
   alt: "Lo Studio Fotografico su misura"

@@ -2,7 +2,7 @@
 title: "Quanto vale una fotografia? Quale è Il vero valore delle fotografie?"
 team: "elio-carchidi"
 pubDate: 2025-01-11
-description: "[caption id=\"attachment_12909\" align=\"aligncenter\" width=\"800\"] Ci rendiamo veramente conto di quanto vale una fotografia oppure siamo sempre di più c..."
+description: ""
 image:
   url: "https://media.eliocarchidi.com/uploads/2018/02/quanto-vale-una-fotografia-600x600.jpg"
   alt: "Quanto vale una fotografia? Quale è Il vero valore delle fotografie?"

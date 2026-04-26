@@ -2,7 +2,7 @@
 title: "Cerco Fotografo, Fotografo Cercasi"
 team: "elio-carchidi"
 pubDate: 2011-06-02
-description: "[caption id=\"attachment_2263\" align=\"alignnone\" width=\"500\"] Fotografi e Fotografia sul web[/caption] Ho avuto modo di riscontrare che uno dei termin..."
+description: "Ho avuto modo di riscontrare che uno dei termin..."
 image:
   url: "http:https://media.eliocarchidi.com/uploads/2011/06/fotografia-motori-di-ricerca.jpg"
   alt: "Cerco Fotografo, Fotografo Cercasi"

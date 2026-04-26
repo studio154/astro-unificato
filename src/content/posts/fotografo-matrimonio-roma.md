@@ -2,7 +2,7 @@
 title: "Fotografo Matrimonio Roma: come trovare i migliori fotografi!"
 team: "elio-carchidi"
 pubDate: 2016-07-23
-description: "[caption id=\"attachment_6640\" align=\"aligncenter\" width=\"650\"] \"Fotografo Matrimonio Roma\" un annuncio da prendere sempre con le pinze...[/caption] \"F..."
+description: "\"F..."
 image:
   url: "https://media.eliocarchidi.com/uploads/2016/07/servizio-fotografico-matrimonio-stile-documentario-300.jpg"
   alt: "Fotografo Matrimonio Roma: come trovare i migliori fotografi!"

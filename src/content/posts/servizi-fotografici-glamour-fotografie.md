@@ -2,7 +2,7 @@
 title: "Servizi Fotografici Glamour e Fotografie Erotiche e di Bellezza"
 team: "elio-carchidi"
 pubDate: 2017-09-30
-description: "Servizi Fotografici Glamour Professionali Ambientati [caption id=\"attachment_12244\" align=\"aligncenter\" width=\"800\"] Liliane, una delle foto realizzat..."
+description: "Servizi Fotografici Glamour Professionali Ambientati"
 image:
   url: "https://media.eliocarchidi.com/uploads/2022/02/prezz-servizi-fotografici-professionali-banner-s2-1.png"
   alt: "Servizi Fotografici Glamour e Fotografie Erotiche e di Bellezza"

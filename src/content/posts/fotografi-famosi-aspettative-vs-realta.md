@@ -2,7 +2,7 @@
 title: "Fotografi Famosi: Aspettative vs Realtà."
 team: "elio-carchidi"
 pubDate: 2018-09-12
-description: "[caption id=\"attachment_13534\" align=\"aligncenter\" width=\"1000\"] Non basta certo un fotografo famoso per farti toccare il cielo con un dito ma... a vo..."
+description: ""
 image:
   url: "https://media.eliocarchidi.com/uploads/2018/09/fotografi-famosi-aspettative-vs-realta-600.jpg"
   alt: "Fotografi Famosi: Aspettative vs Realtà."

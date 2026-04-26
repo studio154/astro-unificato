@@ -2,7 +2,7 @@
 title: "Strategie di Promozione per Fotografi: Promuovere un sito da fotografo."
 team: "elio-carchidi"
 pubDate: 2012-05-25
-description: "Esistono delle specifiche Strategie di Promozione per fotografi: ecco cosa serve veramente per ottenere risultati veramente strabilianti! [caption id=..."
+description: "Esistono delle specifiche Strategie di Promozione per fotografi: ecco cosa serve veramente per ottenere risultati veramente strabilianti!"
 image:
   url: "https://media.eliocarchidi.com/uploads/2017/10/strategie-di-promozione-per-fotografi.jpg"
   alt: "Strategie di Promozione per Fotografi: Promuovere un sito da fotografo."

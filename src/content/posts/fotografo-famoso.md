@@ -2,7 +2,7 @@
 title: "Fotografo famoso e Fotografi famosi. Come diventarlo?"
 team: "elio-carchidi"
 pubDate: 2013-05-29
-description: "[caption id=\"attachment_2543\" align=\"aligncenter\" width=\"500\"] Sono un fotografo famoso ma nessuno lo sa![/caption] Quando mi chiedono di nominare un..."
+description: "Quando mi chiedono di nominare un..."
 image:
   url: "https://media.eliocarchidi.com/uploads/2013/10/fotografo-famoso-Annie_Leibovitz-300.jpg"
   alt: "Fotografo famoso e Fotografi famosi. Come diventarlo?"

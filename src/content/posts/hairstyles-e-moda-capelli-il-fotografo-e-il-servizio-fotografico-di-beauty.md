@@ -2,14 +2,17 @@
 title: "Hairstyles e Moda Capelli: Il Fotografo e il Servizio Fotografico di Beauty"
 team: "elio-carchidi"
 pubDate: 2012-09-27
-description: "[caption id=\"attachment_1589\" align=\"alignnone\" width=\"550\"] Immagine di Beauty di Elio L. Carchidi - Affissione in esterno[/caption] È passato qualch..."
+description: "È passato qualch..."
 image:
   url: "https://media.eliocarchidi.com/uploads/2012/09/Hairstyles-e-Moda-Capelli_-Il-Fotografo-e-il-Servizio-Fotografico-di-Beauty-1.png"
   alt: "Hairstyles e Moda Capelli: Il Fotografo e il Servizio Fotografico di Beauty"
 tags: ["Servizi fotografici e fotografie di beauty e moda capelli","fotografi beauty","fotografia beauty","fotografie bellezza","fotografie moda capelli","fotografo beauty","fotografo moda capelli","hairstyles"]
 ---
 
-[caption id="attachment_1589" align="alignnone" width="550"]<img class="size-full wp-image-1589 " title="Affissione_Cartellone_Pubblicitario_Foto_Elio_Carchidi" src="https://media.eliocarchidi.com/uploads/2012/09/Affissione_Cartellone_Pubblicitario_Foto_Elio_Carchidi1.jpg" alt="Immagine di Beauty di Elio L. Carchidi - Affissione in esterno" width="550" height="315"/> Immagine di Beauty di Elio L. Carchidi - Affissione in esterno[/caption]
+<figure class="wp-caption">
+  <img src="https://media.eliocarchidi.com/uploads/2012/09/Affissione_Cartellone_Pubblicitario_Foto_Elio_Carchidi1.jpg" alt="Immagine di Beauty di Elio L. Carchidi - Affissione in esterno" />
+  <figcaption>Immagine di Beauty di Elio L. Carchidi - Affissione in esterno</figcaption>
+</figure>
 
 È passato qualche anno da quando ho incominciato a fare <strong>Fotografia di Beauty</strong> o, come saggiamente qualcuno la chiama in lingua italiana, <strong>Fotografia di Bellezza e per la Cosmesi</strong>.
 

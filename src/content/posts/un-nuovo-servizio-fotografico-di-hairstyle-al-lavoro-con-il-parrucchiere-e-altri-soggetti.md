@@ -2,7 +2,7 @@
 title: "Un nuovo Servizio Fotografico di Hairstyle: al lavoro con il parrucchiere e... altri soggetti"
 team: "elio-carchidi"
 pubDate: 2013-03-15
-description: "[caption id=\"attachment_2331\" align=\"alignleft\" width=\"250\"] La raccolta di Fotografie per l' Hairstyles[/caption] Servizio fotografico di hairstyle..."
+description: "Servizio fotografico di hairstyle..."
 image:
   url: "https://media.eliocarchidi.com/uploads/2013/10/Fotografie_Moda_Capelli_Vanessa-300.jpg"
   alt: "Un nuovo Servizio Fotografico di Hairstyle: al lavoro con il parrucchiere e... altri soggetti"

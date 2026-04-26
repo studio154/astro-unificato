@@ -2,7 +2,7 @@
 title: "Canon: intervista il Fotografo"
 team: "elio-carchidi"
 pubDate: 2011-09-24
-description: "Una bella intervista al Fotografo Elio Carchidi per il MagazineVirtuale di Canon (Canon Imaging Store) firmata Mosè Franchi. [caption id=\"attachment_..."
+description: "Una bella intervista al Fotografo Elio Carchidi per il MagazineVirtuale di Canon (Canon Imaging Store) firmata Mosè Franchi."
 image:
   url: "https://media.eliocarchidi.com/uploads/2011/09/intervista-elio-carchidi-Canon.jpg"
   alt: "Canon: intervista il Fotografo"

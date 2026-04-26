@@ -2,7 +2,7 @@
 title: "Claudia Koll: Ritratto classico inedito (senza photoshop)"
 team: "elio-carchidi"
 pubDate: 2012-01-08
-description: "[caption id=\"attachment_425\" align=\"aligncenter\" width=\"588\" caption=\"Claudia Koll, Ritratto inedito\"][/caption] Questa immagine rappresenta per me u..."
+description: "Questa immagine rappresenta per me u..."
 image:
   url: "http:https://media.eliocarchidi.com/uploads/2011/09/Fotografia_Ritratto_Claudia_Koll1.jpg"
   alt: "Claudia Koll: Ritratto classico inedito (senza photoshop)"

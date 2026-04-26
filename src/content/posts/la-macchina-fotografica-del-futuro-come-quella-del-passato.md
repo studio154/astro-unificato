@@ -2,7 +2,7 @@
 title: "La macchina fotografica del futuro come la macchina fotografica del passato"
 team: "elio-carchidi"
 pubDate: 2013-11-19
-description: "[caption id=\"attachment_3333\" align=\"aligncenter\" width=\"500\"] La macchina fotografica del passato: Nikon FM2[/caption] Quella che vedi è una delle m..."
+description: "Quella che vedi è una delle m..."
 image:
   url: "http:https://media.eliocarchidi.com/uploads/2014/01/la-fotografia-e-morta.jpg"
   alt: "La macchina fotografica del futuro come la macchina fotografica del passato"

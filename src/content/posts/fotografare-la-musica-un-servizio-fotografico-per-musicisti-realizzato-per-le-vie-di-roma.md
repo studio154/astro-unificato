@@ -2,7 +2,7 @@
 title: "Fotografare la musica:  un servizio fotografico per musicisti realizzato per le vie di Roma"
 team: "elio-carchidi"
 pubDate: 2013-12-13
-description: "[caption id=\"attachment_3429\" align=\"aligncenter\" width=\"550\"] Musical Band Kvatro: Roma, zona Campo de'Fiori[/caption] Se ho scelto di fare questo l..."
+description: "Se ho scelto di fare questo l..."
 image:
   url: "https://media.eliocarchidi.com/uploads/2013/12/Musical-Band-Kvatro-300.jpg"
   alt: "Fotografare la musica:  un servizio fotografico per musicisti realizzato per le vie di Roma"

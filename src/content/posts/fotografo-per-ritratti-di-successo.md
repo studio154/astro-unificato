@@ -2,7 +2,7 @@
 title: "Fotografo per Ritratti di Successo. Curriculum, Profili e Conoscenze su Tinder."
 team: "elio-carchidi"
 pubDate: 2018-08-13
-description: "[caption id=\"attachment_13436\" align=\"aligncenter\" width=\"1000\"] Tinder è la piattaforma online per trovare amicizie e amori. Scegliere il giusto foto..."
+description: ""
 image:
   url: "https://media.eliocarchidi.com/uploads/2018/04/Il-Segreto-delSuccesso-su-Tinder-600.jpg"
   alt: "Fotografo per Ritratti di Successo. Curriculum, Profili e Conoscenze su Tinder."

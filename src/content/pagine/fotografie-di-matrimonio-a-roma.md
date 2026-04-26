@@ -1,7 +1,7 @@
 ---
 title: "Fotografie di Matrimonio"
 pubDate: 2017-02-27
-description: "Fotografie da un Matrimonio (Roma anni '90) Ho realizzato in tutto 3 o 4 matrimoni nei miei 40 anni passati a fotografare, tutti per amici o conoscenti ai quali"
+description: "Fotografie da un Matrimonio (Roma anni'90) Ho realizzato in tutto 3 o 4 matrimoni nei miei 40 anni passati a fotografare, tutti per amici o conoscenti ai quali"
 image: ""
 ---
 

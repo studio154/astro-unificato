@@ -2,7 +2,7 @@
 title: "Come fare belle foto di cani bellissimi. Un servizio fotografico dedicato agli animali più amati."
 team: "elio-carchidi"
 pubDate: 2017-05-28
-description: "Belle foto di cani bellissimi. Una storia fotografica di meticci, tutta da raccontare. [caption id=\"attachment_11544\" align=\"aligncenter\" width=\"800\"]..."
+description: "Belle foto di cani bellissimi. Una storia fotografica di meticci, tutta da raccontare."
 image:
   url: "https://media.eliocarchidi.com/uploads/2017/05/foto-cani-bellissimi-meticci-13.jpg"
   alt: "Come fare belle foto di cani bellissimi. Un servizio fotografico dedicato agli animali più amati."

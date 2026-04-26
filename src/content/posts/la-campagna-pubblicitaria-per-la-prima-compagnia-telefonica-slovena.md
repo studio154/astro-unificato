@@ -2,7 +2,7 @@
 title: "Una campagna pubblicitaria per la (prima) compagnia telefonica slovena"
 team: "elio-carchidi"
 pubDate: 2012-06-07
-description: "[caption id=\"attachment_813\" align=\"alignnone\" width=\"600\"] Campagna Pubblicitaria Simobil[/caption] Un paio di mesi fà due Agenzie Pubblicitarie (Vbg..."
+description: "Un paio di mesi fà due Agenzie Pubblicitarie (Vbg..."
 image:
   url: "http:https://media.eliocarchidi.com/uploads/2012/06/Simobil_Top_Talk_2012_Pierluigi-Collina_Fotografo_Elio_Carchidi_07.jpg"
   alt: "Una campagna pubblicitaria per la (prima) compagnia telefonica slovena"

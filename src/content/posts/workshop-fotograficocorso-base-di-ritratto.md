@@ -2,7 +2,7 @@
 title: "Corso di Ritratto, Workshop Fotografico a Roma"
 team: "elio-carchidi"
 pubDate: 2013-02-22
-description: "[caption id=\"attachment_2276\" align=\"alignnone\" width=\"550\"] Corso di Fotografia a Roma nello studio fotografico studio154[/caption]Organizzare un Co..."
+description: "Organizzare un Co..."
 image:
   url: "http:https://media.eliocarchidi.com/uploads/2011/06/corso-fotografia-roma.jpg"
   alt: "Corso di Ritratto, Workshop Fotografico a Roma"

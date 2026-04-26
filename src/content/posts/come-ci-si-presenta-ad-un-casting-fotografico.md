@@ -2,7 +2,7 @@
 title: "Come ci si presenta ad un casting fotografico?"
 team: "elio-carchidi"
 pubDate: 2013-11-22
-description: "Da molto tempo ormai partecipo ai \"casting fotografici\" in qualità di \"fotomodello\", sono un'esperto del settore! [caption id=\"attachment_3375\" align..."
+description: "Da molto tempo ormai partecipo ai \"casting fotografici\" in qualità di \"fotomodello\", sono un'esperto del settore!"
 image:
   url: "http:https://media.eliocarchidi.com/uploads/2013/11/casting-fotografico-studio154.jpg"
   alt: "Come ci si presenta ad un casting fotografico?"

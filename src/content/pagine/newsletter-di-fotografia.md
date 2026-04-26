@@ -5,9 +5,9 @@ description: "Non perderti gli aggiornamenti di questo sito, potresti perderti q
 image: ""
 ---
 
-Non perderti gli aggiornamenti di questo sito, potresti perderti qualcosa di molto interessante.
+#### Non perderti gli aggiornamenti di questo sito, potresti perdere qualcosa di molto interessante.
 
-La registrazione è GRATUITA!
+##### La registrazione è GRATUITA!
 
 ---
 
@@ -17,21 +17,19 @@ Le mie fotografie, il mio blog, il mio studio fotografico.
 
 ---
 
-#### **
-Le mie Foto
+#### Le mie Foto
 
 Fotografie, Ritratti fotografici, Galleria fotografica, Servizi Fotografici.
 
-[Gallerie Fotografiche](https://www.eliocarchidi.com/le-migliori-gallerie-fotografiche/)
+[Gallerie Fotografiche](https://www.eliocarchidi.com/portfolio/)
 
-#### **
-Il mio Blog
+#### Il mio Blog
 
 Articoli sulla fotografia.
 
 Suggerimenti, tutorial, novità dal set fotografico e molto altro ancora.
 
-[Blog di Fotografia](https://www.eliocarchidi.com/blog-fotografico-elio-leonardo-carchidi/)
+[Blog di Fotografia](https://www.eliocarchidi.com/blog/)
 
 #### **
 Studio Fotografico
@@ -40,4 +38,4 @@ Lo studio fotografico Limbo nel centro di Roma.
 
 Studio attrezzato, privato e riservato.
 
-[studio fotografico](https://www.eliocarchidi.com/lo-studio-fotografico-su-misura/)
+[studio fotografico](https://www.eliocarchidi.com/atelier/)

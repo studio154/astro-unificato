@@ -2,7 +2,7 @@
 title: "Stage di fotografia in Italia per stranieri: giovani fotografi crescono"
 team: "elio-carchidi"
 pubDate: 2012-12-17
-description: "[caption id=\"attachment_2230\" align=\"aligncenter\" width=\"576\"] Istituto di Formazione Professionale Fotografica di Madrid[/caption] Il termine \"Stage\"..."
+description: "Il termine \"Stage\"..."
 image:
   url: "http:https://media.eliocarchidi.com/uploads/2012/12/elio-luca-david-studio154.jpg"
   alt: "Stage di fotografia in Italia per stranieri: giovani fotografi crescono"

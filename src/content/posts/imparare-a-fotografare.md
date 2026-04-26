@@ -2,7 +2,7 @@
 title: "Imparare a Fotografare? Un gioco da bambini!"
 team: "elio-carchidi"
 pubDate: 2013-08-07
-description: "[caption id=\"attachment_2860\" align=\"aligncenter\" width=\"550\"] Imparare a fotografare, un gioco da bambini[/caption] Fare belle fotografie è diventato..."
+description: "Fare belle fotografie è diventato..."
 image:
   url: "https://media.eliocarchidi.com/uploads/2013/08/Imparare-a-Fotografare_-Un-gioco-da-bambini-1.png"
   alt: "Imparare a Fotografare? Un gioco da bambini!"

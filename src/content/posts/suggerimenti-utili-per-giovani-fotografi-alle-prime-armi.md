@@ -2,7 +2,7 @@
 title: "Suggerimenti utili per giovani fotografi alle prime armi"
 team: "elio-carchidi"
 pubDate: 2012-10-12
-description: "[caption id=\"attachment_1850\" align=\"alignright\" width=\"332\"] Giovani Fotografi crescono...[/caption] Sono sempre stato convinto che i suggerimenti e..."
+description: "Sono sempre stato convinto che i suggerimenti e..."
 image:
   url: "http:https://media.eliocarchidi.com/uploads/2012/11/macho4.jpeg"
   alt: "Suggerimenti utili per giovani fotografi alle prime armi"

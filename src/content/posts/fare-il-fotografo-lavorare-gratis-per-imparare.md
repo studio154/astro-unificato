@@ -2,7 +2,7 @@
 title: "Fare il Fotografo: lavorare gratis per imparare?"
 team: "elio-carchidi"
 pubDate: 2015-07-23
-description: "[caption id=\"attachment_12445\" align=\"aligncenter\" width=\"792\"] Fare il fotografo significa lavorare gratis?[/caption] Fare il fotografo è il sogno di..."
+description: "Fare il fotografo è il sogno di..."
 image:
   url: "https://media.eliocarchidi.com/uploads/2015/07/Cercasi-Fotografo-Schiavo-300.jpg"
   alt: "Fare il Fotografo: lavorare gratis per imparare?"
