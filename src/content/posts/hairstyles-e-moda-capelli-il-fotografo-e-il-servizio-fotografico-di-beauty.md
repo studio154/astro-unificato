@@ -48,7 +48,10 @@ Ovviamente con il tempo le cose sono cambiate e, giorno dopo giorno, ho affinato
 
 Ho incominciato ad utilizzare l'Illuminazione Artificiale da Studio, Flash e Luce Continua al Tungsteno, e il Set Fotografico non era più casa mia ma un vero e proprio Studio Fotografico Professionale.
 
-[caption id="attachment_1592" align="alignnone" width="550"]<img class="size-full wp-image-1592 " title="Servizio_Fotografico_Moda_Capelli_Hairstyles_022" src="https://media.eliocarchidi.com/uploads/2012/09/Servizio_Fotografico_Moda_Capelli_Hairstyles_022.jpg" alt="Servizio Fotografico Moda Capelli e Hairstyles" width="550" height="222"/> Elio L. Carchidi - Servizio Fotografico Moda Capelli e Hairstyles[/caption]
+<figure class="wp-caption">
+  <img src="https://media.eliocarchidi.com/uploads/2012/09/Servizio_Fotografico_Moda_Capelli_Hairstyles_022.jpg" alt="Servizio Fotografico Moda Capelli e Hairstyles" width="550" height="222" />
+  <figcaption>Elio L. Carchidi - Servizio Fotografico Moda Capelli e Hairstyles</figcaption>
+</figure>
 
 Non che avessi speso milioni di lire per acquistare le Attrezzature o Allestire uno Studio Fotografico ma, vivendo a Roma, avevo il privilegio di poter Noleggiare sia la Sala di Posa che l'Attrezzatura Fotografica.
 
@@ -68,7 +71,10 @@ Tieni conto che, di solito, il committente di questo genere di immagini fotograf
 
 Le Fotografie vanno utilizzate per Affissioni Esterne, quindi devono poter essere ingrandite a formati molto spinti senza perderne in qualità. Oppure vengono utilizzate per realizzare i Cartelli Vetrina esposti a grande visibilità in tutti i Saloni di Parrucchieri e nelle Fiere.
 
-[caption id="attachment_1596" align="alignnone" width="550"]<img class="size-full wp-image-1596 " title="Affissione_Cartellone_Pubblicitario_Foto_Elio_Carchidi_05" src="https://media.eliocarchidi.com/uploads/2012/09/Affissione_Cartellone_Pubblicitario_Foto_Elio_Carchidi_05.jpg" alt="Affissione_Cartellone_Pubblicitario_Foto_Elio_Carchidi" width="550" height="315"/> Cartelloni Pubblicitari con Fotografie di Beauty realizzate da Elio L. Carchidi[/caption]
+<figure class="wp-caption">
+  <img src="https://media.eliocarchidi.com/uploads/2012/09/Affissione_Cartellone_Pubblicitario_Foto_Elio_Carchidi_05.jpg" alt="Affissione_Cartellone_Pubblicitario_Foto_Elio_Carchidi" width="550" height="315" />
+  <figcaption>Cartelloni Pubblicitari con Fotografie di Beauty realizzate da Elio L. Carchidi</figcaption>
+</figure>
 
 Molte delle Fotografie realizzate durante il Servizio Fotografico, inoltre, vengono pubblicate su prestigiose riviste del settore dell'Hairstyle e dell Moda Capelli e così via.
 
@@ -84,7 +90,10 @@ Affidarsi a Fotografi Esperti che conoscano perfettamente il genere Fotografico 
 
 Dai un'occhiata all'<strong>ultimo progetto (completo)</strong> che ho realizzato di recente per renderti meglio conto di quello di cui parlo.
 
-[caption id="attachment_1599" align="alignnone" width="400"]<img class="size-full wp-image-1599  " title="Hairstyles_Brochure_interno" src="https://media.eliocarchidi.com/uploads/2012/09/Hairstyles_Brochure_interno.png" alt="Brochure Hairstyles Moda Capelli Parrucchieri Aziende Cosmetiche" width="400" height="177"/> "Progetto di Lavoro" per un Servizio Fotografico di Beauty[/caption]
+<figure class="wp-caption">
+  <img src="https://media.eliocarchidi.com/uploads/2012/09/Hairstyles_Brochure_interno.png" alt="Brochure Hairstyles Moda Capelli Parrucchieri Aziende Cosmetiche" width="400" height="177" />
+  <figcaption>"Progetto di Lavoro" per un Servizio Fotografico di Beauty</figcaption>
+</figure>
 
 <em>Ti vuoi "cimentare" a realizzare il tuo primo scatto fotografico di beauty con i semplici ed economici strumenti che ho utilizzato io qualche anno fa?</em>
 

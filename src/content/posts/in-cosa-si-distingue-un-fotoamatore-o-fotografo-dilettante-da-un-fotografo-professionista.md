@@ -18,7 +18,10 @@ Insomma, come è normale che sia, ognuno dice la sua!
 
 Una delle discussioni che più mi affascinano è quella sulla "professionalità" del Fotografo.
  
-[caption id="attachment_1814" align="aligncenter" width="512"]<img title="Scimmia Fotografo" src="https://media.eliocarchidi.com/uploads/2012/11/Monkey-Snapper-Chickaboo-the-baby-gorilla-was-snapped-by-Daily-Mail-photographer-Lucy-Ray-in-Cameroon-and-will-be-displayed-at-the-exhibition-www.dailymail.co_.uk-.jpeg" alt="Fotografo professionista o dilettante?" width="512" height="298" /> Fotografo professionista o dilettante?[/caption]
+<figure class="wp-caption">
+  <img src="https://media.eliocarchidi.com/uploads/2012/11/Monkey-Snapper-Chickaboo-the-baby-gorilla-was-snapped-by-Daily-Mail-photographer-Lucy-Ray-in-Cameroon-and-will-be-displayed-at-the-exhibition-www.dailymail.co_.uk-.jpeg" alt="Fotografo professionista o dilettante?" width="512" height="298" />
+  <figcaption>Fotografo professionista o dilettante?</figcaption>
+</figure>
 
 Quando e perchè un fotografo si definisce "professionista"?
 Quando "fotoamatore" o "fotografo dilettante"?
@@ -50,7 +53,10 @@ Però...
 
 <strong>QUASI NESSUN FOTOGRAFO AMA ESSERE DEFINITO DILETTANTE</strong>
  
-[caption id="attachment_1817" align="aligncenter" width="423"]<img class="size-full wp-image-1817 " title="fotografovsfotografa" src="https://media.eliocarchidi.com/uploads/2012/11/article-new_ehow_images_a06_s3_43_nikon-d60-beginner-instructional-tips-1.1-800x800.jpeg" alt="fotografo vs fotografa" width="423" height="283" /> Dilettante? No, grazie![/caption]
+<figure class="wp-caption">
+  <img src="https://media.eliocarchidi.com/uploads/2012/11/article-new_ehow_images_a06_s3_43_nikon-d60-beginner-instructional-tips-1.1-800x800.jpeg" alt="fotografo vs fotografa" width="423" height="283" />
+  <figcaption>Dilettante? No, grazie!</figcaption>
+</figure>
 
 Non sò perchè ma la maggior parte degli appassionati di Fotografia non vogliono essere definiti "dilettanti".
 
@@ -97,7 +103,10 @@ Ha comprato di tutto, oltre a decine e decine di libri e riviste, ha il Bimby, l
 
 Eppure lei sà di essere una dilettante. Lo fa perchè le piace! Non le importa nulla di essere definita una Professionista.
  
-[caption id="attachment_1818" align="aligncenter" width="450"]<img class="size-full wp-image-1818 " title="mia moglie che cucina" src="https://media.eliocarchidi.com/uploads/2012/11/cooking.jpeg" alt="Cucinare per passione" width="450" height="350" /> Cuoca professionista o dilettante?[/caption]
+<figure class="wp-caption">
+  <img src="https://media.eliocarchidi.com/uploads/2012/11/cooking.jpeg" alt="Cucinare per passione" width="450" height="350" />
+  <figcaption>Cuoca professionista o dilettante?</figcaption>
+</figure>
 
 Un mio amico ha un figlio diciottenne che vive di motori.
 

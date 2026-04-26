@@ -51,7 +51,10 @@ Sono rimasto piacevolmente rapito dal loro entusiasmo.
 
 Ho guardato le foto che avevano scattato entrambi e ho notato che, anche se diverse, erano molto simili.
 
-[caption id="attachment_925" align="aligncenter" width="550"]<a href="https://media.eliocarchidi.com/uploads/2012/06/guida_fotografia_bambini.jpg"><img class=" wp-image-925 " title="guida_fotografia_bambini" src="https://media.eliocarchidi.com/uploads/2012/06/guida_fotografia_bambini.jpg" alt="manuale di fotografia per bambini" width="550"/></a> Ecco Alcune delle fotografie scattate da Valerio e da Giulio... molte cose potrebbero drasticamente migliorare![/caption]
+<figure class="wp-caption">
+  <a href="https://media.eliocarchidi.com/uploads/2012/06/guida_fotografia_bambini.jpg"><img src="https://media.eliocarchidi.com/uploads/2012/06/guida_fotografia_bambini.jpg" alt="manuale di fotografia per bambini" width="550" /></a>
+  <figcaption>Ecco Alcune delle fotografie scattate da Valerio e da Giulio... molte cose potrebbero drasticamente migliorare!</figcaption>
+</figure>
 
 La composizione, l'inquadratura e naturalmente la luce erano quasi identiche.
 

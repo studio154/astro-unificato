@@ -10,7 +10,10 @@ tags: []
 ---
 
 <div class="separatore"></div>
-[caption id="attachment_383" align="alignright" width="228"]<img class="size-medium wp-image-383" title="copertina_progresso_fotografico_elio_carchidi" src="https://media.eliocarchidi.com/uploads/2012/01/copertina_progresso_fotografico_elio_carchidi-228x300.png" alt="copertina_progresso_fotografico_elio_carchidi" width="228" height="300" /> Copertina Progresso Fotografico di Elio Carchidi[/caption]
+<figure class="wp-caption">
+  <img src="https://media.eliocarchidi.com/uploads/2012/01/copertina_progresso_fotografico_elio_carchidi-228x300.png" alt="copertina_progresso_fotografico_elio_carchidi" width="228" height="300" />
+  <figcaption>Copertina Progresso Fotografico di Elio Carchidi</figcaption>
+</figure>
 
 <span style="color: #333333;"><strong>Copertina e Intervista ad Elio Carchidi per Progresso Fotografico</strong></span>
 
@@ -23,7 +26,10 @@ Quando qualche anno fa ho iniziato ad interessarmi alla <strong>Fotografia</stro
 
 Tra queste non potevano mancare le più prestigiose e famose dell'epoca come <strong>"Fotografare"</strong> – storica rivista degli anni '70 – e <strong>"Reflex"</strong>. Ma quella che mi appariva (e forse lo era) come la più qualificata e appassionante era <strong>"Progresso Fotografico"</strong>. Trattava la <strong>Fotografia</strong> in maniera accessibile con interviste ai <strong>Fotografi</strong> e raccontando le esperienze concrete dei tanti professionisti che si succedevano. Un buon sistema, questo, per coinvolgere un pubblico di appassionati.
 
-[caption id="attachment_620" align="alignnone" width="500"]<img class=" wp-image-620  " title="intervista_fotografo_fotografia_bianco_nero" src="https://media.eliocarchidi.com/uploads/2012/01/intervista_fotografo_fotografia_bianco_nero02.jpg" alt="Canon intervista elio leonardo carchidi" width="500" height="300" /> Le pagine di Progresso Fotografico con l'intervista[/caption]
+<figure class="wp-caption">
+  <img src="https://media.eliocarchidi.com/uploads/2012/01/intervista_fotografo_fotografia_bianco_nero02.jpg" alt="Canon intervista elio leonardo carchidi" width="500" height="300" />
+  <figcaption>Le pagine di Progresso Fotografico con l'intervista</figcaption>
+</figure>
 
 Ancora oggi, quando torno nella mia casa natale, ritrovo gli scaffali pieni delle copie acquistate tanti anni fa. Tutte custodite con cura!
 
@@ -39,7 +45,10 @@ Una grande soddisfazione per me per aver ottenuto in un solo colpo due risultati
 
 Il consiglio che posso darti visto che stai leggendo queste righe è di correre in edicola per poter sfogliare la tua copia di questa <strong>unica e prestigiosa edizione</strong> e di scoprire attraverso la sua consultazione  quanto la <strong>Fotografia Tradizionale e l'Estetica del Bianco e Nero</strong> siano ancora più vive che mai in questo periodo nel quale la tecnologia la fa da padrona e il colore rappresenta l'unico "metodo" di lavoro possibile nell'era della <strong>Fotografia Digitale</strong>.
 
-[caption id="attachment_618" align="alignnone" width="480"]<img class="size-full wp-image-618" title="Ritratti_Fotografie_Biagio_Izzo_01" src="https://media.eliocarchidi.com/uploads/2012/01/Ritratti_Fotografie_Biagio_Izzo_01.jpg" alt="Ritratto bianco e nero di Biagio Izzo" width="480" height="480" /> Biagio Izzo fotografato da Elio Carchidi[/caption]
+<figure class="wp-caption">
+  <img src="https://media.eliocarchidi.com/uploads/2012/01/Ritratti_Fotografie_Biagio_Izzo_01.jpg" alt="Ritratto bianco e nero di Biagio Izzo" width="480" height="480" />
+  <figcaption>Biagio Izzo fotografato da Elio Carchidi</figcaption>
+</figure>
 
 <strong>Versione integrale: <a title="Intervista Fotografo Elio Carchidi" href="//www.eliocarchidi.com/progresso-fotografico-intervista-al-fotografo-elio-l-carchidi/">Leggi il testo completo dell'Intervista</a></strong>
 <strong>Versione integrale: </strong><a title="Intervista al Fotografo sulla Fotografia in Bianco e Nero" href="../intervista_fotografo_fotografia_bianco_nero.pdf"><strong>Scarica il pdf (4 pagine 2.7 mb)</strong></a>

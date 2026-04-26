@@ -11,7 +11,10 @@ tags: []
 
 <div class="separatore"></div>
 
-[caption id="attachment_3333" align="aligncenter" width="500"]<img style="box-shadow:none" src="https://media.eliocarchidi.com/uploads/2013/11/fotocamera-nikon-fm2.jpg" alt="La macchina fotografica del passato: Nikon FM2" width="500" height="389" class="size-full wp-image-3333"/> La macchina fotografica del passato: Nikon FM2[/caption]
+<figure class="wp-caption">
+  <img style="box-shadow:none" src="https://media.eliocarchidi.com/uploads/2013/11/fotocamera-nikon-fm2.jpg" alt="La macchina fotografica del passato: Nikon FM2" width="500" height="389" />
+  <figcaption>La macchina fotografica del passato: Nikon FM2</figcaption>
+</figure>
 
 Quella che vedi è una delle <strong>macchine fotografiche</strong> che ho di più amato, una <strong>fotocamera del PASSATO</strong> che conservo ancora con molta cura.
 
@@ -23,7 +26,10 @@ Con questa fotocamera ho realizzato centinaia, forse migliaia, di <strong>serviz
 
 Ovviamente ne parlo con grande nostalgia e con una punta di romanticismo ma fatto sta che non ricordo di averla mai portata a riparare e/o a revisionare se non per sostituire le batterie dell’esposimetro. Ha funzionato per <strong>oltre un ventennio</strong> e sono certo del fatto che anche oggi potrei tranquillamente metterla alla prova (se qualcuno di voi desidera fare un giro sono disponibile a cedergliela in prestito).
 
-[caption id="attachment_3332" align="aligncenter" width="500"]<img style="box-shadow:none" src="https://media.eliocarchidi.com/uploads/2013/11/Fotocamera-Nikon-Df.jpg" alt="La macchina fotografica del futuro: Nikon-DF" width="500" height="460" class="size-full wp-image-3332"/> La macchina fotografica del futuro: Nikon-DF[/caption]
+<figure class="wp-caption">
+  <img style="box-shadow:none" src="https://media.eliocarchidi.com/uploads/2013/11/Fotocamera-Nikon-Df.jpg" alt="La macchina fotografica del futuro: Nikon-DF" width="500" height="460" />
+  <figcaption>La macchina fotografica del futuro: Nikon-DF</figcaption>
+</figure>
 
 Dai un’occhiata a quest’altra <strong>macchina fotografica</strong> che vedi sopra.
 
@@ -72,7 +78,10 @@ e, <em>dulcis in fundo</em>, come se non bastasse, appena ho avuto la felice ide
 </ul>
 Ora, io sono un “<em>homo-tecnologicus</em>” e sono ben felice di assistere giorno dopo giorno ai passi in avanti che fa la scienza ma il dubbio mi rimane: è meglio oggi o era meglio quando si stava “peggio”?
 
-[caption id="attachment_3347" align="aligncenter" width="500"]<img src="https://media.eliocarchidi.com/uploads/2013/11/fotocamera-elio-carchidi.jpg" alt="Fotocamera fai da te!" width="500" height="353" class="size-full wp-image-3347"/> Fotocamera fai da te![/caption]
+<figure class="wp-caption">
+  <img src="https://media.eliocarchidi.com/uploads/2013/11/fotocamera-elio-carchidi.jpg" alt="Fotocamera fai da te!" width="500" height="353" />
+  <figcaption>Fotocamera fai da te!</figcaption>
+</figure>
 
 Siamo caduti tutti nella rete: <strong>da “produttori” ci siamo trasformati in “consumatori”</strong>.
 
@@ -85,7 +94,10 @@ Aspetto i vostri consigli e voglio ascoltare i vostri pareri magari, con il vost
 <h2>Diventare Fotografo professionista</h2>
 <em>Di questo e di altro sto ragionando nella <strong>stesura del mio volume (già annunciato da tempo e lì-lì da chiudere)</strong> e come vedi non è facile perchè appena ti sembra di avere esaurito gli argomenti ne spunta un altro pronto a stupirti.</em>
 
-[caption id="attachment_3302" align="aligncenter" width="550"]<img src="https://media.eliocarchidi.com/uploads/2013/11/diventare-fotografo-professionista-uscita.jpg" alt="Diventare Fotografo Professionista" width="550" height="326" class="size-full wp-image-3302"/> <em><strong>Diventare Fotografo professionista</strong>, in uscita entro la fine dell'anno[/caption]
+<figure class="wp-caption">
+  <img src="https://media.eliocarchidi.com/uploads/2013/11/diventare-fotografo-professionista-uscita.jpg" alt="Diventare Fotografo Professionista" width="550" height="326" />
+  <figcaption>Diventare Fotografo professionista, in uscita entro la fine dell'anno</figcaption>
+</figure>
 
 Se sei interessato a <strong>ricevere in anteprima una copia della mia guida…</strong> lascia la tua email e sarà mia cura tenerti aggiornato.
 <strong>La registrazione è gratuita</strong> e non comporta alcun impegno da parte tua!</em>

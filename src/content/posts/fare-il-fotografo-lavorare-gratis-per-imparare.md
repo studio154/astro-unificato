@@ -9,7 +9,10 @@ image:
 tags: ["Blog di Fotografia","Fotografi Professionisti","fare il fotografo","fotografo professionista"]
 ---
 
-[caption id="attachment_12445" align="aligncenter" width="792"]<img class="wp-image-12445 size-full" src="https://media.eliocarchidi.com/uploads/2015/07/Cercasi-Fotografo-Schiavo-800.jpg" alt="Fare il fotografo: lavorare gratis?" width="792" height="406" /> Fare il fotografo significa lavorare gratis?[/caption]
+<figure class="wp-caption">
+  <img src="https://media.eliocarchidi.com/uploads/2015/07/Cercasi-Fotografo-Schiavo-800.jpg" alt="Fare il fotografo: lavorare gratis?" width="792" height="406" />
+  <figcaption>Fare il fotografo significa lavorare gratis?</figcaption>
+</figure>
 <h2>Fare il fotografo è il sogno di molti ragazzi...</h2>
 Da qualche anno ricevo una buona quantità di curricula da parte di giovani ragazzi che vorrebbero <strong>fare il fotografo</strong>, dovrei averne accumulato più di 1000.
 

@@ -13,7 +13,10 @@ tags: []
 Elio Leonardo Carchidi</p>
 <hr />
 
-[caption id="attachment_3719" align="aligncenter" width="500"]<img src="https://media.eliocarchidi.com/uploads/2012/05/progresso-fotografico-copertina-elio-carchidi.jpg" alt="progresso fotografico copertina elio carchidi" width="500" height="657" class="size-full wp-image-3719 aligncenter" /> Foto di copertina di Elio L. Carchidi per la rivista Progresso Fotografico "ORO"[/caption]
+<figure class="wp-caption">
+  <img src="https://media.eliocarchidi.com/uploads/2012/05/progresso-fotografico-copertina-elio-carchidi.jpg" alt="progresso fotografico copertina elio carchidi" width="500" height="657" />
+  <figcaption>Foto di copertina di Elio L. Carchidi per la rivista Progresso Fotografico "ORO"</figcaption>
+</figure>
 <hr />
 <strong>Versione integrale: </strong><a title="Intervista al Fotografo sulla Fotografia in Bianco e Nero" href="//www.eliocarchidi.com/intervista-progresso-fotografico/"><strong>Scarica l'intervista al fotografo (pdf 4 pagine 2.7 mb)</strong></a>
 

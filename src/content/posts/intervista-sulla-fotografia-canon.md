@@ -11,7 +11,10 @@ tags: []
 
 Intervista sulla fotografia firmata Canon
 
-[caption id="attachment_11979" align="alignnone" width="584"]<img class="wp-image-11979 size-full" src="https://media.eliocarchidi.com/uploads/2017/09/canon-magazine-interviste-fotografi.jpg" alt="Intervista sulla fotografia firmata Canon" width="584" height="584" /> Intervista sulla Fotografia Canon Magazine[/caption]
+<figure class="wp-caption">
+  <img src="https://media.eliocarchidi.com/uploads/2017/09/canon-magazine-interviste-fotografi.jpg" alt="Intervista sulla fotografia firmata Canon" width="584" height="584" />
+  <figcaption>Intervista sulla Fotografia Canon Magazine</figcaption>
+</figure>
 
 Per il mio lavoro ho scelto di lavorare con <strong>Attrezzature Fotografiche Canon</strong> da non molto tempo (?), forse 15 anni o poco meno.
 

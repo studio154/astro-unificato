@@ -10,7 +10,10 @@ tags: ["corsi fotografia","corso di fotografia","scuola fotografia","workshop fo
 ---
 
 <div class="separatore"></div>
-[caption id="attachment_2276" align="alignnone" width="550"]<img class="size-full wp-image-2276 " title="corso-fotografia-roma" src="https://media.eliocarchidi.com/uploads/2011/06/corso-fotografia-roma.jpg" alt="Corsi Fotografia a Roma (Studio154)" width="550" height="284" /> Corso di Fotografia a Roma nello studio fotografico studio154[/caption]Organizzare un <strong>Corso di Fotografia</strong> o un <strong>Workshop di Fotografia</strong> non è una cosa semplice per come sono fatto io.
+<figure class="wp-caption">
+  <img src="https://media.eliocarchidi.com/uploads/2011/06/corso-fotografia-roma.jpg" alt="Corsi Fotografia a Roma (Studio154)" width="550" height="284" />
+  <figcaption>Corso di Fotografia a Roma nello studio fotografico studio154</figcaption>
+</figure>Organizzare un <strong>Corso di Fotografia</strong> o un <strong>Workshop di Fotografia</strong> non è una cosa semplice per come sono fatto io.
 
 Se poi l'obbiettivo a cui mira chi lo frequenta è quello di raggiungere risultati di apprendimento quantomeno discreti la cosa rischia di pesarmi ancor di più, mi responsabilizza maggiormente.
 

@@ -10,7 +10,10 @@ tags: []
 ---
 
 <div class="separatore"></div>
-[caption id="attachment_425" align="aligncenter" width="588" caption="Claudia Koll, Ritratto inedito"]<img class="size-full wp-image-425" title="Fotografia_Claudia_Koll_Inedita" src="https://media.eliocarchidi.com/uploads/2012/01/Fotografia_Claudia_Koll_Inedita1.jpg" alt="Ritratto_Claudia_Koll_Inedito" width="588" height="800" />[/caption]
+<figure class="wp-caption">
+  <img src="https://media.eliocarchidi.com/uploads/2012/01/Fotografia_Claudia_Koll_Inedita1.jpg" alt="Ritratto_Claudia_Koll_Inedito" width="588" height="800" />
+  <figcaption></figcaption>
+</figure>
 
 Questa immagine rappresenta per me uno dei regali più graditi che la <strong>Fotografia</strong> mi ha riservato.
 E credo sarebbe così per chiunque al posto mio.

@@ -11,7 +11,10 @@ tags: ["fotografia di ritratto","posa fotografica","posare in fotografia","ritra
 
 <div class="separatore"></div>
 <h2>Far posare la modella e ottenere fotografie perfette</h2>
-[caption id="attachment_1681" align="alignright" width="250"]<img class="size-full wp-image-1681" title="250px-Mona_Lisa,_by_Leonardo_da_Vinci,_from_C2RMF_retouched" src="https://media.eliocarchidi.com/uploads/2012/10/250px-Mona_Lisa_by_Leonardo_da_Vinci_from_C2RMF_retouched.jpg" alt="La Gioconda di Leonardo da Vinci - Il Ritratto" width="250" height="373"/> Il Ritratto. La Gioconda (Monna Lisa) di Leonardo Da vinci[/caption]
+<figure class="wp-caption">
+  <img src="https://media.eliocarchidi.com/uploads/2012/10/250px-Mona_Lisa_by_Leonardo_da_Vinci_from_C2RMF_retouched.jpg" alt="La Gioconda di Leonardo da Vinci - Il Ritratto" width="250" height="373" />
+  <figcaption>Il Ritratto. La Gioconda (Monna Lisa) di Leonardo Da vinci</figcaption>
+</figure>
 
 Da che mondo è mondo, ancor prima che la Fotografia potesse avere il sopravvento sulla pittura e sulle altre arti figurative, ritrarre la figura umana per qualunque Artista ha rappresentato, da sempre,  la forma più elevata della propria espressione artistica.
 
@@ -54,7 +57,10 @@ In quest'ultimo week-end ho deciso di dedicare a questo tema una buona parte del
 Con molta immodestia ho voluto buttare giù una sorta di "<strong><a title="Il Manuale della Fotografia di Ritratto" href="https://www.eliocarchidi.com/download-manuale-fotografia-di-ritratto-gratis/">Manuale della Fotografia di Ritratto</a></strong>".
  
 
-[caption id="attachment_1692" align="alignnone" width="560"]<a href="https://www.eliocarchidi.com/download-manuale-fotografia-di-ritratto-gratis/"><img class="size-full wp-image-1692 " title="come-realizzare-ritratti-fotografici" src="https://media.eliocarchidi.com/uploads/2012/10/come-realizzare-ritratti-fotografici.jpg" alt="Guida Realizzare Ritratti Fotografici" width="560" height="451"/></a> La Posa Fotografica nella Fotografia di Ritratto[/caption]
+<figure class="wp-caption">
+  <a href="https://www.eliocarchidi.com/download-manuale-fotografia-di-ritratto-gratis/"><img src="https://media.eliocarchidi.com/uploads/2012/10/come-realizzare-ritratti-fotografici.jpg" alt="Guida Realizzare Ritratti Fotografici" width="560" height="451" /></a>
+  <figcaption>La Posa Fotografica nella Fotografia di Ritratto</figcaption>
+</figure>
 
 In questa semplice Guida di Fotografia ho racchiuso qualche suggerimento che prende in considerazione alcune delle più frequenti difficoltà che il Fotografo si trova a dover affrontare (e superare) per realizzare un bel Ritratto rendendo felice il soggetto fotografato e gratificando il proprio orgoglio.
 

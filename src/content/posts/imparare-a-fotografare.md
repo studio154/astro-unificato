@@ -9,7 +9,10 @@ image:
 tags: ["bambini fotografi","fotografia per bambini","manuali fotografia"]
 ---
 
-[caption id="attachment_2860" align="aligncenter" width="550"]<img class="size-full wp-image-2860" title="bambino-fotografo-erba" src="https://media.eliocarchidi.com/uploads/2013/08/bambino-fotografo-erba.jpg" alt="Imparare a Fotografare" width="550" height="365"/> Imparare a fotografare, un gioco da bambini[/caption]
+<figure class="wp-caption">
+  <img src="https://media.eliocarchidi.com/uploads/2013/08/bambino-fotografo-erba.jpg" alt="Imparare a Fotografare" width="550" height="365" />
+  <figcaption>Imparare a fotografare, un gioco da bambini</figcaption>
+</figure>
 
 Fare belle fotografie è diventato davvero un gioco da bambini. Inquadri, scatti e voilà, il gioco è fatto.
 
@@ -37,7 +40,10 @@ I bambini si divertono un mondo e anche noi genitori siamo orgogliosi dei risult
 
 È l'istinto che li guida ed è il talento innato che li contraddistingue.
 
-[caption id="attachment_2863" align="aligncenter" width="550"]<img class="size-full wp-image-2863" title="bambino-con-macchina-fotografica" src="https://media.eliocarchidi.com/uploads/2013/08/bambino-con-macchina-fotografica.jpg" alt="Bambino con la macchina fotografica" width="550" height="373"/> Un bambino alle prese con la macchina fotografica[/caption]
+<figure class="wp-caption">
+  <img src="https://media.eliocarchidi.com/uploads/2013/08/bambino-con-macchina-fotografica.jpg" alt="Bambino con la macchina fotografica" width="550" height="373" />
+  <figcaption>Un bambino alle prese con la macchina fotografica</figcaption>
+</figure>
 
 Non più tardi di 2 o 3 anni fa (e solo per ragioni di "cuore") ho pubblicato un piccolo, semplice ma efficace "<a title="Guida fotografia bambini" href="//www.eliocarchidi.com/manuale-per-iniziare-a-fotografare/"><strong>Manuale della Fotografia per i Bambini</strong></a>".
 
@@ -49,15 +55,24 @@ Il risultato è stato che questa sorta di semplice <a title="Il Manuale della Fo
 
 Per me è stata davvero una gran bella soddisfazione perchè sentivo di aver fatto qualcosa di utile e divertente anche perchè non mi aspettavo tutto questo grande interesse.
 
-[caption id="attachment_2865" align="aligncenter" width="550"]<a href="http://www.viaggi24.ilsole24ore.com/Rubriche/Bambini/2012/10/foto.php"><img class="size-full wp-image-2865" title="sole24ore-viaggi24-fotografia-bambini-2" src="https://media.eliocarchidi.com/uploads/2013/08/sole24ore-viaggi24-fotografia-bambini-2.jpg" alt="Il sole 24ore, una rubrica dedicata ai bambini fotografi" width="550" height="472"/></a> Il sole 24ore, una rubrica dedicata ai bambini fotografi[/caption]
+<figure class="wp-caption">
+  <a href="http://www.viaggi24.ilsole24ore.com/Rubriche/Bambini/2012/10/foto.php"><img src="https://media.eliocarchidi.com/uploads/2013/08/sole24ore-viaggi24-fotografia-bambini-2.jpg" alt="Il sole 24ore, una rubrica dedicata ai bambini fotografi" width="550" height="472" /></a>
+  <figcaption>Il sole 24ore, una rubrica dedicata ai bambini fotografi</figcaption>
+</figure>
 
 A mia totale insaputa, inoltre, la prestigiosa testata de' <strong>"Il Sole 24ore"</strong> dedicava attenzione alla mia guida in una rubrica dedicata proprio ai bambini così come la <strong>"Ferrero"</strong> (la nota casa dolciaria che tutti conosciamo per la <strong>Nutella</strong>) mi chiedeva di poter utilizzare il mio <strong>manualetto di fotografia</strong> come strumento propedeutico all'allestimento di una <strong>mostra fotografica per piccoli fotografi</strong>.
 
-[caption id="attachment_2868" align="aligncenter" width="550"]<img class="size-full wp-image-2868" title="concorso-fotografico-ferrero-2" src="https://media.eliocarchidi.com/uploads/2013/08/concorso-fotografico-ferrero-2.jpg" alt="Concorso Fotografico Ferrero, i vincitori" width="550" height="451"/> I bambini vincitori del Concorso Fotografico organizzato dalla "Ferrero" con il "Manuale della Fotografia per i Bambini"[/caption]
+<figure class="wp-caption">
+  <img src="https://media.eliocarchidi.com/uploads/2013/08/concorso-fotografico-ferrero-2.jpg" alt="Concorso Fotografico Ferrero, i vincitori" width="550" height="451" />
+  <figcaption>I bambini vincitori del Concorso Fotografico organizzato dalla "Ferrero" con il "Manuale della Fotografia per i Bambini"</figcaption>
+</figure>
 
 I piccoli partecipanti, dunque, si sarebbero "formati" alla realizzazione delle loro opere prendendo spunto dalla mia guida.
 
-[caption id="attachment_2869" align="aligncenter" width="550"]<img class="size-full wp-image-2869" title="concorso-fotografico-ferrero" src="https://media.eliocarchidi.com/uploads/2013/08/2-2.jpg" alt="Fotografia realizzata dai bambini della ferrero" width="550" height="413"/> Una delle belle immagini realizzate dai bambini che hanno partecipato al concorso fotografico organizzato da Ferrero[/caption]
+<figure class="wp-caption">
+  <img src="https://media.eliocarchidi.com/uploads/2013/08/2-2.jpg" alt="Fotografia realizzata dai bambini della ferrero" width="550" height="413" />
+  <figcaption>Una delle belle immagini realizzate dai bambini che hanno partecipato al concorso fotografico organizzato da Ferrero</figcaption>
+</figure>
 
 Non lo dico per piaggeria, da anni pubblico le mie fotografie su testate di tutti i generi, riviste italiane e straniere, magazine, libri ma mai come in questa occasione ho provato la netta sensazione che quello a cui ho dedicato buona parte della mia vita, la fotografia, poteva essere utile ad altri al punto di farmi sentire pienamente soddisfatto.
 
@@ -82,7 +97,10 @@ Buone vacanze e buone fotografie a tutti!
 
 PS: A proposito se non lo avete ancora fatto sappiate che potete scaricare <strong><a title="Il Manuale della Fotografia per i bambini" href="//www.eliocarchidi.com/manuali-fotografia-ebook-fotografici/manuale-per-iniziare-a-fotografare/">ORA e GRATIS il "Manuale della Fotografia per i Bambini"</a></strong>cliccando sul link che trovate sotto o direttamente sull'immagine della copertina. Lo riceverete in tempo reale e potrete sin da subito mettervi alla prova, voi e i vostri bambini.
 
-[caption id="attachment_2874" align="aligncenter" width="500"]<a href="//www.eliocarchidi.com/manuali-fotografia-ebook-fotografici/manuale-per-iniziare-a-fotografare/"><img class="size-full wp-image-2874" style="border: none; box-shadow: none;" title="manuale_fotografia_bambini" src="https://media.eliocarchidi.com/uploads/2013/08/manuale_fotografia_bambini.jpg" alt="Il Manuale della Fotografia per i Bambini GRATIS" width="500" height="565"/></a> Il Manuale della Fotografia per i Bambini. SCARICALO GRATIS![/caption]
+<figure class="wp-caption">
+  <a href="//www.eliocarchidi.com/manuali-fotografia-ebook-fotografici/manuale-per-iniziare-a-fotografare/"><img src="https://media.eliocarchidi.com/uploads/2013/08/manuale_fotografia_bambini.jpg" alt="Il Manuale della Fotografia per i Bambini GRATIS" width="500" height="565" /></a>
+  <figcaption>Il Manuale della Fotografia per i Bambini. SCARICALO GRATIS!</figcaption>
+</figure>
 
 </div>
 <div class="separatore"></div>

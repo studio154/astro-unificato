@@ -9,7 +9,10 @@ image:
 tags: ["regalo fotografico","servizi fotografici"]
 ---
 
-[caption id="attachment_13595" align="aligncenter" width="1000"]<img class="wp-image-13595 size-full" src="https://media.eliocarchidi.com/uploads/2018/10/le-fotografie-sono-il-regalo-perfetto-or.jpg" alt="Regalare un servizio fotografico è un regalo perfetto!" width="1000" height="347" /> Perché regalare fotografie è un regalo perfetto? Perché è per tutti, dura nel tempo ed è anche utile![/caption]
+<figure class="wp-caption">
+  <img src="https://media.eliocarchidi.com/uploads/2018/10/le-fotografie-sono-il-regalo-perfetto-or.jpg" alt="Regalare un servizio fotografico è un regalo perfetto!" width="1000" height="347" />
+  <figcaption>Perché regalare fotografie è un regalo perfetto? Perché è per tutti, dura nel tempo ed è anche utile!</figcaption>
+</figure>
 
 [toc heading_levels="3,4" class="centra-toc"]
 <p class="intro">Se stai impazzendo perché non sai cosa regalare ad una tua amica, a tua figlia, a tua moglie o a chiunque desideri fare felice, questa è l'idea giusta per te: un servizio fotografico è un regalo perfetto!</p>

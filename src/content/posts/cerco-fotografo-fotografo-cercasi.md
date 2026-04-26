@@ -10,7 +10,10 @@ tags: ["Fotografi Professionisti","bravo fotografo","cerco fotografo","fotografi
 ---
 
 <div class="separatore"></div>
-[caption id="attachment_2263" align="alignnone" width="500"]<img class="wp-image-2263 " title="fotografia-motori-di-ricerca" src="https://media.eliocarchidi.com/uploads/2011/06/fotografia-motori-di-ricerca.jpg" alt="La Fotografia e i fotografi nei motori di ricerca" width="500" height="327" /> Fotografi e Fotografia sul web[/caption]
+<figure class="wp-caption">
+  <img src="https://media.eliocarchidi.com/uploads/2011/06/fotografia-motori-di-ricerca.jpg" alt="La Fotografia e i fotografi nei motori di ricerca" width="500" height="327" />
+  <figcaption>Fotografi e Fotografia sul web</figcaption>
+</figure>
 
 Ho avuto modo di riscontrare che uno dei termini – keywords – maggiormente utilizzati sul web (esattamente sui motori di ricerca) per "rintracciare" un Fotografo è "<strong>Cerco Fotografo</strong>" – primo in classifica – seguito dal termine "<strong>Fotografo Cercasi</strong>".
 

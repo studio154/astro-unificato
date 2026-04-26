@@ -9,7 +9,10 @@ image:
 tags: ["Fotografi Matrimonio Roma","fotografo matrimonio roma"]
 ---
 
-[caption id="attachment_6640" align="aligncenter" width="650"]<img src="https://media.eliocarchidi.com/uploads/2016/07/fotografo-matrimonio-roma.jpg" alt="Fotografo Matrimonio Roma" width="650" height="325" /> "Fotografo Matrimonio Roma" un annuncio da prendere sempre con le pinze...[/caption]
+<figure class="wp-caption">
+  <img src="https://media.eliocarchidi.com/uploads/2016/07/fotografo-matrimonio-roma.jpg" alt="Fotografo Matrimonio Roma" width="650" height="325" />
+  <figcaption>"Fotografo Matrimonio Roma" un annuncio da prendere sempre con le pinze...</figcaption>
+</figure>
 
 <strong>"Fotografo Matrimonio Roma"</strong> è la parola chiave che tira di più sul web ma alla quale bisogna prestare molta attenzione.
 
@@ -53,7 +56,10 @@ Prima di iniziare la tua ricerca sarà necessario che tu abbia le idee molto chi
 
 Te ne elenco alcuni di questi, quelli più comuni.
 <h5><strong>Servizio Fotografico Stile Documentario:</strong></h5>
-[caption id="attachment_6686" align="alignnone" width="650"]<img title="fotografi matrimonio roma stile documentario" src="https://media.eliocarchidi.com/uploads/2016/07/fotografi-matrimonio-roma-documentario.jpg" alt="fotografi matrimonio roma stile documentario" width="650" height="433" /> Servizio fotografico matrimonio stile documentario[/caption]
+<figure class="wp-caption">
+  <img src="https://media.eliocarchidi.com/uploads/2016/07/fotografi-matrimonio-roma-documentario.jpg" alt="fotografi matrimonio roma stile documentario" width="650" height="433" />
+  <figcaption>Servizio fotografico matrimonio stile documentario</figcaption>
+</figure>
 
 Se scegli questo stile vuol dire che alle foto in posa preferisci le <strong>fotografie istantanee e spontanee</strong>, tue, dei tuoi amici e dei tuoi familiari.
 
@@ -65,7 +71,10 @@ Attraverso le sue foto leggerai un bel racconto anche se non vedrai molti sguard
 
 Otterrai, in compenso, un vero e proprio <strong>reportage fotografico che racconterà una storia</strong>, quella del giorno del tuo matrimonio.
 <h5><strong>Servizio Fotografico Stile Ritratto:</strong></h5>
-[caption id="attachment_6691" align="alignnone" width="650"]<img src="https://media.eliocarchidi.com/uploads/2016/07/servizio-fotografico-matrimonio-stile-ritratto.jpg" alt="Servizio fotografico matrimonio stile ritratto" width="650" height="432" /> Servizio fotografico matrimonio stile ritratto[/caption]
+<figure class="wp-caption">
+  <img src="https://media.eliocarchidi.com/uploads/2016/07/servizio-fotografico-matrimonio-stile-ritratto.jpg" alt="Servizio fotografico matrimonio stile ritratto" width="650" height="432" />
+  <figcaption>Servizio fotografico matrimonio stile ritratto</figcaption>
+</figure>
 
 Se invece <strong>preferisci i ritratti classici</strong> (un pò vintage, tipo l' album di nozze dei tuoi genitori o addirittura di tua nonna), allora <strong>punta su un fotografo ritrattista</strong>, uno che fa fotografie tradizionali, classiche, semplici.
 
@@ -83,7 +92,10 @@ Potrete posare in chiesa, sulla spiaggia, con dietro lo sfondo del mare, oppure 
 
 Una buona idea potrebbe essere quella di allestire, in uno spazio apposito del locale, <strong>un vero e proprio set fotografico</strong> con luci artificiali e fondale, dove far posare i singoli invitati e gruppi di persone.
 <h5><strong>Servizio Fotografico Stile Fine-Art:</strong></h5>
-[caption id="attachment_6693" align="alignnone" width="650"]<img src="https://media.eliocarchidi.com/uploads/2016/07/servizio-fotografico-matrimonio-stile-fineart.jpg" alt="Servizio fotografico matrimonio stile fine-art" width="650" height="379" /> Servizio fotografico matrimonio stile fine-art[/caption]
+<figure class="wp-caption">
+  <img src="https://media.eliocarchidi.com/uploads/2016/07/servizio-fotografico-matrimonio-stile-fineart.jpg" alt="Servizio fotografico matrimonio stile fine-art" width="650" height="379" />
+  <figcaption>Servizio fotografico matrimonio stile fine-art</figcaption>
+</figure>
 
 Questo genere di fotografia è molto simile allo <strong>stile fotografico documentario</strong> di cui ho parlato sopra, cambia solo che al fotografo viene concessa <strong>maggiore licenza artistica</strong>.
 

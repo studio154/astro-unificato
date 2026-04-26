@@ -48,7 +48,10 @@ I pannelli devono essere bianchi su un lato e neri sull'altro (se non riesci a t
 
 Questi pannelli, tenuti insieme dallo scotch di carta, dovranno essere piegati a libro aperto. Esattamente come fossero 2 pagine di un libro aperto.
 
-[caption id="attachment_1638" align="alignnone" width="580"]<img class="size-full wp-image-1638 " title="V-Flat" src="https://media.eliocarchidi.com/uploads/2012/09/V-Flat.jpg" alt="Occorrenti per costruire un v-flat" width="580" height="378" /> Per costruire un V-Flat bastano 2 pannelli bianco/neri e dello scotch[/caption]
+<figure class="wp-caption">
+  <img src="https://media.eliocarchidi.com/uploads/2012/09/V-Flat.jpg" alt="Occorrenti per costruire un v-flat" width="580" height="378" />
+  <figcaption>Per costruire un V-Flat bastano 2 pannelli bianco/neri e dello scotch</figcaption>
+</figure>
 
 Le "pagine" aperte viste dall'alto formano appunto una "V". Da qui il termine di V-Flat.
 
@@ -72,13 +75,19 @@ Con il V-flat possiamo creare almeno 3 schemi di luce* diversi per realizzare le
 <h3>Sfondo Nero</h3>
 Una volta costruito il V-Flat, utilizzando il lato nero dei pannelli, basterà posizionare la modella molto vicina alla parte finale del "triangolo" verificando che le spalle di questa sporgano appena fuori da questo. La pelle della modella (più chiara dello sfondo) sarà ben illuminata mentre sullo sfondo si avrà un forte calo di luminosità che permetterà di ottenere uno sfondo scuro che farà "staccare" bene la modella.
 
-[caption id="attachment_1642" align="alignnone" width="580"]<img class="size-full wp-image-1642 " title="v-flat-nero" src="https://media.eliocarchidi.com/uploads/2012/09/v-flat-nero.jpg" alt="Illuminazione V-Flat con sfondo nero" width="580" height="254" /> Illuminazione V-Flat con sfondo nero[/caption]
+<figure class="wp-caption">
+  <img src="https://media.eliocarchidi.com/uploads/2012/09/v-flat-nero.jpg" alt="Illuminazione V-Flat con sfondo nero" width="580" height="254" />
+  <figcaption>Illuminazione V-Flat con sfondo nero</figcaption>
+</figure>
 
 Questa tecnica funziona molto bene anche per realizzare Ritratti in bianco e nero.
 <h3>Sfondo Bianco</h3>
 Girando invece il V-Flat, sempre posto dietro alla modella, dalla parte del lato bianco otterremo un'atmosfera più morbida (meno ombre) e uno sfondo più pulito.
 
-[caption id="attachment_1643" align="alignnone" width="580"]<img class="size-full wp-image-1643 " title="v-flat-bianco" src="https://media.eliocarchidi.com/uploads/2012/09/v-flat-bianco.jpg" alt="Illuminazione V-Flat con sfondo bianco" width="580" height="254" /> Illuminazione V-Flat con sfondo bianco[/caption]
+<figure class="wp-caption">
+  <img src="https://media.eliocarchidi.com/uploads/2012/09/v-flat-bianco.jpg" alt="Illuminazione V-Flat con sfondo bianco" width="580" height="254" />
+  <figcaption>Illuminazione V-Flat con sfondo bianco</figcaption>
+</figure>
 
 Questo effetto è veramente ideale per creare Immagini di Beauty healt-care, fresche e luminose.
 <h3>Retroilluminato</h3>
@@ -86,7 +95,10 @@ La terza opzione è quella di posizionare il V-Flat davanti alla modella che gua
 
 Retroilluminando in questo modo il soggetto, ponendolo cioè con le spalle alla finestra e/o al balcone, la luce che arriva da dietro sarà riflessa dai pannelli bianchi illuminando di riflesso la modella e dando morbidezza all'immagine.
 
-[caption id="attachment_1644" align="alignnone" width="580"]<img class="size-full wp-image-1644 " title="v-flat-controluce" src="https://media.eliocarchidi.com/uploads/2012/09/v-flat-controluce.jpg" alt="Illuminazione V-Flat retroilluminato con controluce" width="580" height="254" /> Illuminazione V-Flat retroilluminato con controluce[/caption]
+<figure class="wp-caption">
+  <img src="https://media.eliocarchidi.com/uploads/2012/09/v-flat-controluce.jpg" alt="Illuminazione V-Flat retroilluminato con controluce" width="580" height="254" />
+  <figcaption>Illuminazione V-Flat retroilluminato con controluce</figcaption>
+</figure>
 
 Se si sceglie di utilizzare questa tecnica bisognerà avere molto cura che lo sfondo dietro la modella (ciò che si vede dalla finestra) sia il più possibile uniforme e abbastanza lontano da non essere a fuoco. Bisognerà preoccuparsi inoltre di proteggere l'obiettivo con un buon paraluce per evitare infiltrazioni di luce esterna.
 

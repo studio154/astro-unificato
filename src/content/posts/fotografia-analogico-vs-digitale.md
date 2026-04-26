@@ -9,7 +9,10 @@ image:
 tags: ["fotografia analogica","fotografia artistica","fotografia digitale"]
 ---
 
-[caption id="attachment_13152" align="aligncenter" width="1000"]<img class="size-full wp-image-13152" src="https://media.eliocarchidi.com/uploads/2018/02/fotografia-analogico-vs-digitale-1000x376.jpg" alt="Fotografia: Analogico vs Digitale" width="1000" height="376" /> Fotografia: Analogico vs Digitale, una battaglia che infuoca gli animi dei fotografi![/caption]
+<figure class="wp-caption">
+  <img src="https://media.eliocarchidi.com/uploads/2018/02/fotografia-analogico-vs-digitale-1000x376.jpg" alt="Fotografia: Analogico vs Digitale" width="1000" height="376" />
+  <figcaption>Fotografia: Analogico vs Digitale, una battaglia che infuoca gli animi dei fotografi!</figcaption>
+</figure>
 
 [toc heading_levels="3,4" class="centra-toc"]
 <p class="intro">Fotografia: analogico vs digitale, foto artistiche contro foto commerciali; dagli anni '90 un quesito che sembra ancora non trovare risposta.</p>
@@ -35,7 +38,10 @@ Ecco da dove è nato lo spunto per affrontare di petto il dubbio amletico che in
 <hr />
 
 <h2 style="text-align: center;">Fotografia: analogico vs. digitale</h2>
-[caption id="attachment_13202" align="aligncenter" width="800"]<img class="size-full wp-image-13202" src="https://media.eliocarchidi.com/uploads/2018/02/fotografia-grana-contro-bit.jpg" alt="Grana contro Bit nella fotografia" width="800" height="301" /> È meglio una fotografia fatta di grana oppure di bit?[/caption]
+<figure class="wp-caption">
+  <img src="https://media.eliocarchidi.com/uploads/2018/02/fotografia-grana-contro-bit.jpg" alt="Grana contro Bit nella fotografia" width="800" height="301" />
+  <figcaption>È meglio una fotografia fatta di grana oppure di bit?</figcaption>
+</figure>
 
 <hr />
 
@@ -60,7 +66,10 @@ Mettendo da parte le mode e l'ego di molti fotografi che <strong>amano autoprocl
 
 Se lo scopo finale del fotografo è quello di riprodurre le infinite trame della natura e del paesaggio o dare vita a ritratti suggestivi, <strong>pieni di dettagli da stampare su carta</strong> allora non c'è gara!
 
-[caption id="attachment_13208" align="aligncenter" width="900"]<a href="https://it.wikipedia.org/wiki/Ansel_Adams" target="_blank" rel="noopener"><img class="size-full wp-image-13208" src="https://media.eliocarchidi.com/uploads/2018/02/lastra-negativa-bianco-e-nero-900.jpg" alt="lastra negativa bianco e nero" width="900" height="600" /></a> Un'immagine di Ansel Adams, realizzata con pellicola grande formato[/caption]
+<figure class="wp-caption">
+  <a href="https://it.wikipedia.org/wiki/Ansel_Adams" target="_blank" rel="noopener"><img src="https://media.eliocarchidi.com/uploads/2018/02/lastra-negativa-bianco-e-nero-900.jpg" alt="lastra negativa bianco e nero" width="900" height="600" /></a>
+  <figcaption>Un'immagine di Ansel Adams, realizzata con pellicola grande formato</figcaption>
+</figure>
 
 Certamente non basterà la foto digitalizzata che vediamo sopra per <strong>apprezzare la qualità della stampa analogica</strong>, ma questa immagine ci da un'idea di come <strong>la pellicola in bianco e nero</strong> può restituire un'infinità di passaggi tonali se utilizzata bene.
 

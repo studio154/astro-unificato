@@ -12,7 +12,10 @@ tags: []
 <p class="intro">Esistono delle specifiche Strategie di Promozione per fotografi: ecco cosa serve veramente per ottenere risultati veramente strabilianti!</p>
 
 
-[caption id="attachment_12512" align="aligncenter" width="1200"]<img class="wp-image-12512 size-full" title="Strategie di promozione per fotografi" src="https://media.eliocarchidi.com/uploads/2017/10/strategie-di-promozione-per-fotografi.jpg" alt="Strategie di promozione per fotografi" width="1200" height="801" /> Tecniche per mettere in pratica strategie di promozione per fotografi veramente efficaci[/caption]
+<figure class="wp-caption">
+  <img src="https://media.eliocarchidi.com/uploads/2017/10/strategie-di-promozione-per-fotografi.jpg" alt="Strategie di promozione per fotografi" width="1200" height="801" />
+  <figcaption>Tecniche per mettere in pratica strategie di promozione per fotografi veramente efficaci</figcaption>
+</figure>
 
 Avere delle Fotografie di Buona Qualità che ti rappresentino al meglio è molto importante.
 

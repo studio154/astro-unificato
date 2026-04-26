@@ -22,7 +22,10 @@ Se sei interessato a seguire in tempo reale tutti i miei nuovi progetti fotograf
 </ol>
 Una volta ottenuto l'accesso, potrai anche scaricarne una copia sulla tua scrivania e così guardarlo ogni volta che lo vorrai!
 
-[caption id="attachment_623" align="aligncenter" width="331"]<img class=" wp-image-623  " title="copertina_book_elio" src="https://media.eliocarchidi.com/uploads/2011/05/copertina_book_elio1.jpg" alt="Copertina del Book Fotografico di Elio Carchidi" width="331" height="427" /> La copertina del mio Libro Fotografico di Ritratto[/caption]
+<figure class="wp-caption">
+  <img src="https://media.eliocarchidi.com/uploads/2011/05/copertina_book_elio1.jpg" alt="Copertina del Book Fotografico di Elio Carchidi" width="331" height="427" />
+  <figcaption>La copertina del mio Libro Fotografico di Ritratto</figcaption>
+</figure>
 
 <strong>SE DESIDERI PUBBLICARE IL MIO BOOK FOTOGRAFICO SUL TUO SITO</strong> (puoi farlo liberamente):
 

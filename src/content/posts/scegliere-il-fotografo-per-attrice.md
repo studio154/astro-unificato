@@ -12,7 +12,10 @@ tags: ["attrice","fare l'attrice","fotografia di ritratto","primo piano","ritrat
 <blockquote style="border: none; box-shadow: none;">“Tutto il mondo è un palcoscenico, e gli uomini e le donne, tutti, non sono che attori. Hanno le loro uscite e le loro entrate; E un uomo nel suo atto interpreta diverse parti.”</blockquote>
 <div class="separatore"></div>
 
-[caption id="attachment_3612" align="aligncenter" width="550"]<a href="https://media.eliocarchidi.com/uploads/2014/04/fare-attrice-scegliere-fotografo.jpg"><img class="size-full wp-image-3612" src="https://media.eliocarchidi.com/uploads/2014/04/fare-attrice-scegliere-fotografo.jpg" alt="Fare l'attrice scegliere il fotografo" width="550" height="277" /></a> Fotografie di primo piano di attrici[/caption]
+<figure class="wp-caption">
+  <a href="https://media.eliocarchidi.com/uploads/2014/04/fare-attrice-scegliere-fotografo.jpg"><img src="https://media.eliocarchidi.com/uploads/2014/04/fare-attrice-scegliere-fotografo.jpg" alt="Fare l'attrice scegliere il fotografo" width="550" height="277" /></a>
+  <figcaption>Fotografie di primo piano di attrici</figcaption>
+</figure>
 <h2><span style="font-size: 24pt;">Come scegliere il Fotografo adatto per le mie foto di attrice?</span></h2>
 Un'attrice professionista non deve necessariamente possedere un <strong>portfolio fotografico</strong> (<strong>book fotografico</strong>) per presentarsi al regista o al direttore di casting.
 
@@ -26,7 +29,10 @@ Alla fotografia è sempre utile <strong>allegare un curriculum</strong> (anche s
 
 Nel <strong>curriculum di un'attrice</strong> devono essere descritte l'altezza, il peso, l'età, il colore dei capelli, il colore degli occhi e le esperienze lavorative (molto utili per sottolineare il talento e le capacità di recitazione).
 
-[caption id="attachment_3611" align="aligncenter" width="550"]<a href="https://media.eliocarchidi.com/uploads/2014/04/curriculum-attrice.jpg"><img class="size-full wp-image-3611" src="https://media.eliocarchidi.com/uploads/2014/04/curriculum-attrice.jpg" alt="Curriculum d'attrice" width="550" height="776" /></a> Un esempio di curriculum perfetto per un'attrice[/caption]
+<figure class="wp-caption">
+  <a href="https://media.eliocarchidi.com/uploads/2014/04/curriculum-attrice.jpg"><img src="https://media.eliocarchidi.com/uploads/2014/04/curriculum-attrice.jpg" alt="Curriculum d'attrice" width="550" height="776" /></a>
+  <figcaption>Un esempio di curriculum perfetto per un'attrice</figcaption>
+</figure>
 
 Le fotografie, il <strong>primo piano fotografico</strong>, rappresentano quindi uno strumento di lavoro essenziale per un'attrice. Un <strong>Servizio Fotografico Professionale</strong> di qualità che metta in evidenza le peculiarità più salienti dell'artista <strong>sta alla base del suo successo</strong>!
 

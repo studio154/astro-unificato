@@ -11,7 +11,10 @@ tags: ["fotografia beauty","fotografo beauty"]
 
 <div class="separatore"></div>
 
-[caption id="attachment_2331" align="alignleft" width="250"]<img class="size-full wp-image-2331 " title="Hairstyles_Acconciature_Fotolibro_250" src="https://media.eliocarchidi.com/uploads/2013/03/Hairstyles_Acconciature_Fotolibro_250.jpg" alt="Raccolta Fotografie hairstyles" width="250" height="319"/> La raccolta di Fotografie per l' Hairstyles[/caption]
+<figure class="wp-caption">
+  <img src="https://media.eliocarchidi.com/uploads/2013/03/Hairstyles_Acconciature_Fotolibro_250.jpg" alt="Raccolta Fotografie hairstyles" width="250" height="319" />
+  <figcaption>La raccolta di Fotografie per l' Hairstyles</figcaption>
+</figure>
 <h3>Servizio fotografico di hairstyle</h3>
 <strong>Fotografare i capelli</strong>, per me che sono (quasi) calvo, dovrebbe essere una tortura, una vera sofferenza un misto di frustrazione e cattivi sentimenti: ma non è così!
 Lo faccio da oltre vent'anni e ogni volta, superato il primo grande ostacolo della pigrizia, mi diverto da morire.
@@ -24,7 +27,10 @@ Quando si realizza un <strong>servizio fotografico</strong> per delle <strong>az
 
 Sulla modella si sperimentano, con attenzione maniacale, i vari effetti di <strong>make-up, le acconciature, i tagli, il colore</strong> e tutto fino a quando non appare essere perfettamente in ordine.
 
-[caption id="attachment_2342" align="aligncenter" width="550"]<img class="size-full wp-image-2342" title="Backstage_Shinehair_11" src="https://media.eliocarchidi.com/uploads/2013/03/Backstage_Shinehair_11-bis.jpg" alt="L'acconciatura dei capelli, trovare l'idea giusta" width="550" height="397"/> L'acconciatura dei capelli, trovare l'idea giusta[/caption]
+<figure class="wp-caption">
+  <img src="https://media.eliocarchidi.com/uploads/2013/03/Backstage_Shinehair_11-bis.jpg" alt="L'acconciatura dei capelli, trovare l'idea giusta" width="550" height="397" />
+  <figcaption>L'acconciatura dei capelli, trovare l'idea giusta</figcaption>
+</figure>
 
 Insomma, voglio dire che, il fotografo, in questo settore specialistico della fotografia, sembra essere davvero l'elemento meno importante e necessario per realizzare buone immagini fotografica di beauty.
 
@@ -42,7 +48,10 @@ Oserei dire che il lavoro che io amo e che ho scelto di fare può essere svolto 
 
 E pensare che per farlo mi pagano pure!
 
-[caption id="attachment_2348" align="aligncenter" width="550"]<img class="size-full wp-image-2348" title="Backstage_Shinehair_6" src="https://media.eliocarchidi.com/uploads/2013/03/Backstage_Shinehair_6.jpg" alt="Il Fotografo al "lavoro"" width="550" height="397"/> Il Fotografo di beauty al "lavoro"[/caption]
+<figure class="wp-caption">
+  <img src="https://media.eliocarchidi.com/uploads/2013/03/Backstage_Shinehair_6.jpg" alt="Il Fotografo al "lavoro"" width="550" height="397" />
+  <figcaption>Il Fotografo di beauty al "lavoro"</figcaption>
+</figure>
 
 Eppure qualche anno fa, quando ho iniziato a fare questo mestiere, non era proprio così. Dovevo lavorare (e spendere) molto di più rispetto a quello che faccio oggi.
 
@@ -54,7 +63,10 @@ Il fatto che io oggi mi diverta un mondo (alla faccia degli invidiosi) a fare qu
 
 Come ho già accennato per realizzare un <strong>Servizio Fotografico di beauty </strong>(o haisrtyles) si lavora in tanti. Vengono coinvolte molte persone, tutte specializzate nel proprio campo, oltre al fotografo.
 
-[caption id="attachment_2346" align="aligncenter" width="550"]<img class="size-full wp-image-2346" title="Backstage_Shinehair_8" src="https://media.eliocarchidi.com/uploads/2013/03/Backstage_Shinehair_81.jpg" alt="Truccatrice al lavoro sul set fotografico" width="550" height="397"/> La truccatrice al lavoro sul set fotografico[/caption]
+<figure class="wp-caption">
+  <img src="https://media.eliocarchidi.com/uploads/2013/03/Backstage_Shinehair_81.jpg" alt="Truccatrice al lavoro sul set fotografico" width="550" height="397" />
+  <figcaption>La truccatrice al lavoro sul set fotografico</figcaption>
+</figure>
 
 Facciamo un esempio per capirci: per realizzare un "semplice" servizio fotografico di beauty serviranno almeno un <strong>parrucchiere</strong>, un <strong>truccatore</strong>, un <strong>assistente fotografo</strong>, almeno 2 <strong>fotomodelle/i</strong> e anche un <strong>fotograf</strong>o.
 
@@ -62,7 +74,10 @@ Facciamo un esempio per capirci: per realizzare un "semplice" servizio fotografi
 
 Poi bisogna allestire il set, corredarlo con <strong>attrezzature fotografiche</strong> (costose) adatte allo scopo, impostare e montare le <strong>luci fotografiche e i flash</strong>, reperire e predisporre le<strong> macchine fotografiche</strong>con obiettivi idonei etc.
 
-[caption id="attachment_2344" align="aligncenter" width="550"]<img class="size-full wp-image-2344" title="Backstage_Shinehair_1" src="https://media.eliocarchidi.com/uploads/2013/03/Backstage_Shinehair_1.jpg" alt="Allestimento del set fotografico" width="550" height="397"/> Allestimento del set fotografico per il beauty[/caption]
+<figure class="wp-caption">
+  <img src="https://media.eliocarchidi.com/uploads/2013/03/Backstage_Shinehair_1.jpg" alt="Allestimento del set fotografico" width="550" height="397" />
+  <figcaption>Allestimento del set fotografico per il beauty</figcaption>
+</figure>
 
 Mettere in piedi tutto ciò richiede, ovviamente e come già detto, competenze specialistiche, tempo e denaro e quindi anche una buona dose di senso di responsabilità e di rispetto nei confronti del cliente.
 
@@ -96,7 +111,10 @@ La mia, come sempre del resto, vuole essere solamente una banale riflessione, ma
 L'ultima volta che mi sono divertito a fare il Fotografo è stata qualche settimana fa.
 Come posso esimermi dal ringraziare coloro i quali, pur se retribuiti, hanno lavorato per me mentre io mi rilassavo?
 
-[caption id="attachment_2351" align="aligncenter" width="550"]<img class="size-full wp-image-2351" title="Backstage_Shinehair_7" src="https://media.eliocarchidi.com/uploads/2013/03/Backstage_Shinehair_71.jpg" alt="La ricerca della giusta posa fotografica" width="550" height="397"/> La ricerca della giusta posa fotografica[/caption]
+<figure class="wp-caption">
+  <img src="https://media.eliocarchidi.com/uploads/2013/03/Backstage_Shinehair_71.jpg" alt="La ricerca della giusta posa fotografica" width="550" height="397" />
+  <figcaption>La ricerca della giusta posa fotografica</figcaption>
+</figure>
 
 Grazie quindi ai due fantastici hairstylists <strong>Massimiliano Pinton e Stefano Cavallo</strong> e ai loro rispettivi collaboratori che si sono occupati di curare le acconciature e i tagli, a Miriam Forgetta che ha truccato impeccabilmente le nostre 3 bellissime fotomodelle – si fa per dire – <strong>Vanessa, Hella e Giordana</strong> rendendole ancora più belle e grazie a <strong>Luca</strong> che è praticamente quello che fa tutto al posto mio. Mentre io riposo!
 
@@ -108,7 +126,10 @@ Qui sotto vi lascio un link dove potete (se lo vorrete) dare un'occhiata a quest
 
 <strong>Guarda le immagini fotografiche realizzate durante questo Servizio:</strong>
 
-[caption id="attachment_2331" align="alignleft" width="250"]<img class="size-full wp-image-2331 " title="Hairstyles_Acconciature_Fotolibro_250" src="https://media.eliocarchidi.com/uploads/2013/03/Hairstyles_Acconciature_Fotolibro_250.jpg" alt="Raccolta Fotografie hairstyles" width="250" height="319"/> La raccolta di Fotografie per l' Hairstyles[/caption]
+<figure class="wp-caption">
+  <img src="https://media.eliocarchidi.com/uploads/2013/03/Hairstyles_Acconciature_Fotolibro_250.jpg" alt="Raccolta Fotografie hairstyles" width="250" height="319" />
+  <figcaption>La raccolta di Fotografie per l' Hairstyles</figcaption>
+</figure>
 
 <strong></strong><strong>←</strong> Clicca qui per <a title="Raccolta fotografica di Hairstyles" href="//www.eliocarchidi.com/servizio-fotografico-hairstyles-moda-capelli/"> SCARICARE LA RACCOLTA FOTOGRAFICA</a>
 

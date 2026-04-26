@@ -14,7 +14,10 @@ In uscita il 10 agosto 2013!</h3>
 <p style="text-align: center;">A cura di Elio L. Carchidi.</p>
 
 
-[caption id="attachment_2743" align="aligncenter" width="550"]<img class="size-full wp-image-2743" title="diventare-fotografo-professionista" src="https://media.eliocarchidi.com/uploads/2013/07/diventare-fotografo-professionista.jpg" alt="diventare fotografo professionista guida fotografica" width="550" height="568"/> La guida del fotografo per avviare un'attività fotografica che funziona veramente.[/caption]
+<figure class="wp-caption">
+  <img src="https://media.eliocarchidi.com/uploads/2013/07/diventare-fotografo-professionista.jpg" alt="diventare fotografo professionista guida fotografica" width="550" height="568" />
+  <figcaption>La guida del fotografo per avviare un'attività fotografica che funziona veramente.</figcaption>
+</figure>
 
 <strong><a href="#iscrizione-newsletter" title="iscriviti alla newsletter">Iscriviti ora alla mia newsletter</a></strong> per ricevere <strong>GRATIS la tua copia</strong>. Un regalo esclusivo riservato solo agli utenti iscritti alla lista <strong>entro il 15 agosto 2013</strong>. Successivamente a questa data la guida sarà reperibile <strong>in vendita al prezzo di 4,95 euro</strong>.
 <div class="separatore"></div>

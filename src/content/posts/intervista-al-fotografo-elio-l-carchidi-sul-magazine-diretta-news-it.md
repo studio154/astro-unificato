@@ -19,7 +19,10 @@ Ho accettato con piacere di concedere questa intervista sia perché Simone si è
 
 <hr />
 
-[caption id="attachment_316" align="aligncenter" width="600"]<img class="size-full wp-image-316" src="https://media.eliocarchidi.com/uploads/2011/10/intervista_fotografo_elio_carchidi.jpg" alt="intervista_fotografo_elio_carchidi" width="600" height="534" /> Intervista al Elio leonardo Carchidi su Direttanews.it[/caption]
+<figure class="wp-caption">
+  <img src="https://media.eliocarchidi.com/uploads/2011/10/intervista_fotografo_elio_carchidi.jpg" alt="intervista_fotografo_elio_carchidi" width="600" height="534" />
+  <figcaption>Intervista al Elio leonardo Carchidi su Direttanews.it</figcaption>
+</figure>
 
 <hr />
 

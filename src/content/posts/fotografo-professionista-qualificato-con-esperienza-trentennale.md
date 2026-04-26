@@ -11,7 +11,10 @@ tags: []
 
 <div class="separatore"></div>
 
-[caption id="attachment_3233" align="aligncenter" width="450"]<img class="size-full wp-image-3233" src="https://media.eliocarchidi.com/uploads/2013/10/elio-leonardo-carchidi.jpg" alt="Elio l. Carchidi fotografo professionista qualificato" width="450" height="450" /> Sono un fotografo professionista qualificato! Embè?[/caption]
+<figure class="wp-caption">
+  <img src="https://media.eliocarchidi.com/uploads/2013/10/elio-leonardo-carchidi.jpg" alt="Elio l. Carchidi fotografo professionista qualificato" width="450" height="450" />
+  <figcaption>Sono un fotografo professionista qualificato! Embè?</figcaption>
+</figure>
 
 Da oltre 30 anni faccio il <strong>Fotografo</strong>.
 

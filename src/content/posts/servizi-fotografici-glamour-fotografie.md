@@ -12,7 +12,10 @@ tags: []
 <p class="intro">Servizi Fotografici Glamour Professionali Ambientati</p>
 
 
-[caption id="attachment_12244" align="aligncenter" width="800"]<img class="wp-image-12244 size-full" title="fotografie-glamour-liliane" src="https://media.eliocarchidi.com/uploads/2012/09/Servizi-Fotografici-Nudo-Glamour.jpg" alt="Servizi Fotografici Glamour Nudo" width="800" height="800"/> Liliane, una delle foto realizzate insieme[/caption]
+<figure class="wp-caption">
+  <img src="https://media.eliocarchidi.com/uploads/2012/09/Servizi-Fotografici-Nudo-Glamour.jpg" alt="Servizi Fotografici Glamour Nudo" width="800" height="800" />
+  <figcaption>Liliane, una delle foto realizzate insieme</figcaption>
+</figure>
 
 Qualche anno fa uno dei generi fotografici più in auge e anche più ambiti dai Fotografi era quello della Fotografia di Glamour, i Servizi Fotografici Glamour.
 
@@ -38,7 +41,10 @@ Lo dico con grande sincerità! Non è raro per me ricevere richieste di questo g
 
 Non per presunzione ma al contrario perchè intuisco sin dal primo approccio con la modella che potrei non essere in grado di creare il feeling necessario che viene richiesto in queste circostanze. Correrei solo il rischio di rimanere deluso dai risultati e di creare in me e nella persona mi si è affidata un profondo senso di frustrazione.
 
-[caption id="attachment_1374" align="aligncenter" width="541"]<a title="Scarica l'Ebook di Fotografie Erotiche" href="https://www.eliocarchidi.com/manuali-fotografia-ebook-fotografici/le-fotografie-glamour-di-liliane/"><img class="wp-image-1374 size-full" title="fotografia-nudo-artistico-liliane" src="https://media.eliocarchidi.com/uploads/2012/09/fotografia-nudo-artistico-liliane.jpg" alt="Servizio Fotografico Nudo – Liliane sotto la doccia" width="541" height="584"/></a> Servizio Fotografico Nudo – Liliane sotto la doccia[/caption]
+<figure class="wp-caption">
+  <a href="https://www.eliocarchidi.com/manuali-fotografia-ebook-fotografici/le-fotografie-glamour-di-liliane/"><img src="https://media.eliocarchidi.com/uploads/2012/09/fotografia-nudo-artistico-liliane.jpg" alt="Servizio Fotografico Nudo – Liliane sotto la doccia" width="541" height="584" /></a>
+  <figcaption>Servizio Fotografico Nudo – Liliane sotto la doccia</figcaption>
+</figure>
 
 Liliane mi ha chiesto di realizzare queste immagini per lei con la massima spontaneità e genuinità. Con una dolcezza e una sicurezza di sè davvero incommensurabili. Sapeva già di poter ottenere delle fotografie irresistibili. Piccolo particolare, non di poco conto: Liliane NON è una modella professionista!
 

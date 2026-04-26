@@ -10,7 +10,10 @@ tags: ["foto di animali","foto di cani","pets photography","ritratti di cani"]
 ---
 
 <h2>Belle foto di cani bellissimi. Una storia fotografica di meticci, tutta da raccontare.</h2>
-[caption id="attachment_11544" align="aligncenter" width="800"]<img class="size-full wp-image-11544" src="https://media.eliocarchidi.com/uploads/2017/05/foto-cani-bellissimi-meticci-13.jpg" alt="Una (a caso) delle foto di cani bellissimi" width="800" height="800" /> TEDDY-LOVE: Una (a caso) delle foto di cani bellissimi fotografati per Valeria[/caption]
+<figure class="wp-caption">
+  <img src="https://media.eliocarchidi.com/uploads/2017/05/foto-cani-bellissimi-meticci-13.jpg" alt="Una (a caso) delle foto di cani bellissimi" width="800" height="800" />
+  <figcaption>TEDDY-LOVE: Una (a caso) delle foto di cani bellissimi fotografati per Valeria</figcaption>
+</figure>
 <h3>Un servizio fotografico dedicato ai cani.
 La storia:</h3>
 <div class="separatore"></div>

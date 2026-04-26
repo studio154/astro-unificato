@@ -10,7 +10,10 @@ tags: []
 ---
 
 <div class="separatore"></div>
-[caption id="attachment_3585" align="alignnone" width="493"]<img src="https://media.eliocarchidi.com/uploads/2014/02/fotografo-ritratto.jpg" alt="Il fotografo di ritratto" width="493" height="398" class="size-full wp-image-3585" /> Piegarsi un pò sulle ginocchia per inquadrare sotto gli occhi[/caption]
+<figure class="wp-caption">
+  <img src="https://media.eliocarchidi.com/uploads/2014/02/fotografo-ritratto.jpg" alt="Il fotografo di ritratto" width="493" height="398" />
+  <figcaption>Piegarsi un pò sulle ginocchia per inquadrare sotto gli occhi</figcaption>
+</figure>
 Poni la tua domanda e condividila con i tuoi amici su Facebook.
 
 Quella che leggi nel titolo è solo una delle tante domande che di solito mi vengono poste da amici, parenti e conoscenti.

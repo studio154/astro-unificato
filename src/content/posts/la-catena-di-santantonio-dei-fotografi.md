@@ -9,7 +9,10 @@ image:
 tags: ["Blog del Fotografo","Blog di Fotografia"]
 ---
 
-[caption id="attachment_6176" align="aligncenter" width="650"]<img src="https://media.eliocarchidi.com/uploads/2016/02/fotografo-professionista-articoli-suggerimenti.jpg" alt="La Catena di Sant'Antonio dei Fotografi" width="650" height="341" class="size-full wp-image-6176" /> La Catena di Sant'Antonio dei Fotografi[/caption]
+<figure class="wp-caption">
+  <img src="https://media.eliocarchidi.com/uploads/2016/02/fotografo-professionista-articoli-suggerimenti.jpg" alt="La Catena di Sant'Antonio dei Fotografi" width="650" height="341" />
+  <figcaption>La Catena di Sant'Antonio dei Fotografi</figcaption>
+</figure>
 <b>Stabilito che voglio diventare un fotografo professionista cosa faccio per diventarlo?</b>
 
 Io, osservando gli altri e basandomi sulla mia esperienza personale, ho constatato che ci sono pochi modi per farlo, diciamo 3:

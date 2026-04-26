@@ -26,7 +26,10 @@ Questa tecnologia richiede l'installazione di un plugin che è sempre installato
 I <strong>Devices della Apple (Ipod, Ipad, Iphone)</strong>, purtroppo, non prevedono però l'installazione di questo modulo. Per poter fruire correttamente questo genere di filmato, quindi, bisogna adattarlo per essere "guardato" su queste apparecchiature.
 Per poter sopperire a questo limite tecnico ho creato 2 versioni identiche della Galleria Fotografica uno in formato STANDARD, adatto a tutti i PC e un altro adatto ai devices della APPLE.</div>
  
-[caption id="attachment_51" align="alignnone" width="564"]<a href="//www.eliocarchidi.com/Book_Fotografico_IPad.html"><img class="size-full wp-image-51 " title="GalleriaFotograficaOnlineIpad" src="https://media.eliocarchidi.com/uploads/2011/05/galleria_fotografica_ipad.jpg" alt="Galleria Fotografica Online Ipad" width="564" height="376" /></a> L'interfaccia della Galleria su IPad (a sinistra), e l'interfaccia della Galleria Standard (a destra)[/caption]
+<figure class="wp-caption">
+  <a href="//www.eliocarchidi.com/Book_Fotografico_IPad.html"><img src="https://media.eliocarchidi.com/uploads/2011/05/galleria_fotografica_ipad.jpg" alt="Galleria Fotografica Online Ipad" width="564" height="376" /></a>
+  <figcaption>L'interfaccia della Galleria su IPad (a sinistra), e l'interfaccia della Galleria Standard (a destra)</figcaption>
+</figure>
 
 <strong>Scegli come vedere la Galleria Fotografica in SLIDESHOW:</strong>
 

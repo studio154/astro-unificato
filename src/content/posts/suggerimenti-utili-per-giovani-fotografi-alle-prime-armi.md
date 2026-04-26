@@ -11,7 +11,10 @@ tags: ["Fotografi Professionisti","consigli fotografo","giovane fotografo","sugg
 
 <div class="separatore"></div>
 
-[caption id="attachment_1850" align="alignright" width="332"]<img class="size-full wp-image-1850" src="https://media.eliocarchidi.com/uploads/2012/11/macho4.jpeg" alt="giovani fotografi crescono" width="332" height="389" /> Giovani Fotografi crescono...[/caption]
+<figure class="wp-caption">
+  <img src="https://media.eliocarchidi.com/uploads/2012/11/macho4.jpeg" alt="giovani fotografi crescono" width="332" height="389" />
+  <figcaption>Giovani Fotografi crescono...</figcaption>
+</figure>
 
 Sono sempre stato convinto che i suggerimenti e i consigli servano a poco. Dovrei quindi esimermi dal dispensarli.
 

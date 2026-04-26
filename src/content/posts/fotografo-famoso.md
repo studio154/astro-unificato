@@ -11,7 +11,10 @@ tags: []
 
 <div class="separatore"></div>
 
-[caption id="attachment_2543" align="aligncenter" width="500"]<img class="size-full wp-image-2543 " title="fotografo-famoso-I-am-famous" src="https://media.eliocarchidi.com/uploads/2013/05/fotografo-famoso-I-am-famous.jpg" alt="Fotografo famoso ma nessuno lo sa" width="500" height="185"/> Sono un fotografo famoso ma nessuno lo sa![/caption]
+<figure class="wp-caption">
+  <img src="https://media.eliocarchidi.com/uploads/2013/05/fotografo-famoso-I-am-famous.jpg" alt="Fotografo famoso ma nessuno lo sa" width="500" height="185" />
+  <figcaption>Sono un fotografo famoso ma nessuno lo sa!</figcaption>
+</figure>
 
 Quando mi chiedono di nominare un <strong>fotografo famoso</strong>, il più professionale tra i più <strong>famosi fotografi</strong> del mondo, faccio sempre spallucce, perché ce ne sono tanti e non è possibile elencarli tutti
 
@@ -43,7 +46,10 @@ La domanda assume un altro tono: "<strong>Come faccio a diventare un fotografo f
 
 Io però, sinceramente, non so proprio cosa rispondere. Non conosco ricette miracolose. I <strong>Fotografi Famosi</strong> che conosco lo sono perchè hanno dedicato tutta la loro vita a questo lavoro e non lo sono diventati per "grazia divina". Lavorano 15 ore al giorno con costanza, con passione mettendo a frutto il loro innato talento.
 
-[caption id="attachment_2546" align="aligncenter" width="527"]<img class=" wp-image-2546  " title="fotografi-famosi-talent-show" src="https://media.eliocarchidi.com/uploads/2013/05/fotografi-famosi-talent-show.jpg" alt="Fotografi Famosi e talent show" width="527" height="293"/> Fotografi famosi: perchè non pensare ad un talent show?[/caption]
+<figure class="wp-caption">
+  <img src="https://media.eliocarchidi.com/uploads/2013/05/fotografi-famosi-talent-show.jpg" alt="Fotografi Famosi e talent show" width="527" height="293" />
+  <figcaption>Fotografi famosi: perchè non pensare ad un talent show?</figcaption>
+</figure>
 
 La cosa che non mi è chiara, dunque,  è cosa si intende con l'essere "famosi".
 
