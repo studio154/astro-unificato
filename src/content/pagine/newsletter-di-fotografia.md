@@ -1,8 +1,9 @@
 ---
 title: "Newsletter di Fotografia"
 pubDate: 2017-09-17
-description: "Non perderti gli aggiornamenti di questo sito, potresti perderti qualcosa di molto interessante. La registrazione è GRATUITA! --- Scegli da dove proseguire. Le"
+description: "Non perderti gli aggiornamenti di questo sito, potresti perderti qualcosa di molto interessante. La registrazione è GRATUITA!"
 image: ""
+pageStyle: "landing"
 ---
 
 #### Non perderti gli aggiornamenti di questo sito, potresti perdere qualcosa di molto interessante.
@@ -31,11 +32,10 @@ Suggerimenti, tutorial, novità dal set fotografico e molto altro ancora.
 
 [Blog di Fotografia](https://www.eliocarchidi.com/blog/)
 
-#### **
-Studio Fotografico
+#### Studio Fotografico
 
 Lo studio fotografico Limbo nel centro di Roma.
 
 Studio attrezzato, privato e riservato.
 
-[studio fotografico](https://www.eliocarchidi.com/atelier/)
+[Studio Fotografico](https://www.eliocarchidi.com/atelier/)

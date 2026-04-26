@@ -5,7 +5,7 @@
 @theme {
   /* Typography */
   --font-serif: "Newsreader", serif;
-  --font-sans: "Inter", sans-serif;
+  --font-sans: "Source Sans 3", sans-serif;
 
   /* Colors */
   /* Page Accents */
@@ -28,7 +28,10 @@
   --color-accent-900: oklch(14.51% 0.101 264.05);
   --color-accent-950: oklch(9.65% 0.067 264.05);
   /* Base */
-  --color-white: oklch(0.9581 0 0);
+  --color-white: #ffffff;
+  --color-surface-100: #f5f5f4;   /* grigio chiarissimo */
+  --color-surface-200: #dedad0;   /* questo */
+  --color-surface-300: #d6d3d1;   /* leggermente più scuro */
   --color-base-50: oklch(0.985 0 0);
   --color-base-100: oklch(0.97 0 0);
   --color-base-200: oklch(0.922 0 0);
@@ -40,4 +43,100 @@
   --color-base-800: oklch(0.269 0 0);
   --color-base-900: oklch(0.205 0 0);
   --color-base-950: oklch(0.145 0 0);
+}
+body {
+  font-family: var(--font-sans);
+}
+
+h1
+{
+  font-family: var(--font-serif);
+}
+
+p,
+li,
+h2,
+h3,
+h4,
+h5,
+h6,
+blockquote {
+  font-family: var(--font-sans);
+}
+
+.prose {
+  font-family: var(--font-sans);
+}
+
+.prose p,
+.prose li,
+.prose blockquote {
+  font-family: var(--font-sans);
+}
+
+.prose h1
+{
+  font-family: var(--font-serif);
+}
+
+
+
+.prose h3,
+.prose h4,
+.prose h5,
+.prose h6 {
+  font-family: var(--font-sans);
+}
+
+.wp-caption {
+  margin: 3rem auto;
+  text-align: center;
+}
+
+.wp-caption img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 1rem;
+}
+
+.wp-caption figcaption {
+  margin-top: 0.75rem;
+  font-size: 0.95rem;
+  font-style: italic;
+  color: #64748b;
+  line-height: 1.4;
+}
+
+.post-content {
+  text-align: left !important;
+}
+
+.post-content p,
+.post-content h2,
+.post-content h3,
+.post-content h4,
+.post-content li,
+.post-content blockquote {
+  text-align: left !important;
+}
+
+.post-content .wp-caption,
+.post-content .wp-caption figcaption {
+  text-align: center !important;
+}
+
+.landing-content h2 {
+  font-size: 2rem;
+  margin-top: 2rem;
+}
+
+.landing-content h3 {
+  font-size: 1.4rem;
+  margin-top: 1.5rem;
+}
+
+.landing-content p {
+  font-size: 1.1rem;
+  font-family: var(--font-sans);
 }

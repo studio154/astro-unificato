@@ -1,0 +1,72 @@
+---
+const { title, description, image } = Astro.props;
+
+import BaseHead from "@/components/fundations/head/BaseHead.astro";
+import Favicons from "@/components/fundations/head/Favicons.astro";
+import Footer from "@/components/global/Footer.astro";
+import NavigationHamburger from "@/components/global/NavigazioneHamburgerStandard.astro";
+import "@/styles/global.css";
+
+const baseUrl = "https://media.eliocarchidi.com/uploads";
+let finalImageUrl = null;
+
+if (image) {
+  const cleanPath = image
+    .replace(/^(.*?)(wp-content\/uploads\/|uploads\/)?/, "")
+    .replace(/^\//, "");
+
+  finalImageUrl = `${baseUrl}/${cleanPath}`;
+}
+---
+
+<html lang="it" class="scroll-smooth">
+  <head>
+    <Favicons />
+    <BaseHead title={title} description={description} image={finalImageUrl} />
+  </head>
+
+  <body class="flex min-h-svh flex-col bg-white text-slate-900">
+    <div class="bg-white">
+      <NavigationHamburger />
+    </div>
+
+    <main class="grow">
+      <section class="w-full px-6 py-20 md:py-28">
+        <article class="mx-auto max-w-2xl text-center">
+
+          <header class="mb-12">
+            <h1
+              class="font-serif text-4xl font-light leading-tight tracking-wide text-slate-950 md:text-5xl"
+              style="font-family: 'Newsreader', serif;"
+            >
+              {title}
+            </h1>
+
+            {description && (
+              <p class="mx-auto mt-6 max-w-xl text-lg italic leading-relaxed text-slate-500">
+                {description}
+              </p>
+            )}
+
+            {finalImageUrl && (
+              <figure class="mt-10 overflow-hidden rounded-2xl shadow-xl">
+                <img
+                  src={finalImageUrl}
+                  alt={title}
+                  class="h-auto w-full object-cover"
+                />
+              </figure>
+            )}
+          </header>
+
+          <div class="landing-content prose prose-lg prose-slate mx-auto text-center">
+            <slot />
+          </div>
+
+        </article>
+      </section>
+    </main>
+
+    <Footer />
+  </body>
+</html>

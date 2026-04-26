@@ -1,46 +1,58 @@
 ---
-import BaseLayout from "@/layouts/LayoutContatti.astro";
-import Wrapper from "@/components/fundations/containers/Wrapper.astro";
-import { AstroSeo } from "@astrolib/seo";
+import LayoutContatti from "@/layouts/LayoutContatti.astro";
+import Wrapper from "@/components/fundations/containers/Wrapper-1040.astro";
 import ContattiQualificati from "@/components/hubspot-form/ContattiQualificati.astro";
+import Text from "@/components/fundations/elements/Text.astro";
 
 ---
 
-<AstroSeo
-  title="Contatti | Elio Leonardo Carchidi - Fotografo di Ritratto"
-  description="Ogni grande progetto nasce da una conversazione. Scrivimi qui: sarà un piacere risponderti personalmente e pianificare il tuo ritratto su misura."
-  canonical="https://www.eliocarchidi.com/contatti/"
-  openGraph={{
-    url: "https://www.eliocarchidi.com/contatti/",
-    title: "Contatti | Elio Leonardo Carchidi - Fotografo di Ritratto",
-    description: "Ogni grande progetto nasce da una conversazione. Scrivimi qui: sarà un piacere risponderti personalmente e pianificare il tuo ritratto su misura.",
-    images: [
-      {
-        url: "https://www.eliocarchidi.com/og-image-contatti.jpg",
-        width: 1200,
-        height: 630,
-        alt: "Modulo contatti per Elio Leonardo Carchidi",
-        type: "image/jpeg",
-      },
-    ],
-    site_name: "Elio Leonardo Carchidi - Contatti",
-    type: "website",
-    locale: "it_IT",
-  }}
-  twitter={{
-    handle: "@eliocarchidi",
-    site: "@eliocarchidi",
-    cardType: "summary_large_image",
-  }}
-/>
 
-<BaseLayout>
-  
+
+<LayoutContatti>
+   <div
+      class="items-start pt-2 pb-6 lg:pb-6 text-center uppercase
+      gap-4 lg:gap-6 lg:gap-y-6 mb-10 md:mb-10"
+    >
+    </div>
+    <Text
+      tag="h1"
+      variant="textLG"
+      class="font-serif uppercase lg:order-none text-base-900 text-center"
+      ><a class="hover:text-base-900 text-gallery-5" href="/"
+        >Elio Leonardo Carchidi - Fotografo di Ritratto</a
+      ><br />
+    </Text>
+
+    <div
+      class="items-start pt-2 pb-2 lg:pb-6 text-center uppercase grid grid-cols-1
+      gap-4 lg:gap-6 lg:gap-y-6 mb-4 max-w-2xl m-auto"
+    >
+      <Text
+        tag="h1"
+        variant="textLG"
+        class="order-last font-serif uppercase lg:order-none col-span-full lg:col-span-1: text-base-900"
+      >
+        Ogni grande progetto nasce da una conversazione. Scrivimi qui: sarà un
+        piacere risponderti personalmente e pianificare insieme il tuo ritratto
+        su misura.
+      </Text>
+      <Text
+        tag="p"
+        variant="textBase"
+        class="order-last font-serif uppercase lg:order-none col-span-full lg:col-span-1: text-base-900"
+      >
+      Per ricevere risposte più dettagliate, per piacere, compila la form.
+        <br >Puoi anche inviare una mail o un messaggio<br >
+        <strong>mail:</strong> info@eliocarchidi.com - <strong>WhatsApp:</strong> +39 388 3232460
+      </Text>
+    </div>
+
+    <main class="grow"><slot /></main>
   <section>
-    <Wrapper class="p-6 sm:p-2 m-auto max-w-l">
+    <Wrapper variant="prose" class="p-6 sm:p-2 m-auto max-w-l">
       <ContattiQualificati />
     </Wrapper>
   </section>
   
 
-</BaseLayout>
+</LayoutContatti>

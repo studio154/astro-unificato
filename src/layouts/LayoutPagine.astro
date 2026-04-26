@@ -3,7 +3,7 @@ const { title, description, image } = Astro.props;
 import BaseHead from "@/components/fundations/head/BaseHead.astro";
 import Favicons from '@/components/fundations/head/Favicons.astro';
 import Footer from "@/components/global/Footer.astro";
-import NavigationHamburger from "@/components/global/NavigazioneHamburger.astro";
+import NavigationHamburger from "@/components/global/NavigazioneHamburgerStandard.astro";
 import "@/styles/global.css";
 
 // 1. Logica Immagine (R2)
@@ -23,11 +23,11 @@ if (image) {
     <BaseHead title={title} description={description} />
   </head>
   
-  <body class="flex flex-col bg-white min-h-svh">
-    <NavigationHamburger />
+  <body class="flex flex-col min-h-svh">
+    <div class="bg-white"><NavigationHamburger /></div>
 
     <main class="grow">
-  <article class="max-w-4xl mx-auto px-6 py-20">
+  <article class="max-w-4xl mx-auto px-6 py-20 bg-white-100 border-1">
     <header class="text-center mb-16">
       <h1 class="titolo-testata-fisso">{title}</h1>
       
@@ -38,62 +38,12 @@ if (image) {
       )}
     </header>
 
-    <div class="prose prose-lg md:prose-xl prose-slate mx-auto max-w-none">
-      <slot />
-    </div>
+    <div class="prose prose-lg md:prose-xl prose-slate mx-auto max-w-3xl">
+  <slot />
+</div>
   </article>
 </main>
 
     <Footer />
   </body>
 </html>
-
-<style is:global>
-  /* 1. NASCONDIAMO IL TITOLO DEL FRONTMATTER (quello segnaposto) */
-  .titolo-testata-fisso {
-    display: none !important;
-  }
-
-  /* 2. TRASFORMIAMO IL PRIMO H2 DEL TESTO NEL TITOLO PRINCIPALE */
-  .prose h2:first-of-type {
-    display: block !important;
-    font-size: 3.5rem !important; /* Grandezza da titolo */
-    text-align: center !important;
-    color: #0f172a !important;
-    font-weight: 700 !important;
-    line-height: 1.1 !important;
-    margin-top: 0 !important;
-    margin-bottom: 1.5rem !important;
-    font-family: 'Newsreader', serif !important;
-  }
-
-  /* 3. IL PARAGRAFO SUBITO DOPO L'H2 DIVENTA IL SOTTOTITOLO */
-  .prose h2:first-of-type + p {
-    text-align: center !important;
-    font-size: 1.5rem !important;
-    font-style: italic !important;
-    color: #64748b !important;
-    max-width: 800px !important;
-    margin-left: auto !important;
-    margin-right: auto !important;
-    margin-bottom: 4rem !important;
-    line-height: 1.4 !important;
-  }
-
-  /* 4. TUTTI GLI ALTRI H2 (quelli che vengono dopo) RIMANGONO NORMALI */
-  .prose h2:first-of-type ~ h2 {
-    font-size: 2rem !important;
-    text-align: left !important;
-    margin-top: 3rem !important;
-  }
-
-  /* Resto del testo */
-  .prose p {
-    text-align: left;
-    font-family: 'Newsreader', serif;
-  }
-
-  @media (max-width: 768px) {
-    .prose h2:first-of-type { font-size: 2.5rem !important; }
-  }
-</style>

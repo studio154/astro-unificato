@@ -10,7 +10,7 @@ import Footer from "@/components/global/Footer.astro";
 import Navigation from "@/components/global/NavigazioneEdizioni.astro";
 // Hides the big logo, navigation, or footer on selected screens by passing props:
 
-
+import TopBarFormazione from "../components/cta/TopBarFormazione.astro";
 const { hideBigLogo = false, hideNavigation = false, hideFooter = false } = Astro.props;
 ---
 
@@ -21,6 +21,7 @@ const { hideBigLogo = false, hideNavigation = false, hideFooter = false } = Astr
   
   
   <body class="flex flex-col bg-white min-h-svh">
+  <TopBarFormazione />
     
     {
       !hideBigLogo && (

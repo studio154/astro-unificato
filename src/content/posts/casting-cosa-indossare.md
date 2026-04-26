@@ -8,9 +8,9 @@ image:
   alt: "Casting Cosa Indossare: Quale è l'abbigliamento giusto per presentarsi."
 tags: ["casting","casting moda","fotomodella","fotomodelle","moda","modelle"]
 ---
-
-<p style="text-align: center;"><strong>"</strong><em>...per presentarmi al meglio al casting cosa indossare?</em><strong>"
-</strong></p>
+<p class="text-center !text-3xl italic font-serif leading-relaxed">
+  ...per presentarmi al meglio al casting cosa dovrei indossare?
+</p>
 <img class="aligncenter size-full wp-image-11145" src="https://media.eliocarchidi.com/uploads/2016/11/casting-cosa-indossare.jpg" alt="Casting cosa indossare - Suggerimenti e Consigli" width="650" height="488" />
 <h2>Casting cosa indossare e... cosa non indossare</h2>
 <h3>Le cose da tenere presente!</h3>

@@ -29,6 +29,15 @@
             }
           ]
         },
+        "pageStyle": {
+          "type": "string",
+          "enum": [
+            "standard",
+            "landing",
+            "wide",
+            "legacy"
+          ]
+        },
         "$schema": {
           "type": "string"
         }

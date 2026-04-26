@@ -2,13 +2,12 @@
 import { getCollection } from "astro:content";
 import BlogLayout from "@/layouts/BlogLayout.astro";
 import LayoutPagine from "@/layouts/LayoutPagine.astro";
+import LayoutLanding from "@/layouts/LayoutLanding.astro";
 
 export async function getStaticPaths() {
-  // Recuperiamo i post e le pagine
   const blogEntries = await getCollection("posts");
   const pagineEntries = await getCollection("pagine");
 
-  // Uniamo tutto in un unico array di percorsi
   const allEntries = [
     ...blogEntries.map((entry) => ({
       params: { slug: entry.slug },
@@ -25,20 +24,22 @@ export async function getStaticPaths() {
 
 const { entry, type } = Astro.props;
 const { Content } = await entry.render();
+
+const PageLayout = entry.data.pageStyle === "landing"
+  ? LayoutLanding
+  : LayoutPagine;
 ---
 
 {type === "post" ? (
-  /* Layout originale per i tuoi post */
   <BlogLayout frontmatter={entry.data}>
     <Content />
   </BlogLayout>
 ) : (
-  /* Nuovo layout semplice per le 100 pagine */
-  <LayoutPagine 
-    title={entry.data.title} 
-    description={entry.data.description} 
+  <PageLayout
+    title={entry.data.title}
+    description={entry.data.description}
     image={entry.data.image}
   >
     <Content />
-  </LayoutPagine>
+  </PageLayout>
 )}

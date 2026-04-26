@@ -15,6 +15,7 @@ const {
   hideFooter = false,
 } = Astro.props;
 import Favicons from "../components/fundations/head/Favicons.astro";
+import TopBarFormazione from "../components/cta/TopBarFormazione.astro";
 ---
 
 <html lang="it" class="scroll-smooth">
@@ -23,6 +24,7 @@ import Favicons from "../components/fundations/head/Favicons.astro";
     <BaseHead />
     </head>
   <body class="flex flex-col bg-gallery-6 min-h-svh">
+  <TopBarFormazione />
     {
       !hideBigLogo && (
      

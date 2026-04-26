@@ -1,5 +1,5 @@
 ---
-title: "Le guide del Fotografo: <br>Diventare Fotografo Professionista"
+title: "Le guide del Fotografo:Diventare Fotografo Professionista"
 team: "elio-carchidi"
 pubDate: 2013-08-01
 description: "Guida Fotografica per il Fotografo Professionista, il fotoamatore e lo studente di Fotografia. In uscita il 10 agosto 2013! A cura di Elio L. Carchidi..."

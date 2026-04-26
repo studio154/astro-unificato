@@ -118,9 +118,9 @@ const getPostUrl = (post) => `/${post.slug}/`;
   <section class="pb-24">
     <div class="mx-auto max-w-3xl font-serif">
 
-      <div class="prose prose-lg text-xl">
-        <slot />
-      </div>
+      <div class="post-content prose prose-lg prose-slate text-xl">
+  <slot />
+</div>
 
       <!-- TAG -->
       {frontmatter.tags && (

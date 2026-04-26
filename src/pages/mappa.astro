@@ -1,12 +1,11 @@
 ---
 import { getCollection } from 'astro:content';
-import LayoutPagine from '@/layouts/LayoutPagine.astro';
-
+import LayoutContatti from '@/layouts/LayoutContatti.astro';
 const tutteLePagine = await getCollection('pagine'); 
 const pagineOrdinate = tutteLePagine.sort((a, b) => (a.data.title || "").localeCompare(b.data.title || ""));
 ---
 
-<LayoutPagine title="Mappa">
+<LayoutContatti title="Mappa">
   <div id="mappa-esclusiva">
     
     <div class="header-mappa">
@@ -24,7 +23,7 @@ const pagineOrdinate = tutteLePagine.sort((a, b) => (a.data.title || "").localeC
     </div>
 
   </div>
-</LayoutPagine>
+</LayoutContatti>
 
 <style is:inline>
   /* 1. Nascondiamo il titolo del layout */
@@ -34,8 +33,9 @@ const pagineOrdinate = tutteLePagine.sort((a, b) => (a.data.title || "").localeC
 
   #mappa-esclusiva {
     max-width: 1200px;
-    margin: 0 auto;
+    margin: 1em auto;
     padding: 40px 20px;
+    background-color:rgb(243, 239, 231) ;
   }
 
   #mappa-esclusiva .header-mappa {
@@ -50,6 +50,7 @@ const pagineOrdinate = tutteLePagine.sort((a, b) => (a.data.title || "").localeC
     font-weight: 700 !important;
     margin: 0 !important;
     color: #1e293b !important;
+    font-family: 'Newsreader', serif;
   }
 
   /* 2. La Griglia */
@@ -57,6 +58,7 @@ const pagineOrdinate = tutteLePagine.sort((a, b) => (a.data.title || "").localeC
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
     gap: 16px;
+    
   }
 
   /* 3. La Card */
@@ -81,12 +83,12 @@ const pagineOrdinate = tutteLePagine.sort((a, b) => (a.data.title || "").localeC
   /* 4. IL TITOLO (Bilanciato) */
   #mappa-esclusiva .titolo-piccolo {
     display: block !important;
-    font-size: 17px !important; /* Dimensione ideale: né gigante né minuscola */
+    font-size: 1.3em !important; /* Dimensione ideale: né gigante né minuscola */
     font-weight: 600 !important;
     color: #0f172a !important;
     line-height: 1.4 !important;
     margin-bottom: 8px !important;
-    font-family: system-ui, -apple-system, sans-serif !important;
+    font-family: 'Newsreader', serif;
   }
 
   /* 5. IL PATH (Leggero e tecnico) */

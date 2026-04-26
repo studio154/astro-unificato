@@ -198,6 +198,7 @@ const pagine = defineCollection({
     description: z.string().optional(),
     image: z.string().optional(), // URL immagine (stringa perché spesso viene da WP)
     pubDate: z.date().optional(),
+    pageStyle: z.enum(["standard", "landing", "wide", "legacy"]).optional(),
   }),
 });
 
