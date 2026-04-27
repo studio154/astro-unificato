@@ -6,36 +6,39 @@ image: ""
 pageStyle: "landing"
 ---
 
-#### Non perderti gli aggiornamenti di questo sito, potresti perdere qualcosa di molto interessante.
+#### La registrazione è GRATUITA!
 
-##### La registrazione è GRATUITA!
+## 👉 [ISCRIVITI ORA GRATIS!](https://elioleonardocarchidi.kit.com) 👈
+<br>
 
----
+<hr>
 
-## Scegli da dove proseguire.
+## Scegli se proseguire la visita.
 
 Le mie fotografie, il mio blog, il mio studio fotografico.
 
----
+<hr>
 
-#### Le mie Foto
+### Le mie Foto
 
 Fotografie, Ritratti fotografici, Galleria fotografica, Servizi Fotografici.
 
 [Gallerie Fotografiche](https://www.eliocarchidi.com/portfolio/)
+<hr>
 
-#### Il mio Blog
+### Il mio Blog
 
 Articoli sulla fotografia.
 
 Suggerimenti, tutorial, novità dal set fotografico e molto altro ancora.
 
 [Blog di Fotografia](https://www.eliocarchidi.com/blog/)
+ <hr>
 
-#### Studio Fotografico
+### Lo Studio Fotografico
 
 Lo studio fotografico Limbo nel centro di Roma.
 
 Studio attrezzato, privato e riservato.
 
-[Studio Fotografico](https://www.eliocarchidi.com/atelier/)
+[Studio Fotografico](https://studio154.it/)
