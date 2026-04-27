@@ -1,17 +1,22 @@
 {
   "redirects": [
     {
+      "source": "/team/elio-carchidi/",
+      "destination": "/chi-sono/",
+      "permanent": true
+    },
+    {
       "source": "/foto-erotiche/",
       "destination": "/",
       "permanent": true
     },
     {
-      "source": "/blog/posts/:slug",
+      "source": "/blog/posts/:slug/",
       "destination": "/:slug/",
       "permanent": true
     },
     {
-      "source": "/blog/posts/:slug/",
+      "source": "/blog/posts/:slug",
       "destination": "/:slug/",
       "permanent": true
     },

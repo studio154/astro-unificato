@@ -30,7 +30,8 @@ export default defineConfig({
       !page.includes("/blog/tags/") &&
       !page.includes("/post-") &&
       page !== "https://www.eliocarchidi.com/team/home/" &&
-      page !== "https://www.eliocarchidi.com/blog/home/",
+      page !== "https://www.eliocarchidi.com/blog/home/" &&
+      page !== "https://www.eliocarchidi.com/team/elio-carchidi/",
   }),
 ],
 });

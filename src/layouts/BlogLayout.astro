@@ -8,16 +8,50 @@ const { frontmatter } = Astro.props;
 
 const allPosts = await getCollection("posts");
 
-const relatedPosts = allPosts
-  .filter((post) => post.slug !== frontmatter.slug)
-  .sort((a, b) => new Date(b.data.pubDate) - new Date(a.data.pubDate))
-  .slice(0, 3);
-
+// slug corrente (affidabile)
 const slug = Astro.url.pathname.split("/").filter(Boolean).pop();
 
 const canonical = `https://www.eliocarchidi.com/${slug}/`;
 
 const getPostUrl = (post) => `/${post.slug}/`;
+
+// tag articolo corrente
+const currentTags = frontmatter.tags ?? [];
+
+// RELATED POSTS MIGLIORATI
+const relatedPosts = allPosts
+  // esclude articolo corrente
+  .filter((post) => post.slug !== slug)
+
+  // esclude eventuali draft
+  .filter((post) => !post.data.draft)
+
+  // calcolo affinità per tag
+  .map((post) => {
+    const postTags = post.data.tags ?? [];
+    const sharedTags = postTags.filter((tag) =>
+      currentTags.includes(tag)
+    ).length;
+
+    return {
+      ...post,
+      sharedTags,
+    };
+  })
+
+  // tieni solo articoli con almeno 1 tag in comune
+  .filter((post) => post.sharedTags > 0)
+
+  // prima per affinità, poi per data
+  .sort((a, b) => {
+    if (b.sharedTags !== a.sharedTags) {
+      return b.sharedTags - a.sharedTags;
+    }
+    return new Date(b.data.pubDate) - new Date(a.data.pubDate);
+  })
+
+  // massimo 3
+  .slice(0, 3);
 ---
 
 
