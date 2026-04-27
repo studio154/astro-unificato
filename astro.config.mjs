@@ -24,5 +24,9 @@ export default defineConfig({
     skipInline: false
   },
 
-  integrations: [sitemap()]
+    integrations: [
+    sitemap({
+      filter: (page) => !page.includes("/blog/tags/"),
+    }),
+  ],
 });
