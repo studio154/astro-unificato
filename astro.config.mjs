@@ -25,8 +25,12 @@ export default defineConfig({
   },
 
     integrations: [
-    sitemap({
-      filter: (page) => !page.includes("/blog/tags/"),
-    }),
-  ],
+  sitemap({
+    filter: (page) =>
+      !page.includes("/blog/tags/") &&
+      !page.includes("/post-") &&
+      page !== "https://www.eliocarchidi.com/team/home/" &&
+      page !== "https://www.eliocarchidi.com/blog/home/",
+  }),
+],
 });
