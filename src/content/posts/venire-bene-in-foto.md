@@ -191,6 +191,10 @@ Puoi continuare a provare da sola o da solo. Puoi esercitarti davanti allo specc
   </a>
 </div>
 
+Se stai pensando a un servizio fotografico completo, qui trovi una guida su come prepararti
+👉 [Come prepararsi al servizio fotografico](/servizio-fotografico/)
+
+---
 Ma se vuoi davvero scoprire come puoi apparire davanti a una luce pensata per te, con il tempo necessario e una guida professionale, allora il passo successivo è una sessione di ritratto.
 
 [Scopri le Sessioni Private di Ritratto](/atelier/sessioni-private/)

@@ -1,0 +1,55 @@
+---
+// Fundations
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import Wrapper from "@/components/fundations/containers/Wrapper.astro";
+// Components
+import Galleria1 from "@/components/gallery/Galleria1.astro";
+// Content
+import { getCollection } from "astro:content";
+const galleries = (await getCollection("gallery"))
+  .sort((a, b) => a.data.order - b.data.order);
+import { AstroSeo } from "@astrolib/seo";
+---
+<AstroSeo
+  title="Pagina index"
+  description="A detailed description of your page content."
+  canonical="https://yourwebsite.com/current-page"
+  openGraph={{
+    url: "https://yourwebsite.com/current-page",
+    title: "Your Page Title",
+    description: "A detailed description of your page content.",
+    images: [
+      {
+        url: "https://yourwebsite.com/og-image.jpg",
+        width: 1200,
+        height: 630,
+        alt: "Open Graph Image Alt",
+        type: "image/jpeg",
+      },
+    ],
+    site_name: "Your Site Name",
+    type: "website",
+    locale: "en_US",
+  }}
+  twitter={{
+    handle: "@yourhandle",
+    site: "@yourwebsite",
+    cardType: "summary_large_image",
+  }}
+/>
+
+<BaseLayout>
+  <section>
+    <Wrapper variant="standard" class="py-2">
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+        {galleries.map((post) => <Galleria1 post={post} />)}
+      </div>
+    </Wrapper>
+
+    <!-- Wrapper da usare per inserire una immagine piena 
+    <Wrapper variant="standard" class="py-2">
+      {galleries.slice(0, 1).map((post) => <Galleria1 post={post} />)}
+    </Wrapper>-->
+
+  </section>
+</BaseLayout>

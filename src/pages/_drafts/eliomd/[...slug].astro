@@ -1,0 +1,22 @@
+---
+import { getCollection } from "astro:content";
+import PagesLayout from "@/layouts/EliomdLayout.astro";
+export async function getStaticPaths() {
+  const infoPages = await getCollection("eliomd");
+  const paths = infoPages.map((page) => {
+    return {
+      params: { slug: page.slug },
+      props: { page },
+      trailingSlash: false,
+    };
+  });
+  return paths;
+}
+const { page } = Astro.props;
+const { Content } = await page.render();
+
+---
+
+<PagesLayout frontmatter={page.data}>
+  <Content />
+</PagesLayout>

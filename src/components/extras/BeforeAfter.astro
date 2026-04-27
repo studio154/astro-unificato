@@ -1,0 +1,39 @@
+---
+const { before, after, altBefore, altAfter, caption } = Astro.props;
+---
+
+<div class="my-12">
+  <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+
+    <!-- BEFORE -->
+    <div class="relative overflow-hidden rounded-lg bg-gray-100">
+      <img
+        src={before}
+        alt={altBefore}
+        class="w-full h-full object-cover"
+      />
+      <span class="absolute top-3 left-3 text-xs uppercase tracking-widest bg-black/70 text-white px-2 py-1 rounded">
+        Prima
+      </span>
+    </div>
+
+    <!-- AFTER -->
+    <div class="relative overflow-hidden rounded-lg bg-gray-100">
+      <img
+        src={after}
+        alt={altAfter}
+        class="w-full h-full object-cover"
+      />
+      <span class="absolute top-3 left-3 text-xs uppercase tracking-widest bg-black/70 text-white px-2 py-1 rounded">
+        Dopo
+      </span>
+    </div>
+
+  </div>
+
+  {caption && (
+    <p class="text-sm text-center text-gray-600 mt-4 italic">
+      {caption}
+    </p>
+  )}
+</div>

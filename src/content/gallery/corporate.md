@@ -17,6 +17,10 @@ thumbnail:
 imageGrid: "grid grid grid-cols-1 lg:grid-cols-6 row-span-3 gap-8"
 thumbnailClass: "lg:col-span-3 lg:row-span-2"
 images:
+  - url: "https://media.eliocarchidi.com/uploads/2026/04/che-cosa-e-la-fotogenia.jpg"
+    alt: "Ritratto Corporate Giovane Manager"
+    class: "lg:col-span-1"
+    title: "U #043" 
   - url: "https://media.eliocarchidi.com/uploads/2026/04/ritratto-corporate-headshot-tono-basso.jpg"
     alt: "Ritratto Corporate Uomo"
     class: "lg:col-span-1"
