@@ -1,0 +1,28 @@
+---
+// Assets
+// Fundations
+import "@/styles/global.css";
+import BaseHead from "@/components/fundations/head/BaseHead.astro";
+import Wrapper from "@/components/fundations/containers/Wrapper.astro";
+// Components
+import Footer from "@/components/global/Footer.astro";
+import Navigation from "@/components/global/NavigazioneHamburger.astro";
+import TopBarFormazione from "../components/cta/TopBarFormazione.astro";
+---
+
+<html lang="it" class="scroll-smooth">
+  <head>
+    <BaseHead />
+  </head>
+
+  <body class="flex flex-col bg-base-100 min-h-svh">
+  <TopBarFormazione />
+   
+    <Wrapper variant="standard" class="pt-4">
+      <Navigation />
+    </Wrapper>
+
+    <main class="grow"><slot /></main>
+<Footer />
+  </body>
+</html>
