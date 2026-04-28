@@ -1,123 +1,140 @@
 ---
 import BaseLayout from "@/layouts/LayoutServiziCard.astro";
-import Text from "@/components/fundations/elements/Text.astro";
 import Wrapper from "@/components/fundations/containers/Wrapper.astro";
-import { AstroSeo } from "@astrolib/seo";
-
-// Sezioni servizi
-const services = [
-  {
-    title: "Ritratti d’Autore",
-    description: "Sessioni fotografiche personalizzate nell’atelier, con luce naturale e composizione studiata. Ogni ritratto racconta una storia unica, pensato per collezioni private, gallerie e spazi museali. Possibilità di stampa Fine Art su carta cotone 310g, firmata e numerata.",
-    icon: "/portrait.svg",
-    image: "https://media.eliocarchidi.com/uploads/2021/04/fotografie-professionali-cosmetica-26.jpg"
-  },
-  {
-    title: "Corporate & Branding",
-    description: "Servizi fotografici professionali per aziende, team e brand, realizzati su misura per valorizzare identità e comunicazione visiva. Shooting in sede o in location selezionate, ritratti individuali e di gruppo, immagini per siti web, cataloghi e social media.",
-    icon: "/portrait.svg",
-    image: "https://media.eliocarchidi.com/uploads/2026/03/agnese-0961.jpg"
-  },
-  {
-    title: "Eventi & Still-life",
-    description: "Copertura fotografica completa di eventi, prodotti e scenografie, affidata al nostro studio partner Studio154. Ideale per cataloghi, e-commerce, campagne pubblicitarie e reportage aziendali. Servizio chiavi in mano, dalla produzione alla post-produzione.",
-    icon: "/events.svg",
-    image: "https://media.eliocarchidi.com/uploads/2026/03/foto-still-life-ecommerce.jpg"
-  },
-  {
-    title: "Collaborazioni & Studio154",
-    description: "Progetti condivisi con altri fotografi e professionisti, per servizi commerciali di livello medio e medio-alto. Studio154 coordina il team e gestisce la produzione per garantire qualità e coerenza del brand.",
-    icon: "/consulting.svg",
-    image: "https://media.eliocarchidi.com/uploads/2026/03/fotografi-eventi-istituzionali-eventi-aziendali3.jpg"
-  },
-  {
-    title: "Formazione & Workshop",
-    description: "Corsi personalizzati e workshop fotografici, in studio o all’aperto, per imparare tecniche professionali, gestione della luce e storytelling visivo. Adatto a fotografi emergenti e appassionati che vogliono affinare la propria pratica creativa.lizzati e workshop per apprendere tecniche fotografiche professionali, sia in studio che in esterni.",
-    icon: "/workshop.svg",
-    image: "https://media.eliocarchidi.com/uploads/2026/03/formazione-workshop-corsi-fotografia.jpg"
-  },
-];
 ---
-<AstroSeo
-  title="Servizi Fotografici Premium | Elio Leonardo Carchidi"
-  description="Scopri i nostri servizi fotografici professionali: ritratti d’autore, corporate & branding, eventi, workshop e collaborazioni. Prenota la tua sessione oggi."
+
+
+
+<BaseLayout hideBigLogo={false} hideNavigation={false} hideFooter={false} 
+  title="Servizi Fotografici e Collaborazioni | Elio Carchidi"
+  description="Ritratto fotografico d’autore e servizi su commissione realizzati anche attraverso Studio154."
   canonical="https://www.eliocarchidi.com/servizi/"
-  openGraph={{
-    url: "https://www.eliocarchidi.com/",
-    title: "Elio Leonardo Carchidi | Fotografo di Ritratto a Roma",
-    description: "Da oltre 40 anni realizzo ritratti fotografici con luce naturale e attenzione alla presenza. Fine art, corporate ed editoriale. Studio a Roma, disponibile in tutta Italia.",
-    images: [
-      {
-        url: "https://www.eliocarchidi.com/og-image-home.jpg",
-        width: 1200,
-        height: 630,
-        alt: "Ritratti fotografici di Elio Leonardo Carchidi",
-        type: "image/jpeg",
-      },
-    ],
-    site_name: "Elio Leonardo Carchidi - Atelier Fotografico",
-    type: "website",
-    locale: "it_IT",
-  }}
-  twitter={{
-    handle: "@eliocarchidi",
-    site: "@eliocarchidi",
-    cardType: "summary_large_image",
-  }}
-/>
+>
+  <Wrapper variant="standard">
+    <section class="mx-auto max-w-3xl py-24 lg:py-36">
+      <p class="text-sm uppercase tracking-[0.25em] text-neutral-500 mb-6">
+        Studio154 / Atelier
+      </p>
 
-<BaseLayout hideBigLogo={false} hideNavigation={false} hideFooter={false}>
+      <h1 class="font-serif text-4xl md:text-5xl font-light leading-tight text-neutral-950 mb-10">
+        Servizi e collaborazioni
+      </h1>
 
-  <!-- SEO Meta -->
-  
+      <div class="space-y-8 text-lg leading-relaxed text-neutral-700">
+        <p>
+          Il mio lavoro si concentra principalmente sul ritratto fotografico.
+        </p>
 
-  <!-- Hero -->
-  
-    <Wrapper variant="prodotto" class="space-y-12 ">
-      
+        <p>
+          È una fotografia costruita nel tempo, attraverso la luce naturale,
+          la presenza e un’attenzione essenziale alla persona.
+        </p>
 
-      <!-- Prima card a tutta larghezza -->
-      <div class="bg-white shadow-md rounded-2xl overflow-hidden flex flex-col lg:flex-row">
-        <div class="relative lg:w-1/2 h-80 lg:h-auto">
-          <img src={services[0].image} alt={services[0].title} class="w-full h-full object-cover"/>
-        </div>
-        <div class="p-6 flex flex-col justify-center lg:w-1/2">
-          <div class="flex items-center gap-4 mb-4">
-            <img src={services[0].icon} alt={services[0].title} class="w-8 h-8"/>
-            <Text tag="h3" variant="textLG" class="font-medium">{services[0].title}</Text>
-          </div>
-          <Text tag="p" variant="textSM" class="text-base-600">{services[0].description}</Text>
-        </div>
+        <p>
+          Accanto a questo, esistono collaborazioni e progetti che permettono
+          di affrontare produzioni più ampie o specifiche.
+        </p>
       </div>
 
-      <!-- Le 4 card rimanenti in due colonne -->
-      <div class="grid grid-cols-1 md:grid-cols-2 gap-12">
-        {services.slice(1).map((service) => (
-          <div class="bg-white shadow-md rounded-2xl overflow-hidden flex flex-col">
-  <div class="relative h-64 w-full">
-    <img src={service.image} alt={service.title} class="w-full h-full object-cover "/>
-    <div class="absolute inset-0 bg-amber-80"></div>
-  </div>
-            <div class="p-6 flex flex-col flex-1">
-              <div class="flex items-center gap-4 mb-4">
-                <img src={service.icon} alt="" class="w-8 h-8"/>
-                <Text tag="h3" variant="textLG" class="font-medium">{service.title}</Text>
-              </div>
-              <Text tag="p" variant="textSM" class="text-base-600 flex-1">{service.description}</Text>
-            </div>
-          </div>
-        ))}
-      </div>
+      <hr class="my-16 border-neutral-200" />
 
-      <!-- CTA Finale -->
-      <div class="text-center mt-12">
-        <Text tag="h2" variant="text-2xl" class="mb-4">
-          Vuoi prenotare un servizio?
-        </Text>
-        <a href="/contatti/" class="inline-block px-8 py-4 bg-base-900 text-white uppercase font-medium rounded-lg hover:bg-base-700 transition">
+      <section class="space-y-6">
+        <h2 class="font-serif text-3xl font-light text-neutral-950">
+          Ritratto fotografico
+        </h2>
+
+        <div class="space-y-6 text-lg leading-relaxed text-neutral-700">
+          <p>
+            Il ritratto è il centro del mio lavoro.
+          </p>
+
+          <p>
+            Non si tratta semplicemente di realizzare una buona immagine, ma di
+            costruire uno spazio in cui la persona possa riconoscersi.
+          </p>
+
+          <p>
+            Le sessioni si svolgono in atelier o in ambienti scelti con
+            attenzione, sempre con un approccio essenziale.
+          </p>
+
+          <p>
+            <a href="/atelier/" class="underline underline-offset-4">
+              Scopri l’Atelier
+            </a>
+          </p>
+        </div>
+      </section>
+
+      <hr class="my-16 border-neutral-200" />
+
+      <section class="space-y-6">
+        <h2 class="font-serif text-3xl font-light text-neutral-950">
+          Servizi su commissione
+        </h2>
+
+        <div class="space-y-6 text-lg leading-relaxed text-neutral-700">
+          <p>
+            Per esigenze più operative — aziendali, editoriali o produttive —
+            collaboro con Studio154.
+          </p>
+
+          <p>
+            Si tratta di una struttura che consente di gestire servizi
+            fotografici anche complessi, mantenendo coerenza e qualità.
+          </p>
+
+          <ul class="list-disc pl-6 space-y-2">
+            <li>ritratti corporate e branding</li>
+            <li>fotografia per aziende e professionisti</li>
+            <li>eventi e reportage</li>
+            <li>still-life e fotografia di prodotto</li>
+          </ul>
+
+          <p>
+            Questi lavori vengono attivati solo quando il progetto lo richiede.
+          </p>
+
+          <p>
+            <a
+              href="https://studio154.it"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="underline underline-offset-4"
+            >
+              Visita Studio154
+            </a>
+          </p>
+        </div>
+      </section>
+
+      <hr class="my-16 border-neutral-200" />
+
+      <section class="space-y-6">
+        <h2 class="font-serif text-3xl font-light text-neutral-950">
           Richiedi informazioni
-        </a>
-      </div>
-    </Wrapper>
+        </h2>
 
+        <div class="space-y-6 text-lg leading-relaxed text-neutral-700">
+          <p>
+            Se hai un’idea o un’esigenza specifica, puoi scrivermi liberamente.
+          </p>
+
+          <p>
+            Valuteremo insieme la soluzione più adatta, in base al tipo di progetto.
+          </p>
+
+          <p>
+            <a href="mailto:info@eliocarchidi.com" class="underline underline-offset-4">
+              info@eliocarchidi.com
+            </a>
+            <br />
+            <a href="/contatti/" class="underline underline-offset-4">
+              Contatti
+            </a>
+          </p>
+        </div>
+      </section>
+    </section>
+  </Wrapper>
 </BaseLayout>

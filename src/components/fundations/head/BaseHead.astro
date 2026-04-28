@@ -4,6 +4,7 @@ const { title, description, canonical, image, ogType = "website" } = Astro.props
 import Meta from "@/components/fundations/head/Meta.astro";
 import Fonts from "@/components/fundations/head/Fonts.astro";
 import Favicons from "@/components/fundations/head/Favicons.astro";
+const isTagPage = Astro.url.pathname.startsWith("/blog/tags/");
 ---
 
 <Meta
@@ -13,6 +14,8 @@ import Favicons from "@/components/fundations/head/Favicons.astro";
   image={image}
   ogType={ogType}
 />
+
+ {isTagPage && <meta name="robots" content="noindex, follow" />}
 
 <Fonts />
 <Favicons />

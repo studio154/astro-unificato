@@ -192,6 +192,7 @@ Puoi continuare a provare da sola o da solo. Puoi esercitarti davanti allo specc
 </div>
 
 Se stai pensando a un servizio fotografico completo, qui trovi una guida su come prepararti
+
 👉 [Come prepararsi al servizio fotografico](/servizio-fotografico/)
 
 ---
