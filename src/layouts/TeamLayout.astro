@@ -10,7 +10,14 @@ import Wrapper from "@/components/fundations/containers/Wrapper.astro";
 const { frontmatter } = Astro.props;
 ---
 
-<BaseLayout hideBigLogo={true} hideNavigation={false}>
+<BaseLayout
+  title={frontmatter?.title}
+  description={frontmatter?.description}
+  canonical={frontmatter?.canonical}
+  image={frontmatter?.ogImage}
+  hideBigLogo={true}
+  hideNavigation={false}
+>
   <section>
     <Wrapper variant="standard" class="pt-2">
       <div class="max-w-xl mx-auto text-center text-base-900">
