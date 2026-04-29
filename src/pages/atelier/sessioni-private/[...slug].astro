@@ -1,10 +1,10 @@
 ---
 import { getCollection } from "astro:content";
-import StoreLayout from "../../../layouts/LayoutProdottoSingolo.astro";
+import LayoutProdottoSingolo from "../../../layouts/LayoutProdottoSingolo.astro";
 
-// Genera i percorsi statici
 export async function getStaticPaths() {
   const sessioni = await getCollection("sessioni");
+
   return sessioni.map((page) => ({
     params: { slug: page.slug },
     props: { page },
@@ -12,11 +12,16 @@ export async function getStaticPaths() {
   }));
 }
 
-// Recupera i dati della singola pagina
 const { page } = Astro.props;
 const { Content } = await page.render();
 ---
 
-<StoreLayout frontmatter={page.data}>
+
+<LayoutProdottoSingolo 
+frontmatter={page.data}
+  title={page.data.title}
+  description={page.data.description}
+  canonical={`https://www.eliocarchidi.com/atelier/sessioni-private/${page.slug}/`}
+  image={page.data.image?.url || page.data.image}>
   <Content />
-</StoreLayout>
+</LayoutProdottoSingolo>

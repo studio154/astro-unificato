@@ -12,12 +12,24 @@ import Navigation from "@/components/global/NavigazioneNegozio.astro";
 // <BaseLayout hideBigLogo={true} hideNavigation={true} hideFooter={true}>
   import ImmagineHero from '../components/elio/ImmagineHero.astro';
 
-const { hideBigLogo = false, hideNavigation = false, hideFooter = false } = Astro.props;
+const {
+  title,
+  description,
+  canonical,
+  image,
+  ogType,
+  hideBigLogo = false, hideNavigation = false, hideFooter = false } = Astro.props;
 ---
 
 <html lang="it" class="scroll-smooth">
   <head>
-    <BaseHead />
+    <BaseHead
+      title={title}
+      description={description}
+      canonical={canonical}
+      image={image}
+      ogType={ogType}
+    />
   </head>
   
   

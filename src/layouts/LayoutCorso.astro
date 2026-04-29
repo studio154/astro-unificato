@@ -1,38 +1,43 @@
 ---
-// 1. RECUPERO DATI DAL MARKDOWN
-const { frontmatter } = Astro.props;
+// 1. Recupero dati dal Markdown / props
+const {
+  frontmatter,
+  canonical,
+  ogType,
+} = Astro.props;
 
-// Se frontmatter esiste, prendiamo i dati da lì, altrimenti da Astro.props
 const title = frontmatter?.title || Astro.props.title;
 const description = frontmatter?.description || Astro.props.description;
 const image = frontmatter?.image || Astro.props.image;
 
 import BaseHead from "@/components/fundations/head/BaseHead.astro";
-import Favicons from '@/components/fundations/head/Favicons.astro';
 import Footer from "@/components/global/Footer.astro";
 import NavigationHamburgerFormazione from "@/components/global/NavigazioneHamburgerFormazione.astro";
+import TobBar from "@/components/cta/TopBarHome.astro";
 import "@/styles/global.css";
 
 const baseUrl = "https://media.eliocarchidi.com/uploads";
 let finalImageUrl = null;
 
 if (image) {
-    const cleanPath = image.replace(/^(.*?)(wp-content\/uploads\/|uploads\/)?/, '').replace(/^\//, '');
-    finalImageUrl = `${baseUrl}/${cleanPath}`;
-}
+  const cleanPath = image
+    .replace(/^(.*?)(wp-content\/uploads\/|uploads\/)?/, "")
+    .replace(/^\//, "");
 
-import TobBar from '@/components/cta/TopBarHome.astro';
+  finalImageUrl = `${baseUrl}/${cleanPath}`;
+}
 ---
 
 <html lang="it" class="scroll-smooth">
   <head>
-    <Favicons />
-    <BaseHead 
-  title={title} 
-  description={description} 
-  image={finalImageUrl} 
-/>
-  </head>
+  <BaseHead
+    title={title}
+    description={description}
+    canonical={canonical}
+    image={finalImageUrl}
+    ogType={ogType}
+  />
+</head>
   
   <body class="flex flex-col bg-gallery-6 min-h-svh">
     <TobBar />

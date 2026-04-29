@@ -68,27 +68,6 @@ const sessioni = defineCollection({
     }),
 });
 
-const team = defineCollection({
-  schema: ({ image }) =>
-    z.object({
-      name: z.string(),
-      role: z.string().optional(),
-      bio: z.string().optional(),
-      image: z.object({
-        url: image(),
-        alt: z.string(),
-      }),
-      socials: z
-        .object({
-          twitter: z.string().optional(),
-          website: z.string().optional(),
-          linkedin: z.string().optional(),
-          email: z.string().optional(),
-        })
-        .optional(),
-    }),
-});
-
 const gallery = defineCollection({
   schema: ({ image }) =>
     z.object({
@@ -169,27 +148,6 @@ const infopages = defineCollection({
   }),
 });
 
-const servizi = defineCollection({
-  schema: ({ image }) =>
-    z.object({
-      name: z.string(),
-      role: z.string().optional(),
-      bio: z.string().optional(),
-      image: z.object({
-        url: image(),
-        alt: z.string(),
-      }),
-      socials: z
-        .object({
-          twitter: z.string().optional(),
-          website: z.string().optional(),
-          linkedin: z.string().optional(),
-          email: z.string().optional(),
-        })
-        .optional(),
-    }),
-});
-
 // --- SCHEMA PAGINE (EX WORDPRESS) ---
 const pagine = defineCollection({
   type: 'content', // Importante per gestire il corpo del testo Markdown
@@ -203,13 +161,11 @@ const pagine = defineCollection({
 });
 
 export const collections = {
-  team,
   gallery,
   infopages,
   posts: postsCollection,
   edizioni,
   sessioni,
   portfolio,
-  servizi,
   pagine, // <--- Aggiunta qui
 };

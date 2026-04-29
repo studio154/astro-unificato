@@ -10,6 +10,11 @@ import Footer from "@/components/global/Footer.astro";
 import Navigation from "@/components/global/NavigazionePulita.astro";
 
 const {
+  title,
+  description,
+  canonical,
+  image,
+  ogType,
   hideBigLogo = false,
   hideNavigation = false,
   hideFooter = false,
@@ -21,7 +26,13 @@ import TopBarFormazione from "../components/cta/TopBarFormazione.astro";
 <html lang="it" class="scroll-smooth">
   <head>
     <Favicons />
-    <BaseHead />
+    <BaseHead
+      title={title}
+      description={description}
+      canonical={canonical}
+      image={image}
+      ogType={ogType}
+    />
     </head>
   <body class="flex flex-col bg-gallery-6 min-h-svh">
   <TopBarFormazione />

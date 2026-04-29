@@ -9,10 +9,25 @@ import Wrapper from "@/components/fundations/containers/Wrapper.astro";
 import CtaEdizioni from "@/components/cta/CtaEdizioni.astro";
 
 // Components
-const { frontmatter } = Astro.props;
+const {
+  title,
+  description,
+  canonical,
+  image,
+  ogType,
+  frontmatter } = Astro.props;
 ---
 
-<BaseLayout hideNavigation={false} hideBigLogo={true} hideFooter={false}>
+<BaseLayout
+  title={title || frontmatter.title}
+  description={description || frontmatter.description}
+  canonical={canonical}
+  image={image || frontmatter.image?.url}
+  ogType={ogType}
+  hideNavigation={false}
+  hideBigLogo={true}
+  hideFooter={false}
+>
   <section>
     <Wrapper variant="prodotto" class="py-12">
       <!-- Back -->

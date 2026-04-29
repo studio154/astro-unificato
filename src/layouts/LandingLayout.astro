@@ -11,12 +11,24 @@ import Navigation from "@/components/global/NavigazioneHamburger.astro";
 // Hides the big logo, navigation, or footer on selected screens by passing props:
 
 
-const { hideBigLogo = true, hideNavigation = false, hideFooter = true } = Astro.props;
+const {
+  title,
+  description,
+  canonical,
+  image,
+  ogType,
+  hideBigLogo = true, hideNavigation = false, hideFooter = true } = Astro.props;
 ---
 
 <html lang="it" class="scroll-smooth">
   <head>
-    <BaseHead />
+    <BaseHead
+      title={title}
+      description={description}
+      canonical={canonical}
+      image={image}
+      ogType={ogType}
+    />
   </head>
   
   

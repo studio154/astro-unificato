@@ -3,7 +3,6 @@ title: "Rimani in contatto con me!"
 pubDate: 2012-11-01
 description: "Rimani aggiornato su iniziative, attività e tutte le novità dal mio blog. Iscriviti alla mia newsletter oppure contattami se hai delle domande da farmi."
 image: ""
-layout: ../layouts/LayoutPagine.astro
 ---
 
 # Rimani aggiornato su iniziative, attività e tutte le novità dal mio blog.

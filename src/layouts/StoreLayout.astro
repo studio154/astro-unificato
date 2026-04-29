@@ -7,7 +7,13 @@ import Button from "@/components/fundations/elements/Button.astro";
 import Text from "@/components/fundations/elements/Text.astro";
 import Wrapper from "@/components/fundations/containers/Wrapper.astro";
 // Components
-const { frontmatter } = Astro.props;
+const {
+  title,
+  description,
+  canonical,
+  image,
+  ogType,
+  frontmatter } = Astro.props;
 ---
 
 <BaseLayout hideBigLogo={false}>

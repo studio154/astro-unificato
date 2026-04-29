@@ -11,6 +11,11 @@ import Navigation from "@/components/global/NavigazioneTop.astro";
 // Hides the big logo, navigation, or footer on selected screens by passing props:
 
 const {
+  title,
+  description,
+  canonical,
+  image,
+  ogType,
   hideBigLogo = false,
   hideNavigation = false,
   hideFooter = false,
@@ -19,7 +24,13 @@ const {
 
 <html lang="it" class="scroll-smooth">
   <head>
-    <BaseHead />
+    <BaseHead
+      title={title}
+      description={description}
+      canonical={canonical}
+      image={image}
+      ogType={ogType}
+    />
   </head>
 
   <body class="flex flex-col bg-gallery-3 min-h-svh">
