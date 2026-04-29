@@ -5,3 +5,4 @@ node_modules
 
 # Astro cache
 .astro/
+src/_drafts/

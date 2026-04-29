@@ -12,16 +12,30 @@ import Navigation from "@/components/global/NavigazioneAtelier.astro";
 // Hides the big logo, navigation, or footer on selected screens by passing props:
 // <BaseLayout hideBigLogo={true} hideNavigation={true} hideFooter={true}>
 
-const { hideBigLogo = false, hideNavigation = false, hideFooter = false } = Astro.props;
-import Favicons from '../components/fundations/head/Favicons.astro';
+const {
+  title,
+  description,
+  canonical,
+  image,
+  ogType,
+  hideBigLogo = false,
+  hideNavigation = false,
+  hideFooter = false,
+} = Astro.props;
 ---
 
 
 
-<html lang="en" class="scroll-smooth">
+<html lang="it" class="scroll-smooth">
   <head>
-     <Favicons />
-    <BaseHead />
+    
+    <BaseHead
+  title={title}
+  description={description}
+  canonical={canonical}
+  image={image}
+  ogType={ogType}
+/>
   </head>
   <body class="flex flex-col bg-gallery-6 min-h-svh">
   <TopBarFormazione />

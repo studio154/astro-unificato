@@ -1,0 +1,144 @@
+---
+import BaseLayout from "../layouts/LayoutDoveLavoro.astro";
+
+const pageTitle = "Dove lavoro — Studio di ritratto a Roma";
+const pageDescription =
+  "Ritratti fotografici a Roma. Sessioni su appuntamento in studio a Prati/Vaticano, in uno spazio selezionato per luce, silenzio e concentrazione.";
+
+
+---
+
+<BaseLayout
+  title={pageTitle}
+  description={pageDescription}
+>
+  <main class="bg-gallery-6 text-neutral-900">
+    <!-- HERO -->
+    <section class="mx-auto max-w-6xl px-6 pt-16 pb-16">
+      <div class="mb-6">
+        <img
+          src="https://media.eliocarchidi.com/uploads/2026/05/elio-leonardo-carchidi-dove-lavoro.jpg"
+          alt="Studio di ritratto a Roma, zona Prati Vaticano"
+          class="w-full rounded-2xl object-cover shadow-sm"
+        />
+      </div>
+      <p class="mb-12 text-sm text-neutral-500">
+  Uno spazio pensato per lavorare con luce, tempo e concentrazione.
+</p>
+
+      <div class="max-w-3xl">
+        <p class="mb-4 text-sm uppercase tracking-[0.25em] text-neutral-500">
+          Studio di ritratto a Roma
+        </p>
+
+        <h1 class="font-serif text-4xl md:text-6xl leading-tight">
+          Dove lavoro
+        </h1>
+
+        <p class="mt-6 text-lg leading-relaxed text-neutral-700">
+          Lavoro in spazi selezionati per qualità della luce, silenzio e concentrazione.
+          Ogni ambiente è scelto in funzione del ritratto.
+        </p>
+      </div>
+    </section>
+
+    <!-- MAIN TEXT -->
+    <section class="mx-auto max-w-6xl px-6 py-12 grid gap-12 md:grid-cols-[1fr_1.5fr]">
+      <div>
+        <h2 class="font-serif text-3xl">
+          Roma — Prati / Vaticano
+        </h2>
+      </div>
+
+      <div class="space-y-6 text-lg leading-relaxed text-neutral-700">
+        <p>
+          Ricevo su appuntamento in uno studio nel quartiere Prati,
+          a pochi passi dal Vaticano.
+        </p>
+
+        <p>
+          Uno spazio ampio e controllato, adatto a ritratti editoriali,
+          corporate e sessioni private.
+        </p>
+
+        <p>
+          La luce è costruita con precisione, il tempo è parte del processo.
+          Ogni sessione è progettata in funzione della persona e del risultato finale.
+        </p>
+
+        <p class="text-base italic text-neutral-500">
+          Lo spazio viene utilizzato in base al progetto e alla disponibilità.
+        </p>
+      </div>
+    </section>
+
+    <!-- GALLERY -->
+    <section class="mx-auto max-w-6xl px-6 py-12">
+      <div class="grid gap-6 md:grid-cols-3">
+        <img
+          src="https://media.eliocarchidi.com/uploads/2026/05/elio-leonardo-carchidi-fotogrfo-professionale-roma.jpg"
+          alt="Interno dello studio fotografico in zona Prati Vaticano"
+          class="h-80 w-full rounded-2xl object-cover"
+        />
+
+        <img
+          src="https://media.eliocarchidi.com/uploads/2026/05/elio-leonardo-carchidi-lo-studio-fotografico-roma.jpg"
+          alt="Spazio per ritratti fotografici a Roma"
+          class="h-80 w-full rounded-2xl object-cover"
+        />
+
+        <img
+          src="https://media.eliocarchidi.com/uploads/2026/05/elio-leonardo-carchidi-lo-studio-fotografico.jpg"
+          alt="Dettaglio dello studio per sessioni di ritratto"
+          class="h-80 w-full rounded-2xl object-cover"
+        />
+      </div>
+    </section>
+
+    <!-- APPROACH -->
+    <section class="mx-auto max-w-4xl px-6 py-16 text-center">
+      <h2 class="font-serif text-3xl md:text-4xl">
+        Luce, tempo, presenza
+      </h2>
+
+      <p class="mt-6 text-lg leading-relaxed text-neutral-700">
+        Lavoro con luce naturale e luce controllata, mantenendo un’impostazione essenziale.
+        L’attenzione è sulla persona, non sull’attrezzatura.
+      </p>
+    </section>
+
+    <!-- CTA -->
+    <section class="mx-auto max-w-5xl px-6 pb-20">
+      <div class="rounded-3xl bg-gallery-4 p-8 md:p-12 text-center">
+        <h2 class="font-serif text-3xl">
+          Definiamo insieme lo spazio e la sessione
+        </h2>
+
+        <p class="mx-auto mt-4 max-w-2xl text-lg leading-relaxed text-neutral-700">
+          Le sessioni si svolgono su appuntamento, in base al tipo di ritratto
+          e al risultato desiderato.
+        </p>
+
+        <div class="mt-8 flex flex-col items-center justify-center gap-4 sm:flex-row">
+          <a
+            href="/contatti/"
+            class="inline-flex rounded-full bg-neutral-900 px-7 py-3 text-sm font-semibold uppercase tracking-wide text-white hover:bg-neutral-700"
+          >
+            Richiedi informazioni
+          </a>
+
+          <a
+            href="mailto:info@eliocarchidi.com"
+            class="inline-flex rounded-full border border-neutral-300 px-7 py-3 text-sm font-semibold uppercase tracking-wide text-neutral-900 hover:bg-white"
+          >
+            Scrivimi
+          </a>
+        </div>
+
+        <p class="mt-6 text-sm text-neutral-500">
+          Ricevo esclusivamente su appuntamento.
+        </p>
+      </div>
+    </section>
+  </main>
+</BaseLayout>

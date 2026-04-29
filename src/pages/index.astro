@@ -2,40 +2,12 @@
 import BaseLayout from "../layouts/LayoutHome.astro";
 import Wrapper from "../components/fundations/containers/Wrapper.astro";
 import Text from "../components/fundations/elements/Text.astro";
-import { AstroSeo } from "@astrolib/seo";
 import Button from "@/components/fundations/elements/Button.astro";
 import { Image } from "astro:assets";
 import ImmagineEdizioni from "../images/edizioni/cornici-atelier-gallery-edizioni-bn1.png";
 import ImmagineSessioni from "../images/atelier/foto-edizioni-cornici-gallerie-fotografiche.png";
 ---
 
-<AstroSeo
-  title="Elio Leonardo Carchidi | Fotografo di Ritratto a Roma"
-  description="Da oltre 40 anni realizzo ritratti fotografici con luce naturale e attenzione alla presenza. Fine art, corporate ed editoriale. Studio a Roma, disponibile in tutta Italia."
-  canonical="https://www.eliocarchidi.com/"
-  openGraph={{
-    url: "https://www.eliocarchidi.com/",
-    title: "Elio Leonardo Carchidi | Fotografo di Ritratto a Roma",
-    description: "Da oltre 40 anni realizzo ritratti fotografici con luce naturale e attenzione alla presenza. Fine art, corporate ed editoriale. Studio a Roma, disponibile in tutta Italia.",
-    images: [
-      {
-        url: "https://www.eliocarchidi.com/og-image-home.jpg",
-        width: 1200,
-        height: 630,
-        alt: "Ritratti fotografici di Elio Leonardo Carchidi",
-        type: "image/jpeg",
-      },
-    ],
-    site_name: "Elio Leonardo Carchidi - Atelier Fotografico",
-    type: "website",
-    locale: "it_IT",
-  }}
-  twitter={{
-    handle: "@eliocarchidi",
-    site: "@eliocarchidi",
-    cardType: "summary_large_image",
-  }}
-/>
 
 <BaseLayout>
   <section>

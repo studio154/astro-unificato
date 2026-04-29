@@ -1,47 +1,22 @@
 ---
 import BaseLayout from "@/layouts/LayoutPrenotazioni.astro";
 import Wrapper from "@/components/fundations/containers/Wrapper-1040.astro";
-import { AstroSeo } from "@astrolib/seo";
 import SessionForm from "@/components/hubspot-form/SessioniFormspark.astro";
+
+const pageTitle = "Richiedi la tua sessione fotografica";
+const pageDescription =
+  "Richiedi una sessione fotografica di ritratto a Roma. Un percorso su appuntamento, costruito intorno alla persona, alla luce e al risultato desiderato.";
+const canonical =
+  "https://www.eliocarchidi.com/atelier/prenotazioni/sessione-fotografica/";
+const image = "https://www.eliocarchidi.com/og-image-sessione-fotografica.jpg";
 ---
 
-<AstroSeo
-  title="Richiedi la tua sessione fotografica"
-  description="A detailed description of your page content."
-  canonical="https://yourwebsite.com/current-page"
-  openGraph={{
-    url: "https://yourwebsite.com/current-page",
-    title: "Your Page Title",
-    description: "A detailed description of your page content.",
-    images: [
-      {
-        url: "https://yourwebsite.com/og-image.jpg",
-        width: 1200,
-        height: 630,
-        alt: "Open Graph Image Alt",
-        type: "image/jpeg",
-      },
-    ],
-    site_name: "Your Site Name",
-    type: "website",
-    locale: "en_US",
-  }}
-  twitter={{
-    handle: "@yourhandle",
-    site: "@yourwebsite",
-    cardType: "summary_large_image",
-  }}
-/>
-
-<BaseLayout>
-  <!-- <div class="my-12 text-center">
-    <h1 class="text-2xl font-bold mb-4">
-      L’arte di vedersi attraverso un ritratto
-    </h1>
-    <p class="mb-6 text-gray-600">
-      Una sessione fotografica è un tempo sospeso, dedicato a riscoprire la propria immagine. Se desideri un ritratto che parli di te, o vuoi regalare un’esperienza di autentica bellezza, scrivimi qui: progetteremo insieme la luce, il set e l’atmosfera per dare forma alla tua storia.
-    </p>
-  </div> -->
+<BaseLayout
+  title={pageTitle}
+  description={pageDescription}
+  canonical={canonical}
+  image={image}
+>
   <Wrapper variant="default" class="py-2 m-auto">
     <SessionForm />
   </Wrapper>

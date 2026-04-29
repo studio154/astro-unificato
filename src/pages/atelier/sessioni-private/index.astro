@@ -9,38 +9,9 @@ const allProducts = (await getCollection("sessioni")).sort(
   (a, b) => a.data.price - b.data.price
 );
 
-import { AstroSeo } from "@astrolib/seo";
 import Button from "@/components/fundations/elements/Button.astro";
 ---
 
-<AstroSeo
-  title="Sessioni Private di Ritratto | Portrait Atelier"
-  description="Ritratto fotografico personalizzato, realizzato su commissione. Un processo costruito con attenzione, dialogo e profondità."
-  canonical="https://www.eliocarchidi.com/atelier/sessioni-private/"
-  openGraph={{
-    url: "https://www.eliocarchidi.com/atelier/sessioni-private/",
-    title: "Atelier Fotografico | Stampe d’Autore e Ritratto su Misura",
-    description:
-      "Ritratto fotografico personalizzato, realizzato su commissione. Un processo costruito con attenzione, dialogo e profondità.",
-    images: [
-      {
-        url: "https://yourwebsite.com/og-image.jpg",
-        width: 1200,
-        height: 630,
-        alt: "Open Graph Image Alt",
-        type: "image/jpeg",
-      },
-    ],
-    site_name: "Your Site Name",
-    type: "website",
-    locale: "en_US",
-  }}
-  twitter={{
-    handle: "@yourhandle",
-    site: "@yourwebsite",
-    cardType: "summary_large_image",
-  }}
-/>
 
 <BaseLayout>
   <section>

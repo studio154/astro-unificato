@@ -1,48 +1,22 @@
 ---
 import BaseLayout from "@/layouts/LayoutRegala.astro";
 import Wrapper from "@/components/fundations/containers/Wrapper-1040.astro";
-import { AstroSeo } from "@astrolib/seo";
 import GiftForm from "@/components/hubspot-form/GiftRequestForm.astro";
+
+const pageTitle = "Regala una sessione fotografica";
+const pageDescription =
+  "Regala un’esperienza di ritratto fotografico. Un tempo dedicato alla persona, alla luce e alla presenza, pensato per restare.";
+const canonical =
+  "https://www.eliocarchidi.com/atelier/prenotazioni/regalare-fotografie/";
+const image = "https://www.eliocarchidi.com/og-image-regala.jpg";
 ---
 
-<AstroSeo
-  title="Regala fotografie"
-  description="A detailed description of your page content."
-  canonical="https://yourwebsite.com/current-page"
-  openGraph={{
-    url: "https://yourwebsite.com/current-page",
-    title: "Your Page Title",
-    description: "A detailed description of your page content.",
-    images: [
-      {
-        url: "https://yourwebsite.com/og-image.jpg",
-        width: 1200,
-        height: 630,
-        alt: "Open Graph Image Alt",
-        type: "image/jpeg",
-      },
-    ],
-    site_name: "Your Site Name",
-    type: "website",
-    locale: "en_US",
-  }}
-  twitter={{
-    handle: "@yourhandle",
-    site: "@yourwebsite",
-    cardType: "summary_large_image",
-  }}
-/>
-
-<BaseLayout>
-  <!-- <div class="my-12 text-center">
-    <h1 class="text-2xl font-bold mb-4">
-      Acquista le tue edizioni fotografiche
-    </h1>
-    <p class="mb-6 text-gray-600">
-      Ti contatteremo entro 24 ore per definire insieme i dettagli della tua
-      scelta di edizioni.
-    </p>
-  </div> -->
+<BaseLayout
+  title={pageTitle}
+  description={pageDescription}
+  canonical={canonical}
+  image={image}
+>
   <Wrapper variant="prose" class="py-2 m-auto">
     <GiftForm />
   </Wrapper>

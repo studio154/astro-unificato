@@ -1,7 +1,6 @@
 ---
 import TeamLayout from "@/layouts/TeamLayout.astro";
 import { Image } from "astro:assets";
-import { AstroSeo } from "@astrolib/seo";
 
 // Import dell'immagine locale
 import FotoElio from "../images/team/elio-leonardo-carchidi-fotografo-roma.jpg";
@@ -9,7 +8,17 @@ import FotoElio from "../images/team/elio-leonardo-carchidi-fotografo-roma.jpg";
 const frontmatter = {
   name: "Elio Leonardo Carchidi",
   role: "Fotografo e Art Director",
+
+  // SEO (passa al layout)
+  title: "Chi sono",
+  description:
+    "Elio Leonardo Carchidi, fotografo di ritratto a Roma. Da oltre 40 anni realizza immagini essenziali e senza tempo, specializzato in fine art, corporate ed editoriale.",
+  canonical: "https://www.eliocarchidi.com/chi-sono/",
+  ogImage:
+    "https://www.eliocarchidi.com/images/team/ritratto-elio-og.jpg",
+
   image: { url: FotoElio, alt: "Elio Leonardo Carchidi" },
+
   bio: `Da oltre 40 anni realizzo ritratti fotografici a Roma, combinando maestria tecnica, sensibilità artistica e cura della presenza.  
 La mia fotografia nasce dalla luce naturale e dal tempo dedicato al soggetto: ogni immagine è essenziale, senza artifici, pensata per restituire autenticità e profondità.  
 
@@ -17,42 +26,15 @@ Fondatore di Studio154, collaboro con clienti e produzioni nazionali e internazi
 La mia filosofia si ispira alla profondità dei classici: “Fatti non foste a viver come bruti ma per seguir virtute e conoscenza” – un principio che guida il mio lavoro e la mia vita.  
 
 Benvenuti nel mio studio: mettetevi comodi e lasciate che il ritratto parli di voi.`,
+
   socials: {
     twitter: "https://twitter.com/eliocarchidi",
     linkedin: "https://www.linkedin.com/in/eliocarchidi",
     email: "mailto:info@eliocarchidi.com",
-    website: "https://www.eliocarchidi.com"
-  }
+    website: "https://www.eliocarchidi.com",
+  },
 };
 ---
-
-<AstroSeo
-  title="Chi Sono | Elio Leonardo Carchidi - Fotografo di Ritratto a Roma"
-  description="Elio Leonardo Carchidi, fotografo di ritratto a Roma. Da oltre 40 anni realizza immagini essenziali e senza tempo, specializzato in fine art, corporate ed editoriale. Studio disponibile in tutta Italia."
-  canonical="https://www.eliocarchidi.com/chi-sono/"
-  openGraph={{
-    url: "https://www.eliocarchidi.com/chi-sono/",
-    title: "Chi Sono | Elio Leonardo Carchidi - Fotografo di Ritratto a Roma",
-    description: "Elio Leonardo Carchidi, fotografo di ritratto a Roma. Da oltre 40 anni realizza immagini essenziali e senza tempo, specializzato in fine art, corporate ed editoriale. Studio disponibile in tutta Italia.",
-    images: [
-      {
-        url: "https://www.eliocarchidi.com/images/team/ritratto-elio-og.jpg",
-        width: 1200,
-        height: 630,
-        alt: "Elio Leonardo Carchidi - Fotografo di Ritratto",
-        type: "image/jpeg",
-      },
-    ],
-    site_name: "Atelier Fotografico Elio Leonardo Carchidi",
-    type: "website",
-    locale: "it_IT",
-  }}
-  twitter={{
-    handle: "@eliocarchidi",
-    site: "@eliocarchidi",
-    cardType: "summary_large_image",
-  }}
-/>
 
 <TeamLayout frontmatter={frontmatter}>
   <section class="pt-6 md:pt-12 text-center max-w-xl mx-auto">
