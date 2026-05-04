@@ -53,15 +53,20 @@ h1
   font-family: var(--font-serif);
 }
 
+
+h2,
+{
+  font-family: var(--font-serif);
+  font-size: clamp(1.6rem, 3vw, 2.2rem);
+}
 p,
 li,
-h2,
 h3,
 h4,
 h5,
 h6,
 blockquote {
-  font-family: var(--font-sans);
+  font-family: var(--font-serif);
 }
 
 .prose {

@@ -1,0 +1,116 @@
+---
+import BaseLayout from "@/layouts/LayoutLarge.astro";
+
+const title = "Ritratto Intimo e Personale";
+const description = "Un approccio essenziale al ritratto, costruito su luce, tempo e presenza. Sessioni private su appuntamento.";
+---
+
+<BaseLayout title={title} description={description}>
+
+<section class="py-20 px-6 text-xl font-200 ">
+
+  <!-- TESTO INTRO -->
+  <div class="max-w-5xl mx-auto">
+
+    <h1 class="text-4xl font-serif mb-6">
+      Ritratto Intimo e Personale
+    </h1>
+
+    <div class="w-12 h-px bg-neutral-400 mb-8"></div>
+
+    <p class="mb-6" >
+      Non si tratta di fotografia erotica nel senso comune.  
+      Si tratta di presenza, di luce, di un modo intimo e personale di essere visti.
+    </p>
+
+    <p class="mb-6">
+      Un ritratto può essere diretto, essenziale, anche vulnerabile —  
+      senza mai diventare costruito o artificiale.
+    </p>
+
+    <p class="mb-10">
+      Il lavoro nasce da qui: osservare, togliere il superfluo,  
+      lasciare spazio a ciò che resta.
+    </p>
+
+  </div>
+
+  <!-- IMMAGINE FULL WIDTH DEL WRAPPER -->
+  <div class="max-w-5xl mx-auto">
+    <img 
+      src="/images/gallery/fine-art-shop/fine-art-shop-2.jpeg"
+      alt="Ritratto intimo in luce naturale"
+      class="w-full rounded-lg object-cover"
+    />
+  </div>
+
+  <!-- 3 COLONNE -->
+  <div class="max-w-5xl mx-auto grid md:grid-cols-3 gap-12 mt-16">
+
+    <div>
+      <h2 class="font-serif text-3xl mb-4">L’approccio</h2>
+      <div class="w-8 h-px bg-neutral-400 mb-4"></div>
+      <p>
+        Ogni sessione è costruita con tempo e attenzione.  
+        Non ci sono pose forzate né modelli da imitare.  
+        La luce — spesso naturale — accompagna, non impone.  
+        L’obiettivo non è “apparire”, ma riconoscersi.
+      </p>
+    </div>
+
+    <div>
+      <h2 class="font-serif text-3xl mb-4">L’esperienza</h2>
+      <div class="w-8 h-px bg-neutral-400 mb-4"></div>
+      <p>
+        La sessione si svolge in uno spazio riservato, con tempi distesi.  
+        Ogni scelta — luce, inquadratura, distanza — è calibrata insieme.  
+        Non è necessario “sapere come mettersi”.  
+        Il lavoro è accompagnarti, senza forzature.
+      </p>
+    </div>
+
+    <div>
+      <h2 class="font-serif text-3xl mb-4">Il risultato</h2>
+      <div class="w-8 h-px bg-neutral-400 mb-4"></div>
+      <p>
+        Le immagini non cercano effetto.  
+        Restano nel tempo.  
+        Un ritratto essenziale,  
+        che può essere intenso senza essere esplicito.
+      </p>
+    </div>
+
+  </div>
+
+  <!-- CTA -->
+  <div class="max-w-5xl mx-auto mt-20">
+    <div class="flex flex-col md:flex-row items-center justify-between border rounded-lg px-8 py-8 gap-6">
+
+      <p class="text-center md:text-left">
+        Se senti che questo tipo di lavoro ti riguarda,  
+        puoi approfondire qui:
+      </p>
+
+      <a 
+        href="/atelier/sessioni-private/" 
+        class="px-6 py-3 bg-black text-white hover:bg-neutral-800 transition whitespace-nowrap"
+      >
+        SCOPRI LE SESSIONI PRIVATE →
+      </a>
+
+    </div>
+  </div>
+
+  <!-- CHIUSURA -->
+  <div class="text-center mt-16">
+    <div class="w-12 h-px bg-neutral-400 mx-auto mb-6"></div>
+    <p>
+      Ogni sessione è unica.  
+      <br />
+      Lo studio riceve esclusivamente su appuntamento.
+    </p>
+  </div>
+
+</section>
+
+</BaseLayout>

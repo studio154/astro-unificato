@@ -24,7 +24,7 @@ const ogImage = image?.url || image || "https://media.eliocarchidi.com/uploads/2
 <meta name="theme-color" content="#ffffff" />
 
 <AstroSeo
-  title={title ? `${title} | Elio Carchidi` : defaultTitle}
+  title={title || defaultTitle}
   description={description || defaultDesc}
   canonical={canonicalUrl}
   openGraph={{
