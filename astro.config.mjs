@@ -3,9 +3,6 @@ import tailwindcss from '@tailwindcss/vite';
 import sitemap from "@astrojs/sitemap";
 
 export default defineConfig({
-  
-  // Nessun base qui — è il sito principale
-
   site: "https://www.eliocarchidi.com",
 
   vite: {
@@ -24,14 +21,19 @@ export default defineConfig({
     skipInline: false
   },
 
-    integrations: [
-  sitemap({
-    filter: (page) =>
-      !page.includes("/blog/tags/") &&
-      !page.includes("/post-") &&
-      page !== "https://www.eliocarchidi.com/team/home/" &&
-      page !== "https://www.eliocarchidi.com/blog/home/" &&
-      page !== "https://www.eliocarchidi.com/team/elio-carchidi/",
-  }),
-],
+  integrations: [
+    sitemap({
+      filter: (page) =>
+        !page.includes("/blog/tags/") &&
+        !page.includes("/post-") &&
+        page !== "https://www.eliocarchidi.com/team/home/" &&
+        page !== "https://www.eliocarchidi.com/blog/home/" &&
+        page !== "https://www.eliocarchidi.com/team/elio-carchidi/",
+    }),
+  ],
+
+  redirects: {
+    '/le-fotografie-glamour-di-liliane/': '/foto-erotiche',
+    '/conferma-invio-email-liliane-glamour/': '/foto-erotiche'
+  }
 });
