@@ -17,6 +17,11 @@ Guida Pratica per iniziare a Fotografare bene.
 
 Una Guida di Fotografia semplice, efficace, adatta a tutti per imparare a fotografare giocando!
 
+## Download Immediato, GRATIS!
+
+([👉 segui questo link e scarica gratis 👈](https://studio154.it/il-manuale-della-fotografia-per-i-bambini-guida-gratuita/))
+---
+
 ---
 
 ![Il Manuale della Fotografia per i Bambini GRATIS](https://media.eliocarchidi.com/uploads/2013/08/manuale_fotografia_bambini.jpg)
@@ -27,8 +32,7 @@ Una Guida di Fotografia semplice, efficace, adatta a tutti per imparare a fotogr
 
 ## Download Immediato, GRATIS!
 
----
-
+([👉 segui questo link e scarica gratis 👈](https://studio154.it/il-manuale-della-fotografia-per-i-bambini-guida-gratuita/))
 ---
 
 #### Scarica GRATIS l’ebook della Fotografia per i Bambini!
@@ -42,6 +46,11 @@ La Fotografia semplice per i bambini.
 Il **Manuale di Fotografia per Bambini** per incominciare a fotografare, divertendoti insieme al tuo bambino.
 
 Un modo semplice per scoprire le attitudini del “piccolo artista” che c'è in lui fornendogli i giusti stimoli per coltivare ed esprimere tutta la sua creatività con assoluta consapevolezza, attraverso la realizzazione di immagini veramente fantastiche
+
+## Download Immediato, GRATIS!
+
+([👉 segui questo link e scarica gratis 👈](https://studio154.it/il-manuale-della-fotografia-per-i-bambini-guida-gratuita/))
+---
 
 ---
 
@@ -63,6 +72,6 @@ Lavora a Roma presso lo **studio154** sito in PORTA MAGGIORE nel centro della ci
 
 ### Rimani in contatto:
 
-[Invia un messaggio](//www.eliocarchidi.com/pagina-contatti-fotografo/)
+[Invia un messaggio](https://www.eliocarchidi.com/pagina-contatti-fotografo/)
 
 Contatta lo Studio Fotografico. **Tel. 06 4525 6272**
