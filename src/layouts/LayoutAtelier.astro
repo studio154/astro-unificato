@@ -8,7 +8,7 @@ import BaseHead from "@/components/fundations/head/BaseHead.astro";
 import Wrapper from "@/components/fundations/containers/Wrapper.astro";
 // Components
 import Footer from "@/components/global/Footer.astro";
-import Navigation from "@/components/global/NavigazioneAtelier.astro";
+import Navigation from "@/components/global/NavigazioneHamburgerStandard.astro";
 // Hides the big logo, navigation, or footer on selected screens by passing props:
 // <BaseLayout hideBigLogo={true} hideNavigation={true} hideFooter={true}>
 
@@ -18,7 +18,7 @@ const {
   canonical,
   image,
   ogType,
-  hideBigLogo = false,
+  hideBigLogo = true,
   hideNavigation = false,
   hideFooter = false,
 } = Astro.props;
@@ -37,17 +37,18 @@ const {
   ogType={ogType}
 />
   </head>
-  <body class="flex flex-col bg-gallery-6 min-h-svh">
+  <body class="flex flex-col bg-gallery-8 min-h-svh">
   <TopBarFormazione />
     {
       !hideBigLogo && (
         <Wrapper variant="standard" class="pt-8">
-          <BigLogo />
+            <BigLogo />
         </Wrapper>
       )
     }
     {!hideNavigation && <Navigation />}
     <main class="grow"><slot /></main>
     {!hideFooter && <Footer />}
+  
   </body>
 </html>

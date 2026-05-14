@@ -1,126 +1,219 @@
 ---
-import BaseLayout from "../layouts/LayoutHome.astro";
-import Wrapper from "../components/fundations/containers/Wrapper.astro";
-import Text from "../components/fundations/elements/Text.astro";
-import Button from "@/components/fundations/elements/Button.astro";
-import { Image } from "astro:assets";
-import ImmagineEdizioni from "../images/edizioni/cornici-atelier-gallery-edizioni-bn1.png";
-import ImmagineSessioni from "../images/atelier/foto-edizioni-cornici-gallerie-fotografiche.png";
+import LayoutLandingFull from "@/layouts/LayoutLandingFull.astro";
 ---
 
-
-<BaseLayout
-  title="Elio Leonardo Carchidi | Fotografo di Ritratto a Roma"
-  description="Da oltre 40 anni realizzo ritratti fotografici con luce naturale e attenzione alla presenza. Fine art, corporate ed editoriale. Studio a Roma, disponibile in tutta Italia."
-  canonical="https://www.eliocarchidi.com/"
-  image="https://www.eliocarchidi.com/og-image-home.jpg"
+<LayoutLandingFull
+  title="Ritratti professionali per aziende, executive e personal branding a Roma"
+  description="Sessioni fotografiche essenziali e curate per professionisti, manager, team aziendali e clienti internazionali. Disponibile in studio o presso aziende e hotel a Roma."
+  image="/2026/05/avvocato-pellegrino-corporate-executive-portraits%20(1).jpg"
 >
-  <section>
-    <Wrapper variant="standard" class="py-2">
-      <div class="mt-4 md:mt-16 grid gap-16 grid-cols-1 lg:grid-cols-2 max-w-5xl mx-auto">
-        
-        <div class="flex flex-col items-center text-center">
-          <a href="/atelier/sessioni-private/" class="block overflow-hidden">
-            <Image
-              src={ImmagineSessioni}
-              alt="Sessioni Private di Ritratto - Elio Leonardo Carchidi"
-              width={610}
-              height={410}
-              class="w-full"
-              loading="lazy"
-            />
-          </a>
-          <Text
-            tag="h2"
-            variant="textBase"
-            class="mt-4 text-lg font-semibold tracking-wide"
-          >
-            Sessioni Private di Ritratto
-          </Text>
-          <Text
-            tag="p"
-            variant="textSmall"
-            class="mt-2 text-base max-w-lg"
-          >
-            Un'esperienza di ritratto costruita intorno alla tua presenza, con luce, tempo e attenzione dedicati.
-          </Text>
-          <Button
-            isLink={true}
-            href="/atelier/sessioni-private/"
-            size="lg"
-            variant="default"
-            class="mt-4"
-          >
-            Prenota il tuo ritratto
-          </Button>
-        </div>
 
-        <div class="flex flex-col items-center text-center">
-          <a href="/atelier/edizioni/" class="block overflow-hidden">
-            <Image
-              src={ImmagineEdizioni}
-              alt="Edizioni d'Autore - Elio Leonardo Carchidi"
-              width={610}
-              height={410}
-              class="w-full"
-              loading="eager"
-              fetchpriority="high"
-            />
-          </a>
-          <Text
-            tag="h2"
-            variant="textBase"
-            class="mt-4 text-lg font-semibold tracking-wide"
-          >
-            Edizioni d'Autore
-          </Text>
-          <Text
-            tag="p"
-            variant="textSmall"
-            class="mt-2 text-base max-w-lg"
-          >
-            Ritratti e stampe già realizzati, disponibili in edizioni curate e pronte a entrare nel tuo spazio.
-          </Text>
-          <Button
-            isLink={true}
-            href="/atelier/edizioni/"
-            size="lg"
-            variant="default"
-            class="mt-4"
-          >
-            Esplora le edizioni
-          </Button>
-        </div>
+  <!-- INTRO -->
+  <section class="grid gap-12 md:grid-cols-2 md:gap-20">
 
-        
+    <div>
+      <p class="mb-3 text-sm uppercase tracking-[0.25em] text-slate-500">
+        Corporate & Executive Portraits
+      </p>
 
-      </div>
+      <h2
+        class="font-serif text-4xl font-light leading-tight text-slate-950"
+        style="font-family: 'Newsreader', serif;"
+      >
+        Ritratti professionali costruiti attorno alla presenza.
+      </h2>
+    </div>
 
-      <div class="mt-25 md:mt-50 mb-16 md:mb-32 text-center max-w-lg m-auto">
-        <Text
-          tag="h1"
-          variant="textLG"
-          class="font-serif uppercase lg:order-none text-base-900 text-center"
-        >
-          <a class="hover:text-base-900 text-gallery-5" href="/">Un approccio al ritratto</a><br>
-        </Text>
-        
-        <Text
-          tag="h2"
-          variant="textLG"
-          class="order-last font-serif uppercase lg:order-none col-span-full lg:col-span-1: text-base-900"
-        >
-          Da oltre 40 anni lavoro sul ritratto come forma essenziale.<br><br>
-          La luce naturale e il tempo sono parte del processo, non strumenti da controllare.<br><br>
-          Ogni immagine nasce per sottrazione, fino a restituire una presenza autentica.
-        </Text>
+    <div class="space-y-6 text-lg leading-relaxed text-slate-600">
 
-        <div class="mt-24 flex justify-center">
-          <Button size="base" variant="default" isLink={true} href="/servizi/">
-            <span class="uppercase">Scopri tutti i servizi →</span>
-          </Button>
-        </div>
-      </div>
-    </Wrapper>
+      <p>
+        Realizzo ritratti professionali per aziende, professionisti,
+        executive e clienti internazionali che desiderano un’immagine
+        sobria, autorevole e contemporanea.
+      </p>
+
+      <p>
+        Ogni sessione è progettata per creare fotografie utilizzabili
+        per LinkedIn, stampa, comunicazione aziendale, conferenze,
+        profili professionali e personal branding.
+      </p>
+
+      <p>
+        Lavoro principalmente a Roma, in studio o direttamente presso
+        aziende, hotel e location selezionate.
+      </p>
+
+    </div>
+
   </section>
-</BaseLayout>
+
+  <!-- SERVICES -->
+  <section class="mt-32">
+
+    <div class="mb-12">
+      <p class="mb-3 text-sm uppercase tracking-[0.25em] text-slate-500">
+        Servizi
+      </p>
+
+      <h2
+        class="font-serif text-4xl font-light text-slate-950"
+        style="font-family: 'Newsreader', serif;"
+      >
+        Sessioni fotografiche per professionisti e aziende
+      </h2>
+    </div>
+
+    <div class="grid gap-8 md:grid-cols-3">
+
+      <div class="rounded-3xl border border-neutral-200/50 bg-white/10 p-8 transition-all duration-300 hover:border-neutral-300/70 hover:bg-white/20">
+
+        <h3 class="text-xl font-medium text-slate-950">
+          Executive Portraits
+        </h3>
+
+        <p class="mt-4 leading-relaxed text-slate-600">
+          Ritratti individuali per manager, avvocati, consulenti,
+          imprenditori e professionisti.
+        </p>
+        <a
+  href="/galleria/immagini/vip/"
+  class="group mt-6 inline-flex items-center text-sm tracking-[0.08em] text-slate-500 transition-colors duration-300 hover:text-black"
+>
+  Explore
+
+  <span class="ml-2 transition-transform duration-300 group-hover:translate-x-1">
+    →
+  </span>
+</a>
+
+      </div>
+
+      <div class="rounded-3xl border border-neutral-200/50 bg-white/10 p-8 transition-all duration-300 hover:border-neutral-300/70 hover:bg-white/20">
+
+        <h3 class="text-xl font-medium text-slate-950">
+          Corporate Headshots
+        </h3>
+
+        <p class="mt-4 leading-relaxed text-slate-600">
+          Sessioni fotografiche coordinate per team aziendali,
+          siti web, presentazioni e comunicazione interna.
+        </p>
+        <a
+  href="/galleria/immagini/corporate/"
+  class="group mt-6 inline-flex items-center text-sm tracking-[0.08em] text-slate-500 transition-colors duration-300 hover:text-black"
+>
+  Explore
+
+  <span class="ml-2 transition-transform duration-300 group-hover:translate-x-1">
+    →
+  </span>
+</a>
+
+      </div>
+
+      <div class="rounded-3xl border border-neutral-200/50 bg-white/10 p-8 transition-all duration-300 hover:border-neutral-300/70 hover:bg-white/20">
+
+        <h3 class="text-xl font-medium text-slate-950">
+          Personal Branding
+        </h3>
+
+        <p class="mt-4 leading-relaxed text-slate-600">
+          Immagini professionali per creativi, speaker,
+          consulenti e professionisti indipendenti.
+        </p>
+        <a
+  href="/galleria/immagini/fine-art/"
+  class="group mt-6 inline-flex items-center gap-2 text-sm tracking-wide text-slate-500 transition-colors duration-300 hover:text-slate-900"
+>
+  Explore
+
+  <span class="ml-2 transition-transform duration-300 group-hover:translate-x-1">
+    →
+</a>
+
+      </div>
+
+    </div>
+
+  </section>
+
+  <!-- APPROACH -->
+  <section class="mt-32 grid gap-16 md:grid-cols-2">
+
+    <div>
+
+      <p class="mb-3 text-sm uppercase tracking-[0.25em] text-slate-500">
+        Approccio
+      </p>
+
+      <h2
+        class="font-serif text-4xl font-light leading-tight text-slate-950"
+        style="font-family: 'Newsreader', serif;"
+      >
+        Oltre quarant’anni di esperienza nel ritratto.
+      </h2>
+
+    </div>
+
+    <div class="space-y-6 text-lg leading-relaxed text-slate-600">
+
+      <p>
+        Il mio lavoro nasce dalla fotografia di ritratto editoriale e fine art,
+        con un approccio essenziale costruito sulla luce, sulla presenza
+        e sulla naturalezza dell’immagine.
+      </p>
+
+      <p>
+        L’obiettivo non è creare fotografie artificiali o aggressive,
+        ma immagini professionali credibili, eleganti e durature.
+      </p>
+
+      <p>
+        Ogni sessione viene sviluppata con attenzione al contesto,
+        alla persona e all’utilizzo finale delle immagini.
+      </p>
+
+    </div>
+
+  </section>
+
+  <!-- CTA -->
+  <section class="mt-32 rounded-[2rem] bg-slate-950 px-10 py-20 text-center text-white">
+
+    <p class="mb-4 text-sm uppercase tracking-[0.25em] text-slate-400">
+      Studio fotografico a Roma
+    </p>
+
+    <h2
+  class="mx-auto max-w-3xl font-serif text-4xl font-medium leading-tight tracking-tight text-neutral-50 md:text-5xl"
+  style="font-family: 'Newsreader', serif;"
+>
+  Prenota una sessione fotografica professionale.
+</h2>
+
+    <p class="mx-auto mt-6 max-w-2xl text-lg leading-relaxed text-slate-300">
+      Disponibile per ritratti individuali, team aziendali,
+      personal branding e clienti internazionali a Roma.
+    </p>
+
+    <div class="mt-10 flex flex-wrap justify-center gap-4">
+
+      <a
+        href="/contatti"
+        class="inline-flex items-center justify-center rounded-full bg-white px-8 py-4 text-sm font-medium tracking-wide text-slate-950 transition hover:bg-slate-200"
+      >
+        Richiedi informazioni
+      </a>
+
+      <a
+        href="/portfolio"
+        class="inline-flex items-center justify-center rounded-full border border-slate-600 px-8 py-4 text-sm font-medium tracking-wide text-white transition hover:border-white"
+      >
+        Portfolio
+      </a>
+
+    </div>
+
+  </section>
+
+</LayoutLandingFull>

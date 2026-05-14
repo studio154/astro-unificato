@@ -1,6 +1,7 @@
 ---
 const currentPath = Astro.url.pathname;
 
+/*
 const menuLinks = [
   { href: "/", label: "Home" },
   { href: "/portfolio/", label: "Portfolio" },
@@ -9,72 +10,76 @@ const menuLinks = [
   { href: "/contatti/", label: "Contatti" },
   { href: "/blog/", label: "Journal" },
 ];
+*/
 
-import Wrapper from "@/components/fundations/containers/Wrapper.astro";
+const menuLinksMinimal = [
+  { href: "/portfolio/", label: "Portfolio" },
+  { href: "/atelier/", label: "Atelier" },
+  { href: "/chi-sono/", label: "About" },
+  { href: "/contatti/", label: "Contact" },
+];
+
 import Text from "@/components/fundations/elements/Text.astro";
 ---
-<Wrapper variant="standard">
-  <nav class="left-0 w-full z-50 border-b border-black-200">
-    
-    <div class="mx-auto flex items-center justify-between p-4 mt-4">
 
-      <!-- Logo -->
-      <a href="/" class="flex items-center gap-2">
-        <span class="site-title text-lg font-semibold uppercase tracking-wide">
-          Elio Leonardo Carchidi
-        </span>
-      </a>
+<nav class="w-full border-b border-neutral-200/60 bg-[#f2f0e8]/90 backdrop-blur-md">
+  <div class="flex items-center justify-between px-6 py-7 md:px-12 lg:px-20 xl:px-24">
+    <!-- Logo -->
+    <a href="/" class="flex items-center gap-2">
+      <span class="site-title text-[1.12rem] font-black uppercase tracking-[-0.04em] text-black">
+        Elio Leonardo Carchidi
+      </span>
+    </a>
 
-      <!-- Hamburger -->
-      <button
-        id="hamburgerBtn"
-        class="lg:hidden flex items-center justify-center w-10 h-10"
-        aria-controls="mobileMenu"
-        aria-expanded="false"
-      >
-        <span class="sr-only">Apri menu</span>
-        <div class="flex flex-col gap-1">
-          <span class="block w-5 h-0.5 bg-black"></span>
-          <span class="block w-5 h-0.5 bg-black"></span>
-          <span class="block w-5 h-0.5 bg-black"></span>
-        </div>
-      </button>
-
-      <!-- Menu desktop -->
-      <div class="hidden lg:flex items-center gap-8 uppercase tracking-wide">
-        {menuLinks.map((link) => (
-          <Text
-            tag="a"
-            href={link.href}
-            variant="textBase"
-            class={`transition-colors ${
-              currentPath === link.href
-                ? "text-black font-semibold"
-                : "text-neutral-600 hover:text-black"
-            }`}
-          >
-            {link.label}
-          </Text>
-        ))}
+    <!-- Hamburger -->
+    <button
+      id="hamburgerBtn"
+      class="flex h-10 w-10 items-center justify-center lg:hidden"
+      aria-controls="mobileMenu"
+      aria-expanded="false"
+      type="button"
+    >
+      <span class="sr-only">Apri menu</span>
+      <div class="flex flex-col gap-1">
+        <span class="block h-0.5 w-5 bg-black"></span>
+        <span class="block h-0.5 w-5 bg-black"></span>
+        <span class="block h-0.5 w-5 bg-black"></span>
       </div>
+    </button>
 
-    </div>
-  </nav>
-
-  <!-- Menu mobile -->
-  <div
-    id="mobileMenu"
-    class="hidden md:hidden border-t border-neutral-200 bg-white"
-  >
-    <div class="flex flex-col px-4 py-4 gap-4 uppercase tracking-wide">
-      {menuLinks.map((link) => (
+    <!-- Menu desktop -->
+    <div class="hidden items-center gap-8 text-[0.82rem] uppercase tracking-[0.08em] lg:flex">
+      {menuLinksMinimal.map((link) => (
         <Text
           tag="a"
           href={link.href}
           variant="textBase"
           class={`transition-colors ${
             currentPath === link.href
-              ? "text-black font-semibold"
+              ? "font-semibold text-black"
+              : "text-neutral-600 hover:text-black"
+          }`}
+        >
+          {link.label}
+        </Text>
+      ))}
+    </div>
+  </div>
+
+  <!-- Menu mobile -->
+  <div
+  id="mobileMenu"
+  class="hidden border-t border-neutral-200/60 bg-[#f2f0e8] lg:hidden"
+>
+    <div class="flex flex-col gap-4 px-6 py-5 text-[0.9rem] uppercase tracking-[0.08em] md:px-12">
+      {menuLinksMinimal.map((link) => (
+        <Text
+          tag="a"
+          href={link.href}
+          variant="textBase"
+          class={`transition-colors ${
+            currentPath === link.href
+              ? "font-semibold text-black"
               : "text-neutral-700 hover:text-black"
           }`}
         >
@@ -83,14 +88,16 @@ import Text from "@/components/fundations/elements/Text.astro";
       ))}
     </div>
   </div>
-</Wrapper>
+</nav>
 
 <script>
   const btn = document.getElementById("hamburgerBtn");
   const menu = document.getElementById("mobileMenu");
 
-  btn.addEventListener("click", () => {
-    const isOpen = menu.classList.toggle("hidden");
-    btn.setAttribute("aria-expanded", String(!isOpen));
-  });
+  if (btn && menu) {
+    btn.addEventListener("click", () => {
+      const isHidden = menu.classList.toggle("hidden");
+      btn.setAttribute("aria-expanded", String(!isHidden));
+    });
+  }
 </script>

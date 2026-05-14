@@ -1,6 +1,6 @@
 ---
 interface Props {
-  variant?: "standard" | "prose" | "gallery"; // Define any variants you need
+  variant?: "standard" | "prose" | "gallery" | "prodotto" | "landing"; // Define any variants you need
   class?: string; // Optional prop for additional classes
 }
 const { variant = "standard", class: extraClass = "" } = Astro.props;
@@ -16,6 +16,9 @@ const variantClasses = {
 
   // Wrapper for gallery blocks
   prodotto: "max-w-6xl mx-auto px-4 sm:px-6 lg:px-4 w-full", // <-- NUOVA VARIANTE
+
+  // Wrapper for landing
+  landing: "mx-auto px-4 sm:px-6 lg:px-4", // <-- NUOVA VARIANTE
   
 };
 // Combine the classes for the specified variant with any extra classes

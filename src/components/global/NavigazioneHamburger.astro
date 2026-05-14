@@ -1,6 +1,7 @@
 ---
 const currentPath = Astro.url.pathname;
 
+/*
 const menuLinks = [
   { href: "/", label: "Home" },
   { href: "/portfolio/", label: "Portfolio" },
@@ -8,6 +9,14 @@ const menuLinks = [
   { href: "/chi-sono/", label: "Chi sono" },
   { href: "/contatti/", label: "Contatti" },
   { href: "/blog/", label: "Journal" },
+];
+*/
+
+const menuLinksMinimal = [
+  { href: "/portfolio/", label: "Portfolio" },
+  { href: "/atelier/", label: "Atelier" },
+  { href: "/chi-sono/", label: "About" },
+  { href: "/contatti/", label: "Contact" },
 ];
 
 import Wrapper from "@/components/fundations/containers/Wrapper.astro";
@@ -42,7 +51,7 @@ import Text from "@/components/fundations/elements/Text.astro";
 
       <!-- Menu desktop -->
       <div class="hidden lg:flex items-center gap-8 uppercase tracking-wide">
-        {menuLinks.map((link) => (
+        {menuLinksMinimal.map((link) => (
           <Text
             tag="a"
             href={link.href}
@@ -67,7 +76,7 @@ import Text from "@/components/fundations/elements/Text.astro";
     class="hidden md:hidden border-t border-neutral-200 bg-white"
   >
     <div class="flex flex-col px-4 py-4 gap-4 uppercase tracking-wide">
-      {menuLinks.map((link) => (
+      {menuLinksMinimal.map((link) => (
         <Text
           tag="a"
           href={link.href}

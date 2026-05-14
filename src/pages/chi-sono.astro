@@ -1,9 +1,11 @@
 ---
 import TeamLayout from "@/layouts/TeamLayout.astro";
-import { Image } from "astro:assets";
 
 // Import dell'immagine locale
-import FotoElio from "../images/team/elio-leonardo-carchidi-fotografo-roma.jpg";
+
+const FotoElio =
+  "https://media.eliocarchidi.com/uploads/2026/05/elio-leonardo-carchidi-studio.jpeg";
+
 
 const frontmatter = {
   name: "Elio Leonardo Carchidi",
@@ -15,7 +17,7 @@ const frontmatter = {
     "Elio Leonardo Carchidi, fotografo di ritratto a Roma. Da oltre 40 anni realizza immagini essenziali e senza tempo, specializzato in fine art, corporate ed editoriale.",
   canonical: "https://www.eliocarchidi.com/chi-sono/",
   ogImage:
-    "https://www.eliocarchidi.com/images/team/ritratto-elio-og.jpg",
+    "https://media.studio154.it/uploads/2026/05/elio-leonardo-carchidi-studio.jpeg",
 
   image: { url: FotoElio, alt: "Elio Leonardo Carchidi" },
 
@@ -35,58 +37,65 @@ Benvenuti nel mio studio: mettetevi comodi e lasciate che il ritratto parli di v
   },
 };
 ---
-
 <TeamLayout frontmatter={frontmatter}>
-  <section class="pt-6 md:pt-12 text-center max-w-xl mx-auto">
-    
-    <!-- Go back -->
-    <a href="javascript:history.back()" class="inline-flex items-center gap-1 text-xs text-gray-600 hover:text-gray-800 mb-4">
+  <section class="mx-auto max-w-xl px-6 pt-6 text-center md:pt-12">
+    <a
+      href="javascript:history.back()"
+      class="mb-4 inline-flex items-center gap-1 text-xs text-gray-600 hover:text-gray-800"
+    >
       &larr; Go back
     </a>
 
-    <!-- Nome e ruolo -->
-    <h1 class="text-3xl md:text-4xl font-semibold mb-2">{frontmatter.name}</h1>
-    <p class="text-lg md:text-xl mb-6">{frontmatter.role}</p>
+    <h1 class="mb-2 text-3xl font-semibold md:text-4xl">
+      {frontmatter.name}
+    </h1>
 
-    <!-- Immagine -->
-    <Image
+    <p class="mb-6 text-lg md:text-xl">
+      {frontmatter.role}
+    </p>
+
+    <img
       src={frontmatter.image.url}
       alt={frontmatter.image.alt}
-      width={800}
-      height={800}
-      class="mx-auto rounded-lg shadow-md object-cover w-full max-w-sm mb-6"
+      class="mx-auto mb-6 w-full max-w-sm rounded-lg object-cover shadow-md"
+      loading="eager"
     />
 
-    <!-- Bio -->
-    <div class="space-y-4 mb-8 text-left">
+    <div class="mb-8 space-y-4 text-left">
       {frontmatter.bio.split("\n").map((p) => (
-        <p class="text-base-900 leading-7 font-serif">{p}</p>
+        <p class="font-serif leading-7 text-base-900">{p}</p>
       ))}
     </div>
 
-    <!-- Social -->
-    <div class="flex justify-center gap-6 mb-12">
+
+    <div class="mb-12 flex justify-center gap-6">
       <a href={frontmatter.socials.twitter} class="text-sm text-base-600 hover:text-base-800">Twitter</a>
       <a href={frontmatter.socials.linkedin} class="text-sm text-base-600 hover:text-base-800">LinkedIn</a>
       <a href={frontmatter.socials.email} class="text-sm text-base-600 hover:text-base-800">Email</a>
       <a href={frontmatter.socials.website} class="text-sm text-base-600 hover:text-base-800">Website</a>
     </div>
+  </section>
 
-    <!-- CTA Sessione -->
-    
-    </div>
-    <div slot="cta">
-    <div class="flex justify-center mt-12">
-      <a href="/sessioni-private/" class="inline-block rounded-md bg-gray-900 hover:bg-gray-800 text-white font-medium px-6 py-3 transition">
+  <section slot="cta">
+    <div class="flex justify-center">
+      <a
+        href="/sessioni-private/"
+        class="inline-block rounded-md bg-gray-900 px-6 py-3 font-medium text-white transition hover:bg-gray-800"
+      >
         Prenota la tua sessione di ritratto
       </a>
     </div>
   </section>
 
-  <!-- Footer minimale -->
   <section class="bg-gray-50 py-8 text-center">
-    <p class="text-base-600 mb-2">Since 1976 – fotografia di ritratto</p>
-    <p class="text-base-900 mb-1">Lo studio fotografico riceve esclusivamente su appuntamento</p>
-    <p class="font-semibold">Studio154</p>
+    <p class="mb-2 text-base-600">
+      Since 1976 – fotografia di ritratto
+    </p>
+    <p class="mb-1 text-base-900">
+      Lo studio fotografico riceve esclusivamente su appuntamento
+    </p>
+    <p class="font-semibold">
+      Studio154
+    </p>
   </section>
 </TeamLayout>

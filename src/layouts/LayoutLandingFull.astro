@@ -1,0 +1,103 @@
+---
+const { title, description, image } = Astro.props;
+
+import BaseHead from "@/components/fundations/head/BaseHead.astro";
+import Favicons from "@/components/fundations/head/Favicons.astro";
+import Footer from "@/components/global/Footer.astro";
+import NavigationHamburger from "@/components/global/NavigazioneHamburgerStandard.astro";
+
+import "@/styles/global.css";
+
+const baseUrl = "https://media.eliocarchidi.com/uploads";
+
+let finalImageUrl = null;
+
+if (image) {
+  const cleanPath = image
+    .replace(/^(.*?)(wp-content\/uploads\/|uploads\/)?/, "")
+    .replace(/^\//, "");
+
+  finalImageUrl = `${baseUrl}/${cleanPath}`;
+}
+---
+
+<html lang="it" class="scroll-smooth">
+  <head>
+    <Favicons />
+    <BaseHead title={title} description={description} image={finalImageUrl} />
+  </head>
+
+  <body class="min-h-screen bg-neutral-50 text-slate-900 antialiased">
+    <NavigationHamburger />
+
+    <main>
+     <section class="relative overflow-hidden border-b border-slate-200">
+  <div class="grid min-h-[88vh] items-start gap-10 px-6 py-16 lg:grid-cols-[52%_48%] md:px-12 lg:px-20 xl:px-24">
+
+    <!-- TEXT -->
+    <div class="max-w-3xl pt-6 md:pt-10">
+      <p class="mb-6 text-sm uppercase tracking-[0.25em] text-slate-500">
+        Elio Leonardo Carchidi
+      </p>
+
+      <h1
+        class="font-serif text-5xl font-light leading-[1.03] tracking-tight text-slate-950 md:text-6xl xl:text-7xl"
+        style="font-family: 'Newsreader', serif;"
+      >
+        {title}
+      </h1>
+
+      {description && (
+        <p class="mt-8 max-w-2xl text-lg leading-relaxed text-slate-600 md:text-xl">
+          {description}
+        </p>
+      )}
+
+      <div class="mt-10 flex flex-wrap gap-4">
+        <a
+          href="/contatti"
+          class="inline-flex items-center justify-center rounded-full bg-black px-8 py-4 text-sm font-medium tracking-wide text-white transition hover:bg-slate-800"
+        >
+          Prenota una sessione
+        </a>
+
+        <a
+          href="/portfolio"
+          class="inline-flex items-center justify-center rounded-full border border-slate-300 px-8 py-4 text-sm font-medium tracking-wide text-slate-900 transition hover:border-slate-900"
+        >
+          Portfolio
+        </a>
+      </div>
+
+      <div class="mt-12 max-w-xl border-l border-slate-300 pl-6">
+        <p class="text-sm leading-relaxed text-slate-500">
+          Oltre 40 anni di esperienza nella fotografia di ritratto,
+          corporate ed editoriale.
+        </p>
+      </div>
+    </div>
+
+    <!-- IMAGE -->
+    {finalImageUrl && (
+      <figure class="h-[72vh] overflow-hidden rounded-3xl bg-slate-100 shadow-2xl md:h-[78vh]">
+        <img
+          src={finalImageUrl}
+          alt={title}
+          class="h-full w-full object-cover"
+        />
+      </figure>
+    )}
+
+  </div>
+</section>
+
+      <section class="mx-auto max-w-5xl px-6 py-24 md:px-10 lg:px-16">
+        <div class="landing-content prose prose-lg prose-slate max-w-none">
+          <slot />
+        </div>
+      </section>
+    </main>
+
+    <Footer />
+  </body>
+</html>

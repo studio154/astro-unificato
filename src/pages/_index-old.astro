@@ -1,0 +1,126 @@
+---
+import BaseLayout from "../layouts/LayoutHome.astro";
+import Wrapper from "../components/fundations/containers/Wrapper.astro";
+import Text from "../components/fundations/elements/Text.astro";
+import Button from "@/components/fundations/elements/Button.astro";
+import { Image } from "astro:assets";
+import ImmagineEdizioni from "../images/edizioni/cornici-atelier-gallery-edizioni-bn1.png";
+import ImmagineSessioni from "../images/atelier/foto-edizioni-cornici-gallerie-fotografiche.png";
+---
+
+
+<BaseLayout
+  title="Elio Leonardo Carchidi | Fotografo di Ritratto a Roma"
+  description="Da oltre 40 anni realizzo ritratti fotografici con luce naturale e attenzione alla presenza. Fine art, corporate ed editoriale. Studio a Roma, disponibile in tutta Italia."
+  canonical="https://www.eliocarchidi.com/"
+  image="https://www.eliocarchidi.com/og-image-home.jpg"
+>
+  <section>
+    <Wrapper variant="standard" class="py-2">
+      <div class="mt-4 md:mt-16 grid gap-16 grid-cols-1 lg:grid-cols-2 max-w-5xl mx-auto">
+        
+        <div class="flex flex-col items-center text-center">
+          <a href="/atelier/sessioni-private/" class="block overflow-hidden">
+            <Image
+              src={ImmagineSessioni}
+              alt="Sessioni Private di Ritratto - Elio Leonardo Carchidi"
+              width={610}
+              height={410}
+              class="w-full"
+              loading="lazy"
+            />
+          </a>
+          <Text
+            tag="h2"
+            variant="textBase"
+            class="mt-4 text-lg font-semibold tracking-wide"
+          >
+            Sessioni Private di Ritratto
+          </Text>
+          <Text
+            tag="p"
+            variant="textSmall"
+            class="mt-2 text-base max-w-lg"
+          >
+            Un'esperienza di ritratto costruita intorno alla tua presenza, con luce, tempo e attenzione dedicati.
+          </Text>
+          <Button
+            isLink={true}
+            href="/atelier/sessioni-private/"
+            size="lg"
+            variant="default"
+            class="mt-4"
+          >
+            Prenota il tuo ritratto
+          </Button>
+        </div>
+
+        <div class="flex flex-col items-center text-center">
+          <a href="/atelier/edizioni/" class="block overflow-hidden">
+            <Image
+              src={ImmagineEdizioni}
+              alt="Edizioni d'Autore - Elio Leonardo Carchidi"
+              width={610}
+              height={410}
+              class="w-full"
+              loading="eager"
+              fetchpriority="high"
+            />
+          </a>
+          <Text
+            tag="h2"
+            variant="textBase"
+            class="mt-4 text-lg font-semibold tracking-wide"
+          >
+            Edizioni d'Autore
+          </Text>
+          <Text
+            tag="p"
+            variant="textSmall"
+            class="mt-2 text-base max-w-lg"
+          >
+            Ritratti e stampe già realizzati, disponibili in edizioni curate e pronte a entrare nel tuo spazio.
+          </Text>
+          <Button
+            isLink={true}
+            href="/atelier/edizioni/"
+            size="lg"
+            variant="default"
+            class="mt-4"
+          >
+            Esplora le edizioni
+          </Button>
+        </div>
+
+        
+
+      </div>
+
+      <div class="mt-25 md:mt-50 mb-16 md:mb-32 text-center max-w-lg m-auto">
+        <Text
+          tag="h1"
+          variant="textLG"
+          class="font-serif uppercase lg:order-none text-base-900 text-center"
+        >
+          <a class="hover:text-base-900 text-gallery-5" href="/">Un approccio al ritratto</a><br>
+        </Text>
+        
+        <Text
+          tag="h2"
+          variant="textLG"
+          class="order-last font-serif uppercase lg:order-none col-span-full lg:col-span-1: text-base-900"
+        >
+          Da oltre 40 anni lavoro sul ritratto come forma essenziale.<br><br>
+          La luce naturale e il tempo sono parte del processo, non strumenti da controllare.<br><br>
+          Ogni immagine nasce per sottrazione, fino a restituire una presenza autentica.
+        </Text>
+
+        <div class="mt-24 flex justify-center">
+          <Button size="base" variant="default" isLink={true} href="/servizi/">
+            <span class="uppercase">Scopri tutti i servizi →</span>
+          </Button>
+        </div>
+      </div>
+    </Wrapper>
+  </section>
+</BaseLayout>

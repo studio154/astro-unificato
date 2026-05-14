@@ -42,7 +42,7 @@ const pacchetti = [
       <div class="mt-4 grid gap-8 justify-center grid-cols-1 lg:grid-cols-2">
         {
           pacchetti.map((pacchetto) => (
-            <div class="flex flex-col border border-gray-200 p-4 hover:shadow-xl transition-transform duration-200 bg-gallery-6">
+            <div class="flex flex-col  p-4 hover:shadow-xl transition-transform duration-200 ">
               <a href={pacchetto.link} class="block overflow-hidden rounded group">
                 <Image
                   src={pacchetto.image}
@@ -56,7 +56,7 @@ const pacchetti = [
               <Text
                 tag="h2"
                 variant="textBase"
-                class="mt-2 font-semibold text-xl text-center color-gray"
+                class="mt-2 text-xl text-center color-gray"
               >
                 {pacchetto.title}
               </Text>
