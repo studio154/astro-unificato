@@ -7,7 +7,7 @@ import BaseHead from "@/components/fundations/head/BaseHead.astro";
 import Wrapper from "@/components/fundations/containers/Wrapper.astro";
 // Components
 import Footer from "@/components/global/Footer.astro";
-import Navigation from "@/components/global/NavigazioneSessioni.astro";
+import Navigation from "@/components/global/NavigazioneHamburgerStandard.astro";
 // Hides the big logo, navigation, or footer on selected screens by passing props:
 
 
@@ -17,7 +17,7 @@ const {
   canonical,
   image,
   ogType,
-  hideBigLogo = false, hideNavigation = false, hideFooter = false } = Astro.props;
+  hideBigLogo = true, hideNavigation = false, hideFooter = false } = Astro.props;
 ---
 
 <html lang="it" class="scroll-smooth">

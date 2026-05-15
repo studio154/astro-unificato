@@ -1,5 +1,5 @@
 ---
-bgColor: bg-white
+bgColor: bg-gallery-6
 textColor: text-base-900
 category: "Foto Corporate Headshot"
 title: "Ritratto Corporate"
@@ -125,7 +125,7 @@ images:
     alt: "Ritratto Linkedin Donna"
     class: "lg:col-span-3"
     title: "D #01019"
-  - url: "https://media.eliocarchidi.com/uploads/2026/04/A-ritratti-corporate-avvocato-pellegrino-3.jpg"
+  - url: "https://media.eliocarchidi.com/uploads/2026/05/foto-ritratto-corporate-avvocato-pellegrino-3.jpg"
     alt: "Ritratto Linkedin Uomo"
     class: "lg:col-span-3"
     title: "U #19"

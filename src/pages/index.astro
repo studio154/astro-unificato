@@ -1,11 +1,16 @@
 ---
 import LayoutLandingFull from "@/layouts/LayoutLandingFull.astro";
+import { Image } from "astro:assets";
+import ImmagineEdizioni from "../images/edizioni/cornici-atelier-gallery-edizioni-bn1.png";
+import ImmagineSessioni from "../images/atelier/foto-edizioni-cornici-gallerie-fotografiche.png";
+import Text from "../components/fundations/elements/Text.astro";
+import Button from "@/components/fundations/elements/Button.astro";
 ---
 
 <LayoutLandingFull
-  title="Ritratti professionali per aziende, executive e personal branding a Roma"
+  title="Ritratti professionali per aziende, executive e professionisti a Roma"
   description="Sessioni fotografiche essenziali e curate per professionisti, manager, team aziendali e clienti internazionali. Disponibile in studio o presso aziende e hotel a Roma."
-  image="/2026/05/avvocato-pellegrino-corporate-executive-portraits%20(1).jpg"
+  image="/2026/05/foto-ritratto-corporate-avvocato-pellegrino-3.jpg"
 >
 
   <!-- INTRO -->
@@ -13,7 +18,7 @@ import LayoutLandingFull from "@/layouts/LayoutLandingFull.astro";
 
     <div>
       <p class="mb-3 text-sm uppercase tracking-[0.25em] text-slate-500">
-        Corporate & Executive Portraits
+        Ritratto Professionale
       </p>
 
       <h2
@@ -34,8 +39,7 @@ import LayoutLandingFull from "@/layouts/LayoutLandingFull.astro";
 
       <p>
         Ogni sessione è progettata per creare fotografie utilizzabili
-        per LinkedIn, stampa, comunicazione aziendale, conferenze,
-        profili professionali e personal branding.
+        per LinkedIn, stampa, comunicazione aziendale, conferenze e profili professionali.
       </p>
 
       <p>
@@ -68,18 +72,18 @@ import LayoutLandingFull from "@/layouts/LayoutLandingFull.astro";
       <div class="rounded-3xl border border-neutral-200/50 bg-white/10 p-8 transition-all duration-300 hover:border-neutral-300/70 hover:bg-white/20">
 
         <h3 class="text-xl font-medium text-slate-950">
-          Executive Portraits
+          Ritratti Executive
         </h3>
 
         <p class="mt-4 leading-relaxed text-slate-600">
           Ritratti individuali per manager, avvocati, consulenti,
-          imprenditori e professionisti.
+          imprenditori e professionisti. Fotografie autorevoli.
         </p>
         <a
   href="/galleria/immagini/vip/"
-  class="group mt-6 inline-flex items-center text-sm tracking-[0.08em] text-slate-500 transition-colors duration-300 hover:text-black"
+  class="not-prose no-underlinegroup mt-6 inline-flex items-center text-sm tracking-[0.08em] text-slate-500 transition-colors duration-300 hover:text-black"
 >
-  Explore
+  
 
   <span class="ml-2 transition-transform duration-300 group-hover:translate-x-1">
     →
@@ -91,7 +95,7 @@ import LayoutLandingFull from "@/layouts/LayoutLandingFull.astro";
       <div class="rounded-3xl border border-neutral-200/50 bg-white/10 p-8 transition-all duration-300 hover:border-neutral-300/70 hover:bg-white/20">
 
         <h3 class="text-xl font-medium text-slate-950">
-          Corporate Headshots
+          Ritratti Aziendali
         </h3>
 
         <p class="mt-4 leading-relaxed text-slate-600">
@@ -100,11 +104,9 @@ import LayoutLandingFull from "@/layouts/LayoutLandingFull.astro";
         </p>
         <a
   href="/galleria/immagini/corporate/"
-  class="group mt-6 inline-flex items-center text-sm tracking-[0.08em] text-slate-500 transition-colors duration-300 hover:text-black"
+  class="not-prose no-underline group mt-6 inline-flex items-center text-sm tracking-[0.08em] text-slate-500 transition-colors duration-300 hover:text-black"
 >
-  Explore
-
-  <span class="ml-2 transition-transform duration-300 group-hover:translate-x-1">
+ <span class="ml-2 transition-transform duration-300 group-hover:translate-x-1">
     →
   </span>
 </a>
@@ -114,7 +116,7 @@ import LayoutLandingFull from "@/layouts/LayoutLandingFull.astro";
       <div class="rounded-3xl border border-neutral-200/50 bg-white/10 p-8 transition-all duration-300 hover:border-neutral-300/70 hover:bg-white/20">
 
         <h3 class="text-xl font-medium text-slate-950">
-          Personal Branding
+          Ritratto Professionale
         </h3>
 
         <p class="mt-4 leading-relaxed text-slate-600">
@@ -123,12 +125,11 @@ import LayoutLandingFull from "@/layouts/LayoutLandingFull.astro";
         </p>
         <a
   href="/galleria/immagini/fine-art/"
-  class="group mt-6 inline-flex items-center gap-2 text-sm tracking-wide text-slate-500 transition-colors duration-300 hover:text-slate-900"
+  class="group mt-6 not-prose no-underline inline-flex items-center gap-2 text-sm tracking-wide text-slate-500 transition-colors duration-300 hover:text-slate-900"
 >
-  Explore
-
   <span class="ml-2 transition-transform duration-300 group-hover:translate-x-1">
     →
+  </span>
 </a>
 
       </div>
@@ -142,40 +143,129 @@ import LayoutLandingFull from "@/layouts/LayoutLandingFull.astro";
 
     <div>
 
-      <p class="mb-3 text-sm uppercase tracking-[0.25em] text-slate-500">
-        Approccio
-      </p>
+  <p class="mb-3 text-sm uppercase tracking-[0.25em] text-slate-500">
+    Approccio
+  </p>
 
-      <h2
-        class="font-serif text-4xl font-light leading-tight text-slate-950"
-        style="font-family: 'Newsreader', serif;"
-      >
-        Oltre quarant’anni di esperienza nel ritratto.
-      </h2>
+  <h2
+    class="font-serif text-4xl font-light leading-tight text-slate-950"
+    style="font-family: 'Newsreader', serif;"
+  >
+    Un approccio essenziale al ritratto.
+  </h2>
 
-    </div>
+</div>
 
-    <div class="space-y-6 text-lg leading-relaxed text-slate-600">
+<div class="space-y-6 text-lg leading-relaxed text-slate-600">
 
-      <p>
-        Il mio lavoro nasce dalla fotografia di ritratto editoriale e fine art,
-        con un approccio essenziale costruito sulla luce, sulla presenza
-        e sulla naturalezza dell’immagine.
-      </p>
+  <p>
+    Da oltre quarant’anni lavoro sul ritratto come forma di presenza,
+    attenzione e misura.
+  </p>
 
-      <p>
-        L’obiettivo non è creare fotografie artificiali o aggressive,
-        ma immagini professionali credibili, eleganti e durature.
-      </p>
+  <p>
+    Il mio lavoro nasce dalla fotografia editoriale e fine art,
+    con un approccio costruito sulla luce naturale,
+    sul tempo e sulla naturalezza dell’immagine.
+  </p>
 
-      <p>
-        Ogni sessione viene sviluppata con attenzione al contesto,
-        alla persona e all’utilizzo finale delle immagini.
-      </p>
+  <p>
+    L’obiettivo non è creare fotografie artificiali o aggressive,
+    ma immagini professionali credibili, sobrie e durature,
+    sviluppate con attenzione alla persona,
+    al contesto e all’utilizzo finale delle immagini.
+  </p>
 
-    </div>
+</div>
 
   </section>
+
+   <!-- ATELIER -->
+   <section>
+
+    <p class="mb-3 text-sm uppercase tracking-[0.25em] text-slate-500">
+    Atelier
+  </p>
+
+  <h2
+    class="font-serif text-4xl font-light leading-tight text-slate-950"
+    style="font-family: 'Newsreader', serif;"
+  >
+    Sessioni private ed edizioni d’autore
+  </h2>
+<div class="mt-4 md:mt-2 grid gap-16 grid-cols-1 lg:grid-cols-2 max-w-5xl mx-auto">
+        
+        <div class="flex flex-col items-center text-center">
+          <a href="/atelier/sessioni-private/" class="block overflow-hidden">
+            <Image
+              src={ImmagineSessioni}
+              alt="Sessioni Private di Ritratto - Elio Leonardo Carchidi"
+              width={610}
+              height={410}
+              class="w-full"
+              loading="lazy"
+            />
+          </a>
+          <h2
+    class="font-serif text-4xl font-light leading-tight text-slate-950"
+    style="font-family: 'Newsreader', serif;"
+  >
+    Sessioni Private di Ritratto
+  </h2>
+          <Text
+            tag="p"
+            variant="textSmall"
+            class="mt-2 text-base max-w-lg"
+          >
+            Un'esperienza di ritratto costruita intorno alla tua presenza, con luce, tempo e attenzione dedicati.
+          </Text>
+          <Button
+            isLink={true}
+            href="/atelier/sessioni-private/"
+            size="lg"
+            variant="default"
+            class="mt-4"
+          >
+            Prenota il tuo ritratto
+          </Button>
+        </div>
+
+        <div class="flex flex-col items-center text-center">
+          <a href="/atelier/edizioni/" class="block overflow-hidden">
+            <Image
+              src={ImmagineEdizioni}
+              alt="Edizioni d'Autore - Elio Leonardo Carchidi"
+              width={610}
+              height={410}
+              class="w-full"
+              loading="eager"
+              fetchpriority="high"
+            />
+          </a>
+          <h2
+    class="font-serif text-4xl font-light leading-tight text-slate-950"
+    style="font-family: 'Newsreader', serif;"
+  >
+    Edizioni d'Autore
+  </h2>
+          <Text
+            tag="p"
+            variant="textSmall"
+            class="mt-2 text-base max-w-lg"
+          >
+            Ritratti e stampe già realizzati, disponibili in edizioni curate e pronte a entrare nel tuo spazio.
+          </Text>
+          <Button
+            isLink={true}
+            href="/atelier/edizioni/"
+            size="lg"
+            variant="default"
+            class="mt-4"
+          >
+            Esplora le edizioni
+          </Button>
+        </div>
+</section>
 
   <!-- CTA -->
   <section class="mt-32 rounded-[2rem] bg-slate-950 px-10 py-20 text-center text-white">
@@ -215,5 +305,9 @@ import LayoutLandingFull from "@/layouts/LayoutLandingFull.astro";
     </div>
 
   </section>
+ 
+        
+
+      </div>
 
 </LayoutLandingFull>

@@ -32,12 +32,12 @@ if (image) {
 
     <main>
      <section class="relative overflow-hidden border-b border-slate-200">
-  <div class="grid min-h-[88vh] items-start gap-10 px-6 py-16 lg:grid-cols-[52%_48%] md:px-12 lg:px-20 xl:px-24">
+  <div class="grid min-h-[88vh] items-start gap-10 px-6 py-16 md:grid-cols-1 lg:grid-cols-[52%_48%] md:px-12 lg:px-20 xl:px-24">
 
     <!-- TEXT -->
     <div class="max-w-3xl pt-6 md:pt-10">
       <p class="mb-6 text-sm uppercase tracking-[0.25em] text-slate-500">
-        Elio Leonardo Carchidi
+        Fotografia di ritratto
       </p>
 
       <h1
@@ -79,11 +79,11 @@ if (image) {
 
     <!-- IMAGE -->
     {finalImageUrl && (
-      <figure class="h-[72vh] overflow-hidden rounded-3xl bg-slate-100 shadow-2xl md:h-[78vh]">
+      <figure class="h-[48vh] overflow-hidden rounded-3xl bg-slate-100 shadow-2xl md:h-[56vh] lg:h-[78vh]">
         <img
           src={finalImageUrl}
           alt={title}
-          class="h-full w-full object-cover"
+          class="h-full w-full min-h-[300px] object-cover"
         />
       </figure>
     )}

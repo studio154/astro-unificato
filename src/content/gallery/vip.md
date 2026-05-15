@@ -1,8 +1,8 @@
 ---
-bgColor: bg-white
+bgColor: bg-gallery-4
 textColor: text-base-900
-category: "Ritratti di Personaggi Noti"
-title: "Ritratti VIP"
+category: "Ritratti VIP"
+title: "Ritratti di Personaggi Noti"
 order: 0
 description: "Ritratti di figure pubbliche e volti riconoscibili, costruiti attorno alla presenza e alla luce. Un approccio essenziale di stampo editoriale."
 
@@ -12,7 +12,7 @@ description: "Ritratti di figure pubbliche e volti riconoscibili, costruiti atto
 thumbnail:
   url: "https://media.eliocarchidi.com/uploads/2026/04/A-Ritratto-Pierluigi-Collina-personaggio-famoso.jpg"
   alt: "#_"
-  title: "Anteprima"
+  title: "Pierluigi Collina"
 # - Use `thumbnailClass` to control the span of the thumbnail image on GalleryLayout.astro
 imageGrid: "grid grid grid-cols-1 lg:grid-cols-6 row-span-2 gap-8"
 thumbnailClass: "lg:col-span-3 lg:row-span-2"
@@ -47,7 +47,7 @@ images:
     class: "lg:col-span-1 "
   - url: "https://media.eliocarchidi.com/uploads/2017/09/gallerie-fotografiche-maurizio-mattioli-attore.jpg"
     alt: "Ritratti di Personaggi Noti Gaia de Laurentis"
-    title: "Gaia De Laurentis"
+    title: "Maurizio Mattioli"
     class: "lg:col-span-1 "
   - url: "https://media.eliocarchidi.com/uploads/2026/04/A-Giampiero-Ingrassia-Attore.jpg"
     alt: "Ritratti di Personaggi Noti Giampiero Ingrassia"
@@ -91,7 +91,7 @@ images:
     class: "lg:col-span-3"
   - url: "https://media.eliocarchidi.com/uploads/2026/04/A-Marcel-Jacob-Ritratto.jpg"
     alt: "Ritratti di Personaggi Noti Marcell Jacob"
-    title: "Marcel Jacob"
+    title: "Marcell Jacob"
     class: "lg:col-span-3"
   - url: "https://media.eliocarchidi.com/uploads/2015/01/ritratto-fotografico-amanda-lear.jpg"
     alt: "Ritratti di Personaggi Noti Amanda Lear"

@@ -29,16 +29,17 @@ import Favicons from '../components/fundations/head/Favicons.astro';
       ogType={ogType}
     />
   </head>
-  <body class="flex flex-col min-h-svh">
-    {
-      !hideBigLogo && (
-        <Wrapper variant="standard" class="pt-8">
-          <BigLogo />
-        </Wrapper>
-      )
-    }
-    {!hideNavigation && <Navigation />}
-    <main class="grow"><slot /></main>
-    {!hideFooter && <Footer />}
-  </body>
+ <body class="flex flex-col min-h-svh">
+  {!hideNavigation && (
+    <div class="w-full">
+      <Navigation />
+    </div>
+  )}
+
+  <main class="grow">
+    <slot />
+  </main>
+
+  {!hideFooter && <Footer />}
+</body>
 </html>
