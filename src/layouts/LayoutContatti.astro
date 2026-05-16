@@ -21,7 +21,7 @@ const {
 } = Astro.props;
 ---
 
-<html lang="it" class="scroll-smooth">
+<html lang="it" class="scroll-smooth h-full">
   <head>
     <BaseHead
       title={title}
@@ -31,16 +31,24 @@ const {
       ogType={ogType}
     />
   </head>
-  <body class="flex flex-col bg-gallery-8 min-h-svh">
+  <!-- w-full e overflow-x-hidden impediscono alla pagina di slittare o creare scroll laterali -->
+  <body
+    class="flex flex-col bg-gallery-8 min-h-svh w-full overflow-x-hidden antialiased"
+  >
     {
       !hideBigLogo && (
-        <Wrapper variant="standard" class="pt-8">
+        <Wrapper variant="standard" class="pt-8 mx-auto w-full">
           <BigLogo />
         </Wrapper>
       )
     }
     {!hideNavigation && <Navigation />}
-    <main class="grow"><slot /></main>
+
+    <!-- mx-auto e w-full assicurano che il contenuto principale rimanga geometricamente al centro -->
+    <main class="grow w-full mx-auto flex flex-col items-center justify-start">
+      <slot />
+    </main>
+
     {!hideFooter && <Footer />}
   </body>
 </html>
