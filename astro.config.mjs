@@ -5,7 +5,7 @@ import vercel from "@astrojs/vercel"; // <-- Aggiunto l'import di Vercel
 
 export default defineConfig({
   site: "https://www.eliocarchidi.com",
-  output: "hybrid", // <-- FONDAMENTALE: mantiene il sito statico ma sblocca le API server
+  output: "static", // <-- FONDAMENTALE: mantiene il sito statico ma sblocca le API server
 
   adapter: vercel({
     webAnalytics: {
