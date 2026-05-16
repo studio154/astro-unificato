@@ -1,96 +1,147 @@
 ---
 import Text from "@/components/fundations/elements/Text.astro";
 
-// Recuperiamo la chiave pubblica usando il tuo nome esatto di variabile
+// Recuperiamo la chiave pubblica sicura per Cloudflare Turnstile
 const siteKey = import.meta.env.CLOUDFLARE_TURNSTILE_SITEKEY;
 ---
 
-<!-- w-full impedisce di sforare a destra su mobile. Rimosse le classi dark: per evitare lo sfondo nero -->
-<section
-    class="w-full max-w-3xl mx-auto rounded-3xl border border-gray-300/60 p-4 sm:p-8 shadow-sm bg-white/90 backdrop-blur-sm"
->
-    <Text
-        tag="h2"
-        variant="textXL"
-        class="mb-2 font-serif text-center text-base-900"
-    >
-        Informazioni e disponibilità
-    </Text>
+<!-- Sezione esterna che garantisce la centratura millimetrica su mobile -->
+<section class="py-10 px-3 md:py-5 md:px-6 w-full">
+    <div class="w-full max-w-2xl mx-auto">
+        <!-- Intestazione testuale con font Newsreader premium -->
+        <div class="mb-10 text-center">
+            <p class="text-xs uppercase tracking-[0.25em] text-base-500 mb-3">
+                Contatti
+            </p>
 
-    <p
-        class="mb-8 font-serif text-center text-base-700 text-sm max-w-md mx-auto uppercase tracking-wider leading-relaxed"
-    >
-        Scrivimi per informazioni, disponibilità o per pianificare una
-        consulenza o una sessione fotografica.
-    </p>
+            <h2
+                class="font-serif text-4xl md:text-5xl font-light leading-tight text-base-950"
+                style="font-family: 'Newsreader', serif;"
+            >
+                Informazioni e disponibilità
+            </h2>
 
-    <form id="contact-form" class="grid gap-5 w-full" autocomplete="on">
-        <input
-            type="hidden"
-            name="subject"
-            value="Richiesta da sito contatti"
-        />
-        <!-- Honeypot Antispam -->
-        <div class="sr-only">
-            <label for="website">Non compilare questo campo</label>
-            <input
-                id="website"
-                name="website"
-                type="text"
-                autocomplete="off"
-                tabindex="-1"
-            />
+            <p
+                class="mt-6 text-sm md:text-base leading-relaxed text-base-700 max-w-xl mx-auto font-serif uppercase tracking-wider"
+            >
+                Scrivimi per informazioni, disponibilità o per pianificare una
+                sessione fotografica o una consulenza.
+            </p>
         </div>
 
-        <label
-            class="grid gap-1 text-xs uppercase tracking-wider font-medium text-base-700"
+        <!-- Modulo configurato ESCLUSIVAMENTE per Resend (tramite lo script JS sotto) -->
+        <form
+            id="contact-form"
+            class="space-y-6 rounded-2xl border border-slate-200 bg-white p-5 md:p-8 shadow-sm text-left"
+            autocomplete="on"
         >
-            Nome
             <input
-                name="name"
-                type="text"
-                placeholder="Mario Rossi"
-                required
-                class="input-field"
+                type="hidden"
+                name="subject"
+                value="Richiesta da sito contatti"
             />
-        </label>
 
-        <label
-            class="grid gap-1 text-xs uppercase tracking-wider font-medium text-base-700"
-        >
-            Email
-            <input
-                name="email"
-                type="email"
-                placeholder="nome@example.com"
-                required
-                class="input-field"
-            />
-        </label>
+            <!-- Honeypot Antispam invisibile -->
+            <div class="sr-only">
+                <label for="website">Non compilare questo campo</label>
+                <input
+                    id="website"
+                    name="website"
+                    type="text"
+                    autocomplete="off"
+                    tabindex="-1"
+                />
+            </div>
 
-        <label
-            class="grid gap-1 text-xs uppercase tracking-wider font-medium text-base-700"
-        >
-            Messaggio
-            <textarea
-                name="message"
-                rows="6"
-                placeholder="Scrivi il tuo messaggio..."
-                required
-                class="input-field"></textarea>
-        </label>
+            <!-- Campo Nome -->
+            <div>
+                <label
+                    for="nome"
+                    class="mb-2 block text-xs font-medium uppercase tracking-wider text-slate-700"
+                >
+                    Nome *
+                </label>
+                <input
+                    id="nome"
+                    type="text"
+                    name="name"
+                    required
+                    autocomplete="name"
+                    placeholder="Il tuo nome"
+                    class="w-full rounded-md border border-slate-300 bg-white px-4 py-3 text-base text-slate-900 outline-none transition focus:border-slate-950 focus:ring-1 focus:ring-slate-950"
+                />
+            </div>
 
-        <!-- Turnstile widget -->
-        <div class="cf-turnstile" data-sitekey={siteKey} data-theme="light">
-        </div>
+            <!-- Campo Email -->
+            <div>
+                <label
+                    for="email"
+                    class="mb-2 block text-xs font-medium uppercase tracking-wider text-slate-700"
+                >
+                    Email *
+                </label>
+                <input
+                    id="email"
+                    type="email"
+                    name="email"
+                    required
+                    autocomplete="email"
+                    placeholder="nome@email.com"
+                    class="w-full rounded-md border border-slate-300 bg-white px-4 py-3 text-base text-slate-900 outline-none transition focus:border-slate-950 focus:ring-1 focus:ring-slate-950"
+                />
+            </div>
 
-        <div>
-            <button type="submit" class="btn-submit">Invia messaggio</button>
-        </div>
+            <!-- Campo Messaggio -->
+            <div>
+                <label
+                    for="messaggio"
+                    class="mb-2 block text-xs font-medium uppercase tracking-wider text-slate-700"
+                >
+                    Messaggio *
+                </label>
+                <textarea
+                    id="messaggio"
+                    name="message"
+                    rows="7"
+                    required
+                    placeholder="Scrivi qui la tua richiesta..."
+                    class="w-full rounded-md border border-slate-300 bg-white px-4 py-3 text-base leading-relaxed text-slate-900 outline-none transition resize-none focus:border-slate-950 focus:ring-1 focus:ring-slate-950"
+                ></textarea>
+            </div>
 
-        <div id="form-status" class="hidden rounded px-4 py-2 mt-2 text-sm">
-        </div>
-    </form>
+            <!-- Turnstile perfettamente centrato -->
+            <div class="flex justify-center pt-2">
+                <div
+                    class="cf-turnstile"
+                    data-sitekey={siteKey}
+                    data-theme="light"
+                >
+                </div>
+            </div>
+
+            <!-- Pulsante di Submit con freccia animata -->
+            <div class="pt-2">
+                <button
+                    type="submit"
+                    class="group inline-flex w-full items-center justify-center rounded-md bg-slate-950 px-6 py-3 text-sm font-medium tracking-wide text-white transition hover:bg-slate-800 cursor-pointer"
+                >
+                    <span class="submit-text">Invia messaggio</span>
+                    <span
+                        class="ml-2 transition-transform duration-300 group-hover:translate-x-1"
+                    >
+                        →
+                    </span>
+                </button>
+            </div>
+
+            <!-- Box di notifica esito invio -->
+            <div
+                id="form-status"
+                class="hidden rounded px-4 py-2 mt-2 text-sm text-center"
+            >
+            </div>
+        </form>
+    </div>
 </section>
 
 <script>
@@ -99,6 +150,7 @@ const siteKey = import.meta.env.CLOUDFLARE_TURNSTILE_SITEKEY;
     const submitButton = form.querySelector(
         "button[type=submit]",
     ) as HTMLButtonElement;
+    const submitText = form.querySelector(".submit-text") as HTMLSpanElement;
 
     form.addEventListener("submit", async (e) => {
         e.preventDefault();
@@ -118,14 +170,12 @@ const siteKey = import.meta.env.CLOUDFLARE_TURNSTILE_SITEKEY;
 
         if (websiteInput && websiteInput.value) return;
 
-        // Recupero token sicuro
         const turnstileInput = form.querySelector(
             'input[name="cf-turnstile-response"]',
         ) as HTMLInputElement;
         let turnstileToken =
             turnstileInput?.value || (window as any).turnstile?.getResponse();
 
-        // Fallback automatico su localhost se il widget non ha fatto in tempo a calcolare il token
         if (
             !turnstileToken &&
             (window.location.hostname === "localhost" ||
@@ -134,6 +184,7 @@ const siteKey = import.meta.env.CLOUDFLARE_TURNSTILE_SITEKEY;
             turnstileToken = "1x0000000000000000000000000000000AA";
         }
 
+        // Qui prepariamo i dati per Resend
         const payload = {
             name: nameInput?.value,
             email: emailInput?.value,
@@ -145,9 +196,10 @@ const siteKey = import.meta.env.CLOUDFLARE_TURNSTILE_SITEKEY;
         status.className = "rounded px-4 py-2 mt-2 text-sm hidden";
 
         submitButton.disabled = true;
-        submitButton.textContent = "Invio in corso...";
+        submitText.textContent = "Invio in corso...";
 
         try {
+            // Qui inviamo i dati a Resend passando per la tua rotta API sicura
             const res = await fetch("/api/contact", {
                 method: "POST",
                 headers: { "Content-Type": "application/json" },
@@ -161,59 +213,18 @@ const siteKey = import.meta.env.CLOUDFLARE_TURNSTILE_SITEKEY;
             status.textContent =
                 result.message || "Messaggio inviato con successo!";
             status.className =
-                "rounded px-4 py-2 mt-2 text-sm bg-green-100 text-green-900 block";
+                "rounded px-4 py-2 mt-4 text-sm bg-green-50 text-green-800 border border-green-200 block";
 
             form.reset();
             (window as any).turnstile?.reset();
         } catch (err: any) {
             status.textContent = err.message;
             status.className =
-                "rounded px-4 py-2 mt-2 text-sm bg-red-100 text-red-900 block";
+                "rounded px-4 py-2 mt-4 text-sm bg-red-50 text-red-800 border border-red-200 block";
             (window as any).turnstile?.reset();
         } finally {
             submitButton.disabled = false;
-            submitButton.textContent = "Invia messaggio";
+            submitText.textContent = "Invia messaggio";
         }
     });
 </script>
-
-<style>
-    .input-field {
-        border: 1px solid #e5e7eb; /* Grigio molto leggero e raffinato */
-        border-radius: 0.5rem;
-        padding: 0.75rem 1rem;
-        width: 100%;
-        background-color: #ffffff; /* Forza lo sfondo bianco sempre, addio nero! */
-        color: #1a1a1a; /* Testo scuro sempre leggibile */
-        font-family: sans-serif;
-        font-size: 1rem;
-        margin-top: 0.25rem;
-        transition: border-color 0.2s;
-    }
-    .input-field:focus {
-        outline: none;
-        border-color: #000000; /* Il bordo diventa nero minimal quando scrivi */
-    }
-    .btn-submit {
-        border-radius: 9999px; /* Arrotondato premium */
-        padding: 0.75rem 2.5rem;
-        background: #000000; /* Nero puro */
-        color: white;
-        font-weight: bold;
-        text-transform: uppercase;
-        letter-spacing: 0.05em;
-        font-size: 0.875rem;
-        cursor: pointer;
-        transition: opacity 0.2s;
-        margin-top: 0.5rem;
-        width: auto;
-    }
-    .btn-submit:hover {
-        opacity: 0.85;
-    }
-    .btn-submit:disabled {
-        opacity: 0.6;
-        background: #555555;
-        cursor: not-allowed;
-    }
-</style>
