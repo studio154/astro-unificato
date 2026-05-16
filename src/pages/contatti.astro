@@ -3,19 +3,17 @@ import LayoutContatti from "@/layouts/LayoutContatti.astro";
 import Wrapper from "@/components/fundations/containers/Wrapper.astro";
 import ContattiResend from "@/components/hubspot-form/ContattiResend.astro";
 import Text from "@/components/fundations/elements/Text.astro";
-
-const siteKey = import.meta.env.CLOUDFLARE_TURNSTILE_SITEKEY;
 ---
 
 <LayoutContatti
   title="Contatta Elio Carchidi – Risposta Rapida per Domande e Collaborazioni"
   description="Hai un progetto, una domanda o vuoi collaborare? Scrivi a Elio Carchidi tramite il modulo di contatto e ricevi una risposta rapida. Inizia la conversazione oggi stesso!"
-  image="/2026/05/foto-ritratto-corporate-avvocato-pellegrino-3.jpg"
+  image=""
 >
   <!-- Sostituito m-auto con mx-auto e aggiunto text-center per sicurezza nativa -->
   <Wrapper
     variant="standard"
-    class="py-12 px-2 sm:px-6 max-w-5xl mx-auto grid gap-8 w-full text-center"
+    class="py-12 px-2 sm:px-6 max-w-5xl mx-auto grid gap-4 w-full text-center"
   >
     <header class="text-center grid gap-4 px-2 w-full">
       <Text
@@ -42,7 +40,7 @@ const siteKey = import.meta.env.CLOUDFLARE_TURNSTILE_SITEKEY;
 
     <!-- Il modulo sfrutta l'ampiezza centrata -->
     <div class="w-full mx-auto text-left">
-      <ContattiResend siteKey={siteKey} />
+      <ContattiResend />
     </div>
 
     <!-- Sezione contatti alternativi rapidi -->
@@ -59,7 +57,7 @@ const siteKey = import.meta.env.CLOUDFLARE_TURNSTILE_SITEKEY;
         >
           <strong>Email:</strong> info@eliocarchidi.com
         </a>
-        <span class="mx-2 block sm:inline-block">-</span>
+        <span class="mx-2 block sm:inline-block"></span>
         <strong>WhatsApp:</strong>
         <a
           href="https://wa.me/393883232460?text=Ciao%20Elio,%20ti%20scrivo%20dal%20sito"
@@ -72,10 +70,4 @@ const siteKey = import.meta.env.CLOUDFLARE_TURNSTILE_SITEKEY;
       </Text>
     </footer>
   </Wrapper>
-
-  <!-- Script necessario per caricare Cloudflare Turnstile in modo asincrono -->
-  <script
-    src="https://challenges.cloudflare.com/turnstile/v0/api.js"
-    async
-    defer></script>
 </LayoutContatti>
