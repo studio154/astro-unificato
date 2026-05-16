@@ -1,0 +1,107 @@
+---
+import BaseLayout from "../../layouts/PortfolioLayout.astro";
+import Wrapper from "../../components/fundations/containers/Wrapper.astro";
+import Text from "../../components/fundations/elements/Text.astro";
+import { AstroSeo } from "@astrolib/seo";
+import Button from "@/components/fundations/elements/Button.astro";
+import { Image } from "astro:assets";
+import ImmagineEdizioni from "../../images/atelier/foto-edizioni-cornici-gallerie-fotografiche.png";
+import ImmagineSessioni from "../../images/atelier/cornici-atelier-photo-gallery-ritratto.png";
+
+
+const base = import.meta.env.BASE_URL;
+
+const portfolios = [
+  {
+    title: "Portfolio1",
+    description: "questo va a portfolio content/portfolio/pubblicita.md",
+    image: ImmagineEdizioni,
+    link: `/portfolio/pubblicita`,
+  },
+  {
+    title: "Portfolio2",
+    description: "questo va a content/portfolio/personale.md",
+    image: ImmagineSessioni,
+    link: `/portfolio/personale`,
+  },
+];
+---
+
+<AstroSeo
+  title="Atelier Fotografico | Stampe d’Autore e Ritratto su Misura"
+  description="Atelier fotografico dedicato a stampe d’autore e ritratti su misura. Immagini compiute o create insieme, con attenzione e profondità."
+  canonical="https://www.eliocarchidi.com/atelier/"
+  openGraph={{
+    url: "https://www.eliocarchidi.com/atelier/",
+    title: "Atelier Fotografico | Stampe d’Autore e Ritratto su Misura",
+    description:
+      "Atelier fotografico dedicato a stampe d’autore e ritratti su misura. Immagini compiute o create insieme, con attenzione e profondità.",
+    images: [
+      {
+        url: "https://yourwebsite.com/og-image.jpg",
+        width: 1200,
+        height: 630,
+        alt: "Open Graph Image Alt",
+        type: "image/jpeg",
+      },
+    ],
+    site_name: "Photo Atelier - Galleria Fotografica",
+    type: "website",
+    locale: "it_IT",
+  }}
+  twitter={{
+    handle: "@eliocarchidi",
+    site: "@eliocarchidi",
+    cardType: "summary_large_image",
+  }}
+/>
+
+<BaseLayout >
+  <section>
+    <Wrapper variant="standard" class="py-2">
+      <div
+        class="mt-4 grid gap-8 justify-center grid-cols-1 sm:grid-cols- lg:grid-cols-2"
+      >
+        {
+          portfolios.map((portfolio) => (
+            <div class="flex flex-col border border-gray-200 rounded-xl p-4 hover:shadow-xl transition-transform duration-200 bg-gallery-6">
+              <a href={portfolio.link} class="block overflow-hidden rounded group">
+              <Image
+  src={portfolio.image}
+  alt={portfolio.title}
+  width={800}
+  height={600}
+  class="w-full rounded mt-0"
+/>
+              </a>
+
+              <Text
+                tag="h2"
+                variant="textBase"
+                class="mt-2 font-semibold text-xl text-center color-gray"
+              >
+                {portfolio.title}
+              </Text>
+
+              <Text tag="p" variant="textSmall" class="mt-2 text-xl text-center mb-4 max-w-150 m-auto">
+                {portfolio.description}
+              </Text>
+
+              <Button
+                isLink={true}
+                href={portfolio.link}
+                size="lg"
+                variant="muted"
+                class="mt-4 w-full mb-8 max-w-150 m-auto"
+              >
+                {portfolio.link.includes("edizioni")
+                  ? "Portfolio1"
+                  : "Vai al portfolio pubblicità"}
+              </Button>
+            </div>
+          ))
+        }
+      </div>
+    </Wrapper>
+  </section>
+</BaseLayout>

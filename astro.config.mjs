@@ -1,9 +1,17 @@
 import { defineConfig } from "astro/config";
 import tailwindcss from '@tailwindcss/vite';
 import sitemap from "@astrojs/sitemap";
+import vercel from "@astrojs/vercel"; // <-- Aggiunto l'import di Vercel
 
 export default defineConfig({
   site: "https://www.eliocarchidi.com",
+  output: "hybrid", // <-- FONDAMENTALE: mantiene il sito statico ma sblocca le API server
+
+  adapter: vercel({
+    webAnalytics: {
+      enabled: true,
+    },
+  }),
 
   vite: {
     plugins: [tailwindcss()],

@@ -1,9 +1,1 @@
 node_modules
-
-# macOS
-.DS_Store
-
-# Astro cache
-.astro/
-src/_drafts/
-dist/

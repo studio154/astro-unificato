@@ -1,57 +1,80 @@
 ---
 import LayoutContatti from "@/layouts/LayoutContatti.astro";
 import Wrapper from "@/components/fundations/containers/Wrapper.astro";
-import ContattiQualificati from "@/components/hubspot-form/ContattiFormspark.astro";
+import ContattiResend from "@/components/hubspot-form/ContattiResend.astro";
 import Text from "@/components/fundations/elements/Text.astro";
 
+const siteKey = import.meta.env.CLOUDFLARE_TURNSTILE_SITEKEY;
 ---
 
-
-
-<LayoutContatti>
-   <div
-      class="items-start pt-2 pb-6 lg:pb-6 text-center uppercase
-      gap-4 lg:gap-6 lg:gap-y-6 mb-6 md:mb-10"
-    >
-    </div>
-    <Text
-      tag="h1"
-      variant="textLG"
-      class="font-serif uppercase lg:order-none text-base-900 text-center"
-      ><a class="hover:text-base-900 text-gallery-5" href="/"
-        >Elio Leonardo Carchidi - Fotografo di Ritratto</a
-      ><br />
-    </Text>
-    <div
-      class="items-start pt-2 pb-2 lg:pb-6 text-center uppercase grid grid-cols-1
-      gap-4 lg:gap-6 lg:gap-y-6 mb-4 max-w-2xl m-auto"
-    >
+<LayoutContatti
+  title="Contatta Elio Carchidi – Risposta Rapida per Domande e Collaborazioni"
+  description="Hai un progetto, una domanda o vuoi collaborare? Scrivi a Elio Carchidi tramite il modulo di contatto e ricevi una risposta rapida. Inizia la conversazione oggi stesso!"
+  image="/2026/05/foto-ritratto-corporate-avvocato-pellegrino-3.jpg"
+>
+  <!-- Abbiamo ridotto il padding orizzontale a px-2 su mobile e aumentato la larghezza massima a max-w-5xl -->
+  <Wrapper
+    variant="standard"
+    class="py-12 px-2 sm:px-6 max-w-5xl m-auto grid gap-8 w-full"
+  >
+    <header class="text-center grid gap-4 px-2">
       <Text
         tag="h1"
         variant="textLG"
-        class="order-last font-serif uppercase lg:order-none col-span-full lg:col-span-1: text-base-900"
+        class="font-serif uppercase text-base-900"
       >
-        Ogni grande progetto nasce da una conversazione. Scrivimi qui: sarà un
-        piacere risponderti personalmente e pianificare insieme il tuo ritratto
-        su misura.
+        <a class="hover:text-base-900 text-gallery-5" href="#"
+          >Contatto diretto</a
+        >
       </Text>
+
+      <div class="max-w-2xl m-auto">
+        <Text tag="p" class="uppercase text-base-900 leading-relaxed">
+          Ogni grande progetto nasce da una conversazione. Scrivimi qui: sarà un
+          piacere risponderti personalmente e pianificare insieme il tuo
+          ritratto su misura.
+        </Text>
+      </div>
+    </header>
+
+    <!-- Il modulo ora sfrutta tutta l'ampiezza del wrapper -->
+    <div class="w-full">
+      <ContattiResend siteKey={siteKey} />
     </div>
 
-    <main class="grow"><slot /></main>
-  <section>
-    <Wrapper variant="standard" class="p-2 sm:p-2 m-auto max-w-l">
-       
-      <ContattiQualificati />
+    <!-- Sezione contatti alternativi rapidi -->
+    <footer class="mt-4 px-2">
       <Text
         tag="p"
         variant="textBase"
-        class="order-last text-center font-serif text-sm uppercase lg:order-none col-span-full lg:col-span-1: text-base-900"
+        class="text-center font-serif text-sm uppercase text-base-900"
       >
-      <br >Puoi anche inviare una mail o un messaggio<br >
-        <a href="mailto:info@eliocarchidi.com"<strong>mail:</strong> info@eliocarchidi.com</a> - <strong>WhatsApp:</strong> +39 388 3232460
+        Puoi anche inviare una mail o un messaggio <br />
+        <a
+          href="mailto:info@eliocarchidi.com"
+          class="underline decoration-1 underline-offset-4"
+        >
+          <strong>Email:</strong> info@eliocarchidi.com
+        </a>
+        <span class="mx-2">-</span>
+        <strong>WhatsApp:</strong>
+        <a
+          href="https://wa.me/393883232460?text=Ciao%20Elio,%20ti%20scrivo%20dal%20sito"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="underline decoration-1 underline-offset-4"
+        >
+          +39 388 3232460
+        </a>
       </Text>
-    </Wrapper>
-  </section>
-  
+    </footer>
+  </Wrapper>
 
+  <main class="grow"><slot /></main>
+
+  <!-- Script necessario per caricare Cloudflare Turnstile in modo asincrono -->
+  <script
+    src="https://challenges.cloudflare.com/turnstile/v0/api.js"
+    async
+    defer></script>
 </LayoutContatti>

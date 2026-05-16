@@ -1,0 +1,36 @@
+---
+// Fundations
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import Text from "@/components/fundations/elements/Text.astro";
+import Wrapper from "@/components/fundations/containers/Wrapper.astro";
+// Components
+import ServiziEntries from "@/components/servizi/ServiziEntries.astro";
+// Content
+import { getCollection } from "astro:content";
+const tuttiServizi = await getCollection("servizi");
+---
+
+<BaseLayout hideBigLogo={true}>
+  <section>
+    <Wrapper variant="standard" class="py-2">
+      <Text tag="h1" variant="textBase" class="font-medium text-base-900">
+        Our photographers
+      </Text>
+
+      <div
+        class="mt-4 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 xl:grid-cols-5 gap-y-24 gap-8"
+      >
+        {
+          // Sorting authors alphabetically inline
+          tuttiServizi
+            .sort((a, b) => {
+              const nameA = a.data.name.toLowerCase();
+              const nameB = b.data.name.toLowerCase();
+              return nameA < nameB ? -1 : nameA > nameB ? 1 : 0;
+            })
+            .map((post) => <ServiziEntries post={post} />)
+        }
+      </div>
+    </Wrapper>
+  </section>
+</BaseLayout>

@@ -1,0 +1,21 @@
+---
+import { getCollection } from "astro:content";
+import StoreLayout from "../../layouts/LayoutProdottoSingolo.astro";
+
+const { slug } = Astro.params;
+
+// Prima prova con sessioni
+let page = (await getCollection("sessioni")).find((p) => p.slug === slug);
+
+// Se non trovato, prova edizioni
+if (!page)
+  page = (await getCollection("edizioni")).find((p) => p.slug === slug);
+
+if (!page) throw new Error(`Page not found: ${slug}`);
+
+const { Content } = await page.render();
+---
+
+<StoreLayout frontmatter={page.data}>
+  <Content />
+</StoreLayout>

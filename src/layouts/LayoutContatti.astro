@@ -1,5 +1,6 @@
 ---
 // Fundations
+import BigLogo from "@/components/assets/LogoAtelier.astro";
 import "@/styles/global.css";
 import BaseHead from "@/components/fundations/head/BaseHead.astro";
 import Wrapper from "@/components/fundations/containers/Wrapper.astro";
@@ -14,13 +15,14 @@ const {
   canonical,
   image,
   ogType,
-  hideBigLogo = true, hideNavigation = false, hideFooter = false } = Astro.props;
-import Favicons from '../components/fundations/head/Favicons.astro';
+  hideBigLogo = true,
+  hideNavigation = false,
+  hideFooter = false,
+} = Astro.props;
 ---
 
 <html lang="it" class="scroll-smooth">
   <head>
-     <Favicons />
     <BaseHead
       title={title}
       description={description}
@@ -29,17 +31,16 @@ import Favicons from '../components/fundations/head/Favicons.astro';
       ogType={ogType}
     />
   </head>
- <body class="flex flex-col min-h-svh">
-  {!hideNavigation && (
-    <div class="w-full">
-      <Navigation />
-    </div>
-  )}
-
-  <main class="grow">
-    <slot />
-  </main>
-
-  {!hideFooter && <Footer />}
-</body>
+  <body class="flex flex-col bg-gallery-8 min-h-svh">
+    {
+      !hideBigLogo && (
+        <Wrapper variant="standard" class="pt-8">
+          <BigLogo />
+        </Wrapper>
+      )
+    }
+    {!hideNavigation && <Navigation />}
+    <main class="grow"><slot /></main>
+    {!hideFooter && <Footer />}
+  </body>
 </html>

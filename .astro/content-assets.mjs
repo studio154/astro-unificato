@@ -1,0 +1,6 @@
+
+import __ASTRO_IMAGE_IMPORT_u3Y0T from "/src/images/pacchetti/intermedio/thumbnail.jpeg?astroContentImageFlag=&importer=src%2Fcontent%2Fsessioni%2Fintermedio.md";
+import __ASTRO_IMAGE_IMPORT_ZaBraV from "/src/images/pacchetti/avanzato/thumbnail.jpeg?astroContentImageFlag=&importer=src%2Fcontent%2Fsessioni%2Fesecutivo.md";
+import __ASTRO_IMAGE_IMPORT_cRQbU from "/src/images/pacchetti/base/thumbnail.jpeg?astroContentImageFlag=&importer=src%2Fcontent%2Fsessioni%2Fbase.md";
+export default new Map([["/src/images/pacchetti/intermedio/thumbnail.jpeg?astroContentImageFlag=&importer=src%2Fcontent%2Fsessioni%2Fintermedio.md", __ASTRO_IMAGE_IMPORT_u3Y0T], ["/src/images/pacchetti/avanzato/thumbnail.jpeg?astroContentImageFlag=&importer=src%2Fcontent%2Fsessioni%2Fesecutivo.md", __ASTRO_IMAGE_IMPORT_ZaBraV], ["/src/images/pacchetti/base/thumbnail.jpeg?astroContentImageFlag=&importer=src%2Fcontent%2Fsessioni%2Fbase.md", __ASTRO_IMAGE_IMPORT_cRQbU]]);
+		
