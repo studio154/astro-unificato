@@ -14,7 +14,7 @@ import SocialLinks from "@/components/fundations/icons/SocialLinks.astro";
         variant="textXL"
         class="max-w-xl mx-auto font-light font-serif uppercase text-center leading-6 text-base-900"
       >
-        Since <time datetime="2025-06-01" class="font-sans"> </time> 1976  
+        Since <time datetime="2025-06-01" class="font-sans"> </time> 1976
         <span class="block"> fotografia di ritratto </span>
       </Text>
 
@@ -24,43 +24,55 @@ import SocialLinks from "@/components/fundations/icons/SocialLinks.astro";
         class="max-w-xl mx-auto !font-serif uppercase text-balance text-center leading-tight text-base-900"
       >
         <span>Lo studio fotografico riceve</span><br />
-        esclusivamente su appuntamento<br><br>
+        esclusivamente su appuntamento<br /><br />
         <a class="hover:text-base-900 text-gallery-5" href="/servizi/">
-    Servizi e collaborazioni
-  </a>
-       
+          Servizi e collaborazioni
+        </a>
       </Text>
-      
 
-      <div class="grid grid-cols-1 text-center md:grid-cols-3 mt-8 uppercase text-base-900">
+      <div
+        class="grid grid-cols-1 md:grid-cols-3 items-center text-center mt-8 uppercase text-base-900 font-medium"
+      >
         <Text tag="p" variant="textM" class="md:text-left">
-          
-          <a href="/contatti/" title="invia una richiesta">
+          <a
+            href="/contatti/"
+            title="invia una richiesta"
+            class="hover:opacity-80 transition-opacity"
+          >
             RICHIEDI UN APPUNTAMENTO
           </a>
         </Text>
 
-        <Text tag="p" variant="textM" class="site-title mt-2 text-base font-medium">
-          <a href="/blog/" title="sito ufficiale home">
+        <Text tag="p" variant="textM" class="site-title text-base">
+          <a
+            href="/blog/"
+            title="sito ufficiale home"
+            class="hover:opacity-80 transition-opacity"
+          >
             JOURNAL & NOTES
           </a>
         </Text>
 
         <Text tag="p" variant="textM" class="md:text-right">
-          <a href="https://studio154.it/" title="studio fotografico studio154" target="_blank">
+          <a
+            href="https://studio154.it/"
+            title="studio fotografico studio154"
+            target="_blank"
+            class="hover:opacity-80 transition-opacity"
+          >
             Studio154
           </a>
-          
         </Text>
       </div>
       <!-- SOCIAL -->
       <SocialLinks />
       <!-- COPYRIGHT -->
-      <p class="mt-10 text-xs md:text-sm text-base-900/60 italic tracking-wide text-center">
-        © Elio Carchidi — Tutti i diritti riservati. Uso non autorizzato vietato.
+      <p
+        class="mt-10 text-xs md:text-sm text-base-900/60 italic tracking-wide text-center"
+      >
+        © Elio Carchidi — Tutti i diritti riservati. Uso non autorizzato
+        vietato.
       </p>
-      
-
     </div>
   </Wrapper>
 </footer>
