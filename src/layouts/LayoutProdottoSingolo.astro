@@ -9,13 +9,8 @@ import Wrapper from "@/components/fundations/containers/Wrapper.astro";
 import CtaEdizioni from "@/components/cta/CtaEdizioni.astro";
 
 // Components
-const {
-  title,
-  description,
-  canonical,
-  image,
-  ogType,
-  frontmatter } = Astro.props;
+const { title, description, canonical, image, ogType, frontmatter } =
+  Astro.props;
 ---
 
 <BaseLayout
@@ -33,15 +28,23 @@ const {
       <!-- Back -->
 
       <Text
-  tag="a"
-  href="/atelier/"
-  variant="textXS"
-  class="inline-flex items-center gap-1 mb-6 opacity-60 hover:opacity-100 transition"
->
-  &larr; Atelier
-</Text>
+        tag="a"
+        href="/atelier/"
+        variant="textXS"
+        class="inline-flex items-center gap-1 mb-6 opacity-60 hover:opacity-100 transition"
+      >
+        &larr; Atelier
+      </Text>
+      <Text
+        tag="a"
+        href="javascript:history.back()"
+        variant="textXS"
+        class="inline-flex items-center gap-1 mb-6 opacity-60 hover:opacity-100 transition"
+      >
+        &larr; Torna indietro
+      </Text>
 
- <!-- <Text
+      <!-- <Text
         tag="a"
         href="/"
         variant="textXS"
@@ -66,8 +69,8 @@ const {
         class="inline-flex items-center gap-1 mb-6 opacity-60 hover:opacity-100 transition"
       >
         &larr; Torna indietro
-      </Text> -->     
-      
+      </Text> -->
+
       <!-- Product layout -->
       <div class="grid grid-cols-1 lg:grid-cols-12 gap-12 items-start">
         <!-- IMAGE -->
@@ -83,7 +86,6 @@ const {
 
         <!-- SIDEBAR -->
         <aside class="lg:col-span-5 lg:sticky lg:top-24 space-y-8">
-        
           <!-- Title -->
           <div>
             <Text
@@ -94,50 +96,34 @@ const {
               {frontmatter.title}
             </Text>
 
-            <Text tag="p" variant="textSM" class="mt-4 text-base-600 leading-relaxed">
+            <Text
+              tag="p"
+              variant="textSM"
+              class="mt-4 text-base-600 leading-relaxed"
+            >
               {frontmatter.description}
             </Text>
           </div>
 
           <!-- Prezzo + CTA -->
           <div class="space-y-4">
-            <Text tag="p" variant="textXL" class="font-medium">
-              €{frontmatter.price} 
-              <!-- ETICHETTA SE NECESSARIA €{frontmatter.priceLabel}-->
-              </Text>
-              <!-- SOLO TESTO SENZA PREZZO
-                <Text tag="p" variant="textLG" class="text-base-600 mb-8">
-            Disponibile su richiesta </Text>-->
-           
+            <Text
+              tag="p"
+              variant="textLG"
+              class="font-serif italic text-base-800"
+            >
+              {frontmatter.priceLabel || `A partire da € ${frontmatter.price}`}
+            </Text>
 
             <Button
-  isLink={true}
-  href="/contatti/"
-  size="base"
-  variant="default"
-  class="w-full"
->
-  Richiedi informazioni
-</Button>
-
-           <!-- <Button
               isLink={true}
-              href={frontmatter.checkout}
+              href="/contatti/"
               size="base"
               variant="default"
               class="w-full"
             >
-              Prenota {frontmatter.title} per €{frontmatter.price}
+              Richiedi informazioni
             </Button>
-            <Button
-              isLink={true}
-              href={frontmatter.checkout2}
-              size="base"
-              variant="accent"
-              class="w-full"
-            >
-              Regala {frontmatter.title} a ${frontmatter.price}
-            </Button> --> 
           </div>
 
           <!-- Includes -->
@@ -180,7 +166,9 @@ const {
 
           <!-- License -->
           <div>
-            <Text tag="h3" variant="textSM" class="font-medium"> Utilizzo </Text>
+            <Text tag="h3" variant="textSM" class="font-medium">
+              Utilizzo
+            </Text>
             <Text tag="p" variant="textXS" class="mt-1 text-base-600">
               {frontmatter.license}
             </Text>
@@ -207,7 +195,6 @@ const {
         </aside>
       </div>
       <CtaEdizioni />
-
     </Wrapper>
   </section>
 </BaseLayout>

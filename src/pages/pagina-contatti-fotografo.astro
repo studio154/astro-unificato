@@ -1,0 +1,115 @@
+---
+import LayoutContatti from "@/layouts/LayoutContatti.astro";
+import Wrapper from "@/components/fundations/containers/Wrapper.astro";
+import ContattiResend from "@/components/hubspot-form/ContattiResend.astro";
+import Text from "@/components/fundations/elements/Text.astro";
+---
+
+<LayoutContatti
+    title="Contatti ed Hub Risorse – Elio Leonardo Carchidi"
+    description="Sei arrivato qui dai social o da un link esterno? Utilizza questo modulo per un contatto rapido o naviga tra le risorse e i servizi dell'Atelier Fotografico a Roma."
+    image="https://media.eliocarchidi.com/uploads/2026/03/blog-fotografia-elio-carchidi-bg-c.jpg"
+>
+    <Wrapper
+        variant="standard"
+        class="py-12 px-4 sm:px-6 max-w-5xl mx-auto grid gap-12 w-full text-center"
+    >
+        <!-- Header specifico per chi arriva da fuori (Social/Backlink) -->
+        <header class="text-center grid gap-4 max-w-2xl mx-auto w-full">
+            <Text
+                tag="h1"
+                variant="textLG"
+                class="font-serif uppercase text-base-900"
+            >
+                Benvenuto nel mio Atelier
+            </Text>
+            <Text
+                tag="p"
+                class="!font-serif uppercase text-base-900 leading-relaxed text-sm"
+            >
+                Sei arrivato qui tramite un link esterno o un profilo social.
+                Puoi scrivermi direttamente usando il modulo rapido qui sotto,
+                oppure esplorare le sezioni dedicate ai miei servizi.
+            </Text>
+        </header>
+
+        <!-- La stessa Form di Resend (qui puoi passare un parametro di tracciamento se previsto dal componente) -->
+        <div
+            class="w-full max-w-2xl mx-auto text-left bg-neutral-50 p-6 sm:p-8 rounded-xl border border-neutral-100"
+        >
+            <ContattiResend origin="hub_vecchia_pagina" />
+        </div>
+
+        <!-- Links & Risorse Utili (I vecchi backlink importanti trasformati in un hub pulito) -->
+        <div class="w-full max-w-3xl mx-auto border-t border-neutral-200 pt-12">
+            <Text
+                tag="h2"
+                class="font-serif uppercase text-base-900 mb-6 tracking-wide text-sm"
+            >
+                Risorse e Servizi Utili
+            </Text>
+
+            <div class="grid grid-cols-1 sm:grid-cols-2 gap-6 text-left">
+                <div class="space-y-2">
+                    <Text
+                        tag="h3"
+                        class="font-medium uppercase text-xs tracking-wider text-neutral-500"
+                        >Servizi Fotografici</Text
+                    >
+                    <ul class="space-y-1 font-serif text-base text-base-900">
+                        <li>
+                            <a
+                                href="/preventivo-servizio-fotografico/"
+                                class="hover:underline"
+                                >→ Richiedi un Preventivo</a>
+                        </li>
+                        <li>
+                            <a href="/portfolio/" class="hover:underline"
+                                >→ Sfoglia il Portfolio Portrait & Fine Art</a>
+                        </li>
+                        <li>
+                            <a
+                                href="https://studio154.it"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                class="hover:underline"
+                                >→ Studio Fotografico Studio154</a>
+                        </li>
+                    </ul>
+                </div>
+
+                <div class="space-y-2">
+                    <Text
+                        tag="h3"
+                        class="font-medium uppercase text-xs tracking-wider text-neutral-500"
+                        >Formazione & Atelier</Text
+                    >
+                    <ul class="space-y-1 font-serif text-base text-base-900">
+                        <li>
+                            <a href="/atelier/" class="hover:underline"
+                                >→ Percorsi di Mentoring</a>
+                        </li>
+                        <li>
+                            <a href="/blog/" class="hover:underline"
+                                >→ Leggi il Journal (Blog)</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <!-- Informazioni di Servizio Generiche (ex footer della vecchia pagina) -->
+        <footer
+            class="w-full mx-auto border-t border-neutral-200 pt-8 text-center"
+        >
+            <Text
+                tag="p"
+                class="font-serif text-xs uppercase text-base-900 leading-relaxed"
+            >
+                <strong>Atelier Elio Leonardo Carchidi</strong><br />
+                Via Casilina 3A (Porta Maggiore) — Roma<br />
+                Spazio attivo dal 1976 — Si riceve esclusivamente su appuntamento
+            </Text>
+        </footer>
+    </Wrapper>
+</LayoutContatti>

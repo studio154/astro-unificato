@@ -40,13 +40,13 @@ Ecco i consigli principali:
 
 1. [Mostra il tuo lato migliore](#1-mostra-il-tuo-lato-migliore)
 2. [Quando sorridi, appoggia la lingua al palato](#2-quando-sorridi-appoggia-la-lingua-al-palato)
-3. [Fai il conto alla rovescia e apri gli occhi al momento giusto](#3-fai-il-conto-alla-rovescia-e-apri-gli-occhi)
+3. [Fai il conto alla rovescia e apri gli occhi al momento giusto](#3-fai-il-conto-alla-rovescia-e-apri-occhi)
 4. [Tieni le braccia leggermente staccate dal corpo](#4-tieni-le-braccia-leggermente-staccate-dal-corpo)
 5. [Spingi il mento in avanti e allunga il collo](#5-spingi-il-mento-in-avanti-e-allunga-il-collo)
 6. [Porta leggermente le spalle verso l’interno](#6-porta-leggermente-le-spalle-verso-linterno)
 7. [Se non sai dove mettere le mani, usa vestiti, tasche o capelli](#7-se-non-sai-dove-mettere-le-mani-usa-vestiti-tasche-o-capelli)
 8. [Nelle foto di gruppo, evita di stare troppo vicino alla fotocamera](#8-nelle-foto-di-gruppo-evita-di-stare-troppo-vicino-alla-fotocamera)
-9. [Scegli un buon fotografo, perché molto dipende da lui](#9-scegli-un-buon-fotografo-perche-molto-dipende-da-lui)
+9. [Capire cosa stai cercando: l'Atelier o lo Studio](#9-capire-cosa-stai-cercando-latelier-o-lo-studio)
 
 ## 1. Mostra il tuo lato migliore
 
@@ -124,82 +124,72 @@ Se non vuoi risultare sproporzionata o troppo in evidenza, evita la primissima f
 
 È un accorgimento semplice, ma nelle foto di gruppo può cambiare molto.
 
-## 9. Scegli un buon fotografo, perché molto dipende da lui
+## 9. Capire cosa stai cercando: l'Atelier o lo Studio
 
-Quanto conta il fotografo in tutto questo?
+I consigli tecnici aiutano ad evitare gli errori più grossolani, ma la verità della fotografia non si risolve con una checklist. 
 
-Molto. In certi casi quasi tutto.
+La fotogenia intesa come trucco o effetto speciale svanisce un attimo dopo lo scatto. Se stai cercando un'immagine costruita per sembrare artificialmente la migliore versione possibile del reame, esistono infinite scorciatoie digitali e filtri automatici. 
 
-I consigli aiutano, ma non sostituiscono la luce giusta, l’inquadratura corretta, il tempo necessario e la capacità di guidare una persona senza farla sentire giudicata.
+Nel mio percorso faccio l'esatto opposto: cerco l'autenticità. Un ritratto solido non nasce da un espediente visivo, ma dal valore del tempo che si decide di dedicare all'ascolto e alla sottrazione del superfluo.
 
-Se ti trovi davanti a un fotografo non all’altezza, anche la migliore checklist servirà a poco.
+Se hai l'esigenza di affrontare un'esperienza fotografica riflessiva, basata sulla ricerca della tua presenza reale e sul valore senza tempo del ritratto, ho strutturato lo spazio dell'Atelier per sessioni private basate su questo specifico metodo.
 
-La luce potrebbe non valorizzarti. L’inquadratura potrebbe deformarti. Il momento dello scatto potrebbe non essere quello giusto. E tu potresti non riconoscerti nelle immagini finali.
+Se invece le tue necessità correnti richiedono un servizio fotografico professionale eccellente, dinamico, finalizzato a obiettivi pratici e commerciali, e con tempi e costi di gestione più accessibili, la risposta ideale è il team della mia struttura commerciale: Studio154.
 
 ![Fotografie artistiche con cornice](https://media.eliocarchidi.com/uploads/2017/08/fotografie-artistiche-su-cornici-900.jpg)
 
-*Un buon ritratto non serve solo oggi. Può accompagnarti nel tempo.*
+*Un vero ritratto non serve a riempire uno spazio oggi. Conserva il suo valore nel tempo.*
 
-## Il limite dei consigli: da soli non bastano sempre
+## Il limite dei consigli: la scelta del fotografo
 
-Questi suggerimenti funzionano. Aiutano a posare meglio, a sentirsi più sicuri e a evitare alcuni errori comuni.
+Scegliere da chi farsi fotografare significa scegliere quale linguaggio si vuole parlare. 
 
-Ma c’è una cosa che devo dirti con sincerità: non risolvono tutto.
+Se ti trovi davanti a un professionista che applica schemi standard, anche la migliore postura servirà a poco: la luce potrebbe non valorizzarti, l’inquadratura potrebbe deformarti e l’ansia da obiettivo rimarrebbe intatta. 
 
-La luce, l’inquadratura, il momento, la relazione con chi fotografa e la capacità di farti sentire a tuo agio non sono dettagli secondari. Sono spesso la differenza tra una foto carina e un ritratto che ti rappresenta davvero.
-
-Puoi imparare a stare meglio davanti alla fotocamera. Ma per vederti davvero con naturalezza, presenza e autenticità, serve anche qualcuno che sappia guardarti e guidarti.
-
-## Quando scegliere una sessione di ritratto professionale
-
-Una sessione fotografica professionale può essere utile se vuoi:
-
-* un ritratto personale più autentico e curato
-* fotografie professionali per lavoro, curriculum o LinkedIn
-* immagini più eleganti e naturali per presentarti online
-* un’esperienza fotografica pensata su misura per te
-* un ricordo personale o familiare realizzato con attenzione
-
-Nel mio lavoro non parto dall’idea di trasformare una persona in qualcun altro. Il punto è diverso: creare le condizioni perché possa riconoscersi in un’immagine migliore, più essenziale, più controllata e più vera.
-
-La posa, quando funziona, non si vede. Si sente solo una presenza più chiara.
+Il mio scopo non è trasformare una persona in qualcun altro o venderle un'illusione. Il punto è creare le condizioni ideali — di luce, tempo e dialogo — perché possa riconoscersi in un’immagine essenziale, pulita e soprattutto vera. La buona posa non si nota nell'immagine finale; si percepisce solo una presenza più chiara e nitida.
 
 <div class="my-10 rounded-2xl border border-neutral-200 bg-neutral-50 p-6">
-  <p class="text-sm uppercase tracking-wide text-neutral-500 mb-2">Suggerimento</p>
+  <p class="text-sm uppercase tracking-wide text-neutral-500 mb-2">Una distinzione di valore</p>
   <p class="text-lg leading-relaxed">
-    Se stai cercando fotografie più naturali e curate, non partire dal pacchetto più economico:
-    parti dal risultato che vuoi ottenere.
+    Non partire mai dalla ricerca del pacchetto più economico. Scegli in base al tempo che vuoi dedicare alla tua immagine e al valore che le attribuisci.
   </p>
   <a href="/atelier/sessioni-private/" class="inline-block mt-4 font-semibold underline">
-    Guarda le Sessioni Private di Ritratto
+    Scopri il metodo delle Sessioni Private in Atelier
   </a>
 </div>
 
-## Vuoi vederti meglio in fotografia?
+## Come orientarsi adesso
 
-Puoi continuare a provare da sola o da solo. Puoi esercitarti davanti allo specchio, usare questi consigli, fare selfie migliori e capire quale lato del viso ti piace di più.
-
-È un buon inizio.
+Puoi continuare a esercitarti da sola o da solo, usare questi accorgimenti davanti allo specchio, studiare i tuoi profili e capire come rispondi alla luce della fotocamera. È un ottimo modo per iniziare a conoscersi visivamente.
 
 <div class="my-10 rounded-2xl border border-neutral-200 bg-neutral-50 p-6">
-  <p class="text-sm uppercase tracking-wide text-neutral-500 mb-2">Prima di prenotare</p>
+  <p class="text-sm uppercase tracking-wide text-neutral-500 mb-2">Servizi Fotografici Professionali</p>
   <p class="text-lg leading-relaxed">
-    Può essere utile capire cosa include davvero un servizio fotografico e quali immagini ti servono.
+    Se stai cercando un servizio fotografico professionale (per la tua attività, per il lavoro o per scopi personali) gestito con tempi rapidi, soluzioni concrete e tariffe accessibili, la risposta ideale è la mia struttura commerciale. Lì non troverai il percorso di ricerca dell'Atelier, ma un team pronto e pacchetti chiari adatti a ogni esigenza.
   </p>
-  <a href="/cosa-include-un-servizio-fotografico/" class="inline-block mt-4 font-semibold underline">
-    Leggi cosa include un servizio fotografico
+  <a href="https://studio154.it" class="inline-block mt-4 font-semibold underline" target="_blank">
+    Scopri i servizi fotografici di Studio154
+  </a>
+</div>
+  <p class="text-sm uppercase tracking-wide text-neutral-500 mb-2">Servizi Professionali e Noleggi</p>
+  <p class="text-lg leading-relaxed">
+    Se le tue necessità sono orientate a servizi commerciali, e-commerce o aziendali con budget e tempi definiti, la risposta ideale è la mia struttura commerciale. Lì non troverai la filosofia dell'Atelier, ma un team e soluzioni pratiche per esigenze concrete.
+  </p>
+  <a href="https://studio154.it" class="inline-block mt-4 font-semibold underline" target="_blank">
+    Visita il sito di Studio154
   </a>
 </div>
 
-Se stai pensando a un servizio fotografico completo, qui trovi una guida su come prepararti
+Se invece vuoi approfondire come prepararti a livello logistico per un qualunque set fotografico, puoi consultare la mia guida generale:
 
 👉 [Come prepararsi al servizio fotografico](/servizio-fotografico/)
 
 ---
-Ma se vuoi davvero scoprire come puoi apparire davanti a una luce pensata per te, con il tempo necessario e una guida professionale, allora il passo successivo è una sessione di ritratto.
 
-[Scopri le Sessioni Private di Ritratto](/atelier/sessioni-private/)
+Se senti che è arrivato il momento di scoprire come la tua presenza può emergere attraverso una sessione di ritratto d'autore dedicata, senza la fretta dei flussi commerciali, ti invito a scoprire lo spazio privato dell'Atelier.
 
-Oppure, se desideri un primo contatto più semplice:
+[Le Sessioni Private di Ritratto in Atelier](/atelier/sessioni-private/)
 
-[Richiedi informazioni](/contatti/)
+Oppure, se desideri semplicemente fare una domanda o richiedere un chiarimento preliminare:
+
+[Contattami per maggiori informazioni](/contatti/)

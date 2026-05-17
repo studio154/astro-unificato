@@ -6,12 +6,11 @@ import SessioniEntry from "@/components/sessioni/SessioniEntry.astro";
 import { getCollection } from "astro:content";
 
 const allProducts = (await getCollection("sessioni")).sort(
-  (a, b) => a.data.price - b.data.price
+  (a, b) => a.data.price - b.data.price,
 );
 
 import Button from "@/components/fundations/elements/Button.astro";
 ---
-
 
 <BaseLayout
   title="Sessioni Private di Ritratto | Elio Leonardo Carchidi"
@@ -38,12 +37,12 @@ import Button from "@/components/fundations/elements/Button.astro";
       </div>
       <div
         class="items-start pt-2 pb-2 lg:pb-6 text-center grid grid-cols-1
-      gap-4 lg:gap-6 lg:gap-y-6 mb-4 max-w-2xl uppercase m-auto mt-50"
+      gap-4 lg:gap-6 lg:gap-y-6 mb-4 max-w-2xl uppercase m-auto mt-26"
       >
         <Text
           tag="h1"
           variant="textLG"
-          class="order-last font-serif lg:order-none col-span-full lg:col-span-1: text-base-900 mb-12"
+          class="order-last font-serif lg:order-none col-span-full lg:col-span-1: text-base-900 mb-6"
         >
           Vivi un’esperienza di ritratto pensata su misura, dove luce, tempo e
           presenza si incontrano per raccontare la tua storia. Contattaci per
@@ -55,6 +54,208 @@ import Button from "@/components/fundations/elements/Button.astro";
           ></Button
         >
       </div>
+      <div class="text-center mt-8"></div>
     </Wrapper>
+  </section>
+
+  <section class="py-12 border-t border-base-200/60 bg-base-50/20">
+    <div class="max-w-4xl mx-auto px-6">
+      <div class="max-w-2xl mx-auto text-center mb-20">
+        <Text
+          tag="h2"
+          variant="textLG"
+          class="font-serif italic text-base-900 tracking-tight"
+        >
+          La fotografia come percorso, non come prestazione.
+        </Text>
+        <Text
+          tag="p"
+          variant="textMD"
+          class="mt-4 text-base-600 leading-relaxed font-light"
+        >
+          Molte persone evitano un ritratto d’autore perché temono l’obiettivo o
+          si considerano non fotogeniche. Nel mio Atelier la fotogenia non è un
+          prerequisito: è semplicemente il risultato di una gestione accurata
+          del tempo, dell'ascolto e di una luce costruita su misura per te.
+        </Text>
+      </div>
+
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-12 relative">
+        <div class="flex flex-col">
+          <span class="font-serif italic text-2xl text-base-400 mb-2">01.</span>
+          <Text
+            tag="h3"
+            variant="textSM"
+            class="font-medium text-base-900 uppercase tracking-wider"
+          >
+            Il Dialogo e la Visione
+          </Text>
+          <Text
+            tag="p"
+            variant="textSM"
+            class="mt-3 text-base-600 leading-relaxed font-light"
+          >
+            Ogni sessione inizia con una conversazione informale. Capire chi
+            sei, qual è l’obiettivo del tuo ritratto e cosa desideri trasmettere
+            (un profilo professionale, una ricerca intima o un ricordo Fine Art)
+            è essenziale per iniziare in sintonia.
+          </Text>
+        </div>
+
+        <div class="flex flex-col">
+          <span class="font-serif italic text-2xl text-base-400 mb-2">02.</span>
+          <Text
+            tag="h3"
+            variant="textSM"
+            class="font-medium text-base-900 uppercase tracking-wider"
+          >
+            Il Tempo in Studio
+          </Text>
+          <Text
+            tag="p"
+            variant="textSM"
+            class="mt-3 text-base-600 leading-relaxed font-light"
+          >
+            In studio il tempo si dilata. Non ci sono scatti a raffica o pose
+            forzate. Verrai guidato con calma in ogni dinamica di luce ed
+            espressione, lavorando per sottrazione fino a far emergere la tua
+            presenza più autentica e spontanea.
+          </Text>
+        </div>
+
+        <div class="flex flex-col">
+          <span class="font-serif italic text-2xl text-base-400 mb-2">03.</span>
+          <Text
+            tag="h3"
+            variant="textSM"
+            class="font-medium text-base-900 uppercase tracking-wider"
+          >
+            La Scelta Artigianale
+          </Text>
+          <Text
+            tag="p"
+            variant="textSM"
+            class="mt-3 text-base-600 leading-relaxed font-light"
+          >
+            Valuteremo insieme i provini migliori direttamente in studio o
+            tramite una galleria online riservata. Ogni singola immagine scelta
+            viene poi ottimizzata a mano, preservando la texture naturale della
+            pelle e la verità dello scatto originale.
+          </Text>
+        </div>
+      </div>
+
+      <div class="mt-12 pt-12 border-t border-base-200/40 text-center">
+        <Text
+          tag="p"
+          variant="textSM"
+          class="font-serif italic text-base-800 max-w-xl mx-auto leading-relaxed"
+        >
+          "Il ritratto non è un dovere o una posa davanti a un obiettivo, ma il
+          momento esatto in cui decidi di guardarti in modo diverso."
+        </Text>
+      </div>
+    </div>
+  </section>
+  <section class="py-24 border-t border-base-200/40 bg-white">
+    <div class="max-w-3xl mx-auto px-6">
+      <div class="mb-20 text-center">
+        <Text
+          tag="h2"
+          variant="textSM"
+          class="font-serif italic text-base-400 tracking-wide"
+        >
+          Note di studio
+        </Text>
+      </div>
+
+      <div class="mb-16 max-w-xl mx-auto">
+        <Text
+          tag="h3"
+          variant="textMD"
+          class="font-serif italic text-base-900 tracking-tight mb-2"
+        >
+          L'attore teatrale.
+        </Text>
+        <Text
+          tag="p"
+          variant="textSM"
+          class="text-base-500 leading-relaxed font-light text-justify"
+        >
+          È venuto in studio un attore di teatro. Uno abituato al palco, al
+          pubblico, ai movimenti. Eppure, davanti all'obiettivo statico si è
+          bloccato. Senza un copione si sentiva nudo, quasi indifeso. Abbiamo
+          spento i flash, eliminato la fretta e iniziato a parlare d'altro. Solo
+          quando ha dimenticato la macchina fotografica è emerso l'uomo, oltre
+          il personaggio. Se si irrigidisce chi recita per mestiere, l'imbarazzo
+          è solo la parte più naturale del percorso.
+        </Text>
+      </div>
+
+      <div class="mb-16 max-w-xl mx-auto">
+        <Text
+          tag="h3"
+          variant="textMD"
+          class="font-serif italic text-base-900 tracking-tight mb-2"
+        >
+          Il controllo.
+        </Text>
+        <Text
+          tag="p"
+          variant="textSM"
+          class="text-base-500 leading-relaxed font-light text-justify"
+        >
+          Un'avvocata, abituata a gestire situazioni complesse e a mantenere
+          sempre il controllo. All'inizio calcolava ogni millimetro della posa,
+          l'inclinazione del mento, la rigidità delle spalle. È bastato
+          distogliere lo sguardo dall'inquadratura, fare due chiacchiere sulle
+          sue passioni e lasciare che la luce facesse il resto. Il suo ritratto
+          corporate è nato lì, sottraendo la posa per lasciare spazio alla sua
+          autorevolezza spontanea.
+        </Text>
+      </div>
+
+      <div class="max-w-xl mx-auto">
+        <Text
+          tag="h3"
+          variant="textMD"
+          class="font-serif italic text-base-900 tracking-tight mb-2"
+        >
+          Lo specchio.
+        </Text>
+        <Text
+          tag="p"
+          variant="textSM"
+          class="text-base-500 leading-relaxed font-light text-justify"
+        >
+          Una ragazza mi ha confessato di aver rimandato l'appuntamento per mesi
+          per paura di non vedersi bella. Abbiamo lavorato solo sull'ombra,
+          accarezzando i lineamenti senza stravolgerli con filtri artificiali.
+          Riconoscersi in uno scatto autentico, senza finzioni, toglie ogni
+          timore.
+        </Text>
+      </div>
+    </div>
+    <div
+      class="mt-12 pt-12 border-t border-base-200/40 text-center max-w-lg mx-auto"
+    >
+      <Text
+        tag="p"
+        variant="textSM"
+        class="font-serif italic text-base-800 leading-relaxed"
+      >
+        Ogni volto ha una sua luce che aspetta solo il tempo di essere
+        ascoltata.
+      </Text>
+
+      <div class="mt-8">
+        <a
+          href="/contatti/"
+          class="inline-block font-sans text-xs uppercase tracking-widest text-base-900 font-medium hover:text-base-500 transition-colors duration-300 border-b border-base-900 pb-1"
+        >
+          Richiedi un incontro in studio
+        </a>
+      </div>
+    </div>
   </section>
 </BaseLayout>
