@@ -1,16 +1,25 @@
 import { defineConfig } from "astro/config";
 import tailwindcss from '@tailwindcss/vite';
 import sitemap from "@astrojs/sitemap";
-import vercel from "@astrojs/vercel"; // <-- Aggiunto l'import di Vercel
+import vercel from "@astrojs/vercel";
 
 export default defineConfig({
   site: "https://www.eliocarchidi.com",
-  output: "static", // <-- FONDAMENTALE: mantiene il sito statico ma sblocca le API server
+  output: "static", 
 
+  // MODIFICATO: Diciamo a Vercel di intercettare e gestire i redirect a livello server
   adapter: vercel({
     webAnalytics: {
       enabled: true,
     },
+    imagesConfig: {
+      sizes: [320, 640, 1200, 2048],
+      domains: [],
+    },
+    // Questa è la chiave: forza Vercel a leggere l'oggetto redirects di Astro
+    routing: {
+      redirects: true
+    }
   }),
 
   vite: {
@@ -48,7 +57,7 @@ export default defineConfig({
     '/foto-erotiche/': '/',
     '/team/elio-carchidi/': '/chi-sono/',
     
-    // Pattern per intere cartelle (Sintassi corretta per Astro: accetta la destinazione come stringa)
+    // Pattern per intere cartelle (Ora Vercel le gestirà da server con lo status 302 automatico)
     '/fotografi-professionisti-roma/:path*': '/portfolio',
     '/category/:path*': '/blog',
     '/bw_portrait/:path*': '/portfolio',
