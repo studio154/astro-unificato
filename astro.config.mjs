@@ -48,26 +48,11 @@ export default defineConfig({
     '/foto-erotiche/': '/',
     '/team/elio-carchidi/': '/chi-sono/',
     
-    // Pattern per intere cartelle (usa oggetti con status)
-    '/fotografi-professionisti-roma/:path*': {
-      destination: '/portfolio',
-      status: 302
-    },
-    '/category/:path*': {
-      destination: '/blog',
-      status: 302
-    },
-    '/bw_portrait/:path*': {
-      destination: '/portfolio',
-      status: 302
-    },
-    '/adv_editorial/:path*': {
-      destination: '/portfolio',
-      status: 302
-    },
-    '/fashion_beauty/:path*': {
-      destination: '/portfolio',
-      status: 302
-    }
+    // Pattern per intere cartelle (Sintassi corretta per Astro: accetta la destinazione come stringa)
+    '/fotografi-professionisti-roma/:path*': '/portfolio',
+    '/category/:path*': '/blog',
+    '/bw_portrait/:path*': '/portfolio',
+    '/adv_editorial/:path*': '/portfolio',
+    '/fashion_beauty/:path*': '/portfolio'
   }
 });
