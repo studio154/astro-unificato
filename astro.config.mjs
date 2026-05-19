@@ -57,7 +57,36 @@ export default defineConfig({
     '/foto-erotiche/': '/',
     '/team/elio-carchidi/': '/chi-sono/',
     
-    // Pattern blindati per intere cartelle (coprono sia con che senza slash finale)
+    // -------------------------------------------------------------------------
+    // REDIRECT BLINDATI PER LE VECCHIE GALLERIE/PAGINE DA SEARCH CONSOLE
+    // -------------------------------------------------------------------------
+    // 1. Galleria Dermatologia e Medicina Estetica
+    '/fotografi-professionisti-roma/galleria-fotografica-dermatologia-e-medicina-estetica': '/portfolio',
+    '/fotografi-professionisti-roma/galleria-fotografica-dermatologia-e-medicina-estetica/': '/portfolio',
+
+    // 2. Foto Artistiche Bianco e Nero / Fine Art
+    '/fotografi-professionisti-roma/foto-artistiche-bianco-nero-colore-ricerca-personale-fine-art': '/portfolio',
+    '/fotografi-professionisti-roma/foto-artistiche-bianco-nero-colore-ricerca-personale-fine-art/': '/portfolio',
+
+    // 3. Foto Cani Meticci
+    '/fotografi-professionisti-roma/foto-cani-meticci': '/portfolio',
+    '/fotografi-professionisti-roma/foto-cani-meticci/': '/portfolio',
+
+    // 4. Fotografie Professionali per Musicisti
+    '/fotografi-professionisti-roma/fotografie-professionali-per-musicisti-cantanti-e-gruppi-musicali': '/portfolio',
+    '/fotografi-professionisti-roma/fotografie-professionali-per-musicisti-cantanti-e-gruppi-musicali/': '/portfolio',
+
+    // 5. Ritratti Corporate
+    '/fotografi-professionisti-roma/ritratti-corporate': '/portfolio',
+    '/fotografi-professionisti-roma/ritratti-corporate/': '/portfolio',
+
+    // 6. Vecchia Categoria Galleria Fotografica
+    '/category/galleria-fotografica': '/blog',
+    '/category/galleria-fotografica/': '/blog',
+    
+    // -------------------------------------------------------------------------
+    // PATTERN GENERICI DI BACKUP (Se un URL non è tra quelli sopra, scatta questo)
+    // -------------------------------------------------------------------------
     '/fotografi-professionisti-roma': '/portfolio',
     '/fotografi-professionisti-roma/:path*': '/portfolio',
 
