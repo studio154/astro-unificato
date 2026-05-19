@@ -42,6 +42,32 @@ export default defineConfig({
 
   redirects: {
     '/le-fotografie-glamour-di-liliane/': '/foto-erotiche',
-    '/conferma-invio-email-liliane-glamour/': '/foto-erotiche'
+    '/conferma-invio-email-liliane-glamour/': '/foto-erotiche',
+    
+    // NUOVI REDIRECT PER LE PAGINE STORICHE
+    '/foto-erotiche/': '/',
+    '/team/elio-carchidi/': '/chi-sono/',
+    
+    // Pattern per intere cartelle (usa oggetti con status)
+    '/fotografi-professionisti-roma/:path*': {
+      destination: '/portfolio',
+      status: 302
+    },
+    '/category/:path*': {
+      destination: '/blog',
+      status: 302
+    },
+    '/bw_portrait/:path*': {
+      destination: '/portfolio',
+      status: 302
+    },
+    '/adv_editorial/:path*': {
+      destination: '/portfolio',
+      status: 302
+    },
+    '/fashion_beauty/:path*': {
+      destination: '/portfolio',
+      status: 302
+    }
   }
 });
