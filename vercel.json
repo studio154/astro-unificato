@@ -1,1 +1,44 @@
-{}
+{
+  "redirects": [
+    {
+      "source": "/fotografi-professionisti-roma/galleria-fotografica-dermatologia-e-medicina-estetica/:path*",
+      "destination": "/portfolio",
+      "permanent": true
+    },
+    {
+      "source": "/fotografi-professionisti-roma/foto-artistiche-bianco-nero-colore-ricerca-personale-fine-art/:path*",
+      "destination": "/portfolio",
+      "permanent": true
+    },
+    {
+      "source": "/fotografi-professionisti-roma/foto-cani-meticci/:path*",
+      "destination": "/portfolio",
+      "permanent": true
+    },
+    {
+      "source": "/fotografi-professionisti-roma/fotografie-professionali-per-musicisti-cantanti-e-gruppi-musicali/:path*",
+      "destination": "/portfolio",
+      "permanent": true
+    },
+    {
+      "source": "/fotografi-professionisti-roma/ritratti-corporate/:path*",
+      "destination": "/portfolio",
+      "permanent": true
+    },
+    {
+      "source": "/category/galleria-fotografica/:path*",
+      "destination": "/blog",
+      "permanent": true
+    },
+    {
+      "source": "/fotografi-professionisti-roma/:path*",
+      "destination": "/portfolio",
+      "permanent": true
+    },
+    {
+      "source": "/category/:path*",
+      "destination": "/blog",
+      "permanent": true
+    }
+  ]
+}
