@@ -57,11 +57,20 @@ export default defineConfig({
     '/foto-erotiche/': '/',
     '/team/elio-carchidi/': '/chi-sono/',
     
-    // Pattern per intere cartelle (Ora Vercel le gestirà da server con lo status 302 automatico)
+    // Pattern blindati per intere cartelle (coprono sia con che senza slash finale)
+    '/fotografi-professionisti-roma': '/portfolio',
     '/fotografi-professionisti-roma/:path*': '/portfolio',
+
+    '/category': '/blog',
     '/category/:path*': '/blog',
+
+    '/bw_portrait': '/portfolio',
     '/bw_portrait/:path*': '/portfolio',
+
+    '/adv_editorial': '/portfolio',
     '/adv_editorial/:path*': '/portfolio',
+
+    '/fashion_beauty': '/portfolio',
     '/fashion_beauty/:path*': '/portfolio'
   }
 });
