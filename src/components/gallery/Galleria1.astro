@@ -14,9 +14,10 @@ const { title, url, thumbnail, category } = {
 ---
 
 <article class="relative">
-
+  <p class="uppercase tracking-[0.2em] text-[0.80rem] text-neutral-500 mb-2">
+    {title}
+  </p>
   <div class="relative group rounded-2xl overflow-hidden cursor-pointer">
-
     <img
       src={thumbnail}
       alt={title}
@@ -26,12 +27,16 @@ const { title, url, thumbnail, category } = {
     />
 
     <!-- Overlay -->
-    <div class="absolute inset-0 bg-black/0 group-hover:bg-black/20 transition duration-700"></div>
+    <div
+      class="absolute inset-0 bg-black/0 group-hover:bg-black/20 transition duration-700"
+    >
+    </div>
 
     <!-- Testi sopra immagine -->
     <div class="absolute inset-0 flex items-center justify-center z-10">
-      <div class="text-center opacity-0 group-hover:opacity-100 transition duration-500 px-6">
-
+      <div
+        class="text-center opacity-0 group-hover:opacity-100 transition duration-500 px-6"
+      >
         <p class="text-white text-xs tracking-[0.3em] uppercase opacity-70">
           {category}
         </p>
@@ -39,9 +44,9 @@ const { title, url, thumbnail, category } = {
         <h3 class="text-white text-2xl md:text-3xl font-light mt-2">
           {title}
         </h3>
-<p class="mt-4 text-white text-xs tracking-[0.25em] uppercase">
-  Apri galleria →
-</p>
+        <p class="mt-4 text-white text-xs tracking-[0.25em] uppercase">
+          Apri galleria →
+        </p>
       </div>
     </div>
 
@@ -49,9 +54,6 @@ const { title, url, thumbnail, category } = {
     <a
       href={url}
       aria-label={`Apri la galleria: ${title}`}
-      class="absolute inset-0 z-20"
-    />
-
+      class="absolute inset-0 z-20"></a>
   </div>
-
 </article>
