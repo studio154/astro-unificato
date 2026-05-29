@@ -54,6 +54,7 @@ import LayoutPulito from "../../layouts/LayoutPulito.astro";
 
         <div class="projects-grid">
             <article class="project-card">
+<<<<<<< HEAD
                 <div class="image-placeholder">
                     <img
                         src="https://media.eliocarchidi.com/uploads/2026/04/ART-Donna-Viso-Occhi-Chiari.jpg"
@@ -75,6 +76,9 @@ import LayoutPulito from "../../layouts/LayoutPulito.astro";
                         class="rounded-xl"
                     />
                 </div>
+=======
+                <div class="image-placeholder"></div>
+>>>>>>> a398e98 (nuovo layout per pagine, nuove classi per la struttura delle pagine)
                 <div class="project-meta">
                     <span>Analog Series</span>
                     <h3>Light & Grain</h3>
@@ -82,6 +86,7 @@ import LayoutPulito from "../../layouts/LayoutPulito.astro";
             </article>
 
             <article class="project-card">
+<<<<<<< HEAD
                 <div class="image-placeholder">
                     <img
                         src="https://media.eliocarchidi.com/uploads/2026/04/ART-Ritratto-Monica.jpg"
@@ -89,6 +94,17 @@ import LayoutPulito from "../../layouts/LayoutPulito.astro";
                         class="rounded-xl"
                     />
                 </div>
+=======
+                <div class="image-placeholder"></div>
+                <div class="project-meta">
+                    <span>Fine Art Study</span>
+                    <h3>Silent Portraits</h3>
+                </div>
+            </article>
+
+            <article class="project-card">
+                <div class="image-placeholder"></div>
+>>>>>>> a398e98 (nuovo layout per pagine, nuove classi per la struttura delle pagine)
                 <div class="project-meta">
                     <span>Commission</span>
                     <h3>Private Works</h3>
@@ -105,6 +121,7 @@ import LayoutPulito from "../../layouts/LayoutPulito.astro";
     </section>
 
     <style>
+<<<<<<< HEAD
         :global(body) {
             background: var(--bg);
             color: var(--text);
@@ -115,6 +132,10 @@ import LayoutPulito from "../../layouts/LayoutPulito.astro";
        ========================================== */
         .hero {
             min-height: 72vh;
+=======
+        .hero {
+            min-height: 70vh;
+>>>>>>> a398e98 (nuovo layout per pagine, nuove classi per la struttura delle pagine)
             display: flex;
             align-items: flex-end;
             padding: 10rem 2rem 6rem;
@@ -127,24 +148,35 @@ import LayoutPulito from "../../layouts/LayoutPulito.astro";
         }
 
         .eyebrow {
+<<<<<<< HEAD
             display: inline-block;
+=======
+>>>>>>> a398e98 (nuovo layout per pagine, nuove classi per la struttura delle pagine)
             font-size: 0.8rem;
             letter-spacing: 0.18em;
             text-transform: uppercase;
             opacity: 0.5;
+<<<<<<< HEAD
             margin-bottom: 2rem;
+=======
+>>>>>>> a398e98 (nuovo layout per pagine, nuove classi per la struttura delle pagine)
         }
 
         h1 {
             font-size: clamp(4rem, 10vw, 9rem);
             line-height: 0.9;
             letter-spacing: -0.06em;
+<<<<<<< HEAD
             font-weight: 500;
             margin-bottom: 2rem;
+=======
+            margin: 2rem 0;
+>>>>>>> a398e98 (nuovo layout per pagine, nuove classi per la struttura delle pagine)
         }
 
         .intro {
             max-width: 720px;
+<<<<<<< HEAD
             font-size: 1.15rem;
             line-height: 1.9;
             opacity: 0.82;
@@ -153,6 +185,13 @@ import LayoutPulito from "../../layouts/LayoutPulito.astro";
         /* ==========================================
        MANIFESTO SECTION
        ========================================== */
+=======
+            font-size: 1.1rem;
+            line-height: 1.9;
+            opacity: 0.8;
+        }
+
+>>>>>>> a398e98 (nuovo layout per pagine, nuove classi per la struttura delle pagine)
         .manifesto {
             padding: 8rem 2rem;
             border-top: 1px solid rgba(255, 255, 255, 0.08);
@@ -167,12 +206,16 @@ import LayoutPulito from "../../layouts/LayoutPulito.astro";
         }
 
         .label span {
+<<<<<<< HEAD
             font-size: 0.9rem;
+=======
+>>>>>>> a398e98 (nuovo layout per pagine, nuove classi per la struttura delle pagine)
             opacity: 0.4;
         }
 
         .content h2 {
             font-size: clamp(2rem, 5vw, 4rem);
+<<<<<<< HEAD
             line-height: 1;
             margin-bottom: 2rem;
             letter-spacing: -0.04em;
@@ -180,18 +223,29 @@ import LayoutPulito from "../../layouts/LayoutPulito.astro";
 
         .content p {
             max-width: 760px;
+=======
+            margin-bottom: 2rem;
+            letter-spacing: -0.03em;
+        }
+
+        .content p {
+>>>>>>> a398e98 (nuovo layout per pagine, nuove classi per la struttura delle pagine)
             line-height: 1.9;
             opacity: 0.8;
             margin-bottom: 1.5rem;
         }
 
+<<<<<<< HEAD
         /* ==========================================
        PROJECTS SECTION (GRIGLIA E CARD SIMMETRICHE)
        ========================================== */
+=======
+>>>>>>> a398e98 (nuovo layout per pagine, nuove classi per la struttura delle pagine)
         .projects {
             padding: 8rem 2rem;
         }
 
+<<<<<<< HEAD
         .section-heading {
             max-width: 1400px;
             margin: 0 auto 4rem;
@@ -255,17 +309,51 @@ import LayoutPulito from "../../layouts/LayoutPulito.astro";
             display: flex;
             flex-direction: column;
             margin-top: auto; /* Allinea perfettamente i blocchi di testo sul fondo */
+=======
+        .section-heading span {
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            opacity: 0.5;
+            letter-spacing: 0.15em;
+        }
+
+        .section-heading h2 {
+            font-size: clamp(2.5rem, 5vw, 5rem);
+            margin-top: 1rem;
+            letter-spacing: -0.04em;
+        }
+
+        .projects-grid {
+            max-width: 1400px;
+            margin: 4rem auto 0;
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 2rem;
+        }
+
+        .image-placeholder {
+            aspect-ratio: 4 / 5;
+            background: rgba(255, 255, 255, 0.05);
+            border: 1px solid rgba(255, 255, 255, 0.08);
+>>>>>>> a398e98 (nuovo layout per pagine, nuove classi per la struttura delle pagine)
         }
 
         .project-meta span {
             font-size: 0.75rem;
+<<<<<<< HEAD
             letter-spacing: 0.12em;
             text-transform: uppercase;
             opacity: 0.45;
+=======
+            text-transform: uppercase;
+            opacity: 0.5;
+            letter-spacing: 0.12em;
+>>>>>>> a398e98 (nuovo layout per pagine, nuove classi per la struttura delle pagine)
         }
 
         .project-meta h3 {
             margin-top: 0.5rem;
+<<<<<<< HEAD
             font-size: 1.3rem;
             font-weight: 500;
             line-height: 1.2;
@@ -274,6 +362,12 @@ import LayoutPulito from "../../layouts/LayoutPulito.astro";
         /* ==========================================
        CLOSING SECTION
        ========================================== */
+=======
+            font-size: 1.2rem;
+            font-weight: 500;
+        }
+
+>>>>>>> a398e98 (nuovo layout per pagine, nuove classi per la struttura delle pagine)
         .closing {
             padding: 10rem 2rem;
             text-align: center;
@@ -287,9 +381,12 @@ import LayoutPulito from "../../layouts/LayoutPulito.astro";
             opacity: 0.75;
         }
 
+<<<<<<< HEAD
         /* ==========================================
        RESPONSIVE DESIGN
        ========================================== */
+=======
+>>>>>>> a398e98 (nuovo layout per pagine, nuove classi per la struttura delle pagine)
         @media (max-width: 900px) {
             .grid {
                 grid-template-columns: 1fr;
@@ -297,7 +394,11 @@ import LayoutPulito from "../../layouts/LayoutPulito.astro";
             }
 
             .projects-grid {
+<<<<<<< HEAD
                 grid-template-columns: 1fr; /* In mobile le card tornano a colonna singola */
+=======
+                grid-template-columns: 1fr;
+>>>>>>> a398e98 (nuovo layout per pagine, nuove classi per la struttura delle pagine)
             }
 
             .hero {
