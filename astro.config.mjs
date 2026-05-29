@@ -5,7 +5,8 @@ import vercel from "@astrojs/vercel";
 
 export default defineConfig({
   site: "https://www.eliocarchidi.com",
-  output: "static", 
+  output: "static",
+  trailingSlash: "ignore",
 
   adapter: vercel({
     webAnalytics: {
@@ -41,9 +42,9 @@ export default defineConfig({
   ],
 
   redirects: {
-    '/le-fotografie-glamour-di-liliane/': '/foto-erotiche',
-    '/conferma-invio-email-liliane-glamour/': '/foto-erotiche',
-    '/foto-erotiche/': '/',
-    '/team/elio-carchidi/': '/chi-sono/'
-  }
+  '/le-fotografie-glamour-di-liliane/': '/foto-erotiche/',
+  '/conferma-invio-email-liliane-glamour/': '/foto-erotiche/',
+  '/foto-erotiche/': '/',
+  '/team/elio-carchidi/': '/chi-sono/'
+}
 });

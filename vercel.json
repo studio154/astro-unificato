@@ -32,65 +32,6 @@
       "destination": "/blog",
       "permanent": true
     },
-
-    // 🛡️ REGOLE DI PROTEZIONE AGGIUNTIVE PER VECCHI FILE E SEZIONI STORICHE
-    {
-      "source": "/blog-fotografico-elio-leonardo-carchidi/:path*",
-      "destination": "/blog",
-      "permanent": true
-    },
-    {
-      "source": "/studiofotografico/:path*",
-      "destination": "/",
-      "permanent": true
-    },
-    {
-      "source": "/formazione-fotografica/:path*",
-      "destination": "/blog",
-      "permanent": true
-    },
-    {
-      "source": "/manuale_fotografia_bambini/:path*",
-      "destination": "/blog",
-      "permanent": true
-    },
-    {
-      "source": "/ebook-fotografici/:path*",
-      "destination": "/blog",
-      "permanent": true
-    },
-    {
-      "source": "/fotografo_professionista_roma/:path*",
-      "destination": "/portfolio",
-      "permanent": true
-    },
-    {
-      "source": "/Fotografo_Professionista_Roma/:path*",
-      "destination": "/portfolio",
-      "permanent": true
-    },
-    {
-      "source": "/bw_portrait/:path*",
-      "destination": "/portfolio",
-      "permanent": true
-    },
-    {
-      "source": "/adv_editorial/:path*",
-      "destination": "/portfolio",
-      "permanent": true
-    },
-    {
-      "source": "/fashion_beauty/:path*",
-      "destination": "/portfolio",
-      "permanent": true
-    },
-    {
-      "source": "/download/:path*",
-      "destination": "/",
-      "permanent": true
-    },
-
-    // 🌪️ LE DUE REGOLE GENERALI "FUNNEL" VANNO SEMPRE IN CODA
     {
       "source": "/fotografi-professionisti-roma/:path*",
       "destination": "/portfolio",

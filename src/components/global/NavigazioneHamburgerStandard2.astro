@@ -1,0 +1,165 @@
+---
+const currentPath = Astro.url.pathname;
+
+const menuLinksMinimal = [
+  { href: "/portfolio/", label: "Portfolio" },
+  { href: "/atelier/", label: "Atelier" },
+  { href: "/chi-sono/", label: "Chi sono" },
+  { href: "/contatti/", label: "Contatti" },
+];
+
+import Text from "@/components/fundations/elements/Text.astro";
+---
+
+<nav
+  class="w-full border-b border-neutral-200/60 bg-[#f2f0e8]/90 backdrop-blur-md"
+>
+  <div
+    class="flex items-center justify-between px-6 py-7 md:px-12 lg:px-20 xl:px-24"
+  >
+    <!-- LOGO -->
+    <a href="/" class="flex items-center gap-2">
+      <span
+        class="site-title text-[1.12rem] font-black uppercase tracking-[-0.04em] text-black"
+      >
+        Elio Leonardo Carchidi
+      </span>
+    </a>
+
+    <!-- HAMBURGER -->
+    <button
+      id="hamburgerBtn"
+      class="flex h-10 w-10 items-center justify-center lg:hidden"
+      aria-controls="mobileMenu"
+      aria-expanded="false"
+      type="button"
+    >
+      <span class="sr-only">Apri menu</span>
+      <div class="flex flex-col gap-1">
+        <span class="block h-0.5 w-5 bg-black"></span>
+        <span class="block h-0.5 w-5 bg-black"></span>
+        <span class="block h-0.5 w-5 bg-black"></span>
+      </div>
+    </button>
+
+    <!-- DESKTOP MENU -->
+    <div
+      class="hidden items-center gap-10 text-[0.82rem] uppercase tracking-[0.08em] lg:flex"
+    >
+      <!-- PORTFOLIO DROPDOWN -->
+      <div class="relative group">
+        <a
+          href="/portfolio/"
+          class={`transition-colors ${
+            currentPath.startsWith("/portfolio")
+              ? "font-semibold text-black"
+              : "text-neutral-600 hover:text-black"
+          }`}
+        >
+          Portfolio
+        </a>
+
+        <!-- DROPDOWN STABILE -->
+        <div
+          class="absolute left-0 top-full mt-5
+      min-w-[240px]
+      flex flex-col gap-3
+      border border-neutral-200/60
+      bg-[#f2f0e8]/95
+      p-4 text-[0.78rem]
+      uppercase tracking-[0.08em]
+      text-neutral-700
+      shadow-sm
+      opacity-0 invisible pointer-events-none
+      translate-y-2
+      transition-all duration-150
+      group-hover:opacity-100
+      group-hover:visible
+      group-hover:pointer-events-auto
+      group-hover:translate-y-0"
+        >
+          <a
+            href="/portfolio/advertising-beauty"
+            class="hover:text-black transition-colors"
+          >
+            Advertising & Beauty
+          </a>
+
+          <a
+            href="/portfolio/corporate-stage"
+            class="hover:text-black transition-colors"
+          >
+            Corporate & Stage
+          </a>
+
+          <a
+            href="/portfolio/fineart-analogue"
+            class="hover:text-black transition-colors"
+          >
+            Fine Art & Analogue
+          </a>
+        </div>
+      </div>
+
+      <!-- ALTRI LINK -->
+      {
+        menuLinksMinimal
+          .filter((l) => l.href !== "/portfolio/")
+          .map((link) => (
+            <Text
+              tag="a"
+              href={link.href}
+              variant="textBase"
+              class={`transition-colors ${
+                currentPath === link.href
+                  ? "font-semibold text-black"
+                  : "text-neutral-600 hover:text-black"
+              }`}
+            >
+              {link.label}
+            </Text>
+          ))
+      }
+    </div>
+  </div>
+
+  <!-- MOBILE MENU -->
+  <div
+    id="mobileMenu"
+    class="hidden border-t border-neutral-200/60 bg-[#f2f0e8] lg:hidden"
+  >
+    <div
+      class="flex flex-col gap-4 px-6 py-5 text-[0.9rem] uppercase tracking-[0.08em] md:px-12"
+    >
+      {
+        menuLinksMinimal.map((link) => (
+          <Text
+            tag="a"
+            href={link.href}
+            variant="textBase"
+            class={`transition-colors ${
+              currentPath === link.href
+                ? "font-semibold text-black"
+                : "text-neutral-700 hover:text-black"
+            }`}
+          >
+            {link.label}
+          </Text>
+        ))
+      }
+    </div>
+  </div>
+</nav>
+
+<!-- MOBILE TOGGLE JS (già tuo) -->
+<script>
+  const btn = document.getElementById("hamburgerBtn");
+  const menu = document.getElementById("mobileMenu");
+
+  if (btn && menu) {
+    btn.addEventListener("click", () => {
+      const isHidden = menu.classList.toggle("hidden");
+      btn.setAttribute("aria-expanded", String(!isHidden));
+    });
+  }
+</script>

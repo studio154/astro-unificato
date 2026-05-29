@@ -11,10 +11,8 @@ const {
 const defaultTitle = "Elio Leonardo Carchidi | Fotografo di Ritratto a Roma";
 const defaultDesc = "Da oltre 40 anni realizzo ritratti fotografici con luce naturale a Roma.";
 
-// 🔴 Canonical SEMPRE corretto (ignora qualsiasi valore esterno)
 const canonicalUrl = new URL(Astro.url.pathname, Astro.site).href;
 
-// 🟡 OG Image: usa quella passata oppure fallback semplice
 const ogImage = image?.url || image || "https://media.eliocarchidi.com/uploads/2026/03/blog-fotografia-elio-carchidi-bg-c.jpg";
 ---
 

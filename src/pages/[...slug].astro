@@ -3,6 +3,7 @@ import { getCollection } from "astro:content";
 import BlogLayout from "@/layouts/BlogLayout.astro";
 import LayoutPagine from "@/layouts/LayoutPagine.astro";
 import LayoutLanding from "@/layouts/LayoutLanding.astro";
+import LayoutEditoriale from "@/layouts/LayoutEditoriale.astro";
 
 export async function getStaticPaths() {
   const blogEntries = await getCollection("posts");
@@ -25,9 +26,12 @@ export async function getStaticPaths() {
 const { entry, type } = Astro.props;
 const { Content } = await entry.render();
 
-const PageLayout = entry.data.pageStyle === "landing"
-  ? LayoutLanding
-  : LayoutPagine;
+const PageLayout =
+  entry.data.pageStyle === "landing"
+    ? LayoutLanding
+    : entry.data.pageStyle === "wide"
+      ? LayoutEditoriale
+      : LayoutPagine;
 ---
 
 {type === "post" ? (
@@ -39,6 +43,7 @@ const PageLayout = entry.data.pageStyle === "landing"
     title={entry.data.title}
     description={entry.data.description}
     image={entry.data.image}
+    canonical={entry.data.canonical}
   >
     <Content />
   </PageLayout>

@@ -1,406 +1,225 @@
 ---
-title: "Foto Ritratto. Foto Professionali in Studio. Prezzi Ritratti."
+title: "Foto Ritratto Professionale a Roma — Prezzi e Sessioni"
 pubDate: 2021-05-03
-description: "Foto Ritratto. Foto Professionali in Studio. Prezzi Ritratti. Foto ritratto professionali e fine-art per privati, professionisti e aziende. Scopri la gamma di"
-image: ""
+description: "Foto ritratto professionale a Roma con Elio Leonardo Carchidi. Sessioni private per professionisti, artisti e privati. Prezzi, metodo e tutto quello che devi sapere prima di prenotare."
+image: "/2026/04/A-Ritratto-Pierluigi-Collina-personaggio-famoso.jpg"
+canonical: "https://www.eliocarchidi.com/foto-ritratto-prezzi"
+pageStyle: "wide"
 ---
 
-## Foto Ritratto.
+# Foto Ritratto Professionale a Roma
 
-Foto Professionali in Studio.
+> *Un ritratto non inizia con lo scatto. Inizia con il tempo che si decide di dedicargli.*
 
-Prezzi Ritratti.
+<p class="lead">
+Da oltre quarant'anni realizzo foto ritratto professionali a Roma per manager, professionisti, artisti, aziende e persone che desiderano un'immagine autentica e duratura.<br>
+Ogni sessione viene costruita su misura — senza pacchetti rigidi, senza automatismi, senza filtri artificiali.
+</p>
 
-Foto ritratto professionali e fine-art per privati, professionisti e aziende.
-
-Scopri la gamma di ritratti di Elio Leonardo Carchidi, in bianco e nero o a colori.
-
-Stampe su carta fotografica o fine-art digitale di grande prestigio.
-
-Elio Leonardo Carchidi ti offre il suo lungo know-how, per risultati che riflettono la tua immagine.
-
-## Foto Ritratto EXECUTIVE
-
-*Sessione 1 ORA in Studio*
-
-2 fotografie finite*
-
-2 stampe fotografiche*
-
-20 foto digitali*
-
-NO-ZTL, Parcheggio Gratuito*
-
-Studio gratis*
-
-Make-Up (su richiesta)*
-
-Max 2 Cambi
-
-[Dettagli Executive](#executive)
-
-[Richiedi preventivo](#preventivo)
-
-## Foto Ritratto CLASSICO
-
-*Sessione 1 ORA in Studio* 
-
-3 fotografie finite*
-
-30 foto digitali*
-
-2 stampe fotografiche*
-
-1 stampa con cornice*
-
-NO-ZTL, Parcheggio Gratuito*
-
-Studio gratis*
-
-Make-Up (solo su richiesta)*
-
-[Dettagli Classico](#classico)
-
-[Richiedi preventivo](#preventivo)
-
-## Servizio Fotografico VIP
-
-*Sessione 5 ORE Studio/Esterno*
-
-Make-Up (1 variante)*
-
-Styling (Consulenza)*
-
-8 fotografie finite*
-
-50 foto digitali*
-
-8 stampe fotografiche*
-
-NO-ZTL, Parcheggio Gratuito*
-
-Studio gratis*
-
-[Dettagli VIP](#vip)
-
-[Richiedi preventivo](#preventivo)
+<p style="text-align:center;">
+  <a href="/contatti/" class="cta-editoriale">
+    Richiedi informazioni →
+  </a>
+</p>
 
 ---
 
-### Richiedi il tuo Preventivo
-
-Per una prima valutazione puoi lasciare i tuoi dati qui sotto.
-
-Se hai già un’idea chiara del progetto, puoi prenotare una chiamata e richiedere direttamente un preventivo completo.
-🔗 [Prenota un incontro](https://www.eliocarchidi.com/preventivo-servizio-fotografico/)
-
-*Risponderemo entro 24/48 ore.
-
-La richiesta è gratuita e non vincolante.*
-
-Hai già definito il tipo di servizio?
-**[Prenota un incontro](https://www.eliocarchidi.com/preventivo-servizio-fotografico/)**
+![Pierluigi Collina](https://media.eliocarchidi.com/uploads/2026/04/A-Ritratto-Pierluigi-Collina-personaggio-famoso.jpg)
+<div class="photo-caption">Pierluigi Collina · Ritratto fotografico in studio</div>
 
 ---
 
-## Foto Ritratto EXECUTIVE
+## Come nasce una foto ritratto
 
-![Foto Ritratto Servizi Fotografici Corporate](https://media.eliocarchidi.com/uploads/2021/02/ritratti-fotografici-corporate-executive-1024x1024-1.jpg)
+Un ritratto professionale non è una fotografia di identità fatta meglio.
 
-Foto ritratto pacchetto Executive  - [guarda esempi](https://www.eliocarchidi.com/ritratti-fotografici-per-presentazioni/)
+È un'immagine che racconta qualcosa di vero su chi sei — che si tratti di un profilo per il lavoro, un ricordo personale o un'opera da conservare nel tempo.
 
-Un [**servizio fotografico adatto a manager, professionisti**](https://www.eliocarchidi.com/fotografi-professionisti-roma/ritratti-corporate/), artisti, imprenditori, blogger, PR, formatori, educatori e a tutti quelli che utilizzano la loro immagine per presentazioni di lavoro, per organigrammi aziendali, rassegne stampa, interviste e profili social di ogni tipo.
+Il processo è semplice e guidato in ogni fase:
 
-Fotografie da utilizzare per presentarsi al meglio davanti ai propri interlocutori, con classe ed eleganza.
-
-Comprende 2 fotografie ritoccate, 2 stampe su carta fotografica baritata in formato 24×30 (o derivati).
-
-Una serie di immagini (non ritoccate) selezionate tra tutte quelle scattate durante la sessione consegnate su pen-drive o altro supporto digitale (max 20).
-
-Diritti di pubblicazione concessi integralmente per il web e/o per rappresentanza (esclusi utilizzi pubblicitari e/o editoriali).
-
-[RICHIEDI PREVENTIVO](#preventivo)
-
-## Foto Ritratto CLASSICO
-
-![Foto ritratto d'arte in bianco e nero](https://media.eliocarchidi.com/uploads/2021/02/servizio-fotografico-bianco-nero-con-stampa.jpg)
-
-Claudia Koll - Ritratto in studio pellicola B/N
-
-![Foto e ritratti in cornice](https://media.eliocarchidi.com/uploads/2021/02/fotografie-artistiche-su-cornici-900-1.jpg)
-
-Foto Ritratto stampa con cornice ***- ***[guarda esempi](https://www.eliocarchidi.com/foto-artistiche-classiche-in-bianco-nero/)
-
-Il [**ritratto classico**](https://www.eliocarchidi.com/fotografi-professionisti-roma/foto-artistiche-bianco-nero-colore-ricerca-personale-fine-art/) (CORNICE E STAMPA 30×40 COMPRESE) è riservato a che desidera avere un’immagine di sé che duri per sempre, che non vada mai fuori moda e che nel tempo acquisti valore per lo stesso soggetto ma anche per chi lo ama, lo conosce e lo ammira.
-
-Ottimo come regalo da fare a se stessi, a un genitore, ad un figlio, ad una famiglia intera o a chi si vuole veramente bene.
-
-Una Fantastica Stampa fine-art incorniciata da regalare o regalarsi.
-
-Comprende 3 fotografie finite (v.sotto), 1 stampa su carta fotografica vera in formato 30×40 incorniciata, 2 stampe su carta fotografica vera in formato 24×30  (o derivati).
-
-Una serie di immagini ad alta risoluzione selezionate tra tutte quelle scattate durante la sessione consegnate su pen-drive o altro supporto digitale (max 20).
-
-Diritti di pubblicazione concessi integralmente per il web e/o per rappresentanza (esclusi utilizzi pubblicitari e/o editoriali).
-
-[RICHIEDI UN PREVENTIVO](#preventivo)
-
-## Servizio Fotografico VIP
-
-![Servizi Fotografici Vip Moda](https://media.eliocarchidi.com/uploads/2021/02/ritratti-fotografici-vip-moda-1024x1024-1.jpg)
-
-Servizio fotografico VIP  - [guarda esempi](https://www.eliocarchidi.com/Fotografo_Professionista_Roma/Fotografia_Moda/Fotografi_Moda.html)
-
-Pensato per le persone e/o per piccole aziende e start-up che desiderano esprimere al massimo la presenza personale o del proprio brand.
-
-Una serie di fotografie di massima qualità con [**ritratti e pose da realizzare in esterno e studio in situazioni diversificate**](https://www.eliocarchidi.com/fotografi-professionisti-roma/photo-gallery/).
-
-Un servizio fotografico ottimo per mettersi in mostra con immagini curate, di alto profilo, utili per i privati così come per i professionisti.
-
-Un Servizio Fotografico veramente completo da tutti i punti di vista.
-
-Un Servizio fotografico da vere star, da scegliere senza esitazioni per il proprio lavoro o anche per il semplice piacere di avere una raccolta di fotografie ricordo che durano per sempre.
-
-Il pacchetto include (oltre a quanto descritto sopra):
-
-- 8 fotografie finite / ritoccate (v.sotto)
-
-- 8 stampe in formato 24×30  realizzate su carta fotografica tradizionale, fine-art, agli alogenuri d'argento
-
-- Una collezione di 50 scatti fotografici ad alta risoluzione utilizzabili per svariati usi
-
-- INFINE: Diritti di pubblicazione illimitati per l'utilizzo delle fotografie sul web o catalogo stampato a piccola tiratura (utilizzi pubblicitari e/o editoriali diversi da quelli descritti vanno concordati con l'autore).
-
-[RICHIEDI UN PREVENTIVO](#preventivo)
+* **Dialogo preliminare** — una conversazione per capire la finalità del ritratto, lo stile desiderato, il contesto d'uso. Non è necessario avere idee precise.
+* **Tempo in studio** — nessuna fretta, nessuna raffica di scatti. Il lavoro procede per sottrazione, fino a quando la presenza del soggetto emerge in modo naturale.
+* **Selezione dei provini** — insieme in studio o tramite galleria online riservata.
+* **Post-produzione** — ogni immagine scelta viene ottimizzata a mano, preservando la texture della pelle e l'autenticità dello scatto.
+* **Consegna** — file digitali ad alta risoluzione e, su richiesta, stampe fotografiche su carta tradizionale agli alogenuri d'argento, garantite per centinaia di anni.
 
 ---
 
-### Richiedi il tuo Preventivo
+## Per chi è pensato un ritratto fotografico professionale
 
-Per una prima valutazione puoi lasciare i tuoi dati qui sotto.
+Nel corso degli anni ho realizzato migliaia di ritratti.
 
-Se hai già un’idea chiara del progetto, puoi richiedere direttamente un preventivo completo.
-🔗 [Prenota un incontro](https://www.eliocarchidi.com/preventivo-servizio-fotografico/)
+Ho lavorato con professionisti, artisti, manager, attori, autori e personaggi pubblici mantenendo sempre lo stesso approccio: attenzione alla persona prima ancora dell'immagine.
 
-*Risponderemo entro 24/48 ore.
+Le foto ritratto vengono utilizzate per:
 
-La richiesta è gratuita e non vincolante.*
-
-Hai già definito il tipo di servizio?
-**[Prenota un incontro](https://www.eliocarchidi.com/preventivo-servizio-fotografico/)**!
-
----
-
-## Domande e risposte su foto ritratto e servizi fotografici professionali
+* LinkedIn e profili professionali
+* fotografia corporate e organigrammi
+* personal branding e comunicazione
+* utilizzo editoriale e pubblicazioni
+* siti web e presentazioni
+* casting e book attori
+* ritratto artistico e personale
 
 ---
 
-Cosa si intende per Foto digitali?
+![Ritratto donna in studio](https://media.eliocarchidi.com/uploads/2026/04/ART-Donna-Viso-Occhi-Chiari.jpg)
+<div class="photo-caption">Sessione privata di ritratto · Atelier Roma</div>
 
-Tutti i pacchetti prevedono la consegna di un certo numero di foto (file digitali).
+---
 
-Questa tipologia di immagini vengono consegnate tramite supporti digitali così come scattate e di norma vengono scelte tra gli scatti migliori ricevuti con l'invio di una galleria riservata.
+## Le sessioni disponibili — prezzi
 
-Si tratta di vere e proprie fotografie di massima qualità che potranno essere utilizzate in qualsiasi momento sia nel formato originale oppure possono essere modificate a piacere direttamente a cura del cliente o a nostra cura come servizio extra.
+Ho strutturato tre percorsi, ognuno pensato per esigenze diverse.
 
-Come funziona il servizio di Make-up?
+Nessuna formula è rigida: ogni sessione può essere modulata in base al progetto.
 
-Per rimanere completamente soddisfatti del lavoro e ottenere foto che siano vere e proprie opere d’arte, tutto deve essere fatto con cura.
+---
 
-Il servizio di make-up non serve necessariamente per il sol fine d abbellire il soggetto ma aiuta il fotografo e la modella ad ottenere risultati migliori in partenza riducendo al minimo il rischio di ottenere fotografie senza identità.
+### Sessione Base · da 250€
 
-La presenza di un truccatore professionista sul set garantisce qualità e infonde sicurezza.
+Sessione di 60 minuti in atelier, pensata per chi ha bisogno di un ritratto essenziale e professionale.
 
-Un buon trucco esalta la bellezza e la rende più naturale evitando di dover intervenire pesantemente in fase di fotoritocco.
-È un’esigenza della quale non dovremmo mai fare a meno.
+Ideale per profili LinkedIn, fotografia corporate, presentazioni e uso professionale quotidiano.
 
-Alcuni pacchetti prevedono 1 o più cambi di trucco.
+[Dettagli e prenotazione →](/atelier/sessioni-private/base)
 
-Il numero in parentesi, indica la quantità.
+---
 
-Cosa sono le Foto finite?
+### Sessione Completa · da 500€
 
-Per “foto finite” si intende quelle immagini fotografiche finemente ritoccate sulle quali si applicheranno interventi con modifiche avanzate in accordo con il cliente. 
+Il percorso standard dell'Atelier. Più tempo, più varianti di luce, selezione più ampia.
 
-Gli interventi vengono effettuati in fase di post-produzione sulle fotografie scelte dal clente tra tutte quelle scattate nel numero indicato nel pacchetto.
+Per chi vuole un ritratto personale di qualità o un'immagine per uso editoriale e professionale più articolato.
 
-Queste immagini vengono consegnate pronte per la pubblicazione su web e adattate alla stampa tipografica e su carta.
+[Dettagli e prenotazione →](/atelier/sessioni-private/intermedio)
 
-Che tipo di Stampe Fotografiche otterrò?
+---
 
-Le copie incluse nei pacchetti verranno consegnate stampate a mano su “carta fotografica tradizionale” agli alogenuri d'argento indelebile nei secoli.
+### Sessione Esecutiva · da 800€
 
-Sono stampe fotografiche realizzate a regola d’arte e garantite per centinaia di anni di durata.
+La sessione più estesa, con possibilità di scatto in studio e in esterno, styling e più varianti di luce.
 
-Il formato, il numero di copie e il supporto di stampa (carta, tela o altro tipo) dipendono da quelli previsti nel piano scelto.
+Per chi desidera un'immagine di alto profilo per comunicazione, brand personale, pubblicazioni o rappresentanza.
 
-Non si tratta di copie stampate digitalmente a getto d’inchiostro, a sublimazione o con l’uso di tecniche digitali di solito soggette a deperimento nel tempo che comunque possono essere richieste con costi extra.
+[Dettagli e prenotazione →](/atelier/sessioni-private/esecutivo)
 
-Posso avere le mie foto in cornice?
+---
 
-Alcuni pacchetti prevedono la consegna di stampa fotografica già incorniciata senza alcun costo aggiuntivo.
+<p style="text-align:center;">
+  <a href="/atelier/sessioni-private/" class="cta-editoriale">
+    Vedi tutte le sessioni →
+  </a>
+</p>
 
-Le cornici incluse possono essere scelte dal cliente tramite visione di una catalogo apposito dove inseriamo la migliore qualità di prodotto.
+---
 
-In tutti i casi le immagini realizzate (file digitali compresi) hanno una quantità di informazioni utili a restituire la massima qualità anche a forti ingrandimenti.
+## Venire bene in foto non dipende dalla fotogenia
 
-Tutte le fotografie cosegnate potranno dunque essere stampate e incorniciate su qualunque tipo di supporto anche a dimensioni superiori al 100x140 cm.
+Uno degli errori più comuni è credere che il risultato dipenda dall'aspetto fisico del soggetto.
 
-Il fotografo può fornire questo tipo di servizio come extra.
+Non è così. Dipende dalla luce, dal tempo, dal modo in cui il fotografo crea le condizioni giuste perché la persona si senta a proprio agio.
 
-Cosa si intende per Styling?
+Se ti sei sempre sentito a disagio davanti a un obiettivo, probabilmente non sei mai stato in mano a qualcuno che sapesse fare davvero questo lavoro.
 
-Lo stile e/o il concept che si vuole evocare dipendono molto dagli abiti e dallo styiling in genere.
+Ho scritto una guida pratica su questo — una delle più lette di questo sito:
 
-Il giusto look, l’abbigliamento e gli accessori corretti, abbinati ad un buon trucco e ad una buona acconciatura, possono trasformarti completamente nel corso di una sessione o possono esaltare le migliori caratteristiche della tua personalità e della tua essenza.
+→ [Venire bene in foto: 8 consigli semplici per essere più fotogenici](https://www.eliocarchidi.com/venire-bene-in-foto/)
 
-Lo Styling può essere realizzato con gli stessi abiti di cui si è in possesso oppure con vestiti reperiti ad-hoc da un fashion-stylist addetto alla ricerca dei capi.
+---
 
-L’alternativa è un servizio di consulenza domiciliare mirato alla scelta del look e degli accessori idonei.
+## Studio fotografico a Roma
 
-In alcuni casi, nei servizi fotografici più elaborati è molto frequente che il soggetto non abbia le idee chiare sugli abiti e gli accessori da indossare.
+Le sessioni si svolgono nell'Atelier privato nel cuore di Roma, a **Porta Maggiore — Via Casilina 3A, 00182**.
 
-Ci sono dei pacchetti che includono il servizio di consulenza per la scelta degli outfit.
+Palazzo d'epoca. Sala di posa con luce naturale e artificiale, sala trucco, salotto, guardaroba. Nessun problema di parcheggio: garage convenzionato a pochi passi, incluso nelle sessioni.
 
-Questa consulenza può avvenire presso il domicilio della persona o tramite invio di immagini che illustrino il guardaroba.
+Ricevo esclusivamente su appuntamento. **Al massimo tre sessioni a settimana.**
 
-Il fotografo insieme al cliente sceglieranno insieme quali abiti e accessori indossare per ottenere i migliori risultati relativamente al mood che si è deciso di rappresentare.
+---
 
-Esiste anche la possibilità di richiedere assistenza agli acquisti e/o alla ricerca di vestiti idonei.
+## Domande frequenti sul ritratto fotografico
 
-Questo è un servizio extra che andrà valutato a parte.
+### Quanto costa una foto ritratto professionale?
 
-I prezzi sono al netto delle tasse?
+Le sessioni partono da 250€ per la Sessione Base fino a 800€ per la Sessione Esecutiva.
+Ogni percorso può essere modulato in base alle esigenze specifiche del progetto.
 
-I criteri di tassazione non dipendono dalla nostra volontà, ci sono degli obblighi di legge da rispettare e il nostro impegno è basato sullo svolgimento del nostro lavoro nel rispetto di tutte le regole.
+---
 
-Esistono 2 possibilità di applicazione delle imposte e delle tasse.
+### Serve esperienza davanti alla fotocamera?
 
-ESENZIONE IMPOSTA IVA:
+No. La maggior parte delle persone che fotografo non è abituata a stare davanti all'obiettivo. Durante la sessione guido ogni fase in modo naturale: postura, espressione, gestione della luce, presenza.
 
-I soggetti privati che utilizzano le immagini come persone fisiche a propri fini personali possono ricevere al posto di una fattura una regolare ricevuta rilasciata dal professionista che non prevede alcun costo aggiuntivo di impota IVA.
+---
 
-Sulla ricevuta verrà applicata una spesa fissa per marca da bollo del valore di 2€.
+### I prezzi includono l'IVA?
 
-Sono altresì esenti dal pagamento dell'IVA cittadini stranieri non residenti in Italia
+Per i privati sì. Le aziende e i soggetti con partita IVA ricevono fattura con IVA al 22%, deducibile integralmente.
 
-IMPOSTA IVA DOVUTA
+---
 
-Tutti i soggetti giuridici, aziende, società, professionisti, partite IVA e così via sono obbligati al pagamento dell'imposta del 22% da applicare al costo dei pacchetti e/o dei servizi extra.
+### Come si prenota?
 
-Tuttavia a questi soggetti sarà data la possibilità di dedurre totalmente dai costi e dai loro bilanci la spesa sostenuta nonché il recupero dell'imposta pagata in anticipo.
+Con un acconto del 30% del totale. La disdetta è gratuita entro 3 giorni dalla data concordata.
 
-Avrò problemi a parcheggiare la mia auto nella zona dello studio?
+---
 
-Scegliamo con attenzione i giorni e gli orari in cui si svolgono le sessioni al fine di evitare ai clienti disagi di questo genere.
+### Le fotografie vengono ritoccate?
 
-In ogni caso essendo lo studio situato in una zona centrale nel cuore di Roma può esserci il rischio di incontrare difficoltà nel parcheggiare.
+Sì. Ogni immagine scelta viene ottimizzata a mano. L'obiettivo non è trasformare la persona ma valorizzarne la presenza mantenendo autenticità e naturalezza.
 
-Tutti i pacchetti che prevedono una spesa superiore alle 300€ includono il costo che il cliente potrebbe dover sostenere per trovare un parcheggio agevole.
+---
 
-Chiedendo in anticipo sarà possibile prenotare gratuitamente 1 posto auto in uno dei tanti garage a pagamento presenti a pochi metri di distanza.
+### Posso avere stampe fotografiche?
 
-Dovrò pagare l'affitto delle attrezzature e dello studio fotografico?
+Sì. Su richiesta realizzo stampe su carta fotografica tradizionale agli alogenuri d'argento — non stampa ink-jet, non sublimazione. Stampe garantite per centinaia di anni, disponibili incorniciate in diversi formati fino a 100×140 cm.
 
-N0!
+---
 
-Assolutamente no.
+### Per servizi fotografici aziendali o commerciali
 
-Lo studio fotografico è privato e fa parte dei servizi offerti dal fotografo comprese le attrezzature e tutti i materiali di supporto che servono allo svolgimento del lavoro.
+Se hai bisogno di un servizio fotografico professionale per la tua attività — foto corporate, eventi, e-commerce, campagne — con team dedicato, tempi definiti e tariffe accessibili, il riferimento è la mia struttura commerciale:
 
-Se il servizio scelto include riprese fotografiche in esterno non verrà applicato alcun costo per il trasferimento delle attrezzature e gli spostamenti del fotografo.
+→ [Studio154 — Servizi fotografici a Roma](https://studio154.it)
 
-Questo entro il raggio di max 10 km di distanza dalla sede dello studio fotografico situato nel centro di Roma.
+---
 
-Modalità di pagamento e prenotazione?
+<img
+  src="https://media.eliocarchidi.com/uploads/2020/05/elio-leonardo-carchidi-fotografo-a-roma.jpg"
+  alt="Elio Leonardo Carchidi"
+  class="author-avatar"
+/>
+<div class="photo-caption text-center">Elio Leonardo Carchidi · Fotografo di ritratto · Roma</div>
 
-La formula migliore suggerita per il pagamento è quello del bonifico bancario da effettuare con almeno 2 giorni di anticipo dalla data del servizio.
+<div class="author-note">
 
-In alternativa l'uso della carta di credito può andare bene in particolar modo quando si tratta di aziende e professionisti soggetti ad IVA.
+## Una nota su come lavoro
 
-Per prenotare una sessione basterà versare un acconto del 30%.
+La fotografia di ritratto è quello che amo fare.
 
-Il pagamento a saldo del lavoro dovrà avvenire alla fine della sessione scegliendo tra varie modalità di apagemnto disponibili: Paypal, Visa, Bonifico (anticipato di almeno 1 giorno), Contanti e/o Assegno, Stripe, Sumup
+Ho fotografato negli anni migliaia di persone — personaggi famosi, professionisti, artisti, persone qualunque. Con lo stesso approccio ogni volta: ascolto prima, fotocamera dopo.
 
-Attenendoci alle regole fiscali vigenti, ai privati e in generale a tutti i clienti, verrà sempre emessa ricevuta fiscale sul totale pagato (per i privati i costi sono comprensivi di IVA) e/o fattura.
+Non mi interessa produrre immagini costruite per sembrare perfette. Mi interessa trovare il momento in cui la persona smette di posare e inizia a esserci davvero.
 
-In caso di importi fatturati per Aziende, Società, Professionisti non esenti, ai costi bisognerà aggiungere l’IVA!
+Ecco perché ogni ritratto richiede tempo. E perché ricevo al massimo tre persone a settimana.
 
-I prezzi sono fissi, possono cambiare?
+</div>
 
-Cerchiamo di mantenere i prezzi sempre aggiornati ed in linea con quelle che sono le valutazioni del mercato che spesso sottostimiamo.
+---
 
-Ci sono casi in cui i prezzi possono variare senza alcun preavviso per cui il prezzo che è indicato nel momento della prenotazione è quello che fa fede.
+## Per approfondire
 
-Ogni aumento di prezzo o diminuzione non saranno applicati agli ordini già ricevuti in precedenza.
+* [Come prepararsi a una sessione fotografica](https://www.eliocarchidi.com/venire-bene-in-foto/)
+* [Come vestirsi per il servizio fotografico](https://www.eliocarchidi.com/come-vestirsi-per-il-servizio-fotografico-10-consigli-e-2-suggerimenti/)
+* [Come fare un selfie: 13 suggerimenti che funzionano](https://www.eliocarchidi.com/come-fare-un-selfie-13-semplici-suggerimenti-che-funzionano/)
+* [Portfolio ritratti](/portfolio)
+* [Chi sono](/chi-sono)
 
-Come prenotare e come contattare il fotografo.
+<div class="text-center">
 
-Per prenotare la tua sessione fotografica non devi fare altro che metterti in contatto con lo Studio Fotografico e/o direttamente con il fotografo o un collaboratore.
+<a href="/contatti/" class="cta-editoriale">
+Richiedi informazioni →
+</a>
 
-Alla richiesta seguirà un preventivo dettagliato comprensivo di tutte le voci di spesa che dovrà essere accettato e condiviso.
-
-Una volta verificato il preventivo si potrà procedere al versamento dell'acconto d'ordine valutato nel 30% della spesa totale.
-
-Il versamento pò essere effetuato con i metodi di pagamento descritti oppure, via email con l'invio della ricevuta di pagamento dell'acconto o venendo a trovarci di persona.
-
-La disdetta è GRATUITA entro i 3 giorni precendenti la data concordata per lo svolgimento della sessione.
-
-In caso la disdetta dovesse giungere in tempi successivi l'anticipo versato verrò trattenuto tranne che non ci siano evidenti e seri motivi sopraggiunti.
-
-Il fotografo si riserva il diritto di decidere un eventuale spostamento di data.
-
-La Sessione si intende prenotata sol ed esclusivamente al momento della ricezione di un **acconto del 30% della spesa totale**.
-
-Garanzie totali di risultato al 100%
-
-Il **Risultato del Servizio Fotografico è ASSOLUTAMENTE GARANTITO** dal punto di vista tecnico.
-
-Anche nell'interesse del fotografo viene consegnato sempre e di norma un lavoro realizzato **A REGOLA D’ARTE**!
-
-Il fotografo cercherà sempre di soddisfare i gusti del cliente e concorderà in anticipo con questo il taglio da dare al servizio cercando di mantenere in ogni caso la propria libertà creativa ed espressiva.
-
-Il fotografo potrà accettare le eventuali richieste del cliente di rifare alcuni scatti se lo riterrà opportuno una volta ritenuta la sua richiesta motivata, in tutti i casi ogni servizio realizzato nuovamente esclude la consegna delle immagini scattate in precedenza.
-
-Diritti e utilizzo delle fotografie
-
-Il fotografo autore è sempre proprietario delle foto pur dovendo ripettare la volontà del cliente ad apparire in alcuni contesti.
-
-Altresì il soggetto fotografato può utilizzare le foto nei limiti dei diritti concessi dal fotografo.
-
-Se non specificato tutti i pacchetti di foto ritratto sono liberi da diritti per uso privato e non commerciale.
-
-Quasi sempre, se non specificato, sono concessi gli usi per siti web personali e/o aziendali, pubblicazione di ritratti su social e comunità, presentazione di curriculum.
-
-Il cliente ha l'obbligo di citare sempre il fotografo e di dargli conto sull'uso che fa delle foto in caso dovesse trattarsi di usi pubblicitari e/o promozionali di aziende e prodotti.
-
-Dove si trova lo studio fotografico?
-
-Lo **Studio Fotografico nel quale vengono di norma realizzati i Servizi fotografici di foto ritratto è sempre incluso nel prezzo e non comporta costi aggiuntivi**
-
-La sala di posa si trova è all’interno di un elegantissimo palazzo d’epoca  situato **nel centro di Roma a PORTA MAGGIORE in Via Casilina 3A** - 00182.
-
-Oltre alla sala di posa, lo studio è fornito di sala trucco, salotto, stanzino guardaroba, toilette, frigorifero, cassaforte, WI-FI gratuito, telefono, impianto audio.
-
-Nei dintorni è possibile reperire ogni tipo di servizio utile: catering, hotel, abbigliamento, mezzi di trasporto di ogni tipo ecc.
-
-Massima discrezione e riservatezza.
-
-All’interno degli spazi è inclusa **COPERTURA ASSICURATIVA PER GLI OSPITI**.
-
-[Lo studio fotografico](https://studio-fotografico.studio154.it)
-
-### Ogni ritratto fotografico è un progetto unico.
-
-Per ricevere una proposta su misura, puoi compilare il modulo di richiesta preventivo indicando tutte le informazioni necessarie.
-
-[Richiedi preventivo personalizzato](https://www.eliocarchidi.com/preventivo-servizio-fotografico/)
-
-**Scrivi o telefona** per conoscere il calendario del mese e verificare la disponibilità.
-
-Elio **Riceve max 3 persone a settimana!** Grazie per l'apprezzamento dimostrato nel lavoro di Elio Leonardo Carchidi!
-**Email:** [contatti@eliocarchidi.com](mailto:contatti@eliocarchidi.com)
-**Telefono:** 06 45256272 / 06 45256273
-
-[Servizi fotografici professionali in bianco e nero e a colori](https://www.eliocarchidi.com/prezzi-servizi-fotografici-professionali-classici-in-bianco-e-nero-e-a-colori/)
-Servizi fotografici d'arte realizzati con metodo tradizionale (pellicola e carta fotografica baritata) o tecnologia digitale avanzata per foto che acquistano valore nel tempo.
+</div>

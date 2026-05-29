@@ -6,8 +6,9 @@ import Galleria1 from "@/components/gallery/Galleria1.astro";
 import { getCollection } from "astro:content";
 import Button from "@/components/fundations/elements/Button.astro";
 
-const galleries = (await getCollection("gallery"))
-  .sort((a, b) => a.data.order - b.data.order);
+const galleries = (await getCollection("gallery")).sort(
+  (a, b) => a.data.order - b.data.order,
+);
 
 const pageTitle = "Servizi Fotografici | Elio Leonardo Carchidi";
 const pageDescription =
@@ -23,36 +24,36 @@ const image = "https://www.eliocarchidi.com/og-image-servizi.jpg";
   image={image}
 >
   <!-- HERO SERVIZI -->
-<div
-  class="items-start pt-2 pb-6 lg:pb-6 text-center uppercase
+  <div
+    class="items-start pt-2 pb-6 lg:pb-6 text-center uppercase
   gap-4 lg:gap-6 lg:gap-y-6 mb-6 md:mb-10"
->
-</div>
-
-<Text
-  tag="h1"
-  variant="textLG"
-  class="font-serif uppercase lg:order-none text-base-900 text-center"
->
-  <a class="hover:text-base-900 text-gallery-5" href="/">
-    Servizi Fotografici
-  </a>
-  <br />
-</Text>
-
-<div
-  class="items-start pt-2 pb-2 lg:pb-6 text-center uppercase grid grid-cols-1
-  gap-4 lg:gap-6 lg:gap-y-6 mb-4 max-w-2xl m-auto"
->
-  <Text
-    tag="p"
-    variant="textLG"
-    class="order-last !font-serif uppercase lg:order-none col-span-full lg:col-span-1 text-base-900"
   >
-    Ritratti professionali, sessioni private ed edizioni d’autore
-    costruiti attorno alla presenza, alla luce naturale e al tempo.
+  </div>
+
+  <Text
+    tag="h1"
+    variant="textLG"
+    class="font-serif uppercase lg:order-none text-base-900 text-center"
+  >
+    <a class="hover:text-base-900 text-gallery-5" href="/">
+      Servizi Fotografici
+    </a>
+    <br />
   </Text>
-</div>
+
+  <div
+    class="items-start pt-2 pb-2 lg:pb-6 text-center uppercase grid grid-cols-1
+  gap-4 lg:gap-6 lg:gap-y-6 mb-4 max-w-2xl m-auto"
+  >
+    <Text
+      tag="p"
+      variant="textLG"
+      class="order-last !font-serif uppercase lg:order-none col-span-full lg:col-span-1 text-base-900"
+    >
+      Ritratti professionali, sessioni private ed edizioni d’autore costruiti
+      attorno alla presenza, alla luce naturale e al tempo.
+    </Text>
+  </div>
 
   <!-- GALLERIA SERVIZI -->
   <section>
@@ -65,9 +66,48 @@ const image = "https://www.eliocarchidi.com/og-image-servizi.jpg";
 
         <!-- Altri elementi centrati -->
         <div class="grid grid-cols-1 md:grid-cols-2 gap-8 md:gap-12 w-full">
-          {galleries.slice(1).map((post) => (
-            <Galleria1 post={post} />
-          ))}
+          {galleries.slice(1).map((post) => <Galleria1 post={post} />)}
+        </div>
+      </div>
+    </Wrapper>
+  </section>
+
+  <!-- CARD PROGETTI -->
+  <section class="mt-10 md:mt-16">
+    <Wrapper variant="standard">
+      <div
+        class="border border-neutral-200/60 bg-[#f2f0e8]/60 p-8 md:p-12 text-center"
+      >
+        <Text
+          tag="span"
+          class="uppercase tracking-[0.2em] text-[0.75rem] text-neutral-500"
+        >
+          Portfolio
+        </Text>
+
+        <Text
+          tag="h2"
+          variant="textLG"
+          class="mt-4 font-serif uppercase text-base-900"
+        >
+          Progetti fotografici
+        </Text>
+
+        <Text
+          tag="p"
+          class="mt-6 max-w-xl mx-auto text-neutral-700 leading-relaxed"
+        >
+          Una selezione di lavori su commissione e progetti personali:
+          advertising, ritratto istituzionale e ricerca fine art. Ogni serie è
+          costruita come un capitolo autonomo.
+        </Text>
+
+        <div class="mt-8 flex justify-center">
+          <Button size="base" variant="default">
+            <a href="/progetti/" class="uppercase hover:text-base-300">
+              Esplora i progetti →
+            </a>
+          </Button>
         </div>
       </div>
     </Wrapper>

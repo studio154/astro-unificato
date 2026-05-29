@@ -1,0 +1,268 @@
+---
+import BaseLayout from "../../layouts/LayoutPulito.astro";
+---
+
+<BaseLayout
+    title="Advertising & Beauty"
+    description="Campagne commerciali, beauty e fotografia pubblicitaria."
+>
+    <section class="hero">
+        <div class="hero-inner">
+            <span class="eyebrow">Committenze / Commerciale</span>
+
+            <h1>
+                Advertising <br />
+                & Beauty
+            </h1>
+
+            <p class="intro">
+                Campagne commerciali, cosmetica e fotografia beauty costruite
+                attraverso una luce essenziale, materica e senza eccessi. Ogni
+                immagine nasce per sostenere il brand senza tradire il soggetto.
+            </p>
+        </div>
+    </section>
+
+    <section class="manifesto">
+        <div class="grid">
+            <div class="label">
+                <span>01</span>
+            </div>
+
+            <div class="content">
+                <h2>La precisione della sottrazione</h2>
+
+                <p>
+                    Nel lavoro pubblicitario la fotografia tende spesso verso
+                    l’eccesso. La ricerca qui segue invece una direzione
+                    opposta: eliminare il rumore per lasciare spazio alla
+                    presenza.
+                </p>
+
+                <p>
+                    Texture, incarnato e materia vengono trattati con rigore
+                    editoriale, mantenendo una costruzione luminosa capace di
+                    attraversare il tempo senza perdere credibilità.
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <section class="projects">
+        <div class="section-heading">
+            <span>Selezione</span>
+            <h2>Campagne & Collaborazioni</h2>
+        </div>
+
+        <div class="projects-grid">
+            <article class="project-card">
+                <div class="image-placeholder">
+                    <img
+                        src="/src/images/progetti/image.png"
+                        alt="atelier lumiere"
+                        class="rounded-xl"
+                    />
+                </div>
+
+                <div class="project-meta">
+                    <span>Beauty Campaign</span>
+                    <h3>Atelier Lumière</h3>
+                </div>
+            </article>
+
+            <article class="project-card">
+                <div class="image-placeholder">
+                    <img
+                        src="https://media.eliocarchidi.com/uploads/2021/04/fotografie-professionali-relife-menarini-5.jpg"
+                        alt="svetlana intimo"
+                        class="rounded-xl"
+                    />
+                </div>
+
+                <div class="project-meta">
+                    <span>Editorial Commercial</span>
+                    <h3>Maison Éther</h3>
+                </div>
+            </article>
+
+            <article class="project-card">
+                <div class="image-placeholder"></div>
+
+                <div class="project-meta">
+                    <span>Cosmetic Identity</span>
+                    <h3>Studio Alchemy</h3>
+                </div>
+            </article>
+        </div>
+    </section>
+
+    <section class="closing">
+        <p>
+            Ogni committenza nasce dall’incontro tra direzione artistica,
+            costruzione della luce e permanenza dell’immagine.
+        </p>
+    </section>
+</BaseLayout>
+
+<style>
+    :global(body) {
+        background: var(--bg);
+        color: var(--text);
+    }
+
+    .hero {
+        min-height: 72vh;
+        display: flex;
+        align-items: flex-end;
+        padding: 10rem 2rem 6rem;
+    }
+
+    .hero-inner {
+        max-width: 980px;
+        margin: 0 auto;
+        width: 100%;
+    }
+
+    .eyebrow {
+        display: inline-block;
+        font-size: 0.8rem;
+        letter-spacing: 0.18em;
+        text-transform: uppercase;
+        opacity: 0.5;
+        margin-bottom: 2rem;
+    }
+
+    h1 {
+        font-size: clamp(4rem, 10vw, 9rem);
+        line-height: 0.9;
+        letter-spacing: -0.06em;
+        font-weight: 500;
+        margin-bottom: 2rem;
+    }
+
+    .intro {
+        max-width: 720px;
+        font-size: 1.15rem;
+        line-height: 1.9;
+        opacity: 0.82;
+    }
+
+    .manifesto {
+        padding: 8rem 2rem;
+        border-top: 1px solid rgba(255, 255, 255, 0.08);
+    }
+
+    .grid {
+        max-width: 1200px;
+        margin: 0 auto;
+        display: grid;
+        grid-template-columns: 120px 1fr;
+        gap: 4rem;
+    }
+
+    .label span {
+        font-size: 0.9rem;
+        opacity: 0.4;
+    }
+
+    .content h2 {
+        font-size: clamp(2rem, 5vw, 4rem);
+        line-height: 1;
+        margin-bottom: 2rem;
+        letter-spacing: -0.04em;
+    }
+
+    .content p {
+        max-width: 760px;
+        line-height: 1.9;
+        opacity: 0.8;
+        margin-bottom: 1.5rem;
+    }
+
+    .projects {
+        padding: 8rem 2rem;
+    }
+
+    .section-heading {
+        max-width: 1400px;
+        margin: 0 auto 4rem;
+    }
+
+    .section-heading span {
+        opacity: 0.5;
+        text-transform: uppercase;
+        letter-spacing: 0.15em;
+        font-size: 0.75rem;
+    }
+
+    .section-heading h2 {
+        margin-top: 1rem;
+        font-size: clamp(2.5rem, 5vw, 5rem);
+        letter-spacing: -0.05em;
+    }
+
+    .projects-grid {
+        max-width: 1400px;
+        margin: 0 auto;
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 2rem;
+    }
+
+    .project-card {
+        display: flex;
+        flex-direction: column;
+        gap: 1rem;
+    }
+
+    .image-placeholder {
+        aspect-ratio: 4 / 5;
+        background: linear-gradient(
+            135deg,
+            rgba(255, 255, 255, 0.06),
+            rgba(255, 255, 255, 0.02)
+        );
+        border: 1px solid rgba(255, 255, 255, 0.08);
+    }
+
+    .project-meta span {
+        font-size: 0.75rem;
+        letter-spacing: 0.12em;
+        text-transform: uppercase;
+        opacity: 0.45;
+    }
+
+    .project-meta h3 {
+        margin-top: 0.5rem;
+        font-size: 1.3rem;
+        font-weight: 500;
+    }
+
+    .closing {
+        padding: 10rem 2rem;
+        text-align: center;
+    }
+
+    .closing p {
+        max-width: 720px;
+        margin: 0 auto;
+        font-size: 1.2rem;
+        line-height: 1.8;
+        opacity: 0.75;
+    }
+
+    @media (max-width: 900px) {
+        .grid {
+            grid-template-columns: 1fr;
+            gap: 2rem;
+        }
+
+        .projects-grid {
+            grid-template-columns: 1fr;
+        }
+
+        .hero {
+            padding-top: 8rem;
+        }
+    }
+</style>

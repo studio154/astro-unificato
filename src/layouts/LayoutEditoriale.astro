@@ -1,0 +1,134 @@
+---
+import BaseHead from "@/components/fundations/head/BaseHead.astro";
+import Navigation from "@/components/global/NavigazioneHamburgerStandard.astro";
+import Footer from "@/components/global/Footer.astro";
+
+const {
+  title,
+  description,
+  image,
+  canonical,
+} = Astro.props;
+---
+
+<html lang="it" class="scroll-smooth">
+  <head>
+    <BaseHead
+      title={title}
+      description={description}
+      image={image}
+      canonical={canonical}
+    />
+  </head>
+
+  <style is:global>
+  .prose .lead {
+  font-family: var(--font-serif);
+  font-size: 1.5rem;
+  line-height: 1.7;
+  font-style: italic;
+  font-weight: 400;
+  text-align: center;
+  max-width: 48rem;
+  margin: 3rem auto 3rem auto;
+  color: rgba(0,0,0,.75);
+}
+
+.cta-editoriale {
+  display: table;
+  margin: 2rem auto 0;
+  padding-bottom: 1rem;
+
+  border-bottom: 1px solid rgba(31,31,31,.20);
+
+  text-decoration: none;
+  color: rgba(31,31,31,.70);
+
+  font-family: var(--font-serif);
+  font-style: italic;
+
+  transition: all .25s ease;
+}
+
+.cta-editoriale:hover {
+  color: rgba(31,31,31,.95);
+  border-bottom-color: rgba(31,31,31,.60);
+}
+.prose img.author-avatar {
+  width: 180px !important;
+  max-width: 180px !important;
+}
+.prose .author-note {
+  max-width: 36rem;
+  margin: 0 auto;
+}
+
+.prose .author-note h2 {
+  text-align: center;
+  border-top: none;
+}
+
+</style>
+
+  <body class="min-h-svh bg-white text-base-900">
+    <Navigation />
+
+    <main class="py-14 md:py-20">
+      <article
+        class="
+          prose prose-neutral
+          mx-auto max-w-4xl px-6
+
+          prose-headings:font-serif
+          prose-headings:font-light
+
+          prose-h1:text-5xl
+          prose-h1:md:text-7xl
+          prose-h1:leading-none
+          prose-h1:text-center
+          prose-h1:mb-10
+
+          prose-h2:text-3xl
+          prose-h2:md:text-4xl
+          prose-h2:mt-16
+          prose-h2:mb-8
+
+          prose-p:text-lg
+          prose-p:leading-8
+          prose-p:text-base-900
+
+          prose-a:text-base-900
+          prose-a:underline
+          prose-a:underline-offset-4
+
+          prose-blockquote:border-none
+          prose-blockquote:text-center
+          prose-blockquote:font-serif
+          prose-blockquote:text-3xl
+          prose-blockquote:md:text-5xl
+          prose-blockquote:leading-tight
+          prose-blockquote:not-italic
+          prose-blockquote:font-light
+          prose-blockquote:tracking-tight
+          prose-blockquote:text-base-900
+          prose-blockquote:my-14
+          prose-blockquote:px-4
+
+          prose-img:my-16
+          prose-img:w-full
+          prose-img:max-w-5xl
+          prose-img:mx-auto
+          prose-img:rounded-none
+          prose-img:shadow-none
+
+          prose-hr:my-14
+          prose-hr:border-base-900/10
+        "
+      >
+        <slot />
+      </article>
+    </main>
+
+    <Footer />
+  </body>
+</html>
