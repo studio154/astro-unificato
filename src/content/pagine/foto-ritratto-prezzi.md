@@ -67,6 +67,21 @@ Le foto ritratto vengono utilizzate per:
 
 ---
 
+
+## Venire bene in foto non dipende dalla fotogenia
+
+Uno degli errori più comuni è credere che il risultato dipenda dall'aspetto fisico del soggetto.
+
+Non è così. Dipende dalla luce, dal tempo, dal modo in cui il fotografo crea le condizioni giuste perché la persona si senta a proprio agio.
+
+Se ti sei sempre sentito a disagio davanti a un obiettivo, probabilmente non sei mai stato in mano a qualcuno che sapesse fare davvero questo lavoro.
+
+Ho scritto una guida pratica su questo — una delle più lette di questo sito:
+
+→ [Venire bene in foto: 8 consigli semplici per essere più fotogenici](https://www.eliocarchidi.com/venire-bene-in-foto/)
+
+---
+
 ## Le sessioni disponibili — prezzi
 
 Ho strutturato tre percorsi, ognuno pensato per esigenze diverse.
@@ -113,25 +128,14 @@ Per chi desidera un'immagine di alto profilo per comunicazione, brand personale,
 
 ---
 
-## Venire bene in foto non dipende dalla fotogenia
-
-Uno degli errori più comuni è credere che il risultato dipenda dall'aspetto fisico del soggetto.
-
-Non è così. Dipende dalla luce, dal tempo, dal modo in cui il fotografo crea le condizioni giuste perché la persona si senta a proprio agio.
-
-Se ti sei sempre sentito a disagio davanti a un obiettivo, probabilmente non sei mai stato in mano a qualcuno che sapesse fare davvero questo lavoro.
-
-Ho scritto una guida pratica su questo — una delle più lette di questo sito:
-
-→ [Venire bene in foto: 8 consigli semplici per essere più fotogenici](https://www.eliocarchidi.com/venire-bene-in-foto/)
-
----
-
 ## Studio fotografico a Roma
+### Dove si svolgono le sessioni
 
-Le sessioni si svolgono nell'Atelier privato nel cuore di Roma, a **Porta Maggiore — Via Casilina 3A, 00182**.
+Ricevo principalmente nel mio Atelier privato tra Porta Maggiore e San Giovanni, uno spazio raccolto dedicato alla fotografia di ritratto, pensato per lavorare con calma, luce controllata e la necessaria privacy.
 
-Palazzo d'epoca. Sala di posa con luce naturale e artificiale, sala trucco, salotto, guardaroba. Nessun problema di parcheggio: garage convenzionato a pochi passi, incluso nelle sessioni.
+Per produzioni più articolate, ritratti corporate, servizi editoriali o progetti che richiedono ambienti più ampi, collaboro inoltre con alcuni studi professionali selezionati in diverse zone di Roma, tra cui l'area Prati / Vaticano.
+
+Lo spazio viene individuato di volta in volta in funzione del progetto, della luce e delle esigenze della sessione.
 
 Ricevo esclusivamente su appuntamento. **Al massimo tre sessioni a settimana.**
 

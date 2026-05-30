@@ -9,9 +9,9 @@ description: "Ritratti intimi e pittorici che esplorano luce, forma e presenza u
 # - Use `class` on each image to control its span and position in the grid
 # - This gives you full visual control: overlap, asymmetry, large hero blocks, etc.
 thumbnail:
-  url: "https://media.eliocarchidi.com/uploads/2026/04/svetlana-intimo-bn-small.jpg"
+  url: "https://media.eliocarchidi.com/uploads/2026/05/nudo-di-donna-in-studio.jpeg"
   alt: "Fotografia-Fine-Art-Foto-Autoriali"
-  title: "Nudo di donna"
+  title: "Nudo di donna in studio"
 # - Use `thumbnailClass` to control the span of the thumbnail image on GalleryLayout.astro
 imageGrid: "grid grid-cols-3 md:grid-cols-1 ms:grid-cols-1 gap-8 text-black"
 thumbnailClass: "lg:col-span-3 rounded w-full"

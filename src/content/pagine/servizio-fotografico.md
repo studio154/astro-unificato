@@ -2,7 +2,8 @@
 title: "Come prepararsi a un servizio fotografico"
 pubDate: 2026-04-27
 description: "Guida completa per prepararsi a un servizio fotografico: fotogenia, abbigliamento, posa, luce e consigli pratici per ottenere ritratti naturali e curati."
-image: ""
+image: "/2026/04/servizio-fotografico-ritratto-naturale2-3.jpg"
+pageStyle: "wide"
 ---
 # Come prepararsi ad un servizio fotografico
 

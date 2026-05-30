@@ -1,34 +1,18 @@
 ---
 import BaseLayout from "../layouts/LayoutDoveLavoro.astro";
 
-const pageTitle = "Dove lavoro — Studio di ritratto a Roma";
+const pageTitle = "Dove lavoro — Atelier e studi di ritratto a Roma";
 const pageDescription =
-  "Ritratti fotografici a Roma. Sessioni su appuntamento in studio a Prati/Vaticano, in uno spazio selezionato per luce, silenzio e concentrazione.";
-
-
+  "Ritratti fotografici a Roma. Sessioni su appuntamento nel mio Atelier privato tra Porta Maggiore e San Giovanni, oppure in studio partner nell’area Prati/Vaticano per produzioni più articolate.";
 ---
 
-<BaseLayout
-  title={pageTitle}
-  description={pageDescription}
->
+<BaseLayout title={pageTitle} description={pageDescription}>
   <main class="bg-gallery-6 text-neutral-900">
     <!-- HERO -->
     <section class="mx-auto max-w-6xl px-6 pt-16 pb-16">
-      <div class="mb-6">
-        <img
-          src="https://media.eliocarchidi.com/uploads/2026/05/elio-leonardo-carchidi-dove-lavoro.jpg"
-          alt="Studio di ritratto a Roma, zona Prati Vaticano"
-          class="w-full rounded-2xl object-cover shadow-sm"
-        />
-      </div>
-      <p class="mb-12 text-sm text-neutral-500">
-  Uno spazio pensato per lavorare con luce, tempo e concentrazione.
-</p>
-
       <div class="max-w-3xl">
         <p class="mb-4 text-sm uppercase tracking-[0.25em] text-neutral-500">
-          Studio di ritratto a Roma
+          Atelier e studi di ritratto a Roma
         </p>
 
         <h1 class="font-serif text-4xl md:text-6xl leading-tight">
@@ -36,90 +20,175 @@ const pageDescription =
         </h1>
 
         <p class="mt-6 text-lg leading-relaxed text-neutral-700">
-          Lavoro in spazi selezionati per qualità della luce, silenzio e concentrazione.
-          Ogni ambiente è scelto in funzione del ritratto.
+          Lavoro in spazi diversi, scelti in funzione del progetto, della luce e
+          del tipo di ritratto che desideriamo realizzare.
         </p>
       </div>
     </section>
+    <!-- FOTO ATELIER PRIVATO -->
+    <section class="mx-auto max-w-6xl px-6 py-8">
+      <img
+        src="https://media.eliocarchidi.com/uploads/2026/05/studio-fotografico-atelier-elio-carchidi.jpeg"
+        alt="Atelier privato per ritratti fotografici a Roma, zona Porta Maggiore San Giovanni"
+        class="w-full rounded-2xl object-cover shadow-sm"
+      />
 
-    <!-- MAIN TEXT -->
-    <section class="mx-auto max-w-6xl px-6 py-12 grid gap-12 md:grid-cols-[1fr_1.5fr]">
+      <p class="mt-4 text-center font-serif text-sm italic text-neutral-500">
+        Un ritratto realizzato nel mio Atelier tra Porta Maggiore e San
+        Giovanni.
+      </p>
+    </section>
+
+    <!-- ATELIER PRIVATO -->
+    <section
+      class="mx-auto max-w-6xl px-6 py-12 grid gap-12 md:grid-cols-[1fr_1.5fr]"
+    >
       <div>
-        <h2 class="font-serif text-3xl">
-          Roma — Prati / Vaticano
+        <p class="mb-4 text-sm uppercase tracking-[0.25em] text-neutral-500">
+          Atelier privato
+        </p>
+
+        <h2 class="font-serif text-3xl md:text-4xl">
+          Porta Maggiore / San Giovanni
         </h2>
       </div>
 
       <div class="space-y-6 text-lg leading-relaxed text-neutral-700">
         <p>
-          Ricevo su appuntamento in uno studio nel quartiere Prati,
-          a pochi passi dal Vaticano.
+          La maggior parte delle sessioni si svolge nel mio Atelier privato, tra
+          Porta Maggiore e San Giovanni.
         </p>
 
         <p>
-          Uno spazio ampio e controllato, adatto a ritratti editoriali,
-          corporate e sessioni private.
+          È uno spazio raccolto, essenziale e riservato, pensato per lavorare
+          senza fretta, con luce controllata e la necessaria privacy.
         </p>
 
         <p>
-          La luce è costruita con precisione, il tempo è parte del processo.
-          Ogni sessione è progettata in funzione della persona e del risultato finale.
+          Qui realizzo gran parte dei ritratti individuali, delle sessioni
+          private e dei progetti personali.
+        </p>
+
+        <p>
+          La dimensione contenuta dello spazio favorisce concentrazione, dialogo
+          e attenzione alla persona.
         </p>
 
         <p class="text-base italic text-neutral-500">
-          Lo spazio viene utilizzato in base al progetto e alla disponibilità.
+          Ricevo esclusivamente su appuntamento.
         </p>
       </div>
     </section>
 
-    <!-- GALLERY -->
-    <section class="mx-auto max-w-6xl px-6 py-12">
+    <!-- FOTO ATELIER PRIVATO -->
+    <section class="mx-auto max-w-3xl rounded-2xl">
+      <img
+        src="https://media.eliocarchidi.com/uploads/2026/05/foto-atelier-studio-fotografico-roma.jpeg"
+        alt="Atelier privato per ritratti fotografici a Roma, zona Porta Maggiore San Giovanni"
+        class="w-full rounded-2xl object-cover shadow-sm"
+      />
+
+      <p class="mt-4 text-center font-serif text-sm italic text-neutral-500">
+        Uno spazio raccolto dove ogni sessione può prendersi il tempo
+        necessario.
+      </p>
+    </section>
+
+    <!-- STUDIO PARTNER -->
+    <section
+      class="mx-auto max-w-6xl px-6 py-16 grid gap-12 md:grid-cols-[1fr_1.5fr]"
+    >
+      <div>
+        <p class="mb-4 text-sm uppercase tracking-[0.25em] text-neutral-500">
+          Studio partner
+        </p>
+
+        <h2 class="font-serif text-3xl md:text-4xl">Prati / Vaticano</h2>
+      </div>
+
+      <div class="space-y-6 text-lg leading-relaxed text-neutral-700">
+        <p>
+          Per produzioni più articolate, ritratti corporate, servizi editoriali
+          o progetti che richiedono spazi più ampi, collaboro con uno studio
+          professionale nell’area Prati / Vaticano.
+        </p>
+
+        <p>
+          È uno spazio più grande e flessibile, adatto a produzioni con
+          assistenti, styling, make-up, team di comunicazione o esigenze
+          tecniche particolari.
+        </p>
+
+        <p>
+          Lo spazio viene utilizzato quando il progetto lo richiede e in base
+          alla disponibilità.
+        </p>
+
+        <p class="text-base italic text-neutral-500">
+          La scelta dello spazio viene definita insieme prima della sessione.
+        </p>
+      </div>
+    </section>
+
+    <!-- GALLERY STUDIO PARTNER -->
+    <section class="mx-auto max-w-6xl px-6 py-8">
       <div class="grid gap-6 md:grid-cols-3">
         <img
           src="https://media.eliocarchidi.com/uploads/2026/05/elio-leonardo-carchidi-fotogrfo-professionale-roma.jpg"
-          alt="Interno dello studio fotografico in zona Prati Vaticano"
+          alt="Interno dello studio fotografico partner in zona Prati Vaticano"
           class="h-80 w-full rounded-2xl object-cover"
         />
 
         <img
           src="https://media.eliocarchidi.com/uploads/2026/05/elio-leonardo-carchidi-lo-studio-fotografico-roma.jpg"
-          alt="Spazio per ritratti fotografici a Roma"
+          alt="Spazio professionale per ritratti fotografici a Roma"
           class="h-80 w-full rounded-2xl object-cover"
         />
 
         <img
           src="https://media.eliocarchidi.com/uploads/2026/05/elio-leonardo-carchidi-lo-studio-fotografico.jpg"
-          alt="Dettaglio dello studio per sessioni di ritratto"
+          alt="Dettaglio dello studio partner per sessioni di ritratto"
           class="h-80 w-full rounded-2xl object-cover"
         />
       </div>
+
+      <p class="mt-4 text-center font-serif text-sm italic text-neutral-500">
+        Studio partner in area Prati / Vaticano
+      </p>
     </section>
 
     <!-- APPROACH -->
     <section class="mx-auto max-w-4xl px-6 py-16 text-center">
       <h2 class="font-serif text-3xl md:text-4xl">
-        Luce, tempo, presenza
+        Lo spazio giusto per ogni ritratto
       </h2>
 
       <p class="mt-6 text-lg leading-relaxed text-neutral-700">
-        Lavoro con luce naturale e luce controllata, mantenendo un’impostazione essenziale.
-        L’attenzione è sulla persona, non sull’attrezzatura.
+        Non esiste uno studio migliore in assoluto. Esiste lo spazio più adatto
+        al progetto, alla persona e al risultato che desideriamo ottenere.
+      </p>
+
+      <p class="mt-6 text-lg leading-relaxed text-neutral-700">
+        Lavoro con luce naturale e luce controllata mantenendo un’impostazione
+        essenziale. L’attenzione non è sull’attrezzatura, ma sulla persona.
       </p>
     </section>
 
     <!-- CTA -->
     <section class="mx-auto max-w-5xl px-6 pb-20">
       <div class="rounded-3xl bg-gallery-4 p-8 md:p-12 text-center">
-        <h2 class="font-serif text-3xl">
-          Definiamo insieme lo spazio e la sessione
-        </h2>
+        <h2 class="font-serif text-3xl">Definiamo insieme spazio e sessione</h2>
 
-        <p class="mx-auto mt-4 max-w-2xl text-lg leading-relaxed text-neutral-700">
-          Le sessioni si svolgono su appuntamento, in base al tipo di ritratto
-          e al risultato desiderato.
+        <p
+          class="mx-auto mt-4 max-w-2xl text-lg leading-relaxed text-neutral-700"
+        >
+          Le sessioni si svolgono su appuntamento, in base al tipo di ritratto,
+          al numero di persone coinvolte e al risultato desiderato.
         </p>
 
-        <div class="mt-8 flex flex-col items-center justify-center gap-4 sm:flex-row">
+        <div
+          class="mt-8 flex flex-col items-center justify-center gap-4 sm:flex-row"
+        >
           <a
             href="/contatti/"
             class="inline-flex rounded-full bg-neutral-900 px-7 py-3 text-sm font-semibold uppercase tracking-wide text-white hover:bg-neutral-700"
