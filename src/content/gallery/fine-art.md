@@ -9,7 +9,7 @@ description: "Ritratti intimi e pittorici che esplorano luce, forma e presenza u
 # - Use `class` on each image to control its span and position in the grid
 # - This gives you full visual control: overlap, asymmetry, large hero blocks, etc.
 thumbnail:
-  url: "http://localhost:4321/images/gallery/fine-art-shop/fine-art-shop-2.jpeg"
+  url: "https://media.eliocarchidi.com/uploads/2026/04/svetlana-intimo-bn-small.jpg"
   alt: "Fotografia-Fine-Art-Foto-Autoriali"
   title: "Nudo di donna"
 # - Use `thumbnailClass` to control the span of the thumbnail image on GalleryLayout.astro
