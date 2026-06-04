@@ -1,9 +1,24 @@
-node_modules
+# Dipendenze
+node_modules/
 
-# macOS
+# Cartelle di Build e Output
+dist/
+.output/
+
+# Cache e Interni di Astro
+.astro/
+
+# Bozzetti e Draft locali
+src/_drafts/
+
+# File di Configurazione e Variabili d'Ambiente SENSITIVE (Mai online)
+.env
+.env.*
+
+# File di Sistema macOS
 .DS_Store
 
-# Astro cache
-.astro/
-src/_drafts/
-dist/
+# Log di Errore dei Pacchetti
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log

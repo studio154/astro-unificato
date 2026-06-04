@@ -2,7 +2,11 @@
 title: "Foto Ritratto Professionale a Roma — Prezzi e Sessioni"
 pubDate: 2021-05-03
 description: "Foto ritratto professionale a Roma con Elio Leonardo Carchidi. Sessioni private per professionisti, artisti e privati. Prezzi, metodo e tutto quello che devi sapere prima di prenotare."
+<<<<<<< HEAD
 image: "/2026/04/A-Ritratto-Pierluigi-Collina-personaggio-famoso.jpg"
+=======
+image: "/2026/04/ART-Donna-Fashion-Style.jpg"
+>>>>>>> 08406eb0cfe1f2e4f9e84436b4a8e19330417053
 canonical: "https://www.eliocarchidi.com/foto-ritratto-prezzi"
 pageStyle: "wide"
 ---
@@ -12,8 +16,12 @@ pageStyle: "wide"
 > *Un ritratto non inizia con lo scatto. Inizia con il tempo che si decide di dedicargli.*
 
 <p class="lead">
+<<<<<<< HEAD
 Da oltre quarant'anni realizzo foto ritratto professionali a Roma per manager, professionisti, artisti, aziende e persone che desiderano un'immagine autentica e duratura.<br>
 Ogni sessione viene costruita su misura — senza pacchetti rigidi, senza automatismi, senza filtri artificiali.
+=======
+Da oltre quarant'anni realizzo foto ritratto professionali a Roma per manager, professionisti, artisti, aziende e persone che desiderano un'immagine autentica e duratura. Ogni sessione viene costruita su misura — senza pacchetti rigidi, senza automatismi, senza filtri artificiali.
+>>>>>>> 08406eb0cfe1f2e4f9e84436b4a8e19330417053
 </p>
 
 <p style="text-align:center;">
@@ -24,8 +32,13 @@ Ogni sessione viene costruita su misura — senza pacchetti rigidi, senza automa
 
 ---
 
+<<<<<<< HEAD
 ![Pierluigi Collina](https://media.eliocarchidi.com/uploads/2026/04/A-Ritratto-Pierluigi-Collina-personaggio-famoso.jpg)
 <div class="photo-caption">Pierluigi Collina · Ritratto fotografico in studio</div>
+=======
+![Ritratto realizzato con luce naturale](https://media.eliocarchidi.com/uploads/2026/04/ART-Donna-Fashion-Style.jpg)
+<div class="photo-caption">La fotografia come incontro tra luce e presenza</div>
+>>>>>>> 08406eb0cfe1f2e4f9e84436b4a8e19330417053
 
 ---
 
@@ -130,9 +143,13 @@ Ho scritto una guida pratica su questo — una delle più lette di questo sito:
 
 ## Studio fotografico a Roma
 
-Le sessioni si svolgono nell'Atelier privato nel cuore di Roma, a **Porta Maggiore — Via Casilina 3A, 00182**.
+### Dove si svolgono le sessioni
 
-Palazzo d'epoca. Sala di posa con luce naturale e artificiale, sala trucco, salotto, guardaroba. Nessun problema di parcheggio: garage convenzionato a pochi passi, incluso nelle sessioni.
+Ricevo principalmente nel mio Atelier privato tra Porta Maggiore e San Giovanni, uno spazio raccolto dedicato alla fotografia di ritratto, pensato per lavorare con calma, luce controllata e la necessaria privacy.
+
+Per produzioni più articolate, ritratti corporate, servizi editoriali o progetti che richiedono ambienti più ampi, collaboro inoltre con alcuni studi professionali selezionati in diverse zone di Roma, tra cui l'area Prati / Vaticano.
+
+Lo spazio viene individuato di volta in volta in funzione del progetto, della luce e delle esigenze della sessione.
 
 Ricevo esclusivamente su appuntamento. **Al massimo tre sessioni a settimana.**
 

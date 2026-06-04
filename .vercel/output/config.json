@@ -1,0 +1,60 @@
+{
+	"version": 3,
+	"routes": [
+		{
+			"src": "^/conferma-invio-email-liliane-glamour$",
+			"headers": {
+				"Location": "/foto-erotiche/"
+			},
+			"status": 301
+		},
+		{
+			"src": "^/foto-erotiche$",
+			"headers": {
+				"Location": "/"
+			},
+			"status": 301
+		},
+		{
+			"src": "^/le-fotografie-glamour-di-liliane$",
+			"headers": {
+				"Location": "/foto-erotiche/"
+			},
+			"status": 301
+		},
+		{
+			"src": "^/team/elio-carchidi$",
+			"headers": {
+				"Location": "/chi-sono/"
+			},
+			"status": 301
+		},
+		{
+			"handle": "filesystem"
+		},
+		{
+			"src": "^/_astro/(.*)$",
+			"headers": {
+				"cache-control": "public, max-age=31536000, immutable"
+			},
+			"continue": true
+		},
+		{
+			"src": "^/_server-islands/([^/]+?)/?$",
+			"dest": "_render"
+		},
+		{
+			"src": "^/_image/?$",
+			"dest": "_render"
+		},
+		{
+			"src": "^/api/contact/?$",
+			"dest": "_render"
+		},
+		{
+			"src": "^/.*$",
+			"dest": "/404.html",
+			"status": 404
+		}
+	]
+}
