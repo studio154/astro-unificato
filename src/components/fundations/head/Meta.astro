@@ -11,7 +11,9 @@ const {
 const defaultTitle = "Elio Leonardo Carchidi | Fotografo di Ritratto a Roma";
 const defaultDesc = "Da oltre 40 anni realizzo ritratti fotografici con luce naturale a Roma.";
 
-const canonicalUrl = new URL(Astro.url.pathname, Astro.site).href;
+// Rimuove lo slash finale dal pathname per il canonical
+const pathWithoutTrailingSlash = Astro.url.pathname.replace(/\/$/, '');
+const canonicalUrl = new URL(pathWithoutTrailingSlash, Astro.site).href;
 
 const ogImage = image?.url || image || "https://media.eliocarchidi.com/uploads/2026/03/blog-fotografia-elio-carchidi-bg-c.jpg";
 ---

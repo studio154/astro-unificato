@@ -11,7 +11,7 @@ const allPosts = await getCollection("posts");
 // slug corrente (affidabile)
 const slug = Astro.url.pathname.split("/").filter(Boolean).pop();
 
-const canonical = `https://www.eliocarchidi.com/${slug}/`;
+const canonical = `https://www.eliocarchidi.com/${slug}`;
 
 const getPostUrl = (post) => `/${post.slug}/`;
 

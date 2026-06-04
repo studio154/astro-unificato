@@ -11,7 +11,7 @@ import "@/styles/global.css";
 <BaseLayout
   title={frontmatter.seoTitle ?? frontmatter.title}
   description={frontmatter.seoDescription ?? frontmatter.description}
-  canonical={`https://www.eliocarchidi.com/galleria/immagini/${Astro.params.slug}/`}
+  canonical={`https://www.eliocarchidi.com/galleria/immagini/${Astro.params.slug}`}
   image={frontmatter.thumbnail?.url}
   ogType="article"
   hideBigLogo={true}

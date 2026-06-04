@@ -21,7 +21,7 @@ const { Content } = await page.render();
 frontmatter={page.data}
   title={page.data.title}
   description={page.data.description}
-  canonical={`https://www.eliocarchidi.com/atelier/sessioni-private/${page.slug}/`}
+  canonical={`https://www.eliocarchidi.com/atelier/sessioni-private/${page.slug}`}
   image={page.data.image?.url || page.data.image}>
   <Content />
 </LayoutProdottoSingolo>
