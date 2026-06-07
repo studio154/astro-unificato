@@ -1,26 +1,23 @@
 # Dipendenze
 node_modules/
 
-# Cartelle di Build e Output
+# Build
 dist/
 .output/
-
-# Cache e Interni di Astro
 .astro/
+.vercel/
 
-# Bozzetti e Draft locali
+# Draft
 src/_drafts/
 
-# File di Configurazione e Variabili d'Ambiente SENSITIVE (Mai online)
+# Environment
 .env
 .env.*
 
-# File di Sistema macOS
+# macOS
 .DS_Store
 
-# Log di Errore dei Pacchetti
+# Logs
 npm-debug.log*
 yarn-debug.log*
-yarn-error.logdist/
-.vercel/output/
-.vercel/output/
+yarn-error.log*
