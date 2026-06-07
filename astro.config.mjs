@@ -5,7 +5,7 @@ import vercel from "@astrojs/vercel";
 
 export default defineConfig({
   site: "https://www.eliocarchidi.com",
-  output: "static",
+  output: "server",
   trailingSlash: "ignore",
 
   adapter: vercel({
