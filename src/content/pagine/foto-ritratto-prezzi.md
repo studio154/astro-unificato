@@ -2,11 +2,7 @@
 title: "Foto Ritratto Professionale a Roma — Prezzi e Sessioni"
 pubDate: 2021-05-03
 description: "Foto ritratto professionale a Roma con Elio Leonardo Carchidi. Sessioni private per professionisti, artisti e privati. Prezzi, metodo e tutto quello che devi sapere prima di prenotare."
-<<<<<<< HEAD
 image: "/2026/04/A-Ritratto-Pierluigi-Collina-personaggio-famoso.jpg"
-=======
-image: "/2026/04/ART-Donna-Fashion-Style.jpg"
->>>>>>> 08406eb0cfe1f2e4f9e84436b4a8e19330417053
 canonical: "https://www.eliocarchidi.com/foto-ritratto-prezzi"
 pageStyle: "wide"
 ---
@@ -16,12 +12,8 @@ pageStyle: "wide"
 > *Un ritratto non inizia con lo scatto. Inizia con il tempo che si decide di dedicargli.*
 
 <p class="lead">
-<<<<<<< HEAD
 Da oltre quarant'anni realizzo foto ritratto professionali a Roma per manager, professionisti, artisti, aziende e persone che desiderano un'immagine autentica e duratura.<br>
 Ogni sessione viene costruita su misura — senza pacchetti rigidi, senza automatismi, senza filtri artificiali.
-=======
-Da oltre quarant'anni realizzo foto ritratto professionali a Roma per manager, professionisti, artisti, aziende e persone che desiderano un'immagine autentica e duratura. Ogni sessione viene costruita su misura — senza pacchetti rigidi, senza automatismi, senza filtri artificiali.
->>>>>>> 08406eb0cfe1f2e4f9e84436b4a8e19330417053
 </p>
 
 <p style="text-align:center;">
@@ -32,13 +24,8 @@ Da oltre quarant'anni realizzo foto ritratto professionali a Roma per manager, p
 
 ---
 
-<<<<<<< HEAD
-![Pierluigi Collina](https://media.eliocarchidi.com/uploads/2026/04/A-Ritratto-Pierluigi-Collina-personaggio-famoso.jpg)
-<div class="photo-caption">Pierluigi Collina · Ritratto fotografico in studio</div>
-=======
 ![Ritratto realizzato con luce naturale](https://media.eliocarchidi.com/uploads/2026/04/ART-Donna-Fashion-Style.jpg)
 <div class="photo-caption">La fotografia come incontro tra luce e presenza</div>
->>>>>>> 08406eb0cfe1f2e4f9e84436b4a8e19330417053
 
 ---
 
