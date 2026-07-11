@@ -16,8 +16,9 @@ src/_drafts/
 
 # macOS
 .DS_Store
+src/.DS_Store
 
 # Logs
 npm-debug.log*
 yarn-debug.log*
-yarn-error.log*
+yarn-error.log*.DS_Store
