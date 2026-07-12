@@ -6,10 +6,9 @@ import TeamLayout from "@/layouts/TeamLayout.astro";
 const FotoElio =
   "https://media.eliocarchidi.com/uploads/2026/05/elio-leonardo-carchidi-studio.jpeg";
 
-
 const frontmatter = {
   name: "Elio Leonardo Carchidi",
-  role: "Fotografo e Art Director",
+  role: "Fotografo ritrattista e pubblicitario a Roma",
 
   // SEO (passa al layout)
   title: "Chi sono",
@@ -19,24 +18,24 @@ const frontmatter = {
   ogImage:
     "https://media.studio154.it/uploads/2026/05/elio-leonardo-carchidi-studio.jpeg",
 
-  image: { url: FotoElio, alt: "Elio Leonardo Carchidi" },
+  image: { url: FotoElio, alt: "Elio Leonardo Carchidi Fotografo esperto" },
 
-  bio: `Da oltre 40 anni realizzo ritratti fotografici a Roma, combinando maestria tecnica, sensibilità artistica e cura della presenza.  
+  bio: `Da quasi 50 anni realizzo ritratti fotografici a Roma, combinando maestria tecnica, sensibilità artistica e cura della presenza.  
 La mia fotografia nasce dalla luce naturale e dal tempo dedicato al soggetto: ogni immagine è essenziale, senza artifici, pensata per restituire autenticità e profondità.  
 
 Fondatore di Studio154, collaboro con clienti e produzioni nazionali e internazionali, realizzando ritratti fine art, corporate ed editoriali.  
-La mia filosofia si ispira alla profondità dei classici: “Fatti non foste a viver come bruti ma per seguir virtute e conoscenza” – un principio che guida il mio lavoro e la mia vita.  
+La mia filosofia si ispira alla profondità dei classici: “Fatti non foste a viver come bruti ma per seguir virtute e conoscenza” – un principio che guida il mio lavoro e la mia vita. 
 
 Benvenuti nel mio studio: mettetevi comodi e lasciate che il ritratto parli di voi.`,
 
   socials: {
-    twitter: "https://twitter.com/eliocarchidi",
     linkedin: "https://www.linkedin.com/in/eliocarchidi",
     email: "mailto:info@eliocarchidi.com",
     website: "https://www.eliocarchidi.com",
   },
 };
 ---
+
 <TeamLayout frontmatter={frontmatter}>
   <section class="mx-auto max-w-xl px-6 pt-6 text-center md:pt-12">
     <a
@@ -62,17 +61,11 @@ Benvenuti nel mio studio: mettetevi comodi e lasciate che il ritratto parli di v
     />
 
     <div class="mb-8 space-y-4 text-left">
-      {frontmatter.bio.split("\n").map((p) => (
-        <p class="font-serif leading-7 text-base-900">{p}</p>
-      ))}
-    </div>
-
-
-    <div class="mb-12 flex justify-center gap-6">
-      <a href={frontmatter.socials.twitter} class="text-sm text-base-600 hover:text-base-800">Twitter</a>
-      <a href={frontmatter.socials.linkedin} class="text-sm text-base-600 hover:text-base-800">LinkedIn</a>
-      <a href={frontmatter.socials.email} class="text-sm text-base-600 hover:text-base-800">Email</a>
-      <a href={frontmatter.socials.website} class="text-sm text-base-600 hover:text-base-800">Website</a>
+      {
+        frontmatter.bio
+          .split("\n")
+          .map((p) => <p class="font-serif leading-7 text-base-900">{p}</p>)
+      }
     </div>
   </section>
 
@@ -88,14 +81,10 @@ Benvenuti nel mio studio: mettetevi comodi e lasciate che il ritratto parli di v
   </section>
 
   <section class="bg-gray-50 py-8 text-center">
-    <p class="mb-2 text-base-600">
-      Since 1976 – fotografia di ritratto
-    </p>
+    <p class="mb-2 text-base-600">Since 1976 – fotografia di ritratto</p>
     <p class="mb-1 text-base-900">
       Lo studio fotografico riceve esclusivamente su appuntamento
     </p>
-    <p class="font-semibold">
-      Studio154
-    </p>
+    <p class="font-semibold">Studio154</p>
   </section>
 </TeamLayout>

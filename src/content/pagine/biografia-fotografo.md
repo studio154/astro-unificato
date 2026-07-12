@@ -1,72 +1,144 @@
 ---
-title: "Elio L. Carchidi, Fotografo Ritrattista"
+title: "Elio Leonardo Carchidi | Fotografo ritrattista e pubblicitario a Roma"
 pubDate: 2011-05-12
-description: "!Fotografo Professionista Roma Elio Carchidi(uploads/2017/02/fotografo-professionista-roma-elio-carchidi-2.png) Sono nat"
-image: ""
+description: "La storia di Elio Leonardo Carchidi, fotografo ritrattista e pubblicitario a Roma. Dalla fotografia analogica alla rivoluzione digitale, oltre quarant'anni di esperienza professionale."
+image: "https://media.eliocarchidi.com/uploads/2017/02/fotografo-professionista-roma-elio-carchidi-2.png"
+pageStyle: "wide"
 ---
 
-![Fotografo Professionista Roma Elio Carchidi](https://media.eliocarchidi.com/uploads/2017/02/fotografo-professionista-roma-elio-carchidi-2.png)
+# Elio Leonardo Carchidi
 
-Sono nato il 5 giugno del 1958 in un amena cittadina della Calabria.
+<div style="text-align:center"> <h2> Fotografo ritrattista e pubblicitario a Roma</h2> </div>
 
-Vivo e lavoro a Roma, dove faccio il Fotografo, da quasi quarant’anni.
+<div style="text-align:center; margin:30px 0;">
 
-Ho scelto di fare questo mestiere non per riempire un vuoto ma semmai per vuotare un pieno.
+<img 
+src="https://media.eliocarchidi.com/uploads/2017/02/fotografo-professionista-roma-elio-carchidi-2.png"
+alt="Elio Leonardo Carchidi fotografo ritrattista e pubblicitario a Roma"
+class="foto-profilo-biografia"
+loading="eager"
+/>
 
-Il mio doppio nome l’ho ricevuto in dote da un uomo dolce e affettuoso che era mio padre.
+</div>
 
-Lui, medico stimatissimo e appassionato di Lingua Latina e Greca diceva mi avrebbe voluto “bello come il Sole” (**Helios**) e “intelligente” come (**Leonardo**) Da Vinci.
+<style>
+.foto-profilo-biografia {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 50%;
+  box-shadow: none !important;
+  filter: none;
+}
+</style>
 
-So di aver disatteso le sue paterne aspettative ma so anche che mi ha perdonato per questo!
+Sono nato il 5 giugno del 1958 in Calabria, in una piccola cittadina affacciata sul mare.
 
-Da lui, padre amatissimo, ho ereditato la **passione per la Fotografia**.
+Vivo e lavoro a Roma, dove ho costruito il mio percorso professionale come fotografo.
 
-Ho incominciato a Fotografare all’età di quattordici anni per guardare il mondo più da vicino anche se già sin dalla nascita, afflitto da una miopia congenita, strizzavo gli occhi alla ricerca di cose da scoprire.
+La fotografia è entrata nella mia vita molto presto: ho iniziato a fotografare all'età di quattordici anni, spinto dalla curiosità di osservare il mondo attraverso un punto di vista diverso.
 
-Dal 1976, dopo aver conseguito la maturità scientifica, mi sono trasferito a Roma frequentando la **Facoltà di Sociologia** presso l’allora “famigerata” Università degli Studi La Sapienza.
+Per me fotografare non ha mai significato soltanto realizzare immagini tecnicamente corrette, ma cercare un modo per raccontare persone, prodotti e storie attraverso la luce.
 
-Agli inizi degli anni ’80 ho iniziato l’attività di Fotografo Professionista dopo aver conseguito un **Diploma di Laurea in Fotografia** presso lo I.E.D. (Istituto Europeo di Design di Roma) considerato all’epoca la più prestigiosa scuola di Fotografia Italiana.
+---
 
-Nel 1984, nello stesso istituto, ho proseguito gli studi conseguendo il **Diploma in Grafica Pubblicitaria**.
+## Una passione nata in famiglia
 
-Non ho mai amato le mondanità e i salotti e credo che questo mi abbia un po’ “penalizzato” sul lavoro regalandomi però tanto nella vita: una bella famigliola composta, da me, mia moglie Antonella e mio figlio Valerio.
+Il mio doppio nome, Elio Leonardo, è un dono ricevuto da mio padre.
 
-Sono in fondo un **tradizionalista convinto**.
+Medico appassionato di cultura classica, avrebbe voluto che Elio ricordasse **Helios**, il Sole, e Leonardo richiamasse l'intelligenza e la creatività di Leonardo da Vinci.
 
-A livello lavorativo la mia maggiore fortuna è stata quella di aver attraversato attivamente il passaggio che dalla **Fotografia Tradizionale (Analogica) **ha portato alla **Fotografia Digitale**.
+Forse non ho seguito esattamente le sue aspettative, ma da lui ho ricevuto qualcosa di più importante: la curiosità, il desiderio di imparare e la passione per la conoscenza.
 
-Queste esperienze mi hanno fatto guadagnare anche la stima di numerosi colleghi Fotografi (più bravi e più famosi di me) ai quali ho prestato la mia opera fornendo loro servizi di **Elaborazione e di Fotoritocco Professionale** cosa che mi ha dato occasione di stare al loro fianco sui più **prestigiosi set fotografici internazionali**.
+Anche la fotografia nasce da questa eredità: osservare, comprendere e raccontare.
 
-Da esperto **conoscitore di Photoshop** (che utilizzo fin dal primo giorno della sua commercializzazione) ho acquisito negli anni una grande esperienza nell’**Elaborazione di Immagini Digitali** e anche nella **Creazione di Profili colore e Taratura Cromatica**.
+---
 
-Conservo ancora con cura feticistica e inimmaginabile orgoglio il mio **primo Apple Macintosh 128k** acquistato nel 1984.
+## Formazione e primi anni professionali
 
-![fotografo-di-ritratto-artistico-roma-curriculum-vert](https://media.eliocarchidi.com/uploads/2019/10/fotografo-di-ritratto-artistico-roma-curriculum-vert-862x1024.jpg)
+Dopo il diploma scientifico mi sono trasferito a Roma, frequentando la **Facoltà di Sociologia dell'Università La Sapienza**.
 
-Forte di questo prezioso know-how ho prestato la mia opera ad alcune aziende nazionali ed internazionali specializzate nella produzione di prodotti cosmetici e di bellezza, nel campo della moda e dell’intimo di alta qualità come **L’Oreal, Schwarzkopf, Kemon, Cotton Club, La Perla, Playtex, Menarini etc**
+Successivamente ho approfondito la mia formazione fotografica presso lo **IED – Istituto Europeo di Design di Roma**, conseguendo il diploma in Fotografia e successivamente quello in Grafica Pubblicitaria.
 
-> È possibile consultare, leggere e scaricare una versione più completa del curriculum professionale a questo indirizzo: [**Curriculum professionale completo (online)**](https://www.behance.net/elioleonardocarchidi/resume) oppure è possibile scaricarlo direttamente da questa pagina cliccando sul link che segue: [**Curriculum completo** (pdf stampabile)](/curriculum-fotografo-elio-carchidi.pdf)
+Agli inizi degli anni Ottanta ho iniziato la mia attività professionale come fotografo, entrando in un mondo in cui la fotografia era ancora prevalentemente analogica.
 
-Pur NON essendo più oggi un **fan entusiasta di Photoshop** continuo a farne un uso controllato pur utilizzando le più moderne e attuali tecniche digitali sulle quali rimango costantemente aggiornato.
+Ho vissuto in prima persona una delle più grandi trasformazioni della professione: il passaggio dalla pellicola alla fotografia digitale.
 
-Ho studiato programmazione e compilo disinvoltamente **script avanzati per il web** (è il mio hobby/attività preferito).
+---
 
-Tra i miei clienti vanto molti marchi famosi tra cui **Api, British American Tobacco, Tim, Telecom Italia, IP, Pfizer, Lundbeck, Schwarzkop, Testanera, Cotton Club, Rocchetta, Emi, Versace, Bulgari, Sigma-Tau, Energie, Kemon, Sambonet, Rosenthal, Menarini, Miss Italia etc.**
+## Dalla fotografia analogica alla rivoluzione digitale
 
-Ho pubblicato su molte delle più prestigiose riviste italiane e straniere.
+La mia esperienza nasce dalla fotografia tradizionale, dalla conoscenza della luce, della pellicola e delle tecniche di ripresa, ma si è evoluta insieme alla tecnologia.
 
-Seguendo questo link puoi vedere alcune delle mie [**Gallerie Fotografiche e Portfolio Fotografico**](https://www.eliocarchidi.com/le-migliori-gallerie-fotografiche/)
+Ho iniziato a utilizzare Photoshop fin dai primi anni della sua diffusione, sviluppando negli anni una particolare esperienza nella post-produzione, nella gestione del colore e nella preparazione professionale delle immagini.
 
-Il mio **Studio Fotografico** si trova in **Via Sicilia a Roma**, nel cuore della città a pochi metri da Via Veneto.
+La tecnologia ha cambiato profondamente il modo di lavorare del fotografo, ma il principio fondamentale è rimasto invariato: prima dello strumento viene sempre lo sguardo.
 
-Da qualche anno il mio Studio Fotografico ospita l’**omonima società (STUDIO154)** di cui sono amministratore e titolare da me fondata nel 2006.
+---
 
-[**La mia società Studio154 s.n.c.**](//studio154.it/)
+## Il mio primo Macintosh
 
-*Attraverso questa struttura offriamo supporto e assistenza a tutti i Fotografi che giungono a Roma da ogni parte del mondo forti della nostra trentennale esperienza nel settore della ripresa Fotografica Tradizionale e della Fotografia Digitale.
+Negli anni Ottanta e Novanta questi strumenti iniziarono a trasformare profondamente il lavoro dei fotografi professionisti, aprendo nuove possibilità nella gestione dell'immagine e nella post-produzione.
 
-Studio154 offre servizi per la gestione dello Shooting Fotografico e fornisce Attrezzature Fotografiche a Noleggio e Illuminazione e Luci per la Fotografia e il Video.
+<img 
+src="https://media.eliocarchidi.com/uploads/2019/10/fotografo-di-ritratto-artistico-roma-curriculum-vert-862x1024.jpg"
+alt="Elio Leonardo Carchidi con il primo Macintosh utilizzato per la fotografia digitale"
+style="display:block; width:360px; max-width:100%; margin:40px auto 10px;"
+loading="lazy"
+/>
 
-Ricerca di locations, Sale di Posa e Studi Fotografici in affitto.*
+_Il primo Macintosh rappresenta per me l'inizio di una nuova fase: l'incontro tra fotografia e tecnologia digitale._
 
-> All'interno del mio Studio Fotografico PRIVATO utilizziamo solo Attrezzature Fotografiche di altissima qualità: Canon, Hasselblad, Phase One, Profoto, Broncolor, Manfrotto, Arri, Ianiro, Gitzo etc.
+Conservo ancora oggi con grande affetto il mio primo **Apple Macintosh 128K acquistato nel 1984**, simbolo di un cambiamento che avrebbe accompagnato tutta la mia carriera.
+
+---
+
+## Fotografo ritrattista e pubblicitario
+
+Nel corso degli anni ho lavorato per aziende nazionali e internazionali nei settori della pubblicità, della moda, della cosmetica e della comunicazione aziendale.
+
+Tra i marchi con cui ho collaborato:
+
+**L'Oréal, Schwarzkopf, Kemon, La Perla, Playtex, Menarini, Bulgari, Versace, Telecom Italia e molti altri.**
+
+Il ritratto è sempre rimasto uno degli aspetti centrali del mio lavoro.
+
+Fotografare una persona significa prima di tutto creare una relazione: comprendere il carattere, trovare la luce giusta e costruire un'immagine capace di raccontare qualcosa di autentico.
+
+---
+
+## Un percorso raccontato anche attraverso le immagini
+
+Nel corso della mia attività professionale ho avuto la possibilità di lavorare per aziende, agenzie, professionisti e persone che hanno scelto la fotografia come strumento per comunicare la propria identità.
+
+Dal ritratto alla pubblicità, dalla fotografia corporate ai progetti editoriali, ogni lavoro nasce dall'incontro tra esperienza tecnica, attenzione alla persona e ricerca di un'immagine capace di raccontare qualcosa.
+
+Negli anni il mio percorso è stato raccontato anche attraverso interviste e pubblicazioni su riviste specializzate.
+
+➡️ [**Scopri pubblicazioni e rassegna stampa**](/pubblicazioni-e-rassegna-stampa/)
+
+---
+
+## Studio154
+
+Dal 2006 sono fondatore e amministratore di **Studio154**, struttura dedicata alla fotografia professionale, alla produzione fotografica e al supporto per fotografi e aziende.
+
+Lo studio, situato nel centro di Roma, offre servizi fotografici, produzione shooting, noleggio attrezzature professionali e consulenza per progetti fotografici.
+
+➡️ [Scopri Studio154](https://studio154.it/)
+
+---
+
+# La fotografia oggi
+
+Dopo tanti anni continuo a considerare la fotografia un mestiere fatto di tecnica, esperienza e curiosità.
+Gli strumenti sono cambiati profondamente, ma la parte più importante rimane sempre la stessa:
+osservare, comprendere e creare immagini capaci di raccontare persone, prodotti e storie.
+
+---
+
+## Incontro e ritratto
+
+Se desideri conoscere il mio approccio al ritratto fotografico o programmare una sessione privata:
+
+➡️ [Scopri il mio lavoro di fotografo ritrattista a Roma](/chi-sono/)

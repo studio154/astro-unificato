@@ -3,6 +3,56 @@
   "trailingSlash": false,
   "redirects": [
     {
+      "source": "/come-fare-belle-foto-",
+      "destination": "/come-fare-belle-foto",
+      "permanent": true
+    },
+    {
+      "source": "/prezzi-servizi-fot",
+      "destination": "/prezzi-servizi-fotografici",
+      "permanent": true
+    },
+    {
+      "source": "/about/about.html",
+      "destination": "/about",
+      "permanent": true
+    },
+    {
+      "source": "/about/about_en.html",
+      "destination": "/en/about",
+      "permanent": true
+    },
+    {
+      "source": "/top-rome-italy-photographer.html",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/index_en.html",
+      "destination": "/en",
+      "permanent": true
+    },
+    {
+      "source": "/fotografo_professionista_roma/fotografia_moda/fotografi_moda.html",
+      "destination": "/portfolio",
+      "permanent": true
+    },
+    {
+      "source": "/fashion_beauty/fotografia-fashion-beauty.html",
+      "destination": "/portfolio",
+      "permanent": true
+    },
+    {
+      "source": "/home",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/home/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
       "source": "/fotografi-professionisti-roma/galleria-fotografica-dermatologia-e-medicina-estetica",
       "destination": "/portfolio",
       "permanent": true
@@ -33,6 +83,16 @@
       "permanent": true
     },
     {
+      "source": "/Fotografo_Professionista_Roma/:path*",
+      "destination": "/portfolio",
+      "permanent": true
+    },
+    {
+      "source": "/fotografo_professionista_roma/:path*",
+      "destination": "/portfolio",
+      "permanent": true
+    },
+    {
       "source": "/fotografi-professionisti-roma/:path*",
       "destination": "/portfolio",
       "permanent": true
@@ -40,6 +100,16 @@
     {
       "source": "/category/:path*",
       "destination": "/blog",
+      "permanent": true
+    },
+    {
+      "source": "/mappa-sito-web-fotografico-roma",
+      "destination": "/mappa",
+      "permanent": true
+    },
+    {
+      "source": "/archivio-mappa-del-sito-del-fotografo",
+      "destination": "/mappa",
       "permanent": true
     }
   ]

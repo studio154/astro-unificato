@@ -10,13 +10,13 @@ import SocialLinks from "@/components/fundations/icons/SocialLinks.astro";
   <Wrapper variant="standard" class="pb-8 pt-20 lg:pt-20">
     <div class="mt-8 space-y-4 w-full">
       <Text
-  tag="p"
-  variant="textXL"
-  class="max-w-xl mx-auto font-light !font-serif uppercase text-center leading-6 text-base-900"
->
-  Since <time datetime="1976" class="font-serif">1976</time>
-  <span class="block">fotografia di ritratto</span>
-</Text>
+        tag="p"
+        variant="textXL"
+        class="max-w-xl mx-auto font-light !font-serif uppercase text-center leading-6 text-base-900"
+      >
+        Since <time datetime="1976" class="font-serif">1976</time>
+        <span class="block">fotografia di ritratto</span>
+      </Text>
       <Text
         tag="p"
         variant="textBase"
@@ -70,7 +70,13 @@ import SocialLinks from "@/components/fundations/icons/SocialLinks.astro";
         class="mt-10 text-xs md:text-sm text-base-900/60 italic tracking-wide text-center"
       >
         © Elio Carchidi — Tutti i diritti riservati. Uso non autorizzato
-        vietato.
+        vietato. <a
+          href="/mappa"
+          title="mappa del sito del fotografo"
+          class="hover:opacity-80 transition-opacity"
+        >
+          (Mappa del sito)
+        </a>
       </p>
     </div>
   </Wrapper>

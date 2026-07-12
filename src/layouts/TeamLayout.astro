@@ -7,13 +7,8 @@ import Text from "@/components/fundations/elements/Text.astro";
 import Wrapper from "@/components/fundations/containers/Wrapper.astro";
 
 // RICEVIAMO SOLO IL FRONTMATTER
-const {
-  title,
-  description,
-  canonical,
-  image,
-  ogType,
-  frontmatter } = Astro.props;
+const { title, description, canonical, image, ogType, frontmatter } =
+  Astro.props;
 ---
 
 <BaseLayout
@@ -69,7 +64,31 @@ const {
             ))
           }
         </div>
-       
+
+        <div class="mt-10 space-y-4 text-center">
+          <p class="text-sm text-neutral-500 font-serif">
+            Vuoi conoscere meglio il mio percorso fotografico?
+          </p>
+
+          <a
+            href="/biografia-fotografo/"
+            class="text-sm text-base-900 underline underline-offset-4 hover:text-neutral-600"
+          >
+            Leggi la biografia completa di Elio Leonardo Carchidi →
+          </a>
+
+          <p class="mt-6 text-sm text-neutral-500 font-serif">
+            Interviste e pubblicazioni dedicate al mio lavoro fotografico:
+          </p>
+
+          <a
+            href="/pubblicazioni-e-rassegna-stampa/"
+            class="text-sm text-base-900 underline underline-offset-4 hover:text-neutral-600"
+          >
+            Consulta la rassegna stampa →
+          </a>
+        </div>
+
         <div class="mt-8 flex justify-center">
           <a
             href="/atelier/sessioni-private/"
@@ -78,51 +97,22 @@ const {
             Prenota la tua sessione di ritratto
           </a>
         </div>
-         <div class="mt-8 space-y-1">
-  <p class="text-sm text-neutral-500">
-    Lavoro in spazi selezionati per luce e concentrazione.
-  </p>
+        <div class="mt-8 space-y-1">
+          <p class="text-sm text-neutral-500">
+            Lavoro in spazi selezionati per luce e concentrazione.
+          </p>
 
-  <a
-  href="/dove-lavoro/"
-  class="group inline-flex items-center gap-1 text-sm text-neutral-400 transition-colors hover:text-neutral-600"
->
-  Dove lavoro
+          <a
+            href="/dove-lavoro/"
+            class="group inline-flex items-center gap-1 text-sm text-neutral-400 transition-colors hover:text-neutral-600"
+          >
+            Dove lavoro
 
-  <span class="transition-transform duration-300 group-hover:translate-x-1">
-    →
-  </span>
-</a>
-</div>
-        <div class="mt-24">
-          {/* Social Media Links */}
-          <a
-            href={frontmatter.socials.twitter}
-            class="text-sm text-base-600 hover:text-base-800 duration-300"
-            aria-label="X"
-          >
-            Twitter
-          </a>
-          <a
-            href={frontmatter.socials.linkedin}
-            class="text-sm text-base-600 hover:text-base-800 duration-300"
-            aria-label="LinkedIn"
-          >
-            Linkedin
-          </a>
-          <a
-            href={frontmatter.socials.email}
-            class="text-sm text-base-600 hover:text-base-800 duration-300"
-            aria-label="Email"
-          >
-            Email
-          </a>
-          <a
-            href={frontmatter.socials.website}
-            class="text-sm text-base-600 hover:text-base-800 duration-300"
-            aria-label="Website"
-          >
-            Website
+            <span
+              class="transition-transform duration-300 group-hover:translate-x-1"
+            >
+              →
+            </span>
           </a>
         </div>
       </div>
