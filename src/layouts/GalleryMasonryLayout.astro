@@ -18,42 +18,39 @@ import "@/styles/global.css";
   hideNavigation={true}
   hideFooter={false}
 >
-  
   <section class={`${frontmatter.bgColor} ${frontmatter.textColor}`}>
     <Wrapper variant="standard" class="py-8 text-center">
       <Text
         tag="a"
-        href="javascript:history.back()"
+        href="/portfolio/"
         variant="textXS"
         class="inline-flex items-center gap-1 hover: transition-colors"
       >
         &larr; Portfolio
       </Text>
       <Text
-  tag="p"
-  variant="textXL"
-  class="max-w-xl mx-auto !font-serif uppercase text-center !leading-[1.1] mt-4 !text-4xl md:!text-3xl !font-light text-base-900"
->
-  <!-- <span class="block opacity-50">
+        tag="p"
+        variant="textXL"
+        class="max-w-xl mx-auto !font-serif uppercase text-center !leading-[1.1] mt-4 !text-4xl md:!text-3xl !font-light text-base-900"
+      >
+        <!-- <span class="block opacity-50">
     {frontmatter.category}
   </span> -->
 
-  <span class="block mt-2">
-    {frontmatter.title} 
-  </span>
-</Text>
+        <span class="block mt-2">
+          {frontmatter.title}
+        </span>
+      </Text>
 
-<Text
-  tag="p"
-  variant="textBase"
-  class="max-w-2xl mx-auto mt-6 !font-serif uppercase text-center !leading-[1.4] text-base-900 opacity-70"
->
-  {frontmatter.description}
-</Text>
-      
+      <Text
+        tag="p"
+        variant="textBase"
+        class="max-w-2xl mx-auto mt-6 !font-serif uppercase text-center !leading-[1.4] text-base-900 opacity-70"
+      >
+        {frontmatter.description}
+      </Text>
+
       <section class="py-12">
-        
-      
         <div class="columns-1 sm:columns-2 lg:columns-3 mt-8">
           {
             frontmatter.thumbnail && (
@@ -62,17 +59,17 @@ import "@/styles/global.css";
                   src={frontmatter.thumbnail.url}
                   alt={frontmatter.thumbnail.alt}
                   class={`w-full h-auto rounded-2xl object-cover ${frontmatter.thumbnailClass}`}
-                  
                 />
                 <figcaption class="mt-2 opacity-80 text-center">
-                <span class="mt-2 opacity-60 text-center">{frontmatter.thumbnail.title}</span> <span class="italic opacity-30 text-sm">@eliocarchidi</span>
-              </figcaption>
-               
-     </figure>
-              
+                  <span class="mt-2 opacity-60 text-center">
+                    {frontmatter.thumbnail.title}
+                  </span>{" "}
+                  <span class="italic opacity-30 text-sm">@eliocarchidi</span>
+                </figcaption>
+              </figure>
             )
           }
-        
+
           {
             (frontmatter.images || []).map((image) => (
               <figure class="mb-8 break-inside-avoid">
@@ -81,16 +78,18 @@ import "@/styles/global.css";
                   alt={image.alt}
                   class={`w-full h-auto rounded-2xl object-cover ${image.class ?? ""}`}
                   title={image.title}
-                  
                 />
-                <figcaption
-               class="mt-2 opacity-60 text-center">
-                 <span class="mt-2 opacity-80 text-center">{image.title} </span> <span class="italic opacity-30 text-sm">@eliocarchidi</span>
+                <figcaption class="mt-2 opacity-60 text-center">
+                  <span class="mt-2 opacity-80 text-center">
+                    {image.title}{" "}
+                  </span>{" "}
+                  <span class="italic opacity-30 text-sm">@eliocarchidi</span>
                 </figcaption>
               </figure>
             ))
           }
         </div>
-        
       </section>
-      
+    </Wrapper>
+  </section></BaseLayout
+>
