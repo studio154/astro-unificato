@@ -20,11 +20,11 @@ images:
   - url: "https://media.eliocarchidi.com/uploads/2026/04/che-cosa-e-la-fotogenia.jpg"
     alt: "Ritratto Corporate Giovane Manager"
     class: "lg:col-span-1"
-    title: "U #043" 
+    title: "U #043"
   - url: "https://media.eliocarchidi.com/uploads/2026/04/ritratto-corporate-headshot-tono-basso.jpg"
     alt: "Ritratto Corporate Uomo"
     class: "lg:col-span-1"
-    title: "U #02" 
+    title: "U #02"
   - url: "https://media.eliocarchidi.com/uploads/2026/04/C-immagine-corporate-semplice-6.jpg"
     alt: "Ritratto Corporate Uomo"
     class: "lg:col-span-1"
@@ -93,6 +93,10 @@ images:
     alt: "Ritratto Linkedin Uomo"
     class: "lg:col-span-3"
     title: "D #16"
+  - url: "https://media.eliocarchidi.com/uploads/2026/07/foto-corporate-professionali-prof-universitari-sapienza.jpg"
+    alt: "Prof. Roberto Navigli Università Sapienza Roma esperto di AI"
+    class: "lg:col-span-3"
+    title: "U #63"
   - url: "https://media.eliocarchidi.com/uploads/2026/04/A-Corporate-headshot-Portrait3.jpg"
     alt: "Ritratto Linkedin Uomo"
     class: "lg:col-span-3"
@@ -177,6 +181,4 @@ images:
     alt: "Ritratto Linkedin Uomo"
     class: "lg:col-span-3"
     title: "U #26"
-
-    
 ---
