@@ -99,6 +99,8 @@ Puoi approfondirli qui:
 
 👉 [Venire bene in foto: consigli pratici](/venire-bene-in-foto/)
 
+👉 [Il ritratto: immagine, identità e percezione di sé](/ritratto-immagine-identita-percezione-di-se/)
+
 Ma è importante dirlo con chiarezza:
 
 i consigli aiutano, ma non sostituiscono uno sguardo esperto.

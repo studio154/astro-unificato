@@ -184,6 +184,10 @@ Se invece vuoi approfondire come prepararti a livello logistico per un qualunque
 
 👉 [Come prepararsi al servizio fotografico](/servizio-fotografico/)
 
+Ho approfondito questo tema nell'articolo:
+
+👉 [Il ritratto: immagine, identità e percezione di sé](/ritratto-immagine-identita-percezione-di-se/)
+
 ---
 
 Se senti che è arrivato il momento di scoprire come la tua presenza può emergere attraverso una sessione di ritratto d'autore dedicata, senza la fretta dei flussi commerciali, ti invito a scoprire lo spazio privato dell'Atelier.
