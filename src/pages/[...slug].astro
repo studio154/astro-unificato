@@ -1,9 +1,12 @@
 ---
 import { getCollection } from "astro:content";
+
 import BlogLayout from "@/layouts/BlogLayout.astro";
 import LayoutPagine from "@/layouts/LayoutPagine.astro";
 import LayoutLanding from "@/layouts/LayoutLanding.astro";
 import LayoutEditoriale from "@/layouts/LayoutEditoriale.astro";
+
+import CtaRitrattoBiancoNero from "@/components/cta/CtaRitrattoBiancoNero.astro";
 
 export async function getStaticPaths() {
   const blogEntries = await getCollection("posts");
@@ -14,6 +17,7 @@ export async function getStaticPaths() {
       params: { slug: entry.slug },
       props: { entry, type: "post" },
     })),
+
     ...pagineEntries.map((entry) => ({
       params: { slug: entry.slug },
       props: { entry, type: "pagina" },
@@ -24,6 +28,9 @@ export async function getStaticPaths() {
 }
 
 const { entry, type } = Astro.props;
+
+console.log("CTA:", entry.data.cta);
+
 const { Content } = await entry.render();
 
 const PageLayout =
@@ -34,17 +41,26 @@ const PageLayout =
       : LayoutPagine;
 ---
 
-{type === "post" ? (
-  <BlogLayout frontmatter={entry.data}>
-    <Content />
-  </BlogLayout>
-) : (
-  <PageLayout
-    title={entry.data.title}
-    description={entry.data.description}
-    image={entry.data.image}
-    canonical={entry.data.canonical}
-  >
-    <Content />
-  </PageLayout>
-)}
+{
+  type === "post" ? (
+    <BlogLayout frontmatter={entry.data}>
+      <Content />
+    </BlogLayout>
+  ) : (
+    <PageLayout
+  title={entry.data.title}
+  description={entry.data.description}
+  image={entry.data.image}
+  canonical={entry.data.canonical}
+>
+  <Content />
+
+  <div slot="after">
+    {entry.data.cta === "ritratto-bn" && (
+      <CtaRitrattoBiancoNero />
+    )}
+  </div>
+
+</PageLayout>
+  )
+}
