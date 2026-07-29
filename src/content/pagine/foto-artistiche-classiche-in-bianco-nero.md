@@ -5,6 +5,15 @@ description: "Una raccolta di foto bianco e nero artistiche realizzate da Elio L
 image: "https://media.eliocarchidi.com/uploads/2017/08/foto-bianco-nero-artistiche.jpg"
 cta: "ritratto-bn"
 pageStyle: "wide"
+
+gallery:
+  - url: "https://media.eliocarchidi.com/uploads/2026/04/A-Ritratto-Pierluigi-Collina-personaggio-famoso.jpg"
+    alt: "Fotografia artistica in bianco e nero"
+  - url: "https://media.eliocarchidi.com/uploads/2016/12/Flavio-Insinna-Fotografie-Attori.jpg"
+    alt: "Ritratto analogico in bianco e nero"
+  - url: "https://media.eliocarchidi.com/uploads/2026/04/A-Marco-Leonardi-Ritratto.jpg"
+    alt: "Ritratto analogico in bianco e nero"
+    
 ---
 
 # Foto Bianco e Nero Artistiche
@@ -80,7 +89,7 @@ La tecnica è fondamentale, ma è la capacità di osservare e interpretare il so
 
 ## Galleria fotografica
 
-[Inserimento galleria fotografica]
+[Torna alla galleria →](#slideshow)
 
 
 ---
@@ -95,7 +104,6 @@ Ogni servizio viene costruito con particolare attenzione alla luce, alla posa e 
 
 Un ritratto in bianco e nero non è soltanto una fotografia: è un'immagine destinata a raccontare una persona nel tempo.
 
-[Richiedi informazioni per un ritratto in bianco e nero →](/contatti/)
 
 ---
 

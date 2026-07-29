@@ -1,0 +1,60 @@
+---
+const { images } = Astro.props;
+---
+
+<div id="keen-gallery" class="keen-slider mt-12">
+  {
+    images.map((image) => (
+      <div class="keen-slider__slide">
+        <img
+          src={image.url}
+          alt={image.alt}
+          class="w-full max-h-[400px] object-cover"
+        />
+      </div>
+    ))
+  }
+</div>
+
+<div class="flex justify-center gap-4 mt-6">
+  <button id="keen-prev" class="text-sm border px-4 py-2">
+    ←
+  </button>
+
+  <button id="keen-next" class="text-sm border px-4 py-2">
+    →
+  </button>
+</div>
+
+<style>
+.keen-slider {
+  display: flex;
+  overflow: hidden;
+}
+
+.keen-slider__slide {
+  min-width: 100%;
+}
+</style>
+
+<script>
+import KeenSlider from "https://cdn.jsdelivr.net/npm/keen-slider@6.8.6/+esm";
+
+const slider = new KeenSlider("#keen-gallery", {
+  loop: true,
+  slides: {
+    perView: 1,
+  },
+  defaultAnimation: {
+    duration: 1000,
+  },
+});
+
+document
+  .getElementById("keen-prev")
+  ?.addEventListener("click", () => slider.prev());
+
+document
+  .getElementById("keen-next")
+  ?.addEventListener("click", () => slider.next());
+</script>

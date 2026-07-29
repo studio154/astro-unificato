@@ -81,6 +81,7 @@ const {
 
           prose-headings:font-serif
           prose-headings:font-light
+          prose-headings:mt-10
 
           prose-h1:text-5xl
           prose-h1:md:text-7xl
@@ -125,7 +126,12 @@ const {
           prose-hr:border-base-900/10
         "
       >
+      <div id="slideshow">
+      <slot name="after" />
+      </div>
+      
         <slot />
+          
       </article>
     </main>
 

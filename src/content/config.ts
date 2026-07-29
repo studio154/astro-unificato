@@ -150,13 +150,22 @@ const infopages = defineCollection({
 
 // --- SCHEMA PAGINE (EX WORDPRESS) ---
 const pagine = defineCollection({
-  type: 'content', // Importante per gestire il corpo del testo Markdown
+  type: 'content',
   schema: z.object({
     title: z.string(),
     description: z.string().optional(),
-    image: z.string().optional(), // URL immagine (stringa perché spesso viene da WP)
+    image: z.string().optional(),
     pubDate: z.date().optional(),
     pageStyle: z.enum(["standard", "landing", "wide", "legacy"]).optional(),
+
+    gallery: z
+      .array(
+        z.object({
+          url: z.string(),
+          alt: z.string(),
+        })
+      )
+      .optional(),
   }),
 });
 

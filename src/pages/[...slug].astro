@@ -5,7 +5,7 @@ import BlogLayout from "@/layouts/BlogLayout.astro";
 import LayoutPagine from "@/layouts/LayoutPagine.astro";
 import LayoutLanding from "@/layouts/LayoutLanding.astro";
 import LayoutEditoriale from "@/layouts/LayoutEditoriale.astro";
-
+import KeenGallery from "@/components/gallery/KeenGallery.astro";
 import CtaRitrattoBiancoNero from "@/components/cta/CtaRitrattoBiancoNero.astro";
 
 export async function getStaticPaths() {
@@ -30,6 +30,7 @@ export async function getStaticPaths() {
 const { entry, type } = Astro.props;
 
 console.log("CTA:", entry.data.cta);
+console.log("GALLERY:", entry.data.gallery);
 
 const { Content } = await entry.render();
 
@@ -56,10 +57,20 @@ const PageLayout =
   <Content />
 
   <div slot="after">
-    {entry.data.cta === "ritratto-bn" && (
+
+  {
+    entry.data.gallery && (
+      <KeenGallery images={entry.data.gallery} />
+    )
+  }
+
+  {
+    entry.data.cta === "ritratto-bn" && (
       <CtaRitrattoBiancoNero />
-    )}
-  </div>
+    )
+  }
+
+</div>
 
 </PageLayout>
   )
