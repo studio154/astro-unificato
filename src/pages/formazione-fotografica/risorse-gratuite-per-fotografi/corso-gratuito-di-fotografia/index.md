@@ -1,5 +1,5 @@
 ---
-layout: ../../../../layouts/LayoutCorso.astro
+layout: ../../../../layouts/LayoutCorsoHome.astro
 title: "Corso di Fotografia Online Gratuito: Indice"
 description: "Benvenuto al corso base di fotografia online. 10 lezioni gratuite per imparare a fotografare partendo da zero con Elio Carchidi."
 image: "formazione/2022/03/fondamenti-della-fotografia-ebook.jpeg"

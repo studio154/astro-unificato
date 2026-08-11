@@ -82,6 +82,38 @@ Prendi spunto dalle informazioni che hai appena appreso per studiare più a fond
 
 Quello che è veramente importante è che tu colga il concetto di base di questo argomento e cioè: per comporre una bella immagine è sempre utile tenere in considerazione alcuni dei riflessi condizionati che ci appartengono in quanto umani.
 
+<style>
+  .corso-pdf-button {
+    display:inline-block;
+    background:#fff;
+    color:#111;
+    padding:12px 24px;
+    text-decoration:none;
+    font-weight:600;
+    border-radius:8px;
+    transition:background-color 0.2s ease;
+  }
+
+  .corso-pdf-button:hover {
+    background:#e5e5e5;
+  }
+</style>
+
+<div class="my-12" style="background:#111; padding:40px; text-align:center; border-radius:10px;">
+
+  <h3 style="color:oklch(65.9% .23 35.2); margin:0 0 20px 0;">
+    Vuoi avere tutte le 10 lezioni sempre con te?
+  </h3>
+
+  <p style="color:#fff; margin:0 auto 25px auto; max-width:700px;">
+    Acquista il <strong style="color:#fff;">PDF completo di Basi di Fotografia</strong>,
+    conservalo sul tuo computer o nel cloud e consultalo anche senza connessione.
+  </p>
+
+  <a href="https://payhip.com/b/C3U9Q" target="_blank" rel="noopener" class="corso-pdf-button">ACQUISTA IL CORSO COMPLETO — €4,50</a>
+
+</div>
+
 ## Risorse utili
 
 ### Il nostro suggerimento di lettura

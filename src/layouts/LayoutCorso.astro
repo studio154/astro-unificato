@@ -1,5 +1,5 @@
 ---
-// 1. Recupero dati dal Markdown / props
+// Recupero dati dal Markdown / props
 const {
   frontmatter,
   canonical,
@@ -21,56 +21,144 @@ let finalImageUrl = null;
 
 if (image) {
   const cleanPath = image
-    .replace(/^(.*?)(wp-content\/uploads\/|uploads\/)?/, "")
+    .replace(/^(.*?)wp-content\/uploads\/|uploads\//, "")
     .replace(/^\//, "");
 
   finalImageUrl = `${baseUrl}/${cleanPath}`;
 }
+
+// --------------------------------------------------
+// NAVIGAZIONE DELLE 10 LEZIONI
+// --------------------------------------------------
+
+const currentPath = Astro.url.pathname;
+
+const match = currentPath.match(
+  /corso-base-di-fotografia-lezione-(\d+)\//
+);
+
+const currentLesson = match ? Number(match[1]) : null;
+
+const courseBase =
+  "/formazione-fotografica/risorse-gratuite-per-fotografi/corso-gratuito-di-fotografia/";
+
+const getLessonUrl = (lesson: number) =>
+  `${courseBase}corso-base-di-fotografia-lezione-${lesson}/`;
+
+const previousLesson =
+  currentLesson && currentLesson > 1
+    ? getLessonUrl(currentLesson - 1)
+    : null;
+
+const nextLesson =
+  currentLesson && currentLesson < 10
+    ? getLessonUrl(currentLesson + 1)
+    : null;
 ---
 
 <html lang="it" class="scroll-smooth">
   <head>
-  <BaseHead
-    title={title}
-    description={description}
-    canonical={canonical}
-    image={finalImageUrl}
-    ogType={ogType}
-  />
-</head>
-  
+    <BaseHead
+      title={title}
+      description={description}
+      canonical={canonical}
+      image={finalImageUrl}
+      ogType={ogType}
+    />
+  </head>
+
   <body class="flex flex-col bg-gallery-6 min-h-svh">
     <TobBar />
     <NavigationHamburgerFormazione />
 
     <main class="grow">
       <article class="max-w-4xl mx-auto px-6 py-20">
+
         <header class="text-center mb-16">
           <h1 class="titolo-testata-fisso">{title}</h1>
-          
+
           {finalImageUrl && (
             <div class="mt-12 rounded-2xl overflow-hidden shadow-xl bg-slate-100">
-              <img src={finalImageUrl} alt={title} class="w-full h-full object-cover" />
+              <img
+                src={finalImageUrl}
+                alt={title}
+                class="w-full h-full object-cover"
+              />
             </div>
           )}
         </header>
 
         <div class="prose prose-lg md:prose-xl prose-slate mx-auto max-w-none">
+
           <slot />
-          
+
           <footer class="mt-20 pt-10 border-t border-slate-200 not-prose">
-            <div class="flex flex-col sm:flex-row justify-between items-center gap-6">
-              <a href="javascript:history.back()" class="text-slate-600 hover:text-black font-medium flex items-center transition-colors">
-                <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 mr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 19l-7-7m0 0l7-7m-7 7h18" />
-                </svg>
-                Torna alla pagina precedente
+
+            <!-- NAVIGAZIONE LEZIONI -->
+
+            <div class="flex flex-col sm:flex-row justify-between items-center gap-4">
+
+              {previousLesson ? (
+                <a
+                  href={previousLesson}
+                  class="text-slate-600 hover:text-black font-medium flex items-center transition-colors"
+                >
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    class="h-5 w-5 mr-2"
+                    fill="none"
+                    viewBox="0 0 24 24"
+                    stroke="currentColor"
+                  >
+                    <path
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                      stroke-width="2"
+                      d="M10 19l-7-7m0 0l7-7m-7 7h18"
+                    />
+                  </svg>
+
+                  Lezione {currentLesson! - 1}
+                </a>
+              ) : (
+                <span></span>
+              )}
+
+              <a
+                href={courseBase}
+                class="bg-slate-900 text-white px-6 py-3 rounded-full text-sm font-bold uppercase tracking-widest hover:bg-slate-700 transition-all shadow-md"
+              >
+                Sommario
               </a>
-              
-              <a href="/formazione-fotografica/risorse-gratuite-per-fotografi/corso-gratuito-di-fotografia/" class="bg-slate-900 text-white px-6 py-3 rounded-full text-sm font-bold uppercase tracking-widest hover:bg-slate-700 transition-all shadow-md">
-                Sommario del Corso
-              </a>
+
+              {nextLesson ? (
+                <a
+                  href={nextLesson}
+                  class="text-slate-600 hover:text-black font-medium flex items-center transition-colors"
+                >
+                  Lezione {currentLesson! + 1}
+
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    class="h-5 w-5 ml-2"
+                    fill="none"
+                    viewBox="0 0 24 24"
+                    stroke="currentColor"
+                  >
+                    <path
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                      stroke-width="2"
+                      d="M14 5l7 7m0 0l-7 7m7-7H3"
+                    />
+                  </svg>
+                </a>
+              ) : (
+                <span></span>
+              )}
+
             </div>
+
           </footer>
         </div>
       </article>
@@ -81,7 +169,9 @@ if (image) {
 </html>
 
 <style is:global>
-  /* ... i tuoi stili CSS rimangono invariati ... */
-  .titolo-testata-fisso { display: none !important; }
+  .titolo-testata-fisso {
+    display: none !important;
+  }
+
   /* ecc... */
 </style>

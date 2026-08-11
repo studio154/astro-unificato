@@ -1,0 +1,74 @@
+---
+// 1. Recupero dati dal Markdown / props
+const {
+  frontmatter,
+  canonical,
+  ogType,
+} = Astro.props;
+
+const title = frontmatter?.title || Astro.props.title;
+const description = frontmatter?.description || Astro.props.description;
+const image = frontmatter?.image || Astro.props.image;
+
+import BaseHead from "@/components/fundations/head/BaseHead.astro";
+import Footer from "@/components/global/Footer.astro";
+import NavigationHamburgerFormazione from "@/components/global/NavigazioneHamburgerFormazione.astro";
+import TobBar from "@/components/cta/TopBarHome.astro";
+import "@/styles/global.css";
+
+const baseUrl = "https://media.eliocarchidi.com/uploads";
+let finalImageUrl = null;
+
+if (image) {
+  const cleanPath = image
+    .replace(/^(.*?)(wp-content\/uploads\/|uploads\/)?/, "")
+    .replace(/^\//, "");
+
+  finalImageUrl = `${baseUrl}/${cleanPath}`;
+}
+---
+
+<html lang="it" class="scroll-smooth">
+  <head>
+  <BaseHead
+    title={title}
+    description={description}
+    canonical={canonical}
+    image={finalImageUrl}
+    ogType={ogType}
+  />
+</head>
+  
+  <body class="flex flex-col bg-gallery-6 min-h-svh">
+    <TobBar />
+    <NavigationHamburgerFormazione />
+
+    <main class="grow">
+      <article class="max-w-4xl mx-auto px-6 py-20">
+        <header class="text-center mb-16">
+          <h1 class="titolo-testata-fisso">{title}</h1>
+          
+          {finalImageUrl && (
+            <div class="mt-12 rounded-2xl overflow-hidden shadow-xl bg-slate-100">
+              <img src={finalImageUrl} alt={title} class="w-full h-full object-cover" />
+            </div>
+          )}
+        </header>
+
+        <div class="prose prose-lg md:prose-xl prose-slate mx-auto max-w-none">
+          <slot />
+          
+        
+        </div>
+      </article>
+    </main>
+
+    <Footer />
+  </body>
+</html>
+
+<style is:global>
+  /* ... i tuoi stili CSS rimangono invariati ... */
+  .titolo-testata-fisso { display: none !important; }
+  /* ecc... */
+</style>
