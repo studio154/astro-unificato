@@ -16,6 +16,7 @@ Strano a dirsi ma è vero. A meno che tu non vada in giro per settimane intere a
 Eppure è il bianco e nero che ci affascina, che ci fa viaggiare con la fantasia, che smuove la nostra immaginazione più fervida.
 
 ### La superiorità del digitale nel Bianco e Nero
+
 Non è corretto dire che un fotografo non possa ancora oggi creare immagini di grande impatto emotivo. Anzi, utilizzando gli strumenti attuali, si possono costruire **immagini in bianco e nero perfette**, spesso di qualità superiore alle tradizionali tecniche analogiche.
 
 Una foto digitale a colori, trasformata correttamente, contiene molte più informazioni di quante la pellicola più sensibile potrà mai contenere. A patto però che si utilizzi il **metodo migliore di conversione**.
@@ -23,9 +24,10 @@ Una foto digitale a colori, trasformata correttamente, contiene molte più infor
 Ho creato una check-list con **7 METODI DI CONVERSIONE IN BIANCO E NERO** ottenibili con Photoshop, tutti facilmente applicabili.
 
 ### Accedi al Tutorial
+
 Scegli come consultare le 7 tecniche di conversione:
 
 <div class="flex gap-4 justify-center my-8">
-  <a href="https://studio154.it/fotografia-bianco-e-nero-con-photoshop-e-lightroom/" class="btn-primary" target="_blank">Leggi L'ARTICOLO APERTO</a>
-  <a href="/formazione-fotografica/guida-pdf-bianco-nero" class="btn-outline">SCARICA LA GUIDA IN PDF</a>
+  <a href="https://studio154.it/fotografia-bianco-e-nero-con-photoshop-e-lightroom/" class="btn-primary" target="_blank" rel="noopener">LEGGI L'ARTICOLO APERTO</a>
+  <a href="https://payhip.com/b/mHvtT" class="btn-outline" target="_blank" rel="noopener">ACQUISTA LA GUIDA PDF — €9,90</a>
 </div>
