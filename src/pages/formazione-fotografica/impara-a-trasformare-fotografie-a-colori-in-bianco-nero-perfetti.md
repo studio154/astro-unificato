@@ -5,7 +5,7 @@ description: "Scopri come convertire un'immagine digitale a colori in una fantas
 image: "formazione/2020/11/bianco-e-nero-photoshop-1200x800-1-1024x684.jpg"
 ---
 
-<!-- ![Corso di Fotografia Bianco e Nero](https://media.eliocarchidi.com/uploads/formazione/2020/11/bianco-e-nero-photoshop-1200x800-1-1024x684.jpg) -->
+<!-- ![Corso di Fotografia Bianco e Nero](https://media.eliocarchidi.com/uploads/formazione/2026/08/fotografia-bianco-e-nero-con-photoshop-1040.jpg) -->
 
 ## 7 metodi efficaci per convertire un'immagine digitale a colori in una fantastica foto in bianco e nero
 
