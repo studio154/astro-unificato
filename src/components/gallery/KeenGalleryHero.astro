@@ -1,0 +1,108 @@
+---
+const { images } = Astro.props;
+---
+
+<div class="relative h-full w-full group">
+
+  <div id="keen-gallery-hero" class="keen-slider h-full w-full">
+    {
+      images.map((image) => (
+        <div class="keen-slider__slide h-full w-full">
+          <img
+            src={image.url}
+            alt={image.alt || ""}
+            class="h-full w-full object-cover"
+            loading="eager"
+          />
+        </div>
+      ))
+    }
+  </div>
+
+  <!-- Pulsante precedente -->
+  <button
+    id="keen-hero-prev"
+    type="button"
+    aria-label="Immagine precedente"
+    class="absolute left-5 top-1/2 z-10 flex h-10 w-10 -translate-y-1/2 items-center justify-center rounded-full bg-black/30 text-white backdrop-blur-sm transition hover:bg-black/60"
+  >
+    ←
+  </button>
+
+  <!-- Pulsante successivo -->
+  <button
+    id="keen-hero-next"
+    type="button"
+    aria-label="Immagine successiva"
+    class="absolute right-5 top-1/2 z-10 flex h-10 w-10 -translate-y-1/2 items-center justify-center rounded-full bg-black/30 text-white backdrop-blur-sm transition hover:bg-black/60"
+  >
+    →
+  </button>
+
+  <!-- Indicatore -->
+  <div
+    class="pointer-events-none absolute bottom-5 left-1/2 z-10 -translate-x-1/2 rounded-full bg-black/30 px-3 py-1 text-[11px] tracking-[0.15em] text-white backdrop-blur-sm"
+  >
+    SCORRI
+  </div>
+
+</div>
+
+<style>
+  .keen-slider {
+    display: flex;
+    overflow: hidden;
+  }
+
+  .keen-slider__slide {
+    min-width: 100%;
+  }
+</style>
+
+<script>
+  import KeenSlider from "https://cdn.jsdelivr.net/npm/keen-slider@6.8.6/+esm";
+
+  const gallery = document.querySelector("#keen-gallery-hero");
+
+  if (gallery) {
+    const slider = new KeenSlider(gallery, {
+      loop: true,
+
+      slides: {
+        perView: 1,
+      },
+
+      defaultAnimation: {
+        duration: 500,
+        easing: (t) => t,
+      },
+    });
+
+    const prev = document.querySelector("#keen-hero-prev");
+    const next = document.querySelector("#keen-hero-next");
+
+    prev?.addEventListener("click", () => {
+      slider.prev();
+    });
+
+    next?.addEventListener("click", () => {
+      slider.next();
+    });
+
+    let autoplay = setInterval(() => {
+      slider.next();
+    }, 4000);
+
+    // Se l'utente interagisce, ricominciamo il conteggio
+    const restartAutoplay = () => {
+      clearInterval(autoplay);
+
+      autoplay = setInterval(() => {
+        slider.next();
+      }, 4000);
+    };
+
+    prev?.addEventListener("click", restartAutoplay);
+    next?.addEventListener("click", restartAutoplay);
+  }
+</script>

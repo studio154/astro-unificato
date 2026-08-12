@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/LayoutCorso.astro
+layout: ../../layouts/LayoutCorsoHome.astro
 title: "7 metodi per trasformare foto a colori in Bianco e Nero perfetti"
 description: "Scopri come convertire un'immagine digitale a colori in una fantastica foto in bianco e nero con Photoshop usando 7 tecniche professionali."
 image: "formazione/2026/08/fotografia-bianco-e-nero-con-photoshop-blog.jpg"

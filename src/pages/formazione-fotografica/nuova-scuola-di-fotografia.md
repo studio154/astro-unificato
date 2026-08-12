@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/LayoutCorso.astro
+layout: ../../layouts/LayoutCorsoHome.astro
 title: "Scuola di Fotografia a Roma: Benvenuto nella mia Bottega"
 description: "Non una semplice scuola, ma una bottega artigiana dove imparare la vera fotografia con Elio Carchidi."
 image: "formazione/2022/03/scuola-di-fotografia-roma-corsi-di-fotografia-1.png"

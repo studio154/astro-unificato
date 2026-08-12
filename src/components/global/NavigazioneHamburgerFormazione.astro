@@ -2,69 +2,68 @@
 const currentPath = Astro.url.pathname;
 
 const menuLinks = [
-  { href: "/formazione-fotografica/", label: "Home" },
-  { href: "/formazione-fotografica/corsi-di-fotografia-roma-gratis", label: "Contenuti" },
-  { href: "/formazione-fotografica/contatti-formazione/", label: "Contatti" },
-  { href: "/formazione-fotografica/journal/", label: "Journal" },
+  {
+    href: "/formazione-fotografica/risorse-gratuite-per-fotografi/corso-gratuito-di-fotografia/",
+    label: "Corso gratuito",
+  },
+  {
+    href: "/formazione-fotografica/nuova-scuola-di-fotografia",
+    label: "La Bottega",
+  },
+  {
+    href: "/formazione-fotografica/workshop-di-fotografia",
+    label: "Workshop",
+  },
+  {
+    href: "/formazione-fotografica/journal/",
+    label: "Journal",
+  },
+  {
+    href: "/contatti/",
+    label: "Contatti",
+  },
 ];
 
-import Wrapper from "@/components/fundations/containers/Wrapper.astro";
 import Text from "@/components/fundations/elements/Text.astro";
 ---
-<Wrapper variant="default bg-black">
-  <nav class="left-0 w-full z-50 border-b border-black-200 bg-black ;">
-    
-    <div class="mx-auto flex items-center justify-between p-4 pl-12 p">
 
-      <!-- Logo -->
-      <a href="/formazione-fotografica/" class="flex items-center gap-2">
-        <span class="text-lg font-semibold uppercase tracking-wide text-neutral-400 hover: text-white">
-          Formazione Fotografica
-        </span>
-      </a>
+<nav class="w-full border-b border-neutral-200/60 bg-[#f2f0e8]/90 backdrop-blur-md">
+  <div class="flex items-center justify-between px-6 py-7 md:px-12 lg:px-20 xl:px-24">
 
-      <!-- Hamburger -->
-      <button
-        id="hamburgerBtn"
-        class="lg:hidden flex items-center justify-center w-10 h-10"
-        aria-controls="mobileMenu"
-        aria-expanded="false"
-      >
-        <span class="sr-only">Apri menu</span>
-        <div class="flex flex-col gap-1">
-          <span class="block w-5 h-0.5 bg-white"></span>
-          <span class="block w-5 h-0.5 bg-white"></span>
-          <span class="block w-5 h-0.5 bg-white"></span>
-        </div>
-      </button>
+    <!-- Logo -->
+    <a
+      href="/formazione-fotografica/"
+      class="flex flex-col leading-none"
+    >
+      <span class="site-title text-[1.12rem] font-black uppercase tracking-[-0.04em] text-black">
+        Formazione Fotografica
+      </span>
 
-      <!-- Menu desktop -->
-      <div class="hidden lg:flex items-center gap-8 uppercase tracking-wide">
-        {menuLinks.map((link) => (
-          <Text
-            tag="a"
-            href={link.href}
-            variant="textBase"
-            class={`transition-colors ${
-              currentPath === link.href
-                ? "text-neutral-600 font-semibold"
-                : "text-neutral-400 hover:text-neutral-200"
-            }`}
-          >
-            {link.label}
-          </Text>
-        ))}
+      <span class="mt-1 text-[11px] leading-none tracking-[0.06em] text-neutral-500">
+        Dalla pellicola al digitale · dalla tecnica alla pratica
+      </span>
+    </a>
+
+    <!-- Hamburger -->
+    <button
+      id="hamburgerBtn"
+      class="flex h-10 w-10 items-center justify-center lg:hidden"
+      aria-controls="mobileMenu"
+      aria-expanded="false"
+      type="button"
+    >
+      <span class="sr-only">Apri menu</span>
+
+      <div class="flex flex-col gap-1">
+        <span class="block h-0.5 w-5 bg-black"></span>
+        <span class="block h-0.5 w-5 bg-black"></span>
+        <span class="block h-0.5 w-5 bg-black"></span>
       </div>
+    </button>
 
-    </div>
-  </nav>
+    <!-- Menu desktop -->
+    <div class="hidden items-center gap-8 text-[0.82rem] uppercase tracking-[0.08em] lg:flex">
 
-  <!-- Menu mobile -->
-  <div
-    id="mobileMenu"
-    class="hidden md:hidden border-t border-neutral-200 bg-white"
-  >
-    <div class="flex flex-col px-4 py-4 gap-4 uppercase tracking-wide">
       {menuLinks.map((link) => (
         <Text
           tag="a"
@@ -72,23 +71,77 @@ import Text from "@/components/fundations/elements/Text.astro";
           variant="textBase"
           class={`transition-colors ${
             currentPath === link.href
-              ? "text-black font-semibold"
+              ? "font-semibold text-black"
+              : "text-neutral-600 hover:text-black"
+          }`}
+        >
+          {link.label}
+        </Text>
+      ))}
+
+      <!-- Separatore -->
+      <span class="h-5 w-px bg-neutral-300"></span>
+
+      <!-- Sito principale -->
+      <Text
+        tag="a"
+        href="https://www.eliocarchidi.com/"
+        variant="textBase"
+        class="text-neutral-600 transition-colors hover:text-black"
+      >
+        Elio Carchidi
+      </Text>
+
+    </div>
+  </div>
+
+  <!-- Menu mobile -->
+  <div
+    id="mobileMenu"
+    class="hidden border-t border-neutral-200/60 bg-[#f2f0e8] lg:hidden"
+  >
+    <div class="flex flex-col gap-4 px-6 py-5 text-[0.9rem] uppercase tracking-[0.08em] md:px-12">
+
+      {menuLinks.map((link) => (
+        <Text
+          tag="a"
+          href={link.href}
+          variant="textBase"
+          class={`transition-colors ${
+            currentPath === link.href
+              ? "font-semibold text-black"
               : "text-neutral-700 hover:text-black"
           }`}
         >
           {link.label}
         </Text>
       ))}
+
+      <!-- Separatore -->
+      <div class="my-1 border-t border-neutral-300"></div>
+
+      <!-- Sito principale -->
+      <Text
+        tag="a"
+        href="https://www.eliocarchidi.com/"
+        variant="textBase"
+        class="text-neutral-700 transition-colors hover:text-black"
+      >
+        Elio Carchidi
+      </Text>
+
     </div>
   </div>
-</Wrapper>
+</nav>
 
 <script>
   const btn = document.getElementById("hamburgerBtn");
   const menu = document.getElementById("mobileMenu");
 
-  btn.addEventListener("click", () => {
-    const isOpen = menu.classList.toggle("hidden");
-    btn.setAttribute("aria-expanded", String(!isOpen));
-  });
+  if (btn && menu) {
+    btn.addEventListener("click", () => {
+      const isHidden = menu.classList.toggle("hidden");
+      btn.setAttribute("aria-expanded", String(!isHidden));
+    });
+  }
 </script>

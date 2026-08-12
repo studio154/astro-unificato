@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/LayoutCorso.astro
+layout: ../../layouts/LayoutCorsoHome.astro
 title: "Conosci la storia del Gatto e la Volpe? Dovresti!"
 date: 2025-02-15
 description: "Evita le false promesse nei workshop di fotografia."

@@ -11,6 +11,45 @@ import Button from "@/components/fundations/elements/Button.astro";
   title="Ritratti professionali per aziende, executive e professionisti a Roma"
   description="Sessioni fotografiche essenziali e curate per professionisti, manager, team aziendali e clienti internazionali. Disponibile in studio o presso aziende e hotel a Roma."
   image="/2026/ritratto-professionale-linkedin-social-profile.jpeg"
+  images={[
+    {
+      url: "https://media.eliocarchidi.com/uploads/2026/ritratto-professionale-linkedin-social-profile.jpeg",
+      alt: "Ritratto professionale a Roma",
+    },
+    {
+      url: "https://media.eliocarchidi.com/uploads/2017/03/paola-marella-foto-beauty1.jpg",
+      alt: "Ritratto fotografico professionale",
+    },
+    {
+      url: "https://media.eliocarchidi.com/uploads/2026/05/foto-ritratto-corporate-avvocato-pellegrino-squared.jpg",
+      alt: "Ritratto corporate professionale",
+    },
+
+    {
+      url: "https://media.eliocarchidi.com/uploads/2026/04/A-Paolo-Ruffini-Federico-Parlanti.jpg",
+      alt: "Ritratto corporate professionale",
+    },
+
+    
+    {
+      url: "https://media.eliocarchidi.com/uploads/2026/ritratto-corporate-headshot-tono-basso.jpeg",
+      alt: "Corporate headshot professionale",
+    },
+
+    {
+      url: "https://media.eliocarchidi.com/uploads/2026/05/ritratto-fotografico-cristina-chiabotto-slide.jpg",
+      alt: "Corporate headshot professionale",
+    },
+    {
+      url: "https://media.eliocarchidi.com/uploads/2026/05/A-Ritratto-Pierluigi-Collina-personaggio-famoso-slide.jpg",
+      alt: "Corporate headshot professionale",
+    },
+
+    {
+      url: "https://media.eliocarchidi.com/uploads/2026/04/A-Biagio-Izzo-Colore.jpg",
+      alt: "Corporate headshot professionale",
+    }
+  ]}
 >
 
   <!-- INTRO -->
@@ -39,7 +78,8 @@ import Button from "@/components/fundations/elements/Button.astro";
 
       <p>
         Ogni sessione è progettata per creare fotografie utilizzabili
-        per LinkedIn, stampa, comunicazione aziendale, conferenze e profili professionali.
+        per LinkedIn, stampa, comunicazione aziendale, conferenze e
+        profili professionali.
       </p>
 
       <p>
@@ -50,6 +90,7 @@ import Button from "@/components/fundations/elements/Button.astro";
     </div>
 
   </section>
+
 
   <!-- SERVICES -->
   <section class="mt-32">
@@ -69,36 +110,53 @@ import Button from "@/components/fundations/elements/Button.astro";
 
     <div class="grid gap-8 md:grid-cols-3">
 
-      
+      <!-- PERSONALITÀ -->
+      <div
+        class="rounded-3xl border border-neutral-200/50 bg-white/10 p-8 transition-all duration-300 hover:border-neutral-300/70 hover:bg-white/50"
+      >
 
-      <div class="rounded-3xl border border-neutral-200/50 bg-white/10 p-8 transition-all duration-300 hover:border-neutral-300/70 hover:bg-white/50">
-
-        <a
-  href="/galleria/immagini/vip">
-        <img class="rounded-2xl" alt="Sessioni fotografiche dedicate a personaggi famosi, artisti, manager e protagonisti dello spettacolo" src="https://media.eliocarchidi.com/uploads/2026/ritratto-fotografico-cristina-chiabotto-2.jpg"></a>
+        <a href="/galleria/immagini/vip">
+          <img
+            class="rounded-2xl"
+            alt="Sessioni fotografiche dedicate a personaggi famosi, artisti, manager e protagonisti dello spettacolo"
+            src="https://media.eliocarchidi.com/uploads/2026/ritratto-fotografico-cristina-chiabotto-2.jpg"
+          />
+        </a>
 
         <h3 class="text-xl font-medium text-slate-950">
           Ritratti di Personalità
         </h3>
 
         <p class="mt-4 leading-relaxed text-slate-600">
-          Sessioni fotografiche dedicate a vip, artisti e protagonisti della cultura, dello sport e dello spettacolo.
+          Sessioni fotografiche dedicate a vip, artisti e protagonisti
+          della cultura, dello sport e dello spettacolo.
         </p>
+
         <a
-  href="/galleria/immagini/vip"
-  class="not-prose no-underline group mt-6 inline-flex items-center text-sm tracking-[0.08em] text-slate-500 transition-colors duration-300 hover:text-black"
->
- <span class="ml-2 transition-transform duration-300 group-hover:translate-x-1">
-    →
-  </span>
-</a>
+          href="/galleria/immagini/vip"
+          class="not-prose no-underline group mt-6 inline-flex items-center text-sm tracking-[0.08em] text-slate-500 transition-colors duration-300 hover:text-black"
+        >
+          <span class="ml-2 transition-transform duration-300 group-hover:translate-x-1">
+            →
+          </span>
+        </a>
 
       </div>
 
-      <div class="rounded-3xl border border-neutral-200/50 bg-white/10 p-8 transition-all duration-300 hover:border-neutral-300/70 hover:bg-white/50">
-<a
-  href="/galleria/immagini/corporate">
-        <img class="rounded-2xl" alt="Ritratti Professionali Linkedin Avvocati Manager Professionisti" src="https://media.eliocarchidi.com/uploads/2026/ritratto-corporate-headshot-tono-basso.jpeg"></a>
+
+      <!-- EXECUTIVE -->
+      <div
+        class="rounded-3xl border border-neutral-200/50 bg-white/10 p-8 transition-all duration-300 hover:border-neutral-300/70 hover:bg-white/50"
+      >
+
+        <a href="/galleria/immagini/corporate">
+          <img
+            class="rounded-2xl"
+            alt="Ritratti professionali LinkedIn per avvocati, manager e professionisti"
+            src="https://media.eliocarchidi.com/uploads/2026/05/foto-ritratto-corporate-avvocato-pellegrino-squared.jpg"
+          />
+        </a>
+
         <h3 class="text-xl font-medium text-slate-950">
           Ritratti Executive
         </h3>
@@ -107,24 +165,31 @@ import Button from "@/components/fundations/elements/Button.astro";
           Ritratti individuali per manager, avvocati, consulenti,
           imprenditori e professionisti. Fotografie autorevoli.
         </p>
-        <a
-  href="/galleria/immagini/corporate"
-  class="not-prose no-underlinegroup mt-6 inline-flex items-center text-sm tracking-[0.08em] text-slate-500 transition-colors duration-300 hover:text-black"
->
-  
 
-  <span class="ml-2 transition-transform duration-300 group-hover:translate-x-1">
-    →
-  </span>
-</a>
+        <a
+          href="/galleria/immagini/corporate"
+          class="not-prose no-underline group mt-6 inline-flex items-center text-sm tracking-[0.08em] text-slate-500 transition-colors duration-300 hover:text-black"
+        >
+          <span class="ml-2 transition-transform duration-300 group-hover:translate-x-1">
+            →
+          </span>
+        </a>
 
       </div>
 
-      <div class="rounded-3xl border border-neutral-200/50 bg-white/10 p-8 transition-all duration-300 hover:border-neutral-300/70 hover:bg-white/50">
 
-        <a
-  href="/galleria/immagini/fine-art">
-        <img class="rounded-2xl" alt="Ritratti Professionali creator digitali attori attrici" src="https://media.eliocarchidi.com/uploads/2026/servizio-fotografico-professionale-ritratto-modelle-roma.jpeg" ></a>
+      <!-- PROFESSIONALE -->
+      <div
+        class="rounded-3xl border border-neutral-200/50 bg-white/10 p-8 transition-all duration-300 hover:border-neutral-300/70 hover:bg-white/50"
+      >
+
+        <a href="/galleria/immagini/fine-art">
+          <img
+            class="rounded-2xl"
+            alt="Ritratti professionali per creator digitali, attori e attrici"
+            src="https://media.eliocarchidi.com/uploads/2026/ritratto-corporate-headshot-tono-basso.jpeg"
+          />
+        </a>
 
         <h3 class="text-xl font-medium text-slate-950">
           Ritratto Professionale
@@ -134,14 +199,15 @@ import Button from "@/components/fundations/elements/Button.astro";
           Immagini professionali per creativi, attori e attrici,
           creator e artisti indipendenti.
         </p>
+
         <a
-  href="/galleria/immagini/fine-art/"
-  class="group mt-6 not-prose no-underline inline-flex items-center gap-2 text-sm tracking-wide text-slate-500 transition-colors duration-300 hover:text-slate-900"
->
-  <span class="ml-2 transition-transform duration-300 group-hover:translate-x-1">
-    →
-  </span>
-</a>
+          href="/galleria/immagini/fine-art/"
+          class="group mt-6 not-prose no-underline inline-flex items-center gap-2 text-sm tracking-wide text-slate-500 transition-colors duration-300 hover:text-slate-900"
+        >
+          <span class="ml-2 transition-transform duration-300 group-hover:translate-x-1">
+            →
+          </span>
+        </a>
 
       </div>
 
@@ -149,134 +215,156 @@ import Button from "@/components/fundations/elements/Button.astro";
 
   </section>
 
+
   <!-- APPROACH -->
   <section class="mt-32 grid gap-16 md:grid-cols-2">
 
     <div>
 
-  <p class="mb-3 text-sm uppercase tracking-[0.25em] text-slate-500">
-    Approccio
-  </p>
+      <p class="mb-3 text-sm uppercase tracking-[0.25em] text-slate-500">
+        Approccio
+      </p>
 
-  <h2
-    class="font-serif text-4xl font-light leading-tight text-slate-950"
-    style="font-family: 'Newsreader', serif;"
-  >
-    Un approccio essenziale al ritratto.
-  </h2>
+      <h2
+        class="font-serif text-4xl font-light leading-tight text-slate-950"
+        style="font-family: 'Newsreader', serif;"
+      >
+        Un approccio essenziale al ritratto.
+      </h2>
 
-</div>
+    </div>
 
-<div class="space-y-6 text-lg leading-relaxed text-slate-600">
+    <div class="space-y-6 text-lg leading-relaxed text-slate-600">
 
-  <p>
-    Da oltre 45 anni lavoro sul ritratto come forma di presenza,
-    attenzione e misura.
-  </p>
+      <p>
+        Da oltre 45 anni lavoro sul ritratto come forma di presenza,
+        attenzione e misura.
+      </p>
 
-  <p>
-    Il mio lavoro nasce dalla fotografia editoriale e fine art,
-    con un approccio costruito sulla luce naturale,
-    sul tempo e sulla naturalezza dell’immagine.
-  </p>
+      <p>
+        Il mio lavoro nasce dalla fotografia editoriale e fine art,
+        con un approccio costruito sulla luce naturale,
+        sul tempo e sulla naturalezza dell’immagine.
+      </p>
 
-  <p>
-    L’obiettivo non è creare fotografie artificiali o aggressive,
-    ma immagini professionali credibili, sobrie e durature,
-    sviluppate con attenzione alla persona,
-    al contesto e all’utilizzo finale delle immagini.
-  </p>
+      <p>
+        L’obiettivo non è creare fotografie artificiali o aggressive,
+        ma immagini professionali credibili, sobrie e durature,
+        sviluppate con attenzione alla persona,
+        al contesto e all’utilizzo finale delle immagini.
+      </p>
 
-</div>
+    </div>
 
   </section>
 
-   <!-- ATELIER -->
-   <section>
+
+  <!-- ATELIER -->
+  <section>
 
     <p class="mb-3 text-sm uppercase tracking-[0.25em] text-slate-500">
-    Atelier
-  </p>
+      Atelier
+    </p>
 
-  <h2
-    class="font-serif text-4xl font-light leading-tight text-slate-950"
-    style="font-family: 'Newsreader', serif;"
-  >
-    Sessioni private ed edizioni d’autore
-  </h2>
-<div class="mt-4 md:mt-2 grid gap-16 grid-cols-1 lg:grid-cols-2 max-w-5xl mx-auto">
-        
-        <div class="flex flex-col items-center text-center">
-          <a href="/atelier/sessioni-private/" class="block overflow-hidden">
-            <Image
-              src={ImmagineSessioni}
-              alt="Sessioni Private di Ritratto - Elio Leonardo Carchidi"
-              width={610}
-              height={410}
-              class="w-full"
-              loading="lazy"
-            />
-          </a>
-          <h2
-    class="font-serif text-4xl font-light leading-tight text-slate-950"
-    style="font-family: 'Newsreader', serif;"
-  >
-    Sessioni Private di Ritratto
-  </h2>
-          <Text
-            tag="p"
-            variant="textSmall"
-            class="mt-2 text-base max-w-lg"
-          >
-            Un'esperienza di ritratto costruita intorno alla tua presenza, con luce, tempo e attenzione dedicati.
-          </Text>
-          <Button
-            isLink={true}
-            href="/atelier/sessioni-private/"
-            size="lg"
-            variant="default"
-            class="mt-4"
-          >
-            Prenota il tuo ritratto
-          </Button>
-        </div>
+    <h2
+      class="font-serif text-4xl font-light leading-tight text-slate-950"
+      style="font-family: 'Newsreader', serif;"
+    >
+      Sessioni private ed edizioni d’autore
+    </h2>
 
-        <div class="flex flex-col items-center text-center">
-          <a href="/atelier/edizioni/" class="block overflow-hidden">
-            <Image
-              src={ImmagineEdizioni}
-              alt="Edizioni d'Autore - Elio Leonardo Carchidi"
-              width={610}
-              height={410}
-              class="w-full"
-              loading="eager"
-              fetchpriority="high"
-            />
-          </a>
-          <h2
-    class="font-serif text-4xl font-light leading-tight text-slate-950"
-    style="font-family: 'Newsreader', serif;"
-  >
-    Edizioni d'Autore
-  </h2>
-          <Text
-            tag="p"
-            variant="textSmall"
-            class="mt-2 text-base max-w-lg"
-          >
-            Ritratti e stampe già realizzati, disponibili in edizioni curate e pronte a entrare nel tuo spazio.
-          </Text>
-          <Button
-            isLink={true}
-            href="/atelier/edizioni/"
-            size="lg"
-            variant="default"
-            class="mt-4"
-          >
-            Esplora le edizioni
-          </Button>
-        </div>
-</section>
+    <div class="mt-4 grid max-w-5xl grid-cols-1 gap-16 md:mt-2 lg:grid-cols-2 mx-auto">
+
+      <!-- SESSIONI PRIVATE -->
+      <div class="flex flex-col items-center text-center">
+
+        <a href="/atelier/sessioni-private/" class="block overflow-hidden">
+          <Image
+            src={ImmagineSessioni}
+            alt="Sessioni Private di Ritratto - Elio Leonardo Carchidi"
+            width={610}
+            height={410}
+            class="w-full"
+            loading="lazy"
+          />
+        </a>
+
+        <h2
+          class="font-serif text-4xl font-light leading-tight text-slate-950"
+          style="font-family: 'Newsreader', serif;"
+        >
+          Sessioni Private di Ritratto
+        </h2>
+
+        <Text
+          tag="p"
+          variant="textSmall"
+          class="mt-2 max-w-lg text-base"
+        >
+          Un'esperienza di ritratto costruita intorno alla tua presenza,
+          con luce, tempo e attenzione dedicati.
+        </Text>
+
+        <Button
+          isLink={true}
+          href="/atelier/sessioni-private/"
+          size="lg"
+          variant="default"
+          class="mt-4"
+        >
+          Prenota il tuo ritratto
+        </Button>
+
+      </div>
+
+
+      <!-- EDIZIONI -->
+      <div class="flex flex-col items-center text-center">
+
+        <a href="/atelier/edizioni/" class="block overflow-hidden">
+          <Image
+            src={ImmagineEdizioni}
+            alt="Edizioni d'Autore - Elio Leonardo Carchidi"
+            width={610}
+            height={410}
+            class="w-full"
+            loading="eager"
+            fetchpriority="high"
+          />
+        </a>
+
+        <h2
+          class="font-serif text-4xl font-light leading-tight text-slate-950"
+          style="font-family: 'Newsreader', serif;"
+        >
+          Edizioni d'Autore
+        </h2>
+
+        <Text
+          tag="p"
+          variant="textSmall"
+          class="mt-2 max-w-lg text-base"
+        >
+          Ritratti e stampe già realizzati, disponibili in edizioni curate
+          e pronte a entrare nel tuo spazio.
+        </Text>
+
+        <Button
+          isLink={true}
+          href="/atelier/edizioni/"
+          size="lg"
+          variant="default"
+          class="mt-4"
+        >
+          Esplora le edizioni
+        </Button>
+
+      </div>
+
+    </div>
+
+  </section>
+
 
   <!-- CTA -->
   <section class="mt-32 rounded-[2rem] bg-slate-950 px-10 py-20 text-center text-white">
@@ -286,11 +374,11 @@ import Button from "@/components/fundations/elements/Button.astro";
     </p>
 
     <h2
-  class="mx-auto max-w-3xl font-serif text-4xl font-medium leading-tight tracking-tight text-neutral-50 md:text-5xl"
-  style="font-family: 'Newsreader', serif;"
->
-  Prenota una sessione fotografica professionale.
-</h2>
+      class="mx-auto max-w-3xl font-serif text-4xl font-medium leading-tight tracking-tight text-neutral-50 md:text-5xl"
+      style="font-family: 'Newsreader', serif;"
+    >
+      Prenota una sessione fotografica professionale.
+    </h2>
 
     <p class="mx-auto mt-6 max-w-2xl text-lg leading-relaxed text-slate-300">
       Disponibile per ritratti individuali, team aziendali,
@@ -316,9 +404,5 @@ import Button from "@/components/fundations/elements/Button.astro";
     </div>
 
   </section>
- 
-        
-
-      </div>
 
 </LayoutLandingFull>

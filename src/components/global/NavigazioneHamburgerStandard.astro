@@ -1,22 +1,15 @@
 ---
 const currentPath = Astro.url.pathname;
 
-/*
 const menuLinks = [
-  { href: "/", label: "Home" },
   { href: "/portfolio/", label: "Portfolio" },
   { href: "/atelier/", label: "Atelier" },
   { href: "/chi-sono/", label: "Chi sono" },
   { href: "/contatti/", label: "Contatti" },
-  { href: "/blog/", label: "Journal" },
-];
-*/
-
-const menuLinksMinimal = [
-  { href: "/portfolio/", label: "Portfolio" },
-  { href: "/atelier/", label: "Atelier" },
-  { href: "/chi-sono/", label: "Chi sono" },
-  { href: "/contatti/", label: "Contatti" },
+  {
+    href: "/formazione-fotografica/",
+    label: "Formazione",
+  },
 ];
 
 import Text from "@/components/fundations/elements/Text.astro";
@@ -24,12 +17,17 @@ import Text from "@/components/fundations/elements/Text.astro";
 
 <nav class="w-full border-b border-neutral-200/60 bg-[#f2f0e8]/90 backdrop-blur-md">
   <div class="flex items-center justify-between px-6 py-7 md:px-12 lg:px-20 xl:px-24">
+
     <!-- Logo -->
-    <a href="/" class="flex items-center gap-2">
-      <span class="site-title text-[1.12rem] font-black uppercase tracking-[-0.04em] text-black">
-        Elio Leonardo Carchidi
-      </span>
-    </a>
+    <a href="/" class="flex flex-col leading-none">
+  <span class="site-title text-[1.12rem] font-black uppercase tracking-[-0.04em] text-black">
+    Elio Leonardo Carchidi
+  </span>
+
+  <span class="mt-1 text-[11px] leading-none tracking-[0.06em] text-neutral-500">
+    Fotografo · Roma · dal 1980
+  </span>
+</a>
 
     <!-- Hamburger -->
     <button
@@ -40,6 +38,7 @@ import Text from "@/components/fundations/elements/Text.astro";
       type="button"
     >
       <span class="sr-only">Apri menu</span>
+
       <div class="flex flex-col gap-1">
         <span class="block h-0.5 w-5 bg-black"></span>
         <span class="block h-0.5 w-5 bg-black"></span>
@@ -49,7 +48,8 @@ import Text from "@/components/fundations/elements/Text.astro";
 
     <!-- Menu desktop -->
     <div class="hidden items-center gap-8 text-[0.82rem] uppercase tracking-[0.08em] lg:flex">
-      {menuLinksMinimal.map((link) => (
+
+      {menuLinks.map((link) => (
         <Text
           tag="a"
           href={link.href}
@@ -63,16 +63,18 @@ import Text from "@/components/fundations/elements/Text.astro";
           {link.label}
         </Text>
       ))}
+
     </div>
   </div>
 
   <!-- Menu mobile -->
   <div
-  id="mobileMenu"
-  class="hidden border-t border-neutral-200/60 bg-[#f2f0e8] lg:hidden"
->
+    id="mobileMenu"
+    class="hidden border-t border-neutral-200/60 bg-[#f2f0e8] lg:hidden"
+  >
     <div class="flex flex-col gap-4 px-6 py-5 text-[0.9rem] uppercase tracking-[0.08em] md:px-12">
-      {menuLinksMinimal.map((link) => (
+
+      {menuLinks.map((link) => (
         <Text
           tag="a"
           href={link.href}
@@ -86,6 +88,7 @@ import Text from "@/components/fundations/elements/Text.astro";
           {link.label}
         </Text>
       ))}
+
     </div>
   </div>
 </nav>

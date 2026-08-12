@@ -42,10 +42,13 @@ export default defineConfig({
   ],
 
   redirects: {
+
   '/le-fotografie-glamour-di-liliane/': '/foto-erotiche/',
   '/conferma-invio-email-liliane-glamour/': '/foto-erotiche/',
   '/foto-erotiche/': '/',
   '/team/elio-carchidi/': '/chi-sono/',
-  '/formazione-fotografica/fotografia-in-bianco-e-nero-pdf-con-download-immediato-2020/': 'https://payhip.com/b/mHvtT'
+  '/formazione-fotografica/fotografia-in-bianco-e-nero-pdf-con-download-immediato-2020/': 'https://payhip.com/b/mHvtT',
+  '/formazione-fotografica/corsi-di-fotografia-roma-gratis': '/formazione-fotografica/',
+  
 }
 });

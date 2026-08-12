@@ -1,5 +1,5 @@
 ---
-layout: ../../layouts/LayoutCorso.astro
+layout: ../../layouts/LayoutCorsoHome.astro
 title: "L’errore da non fare se vuoi imparare a fotografare"
 description: "Concentrarsi sull'attrezzatura invece che sulla formazione è l'errore più comune dei fotografi principianti. Scopri perché la 'patente' viene prima della Ferrari."
 image: "formazione/2022/06/imparare-a-fotografare-errori-comuni.jpeg"
