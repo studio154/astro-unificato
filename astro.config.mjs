@@ -49,6 +49,7 @@ export default defineConfig({
   '/team/elio-carchidi/': '/chi-sono/',
   '/formazione-fotografica/fotografia-in-bianco-e-nero-pdf-con-download-immediato-2020/': 'https://payhip.com/b/mHvtT',
   '/formazione-fotografica/corsi-di-fotografia-roma-gratis': '/formazione-fotografica/',
-  
+  '/formazione-fotografica/la-fotografia-per-i-bambini/': '/il-manuale-della-fotografia-per-i-bambini/',
+  '/fotografia-professionale/': '/in-cosa-si-distingue-un-fotoamatore-o-fotografo-dilettante-da-un-fotografo-professionista/',
 }
 });
