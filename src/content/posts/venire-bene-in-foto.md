@@ -6,13 +6,12 @@ description: "Come venire bene in foto con piccoli accorgimenti di posa, luce e 
 image:
   url: "https://media.eliocarchidi.com/uploads/2018/03/venire-bene-in-foto-8-consigli.jpg"
   alt: "Venire bene in foto: consigli pratici per essere più fotogenici"
-tags: ["fotogenia","fotogenica","fotogenico","servizi fotografici"]
+tags: ["fotogenia", "fotogenica", "fotogenico", "servizi fotografici"]
 ---
-
 
 ![Venire bene in foto: suggerimenti e consigli](https://media.eliocarchidi.com/uploads/2018/03/venire-bene-in-foto-8-consigli.jpg)
 
-*Come migliorare la propria fotogenia in poche mosse e apparire più naturali davanti alla fotocamera.*
+_Come migliorare la propria fotogenia in poche mosse e apparire più naturali davanti alla fotocamera._
 
 Esiste un modo semplice per venire bene in foto? Forse no. Oppure sì, almeno in parte.
 
@@ -56,7 +55,7 @@ Non sempre è lo stesso per tutti, anche se spesso si dice che il lato sinistro 
 
 ![Come posare bene nelle foto](https://media.eliocarchidi.com/uploads/2018/03/venire-bene-in-foto-come-posare2.jpg)
 
-*Prova entrambi i profili e osserva quale ti rappresenta meglio.*
+_Prova entrambi i profili e osserva quale ti rappresenta meglio._
 
 Davanti allo specchio, o con qualche scatto di prova, prova a ruotare leggermente il viso a destra e a sinistra. Non cercare il lato “perfetto”: cerca quello in cui ti riconosci di più.
 
@@ -96,7 +95,7 @@ Quando la testa si ritrae verso il corpo, il viso perde definizione e può compa
 
 ![La posa migliore per venire bene in foto](https://media.eliocarchidi.com/uploads/2018/03/venire-bene-in-foto-come-posare-sul-set-fotografico.jpg)
 
-*Testa alta, collo lungo, mento leggermente in avanti.*
+_Testa alta, collo lungo, mento leggermente in avanti._
 
 Non devi piegare la testa all’indietro. Devi semplicemente allungarti, separare il mento dal collo e portare il viso verso la fotocamera.
 
@@ -126,9 +125,9 @@ Se non vuoi risultare sproporzionata o troppo in evidenza, evita la primissima f
 
 ## 9. Capire cosa stai cercando: l'Atelier o lo Studio
 
-I consigli tecnici aiutano ad evitare gli errori più grossolani, ma la verità della fotografia non si risolve con una checklist. 
+I consigli tecnici aiutano ad evitare gli errori più grossolani, ma la verità della fotografia non si risolve con una checklist.
 
-La fotogenia intesa come trucco o effetto speciale svanisce un attimo dopo lo scatto. Se stai cercando un'immagine costruita per sembrare artificialmente la migliore versione possibile del reame, esistono infinite scorciatoie digitali e filtri automatici. 
+La fotogenia intesa come trucco o effetto speciale svanisce un attimo dopo lo scatto. Se stai cercando un'immagine costruita per sembrare artificialmente la migliore versione possibile del reame, esistono infinite scorciatoie digitali e filtri automatici.
 
 Nel mio percorso faccio l'esatto opposto: cerco l'autenticità. Un ritratto solido non nasce da un espediente visivo, ma dal valore del tempo che si decide di dedicare all'ascolto e alla sottrazione del superfluo.
 
@@ -138,40 +137,54 @@ Se invece le tue necessità correnti richiedono un servizio fotografico professi
 
 ![Fotografie artistiche con cornice](https://media.eliocarchidi.com/uploads/2017/08/fotografie-artistiche-su-cornici-900.jpg)
 
-*Un vero ritratto non serve a riempire uno spazio oggi. Conserva il suo valore nel tempo.*
+_Un vero ritratto non serve a riempire uno spazio oggi. Conserva il suo valore nel tempo._
 
 ## Il limite dei consigli: la scelta del fotografo
 
-Scegliere da chi farsi fotografare significa scegliere quale linguaggio si vuole parlare. 
+Scegliere da chi farsi fotografare significa scegliere quale linguaggio si vuole parlare.
 
-Se ti trovi davanti a un professionista che applica schemi standard, anche la migliore postura servirà a poco: la luce potrebbe non valorizzarti, l’inquadratura potrebbe deformarti e l’ansia da obiettivo rimarrebbe intatta. 
+Se ti trovi davanti a un professionista che applica schemi standard, anche la migliore postura servirà a poco: la luce potrebbe non valorizzarti, l’inquadratura potrebbe deformarti e l’ansia da obiettivo rimarrebbe intatta.
 
 Il mio scopo non è trasformare una persona in qualcun altro o venderle un'illusione. Il punto è creare le condizioni ideali — di luce, tempo e dialogo — perché possa riconoscersi in un’immagine essenziale, pulita e soprattutto vera. La buona posa non si nota nell'immagine finale; si percepisce solo una presenza più chiara e nitida.
 
-<div class="my-10 rounded-2xl border border-neutral-200 bg-neutral-50 p-6">
-  <p class="text-sm uppercase tracking-wide text-neutral-500 mb-2">Una distinzione di valore</p>
-  <p class="text-lg leading-relaxed">
+---
+
+<div class="my-10 rounded-md border border-neutral-100 bg-gray-800 p-6">
+  <p class="text-sm uppercase tracking-wide mb-2 border-b-1 border-gray-600 text-[#ff4400]" >Una distinzione di valore</p>
+  <p class="text-lg leading-relaxed text-white font-light">
     Non partire mai dalla ricerca del pacchetto più economico. Scegli in base al tempo che vuoi dedicare alla tua immagine e al valore che le attribuisci.
   </p>
-  <a href="/atelier/sessioni-private/" class="inline-block mt-4 font-semibold underline">
-    Scopri il metodo delle Sessioni Private in Atelier
+  <button class="bg-[#ff4400] hover:bg-[#ff4400]/95 py-2 px-4 rounded mb-4">
+  <a href="/atelier/sessioni-private/" class="no-underline uppercase text-sm text-white">
+    &rarr; Scopri le Sessioni Private in Atelier
   </a>
+</button>
 </div>
+
+---
 
 ## Come orientarsi adesso
 
 Puoi continuare a esercitarti da sola o da solo, usare questi accorgimenti davanti allo specchio, studiare i tuoi profili e capire come rispondi alla luce della fotocamera. È un ottimo modo per iniziare a conoscersi visivamente.
 
-<div class="my-10 rounded-2xl border border-neutral-200 bg-neutral-50 p-6">
-  <p class="text-sm uppercase tracking-wide text-neutral-500 mb-2">Servizi Fotografici Professionali</p>
-  <p class="text-lg leading-relaxed">
-    Se stai cercando un servizio fotografico professionale (per la tua attività, per il lavoro o per scopi personali) gestito con tempi rapidi, soluzioni concrete e tariffe accessibili, la risposta ideale è la mia struttura commerciale. Lì non troverai il percorso di ricerca dell'Atelier, ma un team pronto e pacchetti chiari adatti a ogni esigenza.
+---
+
+<div class="my-10 rounded-md border border-neutral-200 bg-gray-800 p-6">
+  <p class="text-sm uppercase tracking-wide mb-2 border-b-1 border-gray-600" style="color:#ff4400;">Servizi Fotografici Professionali</p>
+  <p class="text-lg leading-relaxed text-white font-light">
+    Se stai cercando un <span class="font-bold" style="color:#ff4400;">servizio fotografico professionale</span> (per la tua attività, per il lavoro o per scopi personali) gestito con tempi rapidi, soluzioni concrete e tariffe accessibili, la risposta ideale è la mia struttura commerciale. Lì non troverai il percorso di ricerca dell'Atelier, ma un team pronto e pacchetti chiari adatti a ogni esigenza.
   </p>
-  <a href="https://studio154.it" class="inline-block mt-4 font-semibold underline" target="_blank">
-    Scopri i servizi fotografici di Studio154
+  <button class="bg-white hover:bg-gray-100 py-2 px-4 rounded mb-4">
+  <a href="https://studio154.it/servizi-fotografici-a-roma/" class="no-underline uppercase text-sm" target="_blank">
+    &rarr; Scopri i servizi fotografici di Studio154
   </a>
+</button>
+ 
 </div>
-  <p class="text-sm uppercase tracking-wide text-neutral-500 mb-2">Servizi Professionali e Noleggi</p>
+
+---
+
+  <p class="text-sm uppercase tracking-wide text-black mb-2">Servizi Professionali e Noleggi</p>
   <p class="text-lg leading-relaxed">
     Se le tue necessità sono orientate a servizi commerciali, e-commerce o aziendali con budget e tempi definiti, la risposta ideale è la mia struttura commerciale. Lì non troverai la filosofia dell'Atelier, ma un team e soluzioni pratiche per esigenze concrete.
   </p>
@@ -182,17 +195,27 @@ Puoi continuare a esercitarti da sola o da solo, usare questi accorgimenti davan
 
 Se invece vuoi approfondire come prepararti a livello logistico per un qualunque set fotografico, puoi consultare la mia guida generale:
 
-👉 [Come prepararsi al servizio fotografico](/servizio-fotografico/)
+📑 [Come prepararsi al servizio fotografico](/servizio-fotografico/)
 
 Ho approfondito questo tema nell'articolo:
 
-👉 [Il ritratto: immagine, identità e percezione di sé](/ritratto-immagine-identita-percezione-di-se/)
+📑 [Il ritratto: immagine, identità e percezione di sé](/ritratto-immagine-identita-percezione-di-se/)
 
 ---
 
-Se senti che è arrivato il momento di scoprire come la tua presenza può emergere attraverso una sessione di ritratto d'autore dedicata, senza la fretta dei flussi commerciali, ti invito a scoprire lo spazio privato dell'Atelier.
+<div class=" rounded-md border border-neutral-100 bg-gray-800 p-6">
+  <p class="text-sm uppercase tracking-wide mb-2 border-b-1 border-gray-600 text-[#ff4400]" >Sessioni Private di Ritratto</p>
+  <p class="text-lg leading-relaxed text-white font-light">
+    Se senti che è arrivato il momento di scoprire come la tua presenza può emergere attraverso una sessione di ritratto d'autore dedicata, senza la fretta dei flussi commerciali, ti invito a scoprire lo spazio privato dell'Atelier.
+  </p>
+  <button class="bg-[#ff4400] hover:bg-[#ff4400]/95 py-2 px-4 rounded mb-4">
+  <a href="/atelier/sessioni-private/" class="no-underline uppercase text-sm text-white">
+    &rarr; Sessioni Private di Ritratto in Atelier
+  </a>
+</button>
+</div>
 
-[Le Sessioni Private di Ritratto in Atelier](/atelier/sessioni-private/)
+---
 
 Oppure, se desideri semplicemente fare una domanda o richiedere un chiarimento preliminare:
 

@@ -6,12 +6,13 @@ description: "Come fare un selfie migliore con consigli semplici di posa, luce e
 image:
   url: "https://media.eliocarchidi.com/uploads/2020/11/Come-fare-un-selfie-perfetto-2.png"
   alt: "Come fare un selfie: 13 suggerimenti semplici che funzionano"
-tags: ["come fare selfie", "ritratti selfie", "fotogenia", "servizi fotografici"]
+tags:
+  ["come fare selfie", "ritratti selfie", "fotogenia", "servizi fotografici"]
 ---
 
 ![Come fare un selfie migliore](https://media.eliocarchidi.com/uploads/2020/11/Come-fare-un-selfie-perfetto-2.png)
 
-*I migliori suggerimenti per fare un selfie più naturale, più curato e più vicino all’immagine che vuoi dare di te.*
+_I migliori suggerimenti per fare un selfie più naturale, più curato e più vicino all’immagine che vuoi dare di te._
 
 Scattare un selfie può sembrare una cosa banale: prendi il tempo, guardi lo schermo, sorridi e scatti.
 
@@ -178,15 +179,22 @@ Cerca una finestra, una zona in ombra luminosa o una luce laterale morbida. Evit
 
 Prima di scattare, guarda tutto il fotogramma: non solo il tuo viso. Lo sfondo può rafforzare l’immagine oppure rovinarla.
 
-<div class="my-10 rounded-2xl border border-neutral-200 bg-neutral-50 p-6">
-  <p class="text-sm uppercase tracking-wide text-neutral-500 mb-2">Servizi Fotografici Professionali</p>
-  <p class="text-lg leading-relaxed">
-    Se stai cercando un servizio fotografico professionale (per il tuo lavoro, la tua attività o usi personali) gestito con soluzioni concrete, tempi rapidi e tariffe d'uso accessibili, la mia struttura commerciale è la risposta ideale. Lì troverai un team pronto e pacchetti chiari senza la complessità dell'Atelier.
+---
+
+<div class="my-10 rounded-md border border-neutral-200 bg-gray-800 p-6">
+  <p class="text-sm uppercase tracking-wide mb-2 border-b-1 border-gray-600" style="color:#ff4400;">Servizi Fotografici Professionali</p>
+  <p class="text-lg leading-relaxed text-white font-light">
+    Se stai cercando un <span class="font-bold" style="color:#ff4400;">servizio fotografico professionale</span> (per il tuo lavoro, la tua attività o usi personali) gestito con soluzioni concrete, tempi rapidi e tariffe d'uso accessibili, la mia struttura commerciale è la risposta ideale. Lì troverai un team pronto e pacchetti chiari senza la complessità dell'Atelier.
   </p>
-  <a href="https://studio154.it" class="inline-block mt-4 font-semibold underline" target="_blank">
-    Scopri i servizi fotografici di Studio154
+  <button class="bg-white hover:bg-gray-100 py-2 px-4 rounded mb-4">
+  <a href="https://studio154.it/servizi-fotografici-a-roma/" class="no-underline uppercase text-sm" target="_blank">
+    &rarr; Scopri i servizi fotografici di Studio154
   </a>
+</button>
+ 
 </div>
+
+---
 
 ## Il limite del selfie
 
@@ -206,21 +214,27 @@ Questo è esattamente il punto in cui il selfie si esaurisce e ha senso iniziare
 
 Nel mio percorso in Atelier non applico schemi industriali. Lavoro sulla sottrazione: uso il tempo necessario, una luce pensata per la tua struttura geometrica e una guida discreta per eliminare l'imbarazzo. L'obiettivo non è cambiarti, ma farti riconoscere.
 
-<div class="my-10 rounded-2xl border border-neutral-200 bg-neutral-50 p-6">
-  <p class="text-sm uppercase tracking-wide text-neutral-500 mb-2">Un percorso su misura</p>
-  <p class="text-lg leading-relaxed">
+---
+
+<div class="my-10 rounded-md border border-neutral-100 bg-gray-800 p-6">
+  <p class="text-sm uppercase tracking-wide mb-2 border-b-1 border-gray-600 text-[#ff4400]" >Un percorso su misura</p>
+  <p class="text-lg leading-relaxed text-white font-light">
     Se desideri un'immagine solida, lontana dalla fretta dei flussi commerciali e focalizzata sulla tua espressione reale, ti invito a valutare le sessioni private.
   </p>
-  <a href="/atelier/sessioni-private/" class="inline-block mt-4 font-semibold underline">
-    Scopri il metodo delle Sessioni Private in Atelier
+  <button class="bg-[#ff4400] hover:bg-[#ff4400]/95 py-2 px-4 rounded mb-4">
+  <a href="/atelier/sessioni-private/" class="no-underline uppercase text-sm text-white">
+    &rarr; Scopri il metodo delle Sessioni Private in Atelier
   </a>
+</button>
 </div>
+
+---
 
 ## Conclusione
 
 Imparare a fare un selfie migliore è utile.
 
-Ti aiuta a conoscere il tuo volto, a capire quale luce ti valorizza, a evitare deformazioni e a prendere confidenza con la tua immagine. Ma non devi diventare schiava o schiavo dello scatto perfetto da pubblicare. 
+Ti aiuta a conoscere il tuo volto, a capire quale luce ti valorizza, a evitare deformazioni e a prendere confidenza con la tua immagine. Ma non devi diventare schiava o schiavo dello scatto perfetto da pubblicare.
 
 Una buona fotografia non dovrebbe allontanarti da chi sei per compiacere uno schermo. Dovrebbe farti riconoscere meglio, nel tempo.
 
@@ -228,10 +242,20 @@ Puoi partire da questi suggerimenti. Provali, adattali, dimenticane qualcuno se 
 
 ---
 
-Se invece senti il bisogno di superare il limite dello smartphone e vuoi sperimentare come la tua identità può essere valorizzata da uno sguardo professionale e d'autore, ti aspetto in Atelier.
+<div class="my-10 rounded-md border border-neutral-100 bg-gray-800 p-6">
+  <p class="text-sm uppercase tracking-wide mb-2 border-b-1 border-gray-600 text-[#ff4400]" >Una distinzione di valore</p>
+  <p class="text-lg leading-relaxed text-white font-light">
+    Se invece senti il bisogno di superare il limite dello smartphone e vuoi sperimentare come la tua identità può essere valorizzata da uno sguardo professionale e d'autore, ti aspetto in Atelier.
+  </p>
+  <button class="bg-[#ff4400] hover:bg-[#ff4400]/95 py-2 px-4 rounded mb-4">
+  <a href="/atelier/sessioni-private/" class="no-underline uppercase text-sm text-white">
+    &rarr; Sessioni Private in Atelier
+  </a>
+</button>
+</div>
 
-[Le Sessioni Private di Ritratto in Atelier](/atelier/sessioni-private/)
+---
 
-Oppure, se desideri un primo contatto diretto o chiarimenti:
+Se desideri un primo contatto diretto o chiarimenti:
 
 [Contattami per maggiori informazioni](/contatti/)
