@@ -19,7 +19,7 @@ pageStyle: "wide"
   </div>
 
   <div style="margin: 30px 0;">
-    <a href="https://studio154.it/il-manuale-della-fotografia-per-i-bambini-gratuita/" style="background: #99cc00; color: #fff; padding: 15px 30px; text-decoration: none; font-weight: bold; border-radius: 4px; font-size: 1.1em; display: inline-block;">👉 SCARICA ORA IL MANUALE GRATIS 👈</a>
+    <a href="https://studio154.it/il-manuale-della-fotografia-per-i-bambini-guida-gratuita/" style="background: #99cc00; color: #fff; padding: 15px 30px; text-decoration: none; font-weight: bold; border-radius: 4px; font-size: 1.1em; display: inline-block;">👉 SCARICA ORA IL MANUALE GRATIS 👈</a>
   </div>
 
 </div>
