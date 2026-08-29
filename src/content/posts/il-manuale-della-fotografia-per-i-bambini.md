@@ -2,20 +2,35 @@
 title: "Il Manuale di Fotografia per Bambini"
 team: "elio-carchidi"
 pubDate: 2017-10-01
-description: "Sono passati un po' di anni da quando ho pubblicato questo articolo e la prima versione del mio \"Manuale di fotografia per bambini\", sono trascorsi e..."
+description: 'Sono passati un po'' di anni da quando ho pubblicato questo articolo e la prima versione del mio "Manuale di fotografia per bambini", sono trascorsi e...'
 image:
   url: "https://media.eliocarchidi.com/uploads/2017/10/Il-manuale-di-fotografia-per-i-bambini-1.png"
   alt: "Il Manuale di Fotografia per Bambini"
-tags: ["bambini fotografi","fotografia per bambini","guide fotografiche","imparare a fotografare","imparare fotografia","insegnare la fotografia","manuali fotografia"]
+tags:
+  [
+    "bambini fotografi",
+    "fotografia per bambini",
+    "guide fotografiche",
+    "imparare a fotografare",
+    "imparare fotografia",
+    "insegnare la fotografia",
+    "manuali fotografia",
+  ]
 ---
 
-<a href="//www.eliocarchidi.com/manuali-fotografia-ebook-fotografici/manuale-per-iniziare-a-fotografare/" rel="Scarica la guida per Insegnare la Fotografia ai Bambini"><img class="size-full wp-image-940 alignleft" style="margin: 0px 15px 0px 5px; border: 0px none; box-shadow: 0px 0px 0px #ffffff;" title="insegnare_fotografia_bambini_1" src="https://media.eliocarchidi.com/uploads/2012/06/insegnare_fotografia_bambini_1.jpg" alt="Insegnare la Fotografia ai Bambini" width="315" height="400"/></a>
+<a href="https://www.eliocarchidi.com/imparare-a-fotografare" rel="Scarica la guida per Insegnare la Fotografia ai Bambini"><img class="size-full wp-image-940 alignleft" style="margin: 0px 15px 0px 5px; border: 0px none; box-shadow: 0px 0px 0px #ffffff;" title="insegnare_fotografia_bambini_1" src="https://media.eliocarchidi.com/uploads/2012/06/insegnare_fotografia_bambini_1.jpg" alt="Insegnare la Fotografia ai Bambini" width="315" height="400"/></a>
+
+<div style="background-color: #fff3cd; border-left: 4px solid #ffc107; padding: 16px; margin: 20px 0; border-radius: 4px;">
+    <strong>Nota di aggiornamento:</strong> Questo articolo fotografa l'inizio di un percorso nato diversi anni fa (2012) e aggiornato nel 2017. Il progetto si è evoluto profondamente nel tempo, trasformandosi in risorse e guide strutturate. Se vuoi scoprire l'evoluzione completa di questo lavoro e accedere ai materiali aggiornati, visita la pagina dedicata:<br><br>
+    👉 <a href="https://www.eliocarchidi.com/imparare-a-fotografare" target="_blank">Scopri il progetto e le nuove risorse su eliocarchidi.com</a>
+</div>
 
 ## Download Immediato, GRATIS!
 
-([👉 segui questo link e scarica gratis 👈](https://studio154.it/il-manuale-della-fotografia-per-i-bambini-guida-gratuita/))
+([👉 segui questo link e scarica gratis la versione 2017 👈](https://www.eliocarchidi.com/imparare-a-fotografare)
 
 ---
+
 Sono passati un po' di anni da quando ho pubblicato questo articolo e la prima versione del mio "<strong>Manuale di fotografia per bambini</strong>", sono trascorsi esattamente 5 anni da allora. Eppure, rileggendolo lo trovo ancora utile e ben fatto, semplice ma spontaneo, mi fa ricordare quei momenti in cui, attraverso mio figlio e il suo amichetto Giulio, ho riscoperto che fotografare è una cosa naturale, che fa parte di noi e che quello che ci serve per iniziare a farlo bene sono alcune semplici e basilari conoscenze.
 
 Questo non vuol dire che tutti abbiamo "un occhio buono" o quello che si chiama talento, ma mettendosi d'impegno e partendo bene sin dall'inizio, ognuno di noi può fare fotografie migliori e magari ottenere risultati strabilianti.
@@ -57,13 +72,13 @@ Sono rimasto piacevolmente rapito dal loro entusiasmo.
 Ho guardato le foto che avevano scattato entrambi e ho notato che, anche se diverse, erano molto simili.
 
 <figure class="wp-caption">
-  <a href="https://media.eliocarchidi.com/uploads/2012/06/guida_fotografia_bambini.jpg"><img src="https://media.eliocarchidi.com/uploads/2012/06/guida_fotografia_bambini.jpg" alt="manuale di fotografia per bambini" width="550" /></a>
+  <a href="https://www.eliocarchidi.com/imparare-a-fotografare"><img src="https://media.eliocarchidi.com/uploads/2012/06/guida_fotografia_bambini.jpg" alt="manuale di fotografia per bambini" width="550" /></a>
   <figcaption>Ecco Alcune delle fotografie scattate da Valerio e da Giulio... molte cose potrebbero drasticamente migliorare!</figcaption>
 </figure>
 
 La composizione, l'inquadratura e naturalmente la luce erano quasi identiche.
 
-Dopo circa 30 anni di fotografia non potevo però  esimermi dal fare delle critiche e dal riscontrare qualche errore tecnico nelle loro immagini.
+Dopo circa 30 anni di fotografia non potevo però esimermi dal fare delle critiche e dal riscontrare qualche errore tecnico nelle loro immagini.
 
 Era inevitabile.
 
@@ -79,24 +94,19 @@ Vi invito quindi a dare un'occhiata, a leggerlo e, magari, se sarete così buoni
 Non ti nego che ci sto già lavorando seriamente e che sto approfondendo la"materia". Mi piacerebbe molto mettermi alla prova su questo.
 
 Ho già in mente di corredare la prossima pubblicazione, ovviamente dedicata ai bambini, con immagini e schemi grafici adatti a far meglio capire loro le basi essenziali della Fotografia.
-<p style="text-align: center;"><a title="Scarica la guida per Insegnare la Fotografia ai Bambini" href="https://www.eliocarchidi.com/manuale-per-iniziare-a-fotografare/"><img class="wp-image-940 aligncenter" style="border: 0px none; box-shadow: 0px 0px 0px #ffffff;" title="insegnare_fotografia_bambini_1" src="https://media.eliocarchidi.com/uploads/2012/06/insegnare_fotografia_bambini_1.jpg" alt="Insegnare la Fotografia ai Bambini" width="315" height="400"/></a></p>
+
+<p style="text-align: center;"><a title="Scarica la guida per Insegnare la Fotografia ai Bambini (versione 2012)" href="https://www.eliocarchidi.com/manuale-per-iniziare-a-fotografare/"><img class="wp-image-940 aligncenter" style="border: 0px none; box-shadow: 0px 0px 0px #ffffff;" title="insegnare_fotografia_bambini_1" src="https://media.eliocarchidi.com/uploads/2012/06/insegnare_fotografia_bambini_1.jpg" alt="Insegnare la Fotografia ai Bambini" width="315" height="400"/></a></p>
 
 ## Download Immediato, GRATIS!
 
 ([👉 segui questo link e scarica gratis 👈](https://studio154.it/il-manuale-della-fotografia-per-i-bambini-guida-gratuita/))
 
 <a title="La Guida di Fotografia per i Bambini" href="https://www.eliocarchidi.com/manuale-per-iniziare-a-fotografare/"><strong>Scarica la Guida della Fotografia per i Bambini da qui.
-È ASSOLUTAMENTE GRATIS!</strong></a>
+È ASSOLUTAMENTE GRATIS (versione 2017)!</strong></a>
 
-<a class="button" title="Manuale di Fotografia per Bambini" href="https://www.eliocarchidi.com/manuale-per-iniziare-a-fotografare/"><strong>AVVIA IL DOWNLOAD!</strong></a>
+<a class="button" title="Manuale di Fotografia per Bambini (versione 2017)" href="https://www.eliocarchidi.com/manuale-per-iniziare-a-fotografare/"><strong>AVVIA IL DOWNLOAD!</strong></a>
 
-<hr />
-
-<ul>
-
-<h5><a title="Pagina facebook di Elio Carchidi" href="//www.facebook.com/elio.leonardo.carchidi">Metti un MI PIACE sulla mia pagina Facebook! - <i class="icon ion-social-facebook"></i> </a></h5>
-</li>
-
-<hr />
-
-</ul>
+<div style="background-color: #fff3cd; border-left: 4px solid #ffc107; padding: 16px; margin: 20px 0; border-radius: 4px;">
+    <strong>L'evoluzione del progetto:</strong> Se hai letto fin qui, ricorderai le origini di questo manuale nate da una gita a Venezia. Nel tempo il lavoro è cresciuto e si è trasformato radicalmente. Per scoprire i percorsi aggiornati, le nuove guide e le risorse attuali, visita la pagina ufficiale:<br><br>
+    👉 <a href="https://www.eliocarchidi.com/imparare-a-fotografare">Scopri le risorse aggiornate su eliocarchidi.com</a>
+</div>
