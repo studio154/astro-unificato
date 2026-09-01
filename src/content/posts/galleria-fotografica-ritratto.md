@@ -2,40 +2,45 @@
 title: "Galleria Fotografica Ritratto"
 team: "elio-carchidi"
 pubDate: 2011-05-18
-description: "Da qui puoi accedere direttamente (senza dover inserire alcun dato) e GRATIS alla visione dello Slideshow (che è una sequenza di immagini a scorrimen..."
+description: "Galleria Fotografica Ritratto di Elio Carchidi: una selezione di ritratti fotografici di personaggi noti, realizzati nel corso della sua attività professionale."
 image:
-  url: "https://media.eliocarchidi.com/uploads/2011/05/galleria_fotografica_ipad.jpg"
-  alt: "Galleria Fotografica Ritratto"
-tags: ["Book Fotografici - Articoli","Fotografi Professionisti","book fotografico","bravo fotografo","fotografi","fotografi famosi","fotografi roma","fotografia","fotografo bravo","fotografo famoso","fotografo professionista","fotografo roma","migliore fotografo","personaggi famosi","portfolio fotografici","portfolio fotografico","ritratti celebrità","ritratti fotografici","ritratti vip","ritratto celebrità","ritratto fotografico","ritratto vip","servizi fotografici","servizio fotografico","studi fotografici","studio fotografico"]
+  url: "https://media.eliocarchidi.com/uploads/2026/04/A-Ritratto-Pierluigi-Collina-personaggio-famoso.jpg"
+  alt: "Ritratto fotografico di Pierluigi Collina"
+tags: ["Book Fotografici - Articoli","Fotografi Professionisti","book fotografico","fotografo professionista","fotografo roma","fotografia","ritratto fotografico","ritratti fotografici","ritratti vip","ritratto celebrità","servizi fotografici"]
 ---
 
 <div class="separatore"></div>
-Da qui puoi accedere direttamente (senza dover inserire alcun dato) e GRATIS alla visione dello Slideshow (che è una sequenza di immagini a scorrimento automatico con audio) della mia Galleria Fotografica:
 
-<strong>Scegli come vedere la Galleria Fotografica in SLIDESHOW:</strong>
+<h2>Galleria Fotografica Ritratto</h2>
 
-<a title="Galleria Fotografica PC" href="//www.eliocarchidi.com/book_fotografico_mobile.html"><strong>> Guarda ORA la Galleria!</strong> (Slideshow - Audio Video)</a>
-<a title="Galleria Fotografica IPad" href="//www.eliocarchidi.com/Book_Fotografico_IPad.html"><strong>> Hai un Ipad o un altro tablet di Apple? Clicca qui!</strong> (Per Mobili Apple)</a>
-
-<strong>Oppure guarda la Galleria Fotografica sfogliando le pagine:</strong>
-
-<a title="Galleria Fotografica PC" href="//tinyurl.com/book-fotografico/"><strong>> Sfoglia ORA le pagine della Galleria Fotografica!</strong> (Per tutti)</a>
- 
-<div style="font-size: 12px; font-family: Arial,Helvetica,sans-serif; padding: 10px; background-color: #e7f5fb;"><strong>Perchè devo scegliere tra due modalità di visione dello SLIDESHOW?</strong><br />Le Gallerie Fotografiche in <strong>SLIDESHOW</strong> sono di norma realizzate con tecnologia FLASH.
-Questa tecnologia richiede l'installazione di un plugin che è sempre installato in tutti i browser più diffusi.
-I <strong>Devices della Apple (Ipod, Ipad, Iphone)</strong>, purtroppo, non prevedono però l'installazione di questo modulo. Per poter fruire correttamente questo genere di filmato, quindi, bisogna adattarlo per essere "guardato" su queste apparecchiature.
-Per poter sopperire a questo limite tecnico ho creato 2 versioni identiche della Galleria Fotografica uno in formato STANDARD, adatto a tutti i PC e un altro adatto ai devices della APPLE.</div>
- 
+<p>
+Una selezione di <strong>ritratti fotografici di personaggi noti</strong> realizzati da Elio Carchidi nel corso della sua attività professionale.
+</p>
 <figure class="wp-caption">
-  <a href="//www.eliocarchidi.com/Book_Fotografico_IPad.html"><img src="https://media.eliocarchidi.com/uploads/2011/05/galleria_fotografica_ipad.jpg" alt="Galleria Fotografica Online Ipad" width="564" height="376" /></a>
-  <figcaption>L'interfaccia della Galleria su IPad (a sinistra), e l'interfaccia della Galleria Standard (a destra)</figcaption>
+  <a href="/galleria/immagini/vip/" title="Ritratti di Personaggi Noti">
+    <img
+      src="https://media.eliocarchidi.com/uploads/2026/04/A-Ritratto-Pierluigi-Collina-personaggio-famoso.jpg"
+      alt="Ritratto di Pierluigi Collina - Galleria Fotografica"
+      width="1200"
+      height="800"
+    />
+  </a>
+  <figcaption>
+    Ritratto di Pierluigi Collina – dalla Galleria Fotografica dei Personaggi Noti
+  </figcaption>
 </figure>
+<p>
+La galleria raccoglie ritratti di figure pubbliche e volti riconoscibili, costruiti attorno alla presenza, alla luce e a un approccio essenziale di stampo editoriale.
+</p>
 
-<strong>Scegli come vedere la Galleria Fotografica in SLIDESHOW:</strong>
+<p>
+<a title="Ritratti di Personaggi Noti" href="/galleria/immagini/vip/"><strong>→ Guarda la Galleria Fotografica</strong></a>
+</p>
 
-<a title="Galleria Fotografica PC" href="//www.eliocarchidi.com/book_fotografico_mobile.html"><strong>> Guarda ORA la Galleria!</strong> (Slideshow - Audio Video)</a>
-<a title="Galleria Fotografica IPad" href="//www.eliocarchidi.com/Book_Fotografico_IPad.html"><strong>> Hai un Ipad o un altro tablet di Apple? Clicca qui!</strong> (Per Mobili Apple)</a>
+<p>
+Nella galleria puoi vedere una selezione di ritratti di personaggi del mondo dello spettacolo, della cultura e dello sport.
+</p>
 
-<strong>Oppure guarda la Galleria Fotografica sfogliando le pagine:</strong>
-
-<a title="Galleria Fotografica PC" href="//tinyurl.com/book-fotografico/"><strong>> Sfoglia ORA le pagine della Galleria Fotografica!</strong> (Per tutti)</a>
+<p>
+<a title="Ritratti di Personaggi Noti" href="/galleria/immagini/vip/"><strong>→ Scopri i Ritratti di Personaggi Noti</strong></a>
+</p>
