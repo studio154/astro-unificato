@@ -1,19 +1,43 @@
 ---
-title: "Fotografia Professionale: Ritratto di Cristina Chiabotto"
+title: "Ritratto Fotografico di Cristina Chiabotto"
 team: "elio-carchidi"
 pubDate: 2012-05-24
-description: "→ Vai al Portfolio Fotografico Completo! Ho incontrato Cristina sul set fotografico della campagna pubblicitaria organizzata per Rocchetta. Esattamen..."
+description: "Ritratto fotografico di Cristina Chiabotto sul set della campagna pubblicitaria Rocchetta, realizzato da Elio Carchidi. Scopri il portfolio completo."
+pageStyle: "wide"
 image:
-  url: "http:https://media.eliocarchidi.com/uploads/2012/05/Chiabotto_02.jpg"
-  alt: "Fotografia Professionale: Ritratto di Cristina Chiabotto"
-tags: []
+  url: "https://media.eliocarchidi.com/uploads/2012/05/Ritratto_Fotografico_Cristina_Chiabotto.jpg"
+  alt: "Ritratto Fotografico Cristina Chiabotto - Fotografo Elio Carchidi"
+tags: ["cristina chiabotto", "fotografia pubblicitaria", "campagna rocchetta", "fotografo professionista", "ritratti celebrità"]
 ---
 
-<div class="separatore"></div>
-<strong><a title="Portfolio Fotografico di Elio Leonardo Carchidi" href="//eliocarchidi.com/Fotografo_Professionista_Roma/Fotografia_Ritratto/Ritratti_Fotografici_Celebrita.html">→ Vai al Portfolio Fotografico Completo!</a></strong>
+<div style="max-width: 800px; margin: 0 auto; text-align: center;">
 
-<a href="https://media.eliocarchidi.com/uploads/2012/05/Ritratto_Fotografico_Cristina_Chiabotto.jpg"><img class="alignnone size-full wp-image-673" title="Ritratto_Fotografico_Cristina_Chiabotto" src="https://media.eliocarchidi.com/uploads/2012/05/Ritratto_Fotografico_Cristina_Chiabotto.jpg" alt="Ritratto Fotografico Cristina Chiabotto" width="800" height="917" /></a>
+  <div class="separatore"></div>
 
-Ho incontrato Cristina sul set fotografico della campagna pubblicitaria organizzata per Rocchetta. Esattamente per l'Elisir di Rocchetta di cui lei è storica testimonial insieme ad Alex Del Piero. Questa fotografia è stata realizzata tra uno scatto e l'altro di quelli realizzati per la pubblicità di cui avevamo preso incarico.
+  <div style="margin: 2rem 0; text-align: center;">
+    <a href="/portfolio/" style="display: inline-block; font-weight: bold; text-decoration: underline;">
+      → Vai al Portfolio Fotografico Completo
+    </a>
+  </div>
 
-<strong><a title="Portfolio Fotografico di Elio Leonardo Carchidi" href="//eliocarchidi.com/Fotografo_Professionista_Roma/Fotografia_Ritratto/Ritratti_Fotografici_Celebrita.html">→ Vai al Portfolio Fotografico Completo!</a></strong>
+  <div style="margin: 2rem auto; text-align: center;">
+    <a href="/portfolio/">
+      <img class="alignnone size-full wp-image-673" title="Ritratto_Fotografico_Cristina_Chiabotto" src="https://media.eliocarchidi.com/uploads/2012/05/Ritratto_Fotografico_Cristina_Chiabotto.jpg" alt="Ritratto Fotografico Cristina Chiabotto" width="800" height="917" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
+    </a>
+  </div>
+
+  <p style="font-size: 0.95em; color: #333; margin: 1.5rem auto; text-align: left; line-height: 1.6;">
+    Ho incontrato Cristina sul set fotografico della campagna pubblicitaria organizzata per Rocchetta. Esattamente per l'Elisir di Rocchetta di cui lei è storica testimonial insieme ad Alex Del Piero. Questa fotografia è stata realizzata tra uno scatto e l'altro di quelli realizzati per la pubblicità di cui avevamo preso incarico.
+  </p>
+
+  <p style="font-size: 0.85rem; opacity: 0.8; margin: 1rem auto; text-align: center !important;">
+    Ritratto di Cristina Chiabotto sul set pubblicitario realizzato da Elio Carchidi.
+  </p>
+
+  <div style="margin: 2rem 0; text-align: center;">
+    <a href="/portfolio/" style="display: inline-block; font-weight: bold; text-decoration: underline;">
+      → Vai al Portfolio Fotografico Completo
+    </a>
+  </div>
+
+</div>

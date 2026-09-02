@@ -3,8 +3,9 @@ title: "Fotografia di Beauty"
 pubDate: 2011-05-12
 description: "Guarda la Galleria sul mio sito web con le Fotografie di Beauty(//www.eliocarchidi.com/Fotografo_Professionista_Roma/Fotografia_Beauty/Fotografia_Beauty.html) !"
 image: ""
+pageStyle: "wide"
 ---
-
+## elio
 [**Guarda la Galleria sul mio sito web con le Fotografie di Beauty**](//www.eliocarchidi.com/Fotografo_Professionista_Roma/Fotografia_Beauty/Fotografia_Beauty.html)
 
 ![Sezione Fotografia di Beauty - Fotografo di Beauty](//www.eliocarchidi.com/img/Fotografo_Beauty_Roma.jpg)

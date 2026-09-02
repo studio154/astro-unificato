@@ -3,6 +3,7 @@ title: "Richiedi un preventivo per il tuo servizio fotografico"
 pubDate: 2026-01-12
 description: "Richiedi un preventivo personalizzato per il tuo servizio fotografico. Ogni ritratto è costruito su misura, in base alla persona e al risultato desiderato."
 image: "/2026/04/backstage-fotografico-preventivo-servizio-fotografico.jpeg"
+style: "wide"
 ---
 
 ## Richiedi un preventivo
