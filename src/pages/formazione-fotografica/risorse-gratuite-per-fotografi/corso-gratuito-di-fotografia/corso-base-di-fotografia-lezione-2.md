@@ -2,7 +2,7 @@
 layout: ../../../../layouts/LayoutCorso.astro
 title: "Lezione 2: Il Triangolo dell'Esposizione"
 description: "Diaframma, Otturatore e ISO: impara a gestire le tre variabili fondamentali per ottenere l'esposizione perfetta in ogni situazione."
-image: "formazione/2018/10/triangolo-dell-esposizione-fotografica-2048.png"
+image: ""
 ---
 
 <div style="text-align:center; margin-top:5%; margin-bottom:5%; ">
@@ -17,13 +17,13 @@ image: "formazione/2018/10/triangolo-dell-esposizione-fotografica-2048.png"
 
 ## Cos'è il triangolo dell'esposizione
 
-![](https://media.eliocarchidi.com/uploads/formazione/2018/10/triangolo-dell-esposizione-fotografica-2048.png)In questa immagine uno schema, a prima vista difficile da interpretare ma infine abbastanza chiaro da decifrare, che ci illustra come funziona il triangolo dell'esposizione.
+![](https://media.eliocarchidi.com/uploads/formazione/2018/10/triangolo-dell-esposizione-fotografica-2048.png)<p class="didascalie">In questa immagine uno schema, a prima vista difficile da interpretare ma infine abbastanza chiaro da decifrare, che ci illustra come funziona il triangolo dell'esposizione.</p>
 
 La luce, come abbiamo già detto, è quella che ci permette di fare fotografie. Senza la luce non potremmo fotografare. Controllare la quantità, la qualità e la velocità della luce che dovrà essere catturata dal sensore (o dalla pellicola) è l'abilità principale che un fotografo deve avere.
 
 L'esposizione nella fotografia è tutto!
 
-Far entrare la giusta quantità di luce, [edd_is_user_logged_in] impostare il giusto tempo  di esposizione, assegnare la corretta sensibilità al sensore o alla pellicola è quello che ci consente di ottenere fotografie corrette, cioè né troppo buie o troppo illuminate ma neanche mosse.
+Far entrare la giusta quantità di luce, impostare il giusto tempo  di esposizione, assegnare la corretta sensibilità al sensore o alla pellicola è quello che ci consente di ottenere fotografie corrette, cioè né troppo buie o troppo illuminate ma neanche mosse.
 
 L'esposizione in fotografia dipende da 3 variabili principali che lavorano combinate tra di loro:
 
@@ -41,15 +41,17 @@ Il concetto non è particolarmente difficile ma spesso tendiamo un po' a confond
 
 Le 3 immagini che vedi sotto, che rappresentano la stessa scena, appaiono diverse tra loro. Cosa è cambiato?
 
-![](https://media.eliocarchidi.com/uploads/formazione/2020/03/esposizione-fotografica-triangolo-dell-esposizione.jpg)Osservando i 3 scatti sopra possiamo notare che solo quello centrale è corretto mentre il primo e l'ultimo sono rispettivamente più scuri o più chiari rispetto alla nostra naturale percezione.
+![](https://media.eliocarchidi.com/uploads/formazione/2020/03/esposizione-fotografica-triangolo-dell-esposizione.jpg)<p class="didascalie">Osservando i 3 scatti sopra possiamo notare che solo quello centrale è corretto mentre il primo e l'ultimo sono rispettivamente più scuri o più chiari rispetto alla nostra naturale percezione.</p>
 
 In pratica basta che una sola delle 3 variabili venga modificata per ottenere risultati diversi.
 
 I fattori che intervengono sulla corretta esposizione fotografica sono 3:
 
-Fattore 1. Apertura del diaframma
-Fattore 2. Velocità dell'otturatore
-Fattore 3. Sensibilità del sensore e/o della pellicola.
+**Fattore 1. Apertura del diaframma**
+
+**Fattore 2. Velocità dell'otturatore**
+
+**Fattore 3. Sensibilità del sensore e/o della pellicola.**
 
 Affinché la foto sia tecnicamente corretta questi 3 fattori devono essere in perfetto accordo.
 
@@ -65,22 +67,33 @@ Dunque tutto dipende da un'errata o corretta combinazione di queste 3 variabili;
 
 Basta che solo uno di questi valori non sia coordinato con gli altri due per ottenere uno scatto sbagliato. A questo punto è evidente l'importanza di comprendere bene questo concetto.
 
+<section class="bg-black rounded-3xl mt-14 mb-18">
+    <div class="container">
+        <div class="text-white bg-primary border rounded border-0 border-primary d-flex flex-column justify-content-between flex-lg-row p-4 p-md-5">
+            <div class="pb-2 pb-lg-1">
+                <h2 id="test" class="fw-bold mb-2 text-white">Vuoi accedere ad altri corsi e download?</h2>
+                <p class="mb-0">Segui il link sottostante per altre risorse gratuite</p>
+            </div>
+            <div class="my-2"><a class="corso-pdf-button" role="button" href="https://download.eliocarchidi.com/">Scopri i download</a></div>
+        </div>
+    </div>
+</section>
+
 ## Fattore 1: Apertura del diaframma
 
-![](https://media.eliocarchidi.com/uploads/formazione/2020/03/diaframma-fotografico-lezioni-di-fotografia-2.jpg)Nella foto il diaframma fotografico. Più è aperto più luce passa e viceversa.
+![](https://media.eliocarchidi.com/uploads/formazione/2020/03/diaframma-fotografico-lezioni-di-fotografia-2.jpg)<p class="didascalie">Nella foto il diaframma fotografico. Più è aperto più luce passa e viceversa.</p>
 
 L'apertura del diaframma influisce sulla luminosità della foto ma anche su un altro importantissimo fattore, che approfondiremo in seguito, che è la profondità di campo.
 
-![](https://media.eliocarchidi.com/uploads/formazione/2017/11/lezioni-di-fotografia-apertura-del-diaframma.jpg)I valori minimi o massimi di apertura e chiusura del diaframma variano da ottica a ottica.
+![](https://media.eliocarchidi.com/uploads/formazione/2017/11/lezioni-di-fotografia-apertura-del-diaframma.jpg)<p class="didascalie">I valori minimi o massimi di apertura e chiusura del diaframma variano da ottica a ottica.</p>
 
 Aprendo o chiudendo il diaframma entra più o meno luce nell'obiettivo. Il valore di apertura del diaframma viene controllato dalla ghiera dell'obiettivo nelle macchine fotografiche analogiche mentre in quelle moderne può essere controllato in automatico oppure manualmente da apposite ghiere posizionate sopra la macchina fotografica a fianco al mirino.
 
-![](https://media.eliocarchidi.com/uploads/formazione/2018/10/apertura-diaframma-800.jpg)Valori di apertura più grandi (22/16/11...) indicano un diaframma più chiuso e quindi meno luce in camera, valori più piccoli (2.8/5.6...) indicano un diaframma più aperto e quindi fanno entrare più luce .
+![](https://media.eliocarchidi.com/uploads/formazione/2018/10/apertura-diaframma-800.jpg)<p class="didascalie">Valori di apertura più grandi (22/16/11...) indicano un diaframma più chiuso e quindi meno luce in camera, valori più piccoli (2.8/5.6...) indicano un diaframma più aperto e quindi fanno entrare più luce.</p>
 
 ## Fattore 2: Velocità dell'otturatore
 ![test alt](https://media.eliocarchidi.com/uploads/formazione/2020/3/apertura-e-chiusura-otturatore-fotografico.jpg)
-
-L'otturatore fotografico a tendina della fotocamera. Le lamelle metalliche si aprono e si chiudono facendo passare la luce
+<p class="didascalie">L'otturatore fotografico a tendina della fotocamera. Le lamelle metalliche si aprono e si chiudono facendo passare la luce</p>
 
 La velocità dell'otturatore, in combinazione con l'apertura e chiusura del diaframma, influisce anch'esso sulla luminosità della foto. Ma non solo. Una corretta o errata impostazione della velocità dell'otturatore influisce significativamente  sull'effetto mosso che a volte si ottiene in fotografia.
 
@@ -88,7 +101,7 @@ Il tempo di apertura e chiusura dell'otturatore può essere descritto come l'int
 
 Dunque, più tempo impiegherà l'otturatore ad aprire e chiudere le lamelle che lo compongono, più luce passerà all'interno della macchina fotografica oltre ad aumentare la probabilità che la foto venga mossa; più lento sarà questo intervallo di tempo, meno luce colpirà il sensore e più basse saranno le probabilità che lo scatto presenti l'effetto mosso.
 
-![](https://media.eliocarchidi.com/uploads/formazione/2018/10/velocita-di-otturazione-800.jpg)Con tempi più lenti l'immagine è mossa, a tempi più veloci l'immagine è ferma.
+![](https://media.eliocarchidi.com/uploads/formazione/2018/10/velocita-di-otturazione-800.jpg)<p class="didascalie">Con tempi più lenti l'immagine è mossa, a tempi più veloci l'immagine è ferma.</p>
 
 La sequenza di immagini che vedi sopra descrive abbastanza questa situazione.
 
@@ -98,7 +111,7 @@ La velocità dell'otturatore impostata a 1/160" è così veloce da permettere al
 
 ## Fattore 3: Sensibilità e ISO
 
-![](https://media.eliocarchidi.com/uploads/formazione/2018/10/iso-sensibilita-sensore-pellicola.jpg)Aumentando la sensibilità del supporto utilizzato, otterremo maggiori sfumature nei toni, soprattutto nelle zone buie, ma avremo di contro una grana più visibile e un minore dettaglio delle immagini.
+![](https://media.eliocarchidi.com/uploads/formazione/2018/10/iso-sensibilita-sensore-pellicola.jpg)<p class="didascalie">Aumentando la sensibilità del supporto utilizzato, otterremo maggiori sfumature nei toni, soprattutto nelle zone buie, ma avremo di contro una grana più visibile e un minore dettaglio delle immagini.</p>
 
 La sensibilità in fotografia indica la capacità del supporto (sensore o pellicola che sia) di catturare e registrare le informazioni trasmesse dalla luce ricevute attraverso l'obiettivo e l'otturatore.
 
@@ -108,14 +121,14 @@ Più alto è il valore ISO, maggiore sarà la sensibilità del supporto e cioè 
 
 Riassumendo ecco i vantaggi e gli svantaggi di usare supporti con maggiore o minore sensibilità:
 
-SUPPORTO AD ALTA SENSIBILITÀ (basso contrasto)
+**SUPPORTO AD ALTA SENSIBILITÀ (basso contrasto)**
 
 Vantaggi:
 Maggiori quantità di informazioni catturate, tempi più rapidi di acquisizione, uso di diaframmi più chiusi, maggiore profondità di campo.
 Svantaggi:
 Immagini meno dettagliate, basso contrasto, sgranatura dell'immagine.
 
-SUPPORTI A BASSA SENSIBILITÀ (alto contrasto)
+**SUPPORTI A BASSA SENSIBILITÀ (alto contrasto)**
 
 Vantaggi:
 Dettagli più nitidi, assenza di grana, pulizia dell'immagine. Nessun rumore.
@@ -153,6 +166,7 @@ Tempi di esposizione lenti, con conseguente maggior rischio di mosso, uso di dia
   <a href="https://payhip.com/b/C3U9Q" target="_blank" rel="noopener" class="corso-pdf-button">ACQUISTA IL CORSO COMPLETO — €4,50</a>
 
 </div>
+<hr>
 
 ## Risorse utili
 
@@ -164,11 +178,11 @@ DOWNLOAD
 
 ## DOMANDE FREQUENTI
 
-Quanto è importante la luminosità di un obiettivo?
+**Quanto è importante la luminosità di un obiettivo?**
 
 L’obiettivo fotografico da utilizzare per le tue fotografie è sempre importante. Deve essere sempre di massima qualità e questo soprattutto quando si tratta di ottiche con aperture a valori molto bassi (f:1.2 o anche inferiori). Questo tipo di obiettivo è indispensabile quando lavori in condizioni di luce critiche perché oltre a farti vedere meglio la scena dentro il mirino ti permette di aumentare i tempi di esposizione della fotocamera e quindi di ottenere foto più ferme. Tutto ciò d’altra parte presenta anche alcuni svantaggi: maggiore è l’apertura del diaframma minore sarà la profondità di campo, dunque avrai foto con una messa a fuoco molto limitata nella profondità.
 
-Quanto conta la sensibilità del sensore?
+**Quanto conta la sensibilità del sensore?**
 
 Avere una macchina fotografica che permette di cambiare la sensibilità del sensore regolandola su valori molto alti può essere comodo per il fotografo visto che gli permette di realizzare fotografie in condizioni di luce veramente critiche. Altresì la conseguenza inevitabile è che l’aumento di sensibilità procurerà un forte degrado di qualità delle immagini.
 

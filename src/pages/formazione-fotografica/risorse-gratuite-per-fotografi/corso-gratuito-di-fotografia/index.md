@@ -15,16 +15,16 @@ In queste 10 lezioni ti guiderò passo dopo passo, partendo da zero, fino a fart
 
 ### Indice delle Lezioni
 
-1.  **[Lezione 1: Cos'è la Fotografia e la Reflex](/formazione-fotografica/risorse-gratuite-per-fotografi/corso-gratuito-di-fotografia/corso-base-di-fotografia-lezione-1/)**
-2.  **[Lezione 2: La Luce in Fotografia](/formazione-fotografica/risorse-gratuite-per-fotografi/corso-gratuito-di-fotografia/corso-base-di-fotografia-lezione-2/)**
+1.  **[Lezione 1: Basi di fisica della luce](/formazione-fotografica/risorse-gratuite-per-fotografi/corso-gratuito-di-fotografia/corso-base-di-fotografia-lezione-1/)**
+2.  **[Lezione 2: Il triangolo di esposizione](/formazione-fotografica/risorse-gratuite-per-fotografi/corso-gratuito-di-fotografia/corso-base-di-fotografia-lezione-2/)**
 3.  **[Lezione 3: La Sensibilità ISO](/formazione-fotografica/risorse-gratuite-per-fotografi/corso-gratuito-di-fotografia/corso-base-di-fotografia-lezione-3/)**
 4.  **[Lezione 4: Il Tempo di Otturazione](/formazione-fotografica/risorse-gratuite-per-fotografi/corso-gratuito-di-fotografia/corso-base-di-fotografia-lezione-4/)**
 5.  **[Lezione 5: Il Diaframma](/formazione-fotografica/risorse-gratuite-per-fotografi/corso-gratuito-di-fotografia/corso-base-di-fotografia-lezione-5/)**
-6.  **[Lezione 6: La Profondità di Campo](/formazione-fotografica/risorse-gratuite-per-fotografi/corso-gratuito-di-fotografia/corso-base-di-fotografia-lezione-6/)**
-7.  **[Lezione 7: Gli Obiettivi Fotografici](/formazione-fotografica/risorse-gratuite-per-fotografi/corso-gratuito-di-fotografia/corso-base-di-fotografia-lezione-7/)**
+6.  **[Lezione 6: Il flash fotografico](/formazione-fotografica/risorse-gratuite-per-fotografi/corso-gratuito-di-fotografia/corso-base-di-fotografia-lezione-6/)**
+7.  **[Lezione 7: Le ottiche fotografiche](/formazione-fotografica/risorse-gratuite-per-fotografi/corso-gratuito-di-fotografia/corso-base-di-fotografia-lezione-7/)**
 8.  **[Lezione 8: La Composizione Fotografica](/formazione-fotografica/risorse-gratuite-per-fotografi/corso-gratuito-di-fotografia/corso-base-di-fotografia-lezione-8/)**
-9.  **[Lezione 9: Leggere la Luce](/formazione-fotografica/risorse-gratuite-per-fotografi/corso-gratuito-di-fotografia/corso-base-di-fotografia-lezione-9/)**
-10. **[Lezione 10: Conclusione e Pratica](/formazione-fotografica/risorse-gratuite-per-fotografi/corso-gratuito-di-fotografia/corso-base-di-fotografia-lezione-10/)**
+9.  **[Lezione 9: Scegliere la fotocamera giusta per te](/formazione-fotografica/risorse-gratuite-per-fotografi/corso-gratuito-di-fotografia/corso-base-di-fotografia-lezione-9/)**
+10. **[Lezione 10: Crea un archivio di contenuti formativi](/formazione-fotografica/risorse-gratuite-per-fotografi/corso-gratuito-di-fotografia/corso-base-di-fotografia-lezione-10/)**
 
 ---
 
