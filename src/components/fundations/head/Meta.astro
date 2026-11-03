@@ -4,6 +4,7 @@ import { AstroSeo } from "@astrolib/seo";
 const {
   title,
   description,
+  canonical,
   image,
   ogType = "website",
 } = Astro.props;
@@ -12,7 +13,19 @@ const defaultTitle = "Elio Leonardo Carchidi | Fotografo di Ritratto a Roma";
 const defaultDesc =
   "Da oltre 40 anni realizzo ritratti fotografici con luce naturale a Roma.";
 
-const canonicalUrl = new URL(Astro.url.pathname, Astro.site).href;
+const normalizeCanonical = (value) => {
+  const url = new URL(value, Astro.site);
+
+  if (url.origin === Astro.site.origin && url.pathname !== "/") {
+    url.pathname = url.pathname.replace(/\/+$/, "");
+  }
+
+  return url.href;
+};
+
+const canonicalUrl = normalizeCanonical(
+  canonical || Astro.url.pathname
+);
 
 const ogImage =
   image?.url ||

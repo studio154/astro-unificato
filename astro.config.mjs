@@ -6,7 +6,7 @@ import vercel from "@astrojs/vercel";
 export default defineConfig({
   site: "https://www.eliocarchidi.com",
   output: "static",
-  trailingSlash: "ignore",
+  trailingSlash: "never",
 
   adapter: vercel({
     webAnalytics: {
