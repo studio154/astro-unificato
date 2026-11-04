@@ -8,6 +8,11 @@
       "permanent": true
     },
     {
+      "source": "/ritratto-fotografico-roma",
+      "destination": "/ritratti-fotografici-personaggi-famosi",
+      "permanent": true
+    },
+    {
       "source": "/come-fare-belle-foto-",
       "destination": "/come-fare-belle-foto",
       "permanent": true

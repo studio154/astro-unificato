@@ -233,6 +233,6 @@ Molto prima della fotografia.
 ### Potrebbero interessarti
 
 * [Sessioni Private di Ritratto](/atelier/sessioni-private/)
-* [Ritratto Fotografico a Roma](/ritratto-fotografico-roma/)
+* [Ritratto Fotografico a Roma](/ritratti-fotografici-personaggi-famosi)
 * [Portfolio](/portfolio/)
 * [Studio154 — Produzioni ed eventi aziendali](https://www.studio154.it/)

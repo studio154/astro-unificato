@@ -3,7 +3,7 @@ title: "Ritratto Fotografico a Roma"
 pubDate: 2026-05-28
 description: "Ritratti fotografici professionali a Roma realizzati da Elio Leonardo Carchidi. Sessioni personalizzate per professionisti, artisti, aziende e progetti editoriali."
 image: "/2026/04/A-Ritratto-Pierluigi-Collina-personaggio-famoso.jpg"
-canonical: "https://www.eliocarchidi.com/ritratto-fotografico"
+canonical: "https://www.eliocarchidi.com/ritratti-fotografici-personaggi-famosi"
 pageStyle: "wide"
 ---
 
