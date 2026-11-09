@@ -17,4 +17,4 @@ Credo che la vita sia più colorata in bianco e nero ed è per questo che ho sce
 
 Benvenuti a casa mia, mettetevi comodi!
 
-<a title="Il Blog del Fotografo" href="/blog-fotografico-elio-leonardo-carchidi/">Continua sul Blog →</a>
+<a title="Il Blog del Fotografo" href="/blog-fotografico-elio-leonardo-carchidi">Continua sul Blog →</a>

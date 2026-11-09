@@ -155,7 +155,7 @@ Il mio scopo non è trasformare una persona in qualcun altro o venderle un'illus
     Non partire mai dalla ricerca del pacchetto più economico. Scegli in base al tempo che vuoi dedicare alla tua immagine e al valore che le attribuisci.
   </p>
   <button class="bg-[#ff4400] hover:bg-[#ff4400]/95 py-2 px-4 rounded mb-4">
-  <a href="/atelier/sessioni-private/" class="no-underline uppercase text-sm text-white">
+  <a href="/atelier/sessioni-private" class="no-underline uppercase text-sm text-white">
     &rarr; Scopri le Sessioni Private in Atelier
   </a>
 </button>
@@ -209,7 +209,7 @@ Ho approfondito questo tema nell'articolo:
     Se senti che è arrivato il momento di scoprire come la tua presenza può emergere attraverso una sessione di ritratto d'autore dedicata, senza la fretta dei flussi commerciali, ti invito a scoprire lo spazio privato dell'Atelier.
   </p>
   <button class="bg-[#ff4400] hover:bg-[#ff4400]/95 py-2 px-4 rounded mb-4">
-  <a href="/atelier/sessioni-private/" class="no-underline uppercase text-sm text-white">
+  <a href="/atelier/sessioni-private" class="no-underline uppercase text-sm text-white">
     &rarr; Sessioni Private di Ritratto in Atelier
   </a>
 </button>

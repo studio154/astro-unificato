@@ -17,7 +17,7 @@ tags: ["Book Fotografici - Articoli","Fotografi Professionisti","book fotografic
 Una selezione di <strong>ritratti fotografici di personaggi noti</strong> realizzati da Elio Carchidi nel corso della sua attività professionale.
 </p>
 <figure class="wp-caption">
-  <a href="/galleria/immagini/vip/" title="Ritratti di Personaggi Noti">
+  <a href="/galleria/immagini/vip" title="Ritratti di Personaggi Noti">
     <img
       src="https://media.eliocarchidi.com/uploads/2026/04/A-Ritratto-Pierluigi-Collina-personaggio-famoso.jpg"
       alt="Ritratto di Pierluigi Collina - Galleria Fotografica"
@@ -34,7 +34,7 @@ La galleria raccoglie ritratti di figure pubbliche e volti riconoscibili, costru
 </p>
 
 <p>
-<a title="Ritratti di Personaggi Noti" href="/galleria/immagini/vip/"><strong>→ Guarda la Galleria Fotografica</strong></a>
+<a title="Ritratti di Personaggi Noti" href="/galleria/immagini/vip"><strong>→ Guarda la Galleria Fotografica</strong></a>
 </p>
 
 <p>
@@ -42,5 +42,5 @@ Nella galleria puoi vedere una selezione di ritratti di personaggi del mondo del
 </p>
 
 <p>
-<a title="Ritratti di Personaggi Noti" href="/galleria/immagini/vip/"><strong>→ Scopri i Ritratti di Personaggi Noti</strong></a>
+<a title="Ritratti di Personaggi Noti" href="/galleria/immagini/vip"><strong>→ Scopri i Ritratti di Personaggi Noti</strong></a>
 </p>

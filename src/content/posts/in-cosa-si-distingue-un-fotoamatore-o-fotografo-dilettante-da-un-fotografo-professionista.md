@@ -154,7 +154,7 @@ Se la fotografia è la tua passione e vuoi capire meglio come funziona una macch
 </p>
 
 <p class="mb-0">
-<a href="/formazione-fotografica/" class="inline-block rounded-lg bg-amber-600 px-5 py-3 font-semibold text-white no-underline transition hover:opacity-90">
+<a href="/formazione-fotografica" class="inline-block rounded-lg bg-amber-600 px-5 py-3 font-semibold text-white no-underline transition hover:opacity-90">
 Scopri Formazione Fotografica →
 </a>
 </p>

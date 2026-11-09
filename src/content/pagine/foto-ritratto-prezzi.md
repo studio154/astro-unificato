@@ -17,7 +17,7 @@ Ogni sessione viene costruita su misura — senza pacchetti rigidi, senza automa
 </p>
 
 <p style="text-align:center;">
-  <a href="/contatti/" class="cta-editoriale">
+  <a href="/contatti" class="cta-editoriale">
     Richiedi informazioni →
   </a>
 </p>
@@ -107,7 +107,7 @@ Per chi desidera un'immagine di alto profilo per comunicazione, brand personale,
 ---
 
 <p style="text-align:center;">
-  <a href="/atelier/sessioni-private/" class="cta-editoriale">
+  <a href="/atelier/sessioni-private" class="cta-editoriale">
     Vedi tutte le sessioni →
   </a>
 </p>
@@ -222,7 +222,7 @@ Ecco perché ogni ritratto richiede tempo. E perché ricevo al massimo tre perso
 
 <div class="text-center">
 
-<a href="/contatti/" class="cta-editoriale">
+<a href="/contatti" class="cta-editoriale">
 Richiedi informazioni →
 </a>
 

@@ -214,7 +214,7 @@ Se stai organizzando un matrimonio, una celebrazione privata o un evento special
 
 <div class="text-center">
 
-<a href="/contatti/" class="cta-editoriale">
+<a href="/contatti" class="cta-editoriale">
 Parliamone →
 </a>
 

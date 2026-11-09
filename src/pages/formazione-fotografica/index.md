@@ -65,7 +65,7 @@ L'obiettivo è comprendere **perché una fotografia funziona**, come controllare
 
 **10 lezioni online · gratuite**
 
-<div class="text-center mt-6"><a href="/formazione-fotografica/risorse-gratuite-per-fotografi/corso-gratuito-di-fotografia/" class="inline-block px-8 py-3 text-sm font-semibold text-white bg-black rounded-full hover:scale-105 hover:bg-gray-800 transition-all duration-200">INIZIA IL CORSO</a></div>
+<div class="text-center mt-6"><a href="/formazione-fotografica/risorse-gratuite-per-fotografi/corso-gratuito-di-fotografia" class="inline-block px-8 py-3 text-sm font-semibold text-white bg-black rounded-full hover:scale-105 hover:bg-gray-800 transition-all duration-200">INIZIA IL CORSO</a></div>
 
 ---
 
@@ -366,7 +366,7 @@ Esperienza pratica, studio della luce e fotografia sul campo.
 
 Se vuoi parlarne, puoi contattarmi senza impegno.
 
-<div class="text-center mt-8 mb-16"><a href="/contatti/" class="inline-block px-8 py-3 text-sm font-semibold text-white bg-black rounded-full hover:scale-105 hover:bg-gray-800 transition-all duration-200">CONTATTAMI</a></div>
+<div class="text-center mt-8 mb-16"><a href="/contatti" class="inline-block px-8 py-3 text-sm font-semibold text-white bg-black rounded-full hover:scale-105 hover:bg-gray-800 transition-all duration-200">CONTATTAMI</a></div>
 
 ---
 

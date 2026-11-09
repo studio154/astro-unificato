@@ -222,7 +222,7 @@ Nel mio percorso in Atelier non applico schemi industriali. Lavoro sulla sottraz
     Se desideri un'immagine solida, lontana dalla fretta dei flussi commerciali e focalizzata sulla tua espressione reale, ti invito a valutare le sessioni private.
   </p>
   <button class="bg-[#ff4400] hover:bg-[#ff4400]/95 py-2 px-4 rounded mb-4">
-  <a href="/atelier/sessioni-private/" class="no-underline uppercase text-sm text-white">
+  <a href="/atelier/sessioni-private" class="no-underline uppercase text-sm text-white">
     &rarr; Scopri il metodo delle Sessioni Private in Atelier
   </a>
 </button>
@@ -248,7 +248,7 @@ Puoi partire da questi suggerimenti. Provali, adattali, dimenticane qualcuno se 
     Se invece senti il bisogno di superare il limite dello smartphone e vuoi sperimentare come la tua identità può essere valorizzata da uno sguardo professionale e d'autore, ti aspetto in Atelier.
   </p>
   <button class="bg-[#ff4400] hover:bg-[#ff4400]/95 py-2 px-4 rounded mb-4">
-  <a href="/atelier/sessioni-private/" class="no-underline uppercase text-sm text-white">
+  <a href="/atelier/sessioni-private" class="no-underline uppercase text-sm text-white">
     &rarr; Sessioni Private in Atelier
   </a>
 </button>

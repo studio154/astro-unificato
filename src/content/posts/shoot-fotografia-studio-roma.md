@@ -81,11 +81,11 @@ Capire come nasce uno shoot fotografico significa anche imparare a fotografare: 
 </p>
 
 <p>
-Se sei all'inizio del tuo percorso o vuoi consolidare le tue conoscenze, puoi approfondire questi aspetti attraverso il percorso di <a href="/formazione-fotografica/"><strong>Formazione Fotografica</strong></a>, con lezioni dedicate alle basi della fotografia e alla comprensione delle tecniche che stanno dietro a una buona immagine.
+Se sei all'inizio del tuo percorso o vuoi consolidare le tue conoscenze, puoi approfondire questi aspetti attraverso il percorso di <a href="/formazione-fotografica"><strong>Formazione Fotografica</strong></a>, con lezioni dedicate alle basi della fotografia e alla comprensione delle tecniche che stanno dietro a una buona immagine.
 </p>
 
 <p class="mb-0">
-<a href="/formazione-fotografica/"><strong>Scopri Formazione Fotografica →</strong></a>
+<a href="/formazione-fotografica"><strong>Scopri Formazione Fotografica →</strong></a>
 </p>
 
 </div>

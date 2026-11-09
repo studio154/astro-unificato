@@ -102,6 +102,6 @@ tags:
 <!-- INIZIO BOX FORUM VERDE (ex Genesis Block) -->
 <div style="text-align: center; background-color: #22d25f; color: #ffffff; padding: 25px 20px; border-radius: 8px; margin: 30px 0;">
   <p style="font-size: 1.3em; margin-top: 0;"><strong>Se hai delle domande da fare...</strong></p>
-  <p> <strong><a href="/contatti/" style="color: #ffffff; text-decoration: underline;">Contattami</a></strong> per ricevere le <strong>risposte alle tue domande</strong> e sciogliere ogni dubbio sui temi che riguardano la fotografia.<br /><br>Lo <a href="https://studio154.it" style="color: #ffffff; text-decoration: underline;"><strong>Studio Fotografico STUDIO154</strong></a> è la sosta obbligata per chi ama la fotografia.</p>
+  <p> <strong><a href="/contatti" style="color: #ffffff; text-decoration: underline;">Contattami</a></strong> per ricevere le <strong>risposte alle tue domande</strong> e sciogliere ogni dubbio sui temi che riguardano la fotografia.<br /><br>Lo <a href="https://studio154.it" style="color: #ffffff; text-decoration: underline;"><strong>Studio Fotografico STUDIO154</strong></a> è la sosta obbligata per chi ama la fotografia.</p>
 </div>
 <!-- FINE BOX FORUM VERDE -->

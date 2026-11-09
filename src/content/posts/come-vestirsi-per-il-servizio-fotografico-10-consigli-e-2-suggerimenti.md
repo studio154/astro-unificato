@@ -109,7 +109,7 @@ Con pochi capi ben scelti si possono creare atmosfere diverse: più professional
   <p class="text-lg leading-relaxed">
     Prima di scegliere cosa indossare, è utile capire che tipo di immagini vuoi ottenere e come verranno utilizzate: profilo professionale, ritratto personale, sito, comunicazione aziendale o regalo.
   </p>
-  <a href="/cosa-include-un-servizio-fotografico/" class="inline-block mt-4 font-semibold underline">
+  <a href="/cosa-include-un-servizio-fotografico" class="inline-block mt-4 font-semibold underline">
     Leggi cosa include davvero un servizio fotografico
   </a>
 </div>
@@ -181,7 +181,7 @@ Un vestito giusto davanti alla luce sbagliata può funzionare male. Un capo semp
   <p class="text-lg leading-relaxed">
     Se vuoi essere guidata o guidato nella scelta dell’abbigliamento e ottenere immagini coerenti con ciò che vuoi comunicare, una sessione privata di ritratto può aiutarti.
   </p>
-  <a href="/atelier/sessioni-private/" class="inline-block mt-4 font-semibold underline">
+  <a href="/atelier/sessioni-private" class="inline-block mt-4 font-semibold underline">
     Scopri le Sessioni Private di Ritratto
   </a>
 </div>

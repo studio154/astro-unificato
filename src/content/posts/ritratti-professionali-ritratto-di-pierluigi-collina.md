@@ -15,13 +15,13 @@ tags: ["arbitro calcio", "fotografi famosi", "fotografo professionista", "mito d
   <div class="separatore"></div>
 
   <div style="margin: 2rem 0; text-align: center;">
-    <a href="/portfolio/" style="display: inline-block; font-weight: bold; text-decoration: underline;">
+    <a href="/portfolio" style="display: inline-block; font-weight: bold; text-decoration: underline;">
       → Vai al Portfolio Fotografico Completo
     </a>
   </div>
 
   <div style="margin: 2rem auto; text-align: center;">
-    <a href="/portfolio/">
+    <a href="/portfolio">
       <img class="wp-image-1500 alignnone" title="Fotografie_Pierluigi_Collina" src="https://media.eliocarchidi.com/uploads/2012/09/Fotografie_Pierluigi_Collina1.jpg" alt="Ritratto Pierluigi Collina" width="872" height="436" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
     </a>
   </div>
@@ -35,7 +35,7 @@ tags: ["arbitro calcio", "fotografi famosi", "fotografo professionista", "mito d
   </p>
 
   <div style="margin: 2rem 0; text-align: center;">
-    <a href="/portfolio/" style="display: inline-block; font-weight: bold; text-decoration: underline;">
+    <a href="/portfolio" style="display: inline-block; font-weight: bold; text-decoration: underline;">
       → Vai al Portfolio Fotografico Completo
     </a>
   </div>

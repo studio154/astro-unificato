@@ -19,7 +19,7 @@ Negli anni ho fotografato professionisti, imprenditori, artisti, aziende, person
 
 <div class="grid gap-8 md:grid-cols-2 my-10">
 
-  <a href="/galleria/immagini/vip/" class="block group">
+  <a href="/galleria/immagini/vip" class="block group">
     <div class="overflow-hidden rounded-2xl bg-neutral-100">
       <img src="https://media.eliocarchidi.com/uploads/2026/landing/galleria-ritratti-fotografici-professionali-elio-carchidi-2.jpg" alt="Ritratti fotografici professionali" class="w-full aspect-[4/3] object-cover transition duration-500 group-hover:scale-105" />
     </div>
@@ -29,7 +29,7 @@ Negli anni ho fotografato professionisti, imprenditori, artisti, aziende, person
     </p>
   </a>
 
-  <a href="/galleria/immagini/corporate/" class="block group">
+  <a href="/galleria/immagini/corporate" class="block group">
     <div class="overflow-hidden rounded-2xl bg-neutral-100">
       <img src="https://media.eliocarchidi.com/uploads/2026/landing/galleria-ritratti-ambientati-aziendali-elio-carchidi-2.jpg" alt="Ritratti corporate e aziendali" class="w-full aspect-[4/3] object-cover transition duration-500 group-hover:scale-105" />
     </div>
@@ -39,7 +39,7 @@ Negli anni ho fotografato professionisti, imprenditori, artisti, aziende, person
     </p>
   </a>
 
-  <a href="/galleria/immagini/fine-art/" class="block group">
+  <a href="/galleria/immagini/fine-art" class="block group">
     <div class="overflow-hidden rounded-2xl bg-neutral-100">
       <img src="https://media.eliocarchidi.com/uploads/2026/landing/galleria-ritratti-ambientati-elio-carchidi.jpg" alt="Ritratti ambientati" class="w-full aspect-[4/3] object-cover transition duration-500 group-hover:scale-105" />
     </div>
@@ -49,7 +49,7 @@ Negli anni ho fotografato professionisti, imprenditori, artisti, aziende, person
     </p>
   </a>
 
-  <a href="/atelier/sessioni-private/" class="block group">
+  <a href="/atelier/sessioni-private" class="block group">
     <div class="overflow-hidden rounded-2xl bg-neutral-100">
       <img src="https://media.eliocarchidi.com/uploads/2026/landing/galleria-ritratti-ambientati-elio-carchidi-2.jpg" alt="Servizi fotografici professionali" class="w-full aspect-[4/3] object-cover transition duration-500 group-hover:scale-105" />
     </div>
@@ -96,7 +96,7 @@ Se stai cercando un fotografo per un ritratto professionale, un servizio corpora
   <p class="mt-3 text-neutral-300">
     Raccontami che tipo di immagini ti servono, come intendi utilizzarle e quale risultato vorresti ottenere.
   </p>
-  <a href="/contatti/" class="mt-6 inline-flex rounded-full bg-white px-6 py-3 text-sm font-bold text-neutral-950 hover:bg-neutral-200">
+  <a href="/contatti" class="mt-6 inline-flex rounded-full bg-white px-6 py-3 text-sm font-bold text-neutral-950 hover:bg-neutral-200">
     Contattami
   </a>
 </div>

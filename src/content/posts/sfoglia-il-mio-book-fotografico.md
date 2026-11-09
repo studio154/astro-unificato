@@ -56,7 +56,7 @@ tags: ["Book Fotografici - Articoli","Fotografi Professionisti","bravo fotografo
 
 <p>Amo l'arte dello scatto in tutte le sue forme, e ho abbracciato con entusiasmo anche la fotografia moderna e digitale sin dal momento in cui ha fatto la sua comparsa, continuando a sperimentare e a scoprire nuovi modi di catturare l'essenza di un’immagine.</p>
 
-<p>Se hai curiosità o desideri approfondire qualcosa su questo progetto, non esitare a contattarmi (<a href="/contatti/">Contattami</a>)!</p>
+<p>Se hai curiosità o desideri approfondire qualcosa su questo progetto, non esitare a contattarmi (<a href="/contatti">Contattami</a>)!</p>
 
 <p>Sarò felice di rispondere a ogni tua domanda, raccontare aneddoti dietro le foto o semplicemente condividere la mia esperienza. La fotografia, per me, è una continua scoperta, e nulla mi fa più piacere che condividere questa passione con chi la ama quanto me.</p>
 

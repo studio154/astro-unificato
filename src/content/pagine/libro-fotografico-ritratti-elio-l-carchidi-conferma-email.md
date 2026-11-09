@@ -29,7 +29,7 @@ Apri l'email, clicca sul pulsante o sul link di conferma: subito dopo **ricevera
 
 ---
 
-<p style="margin-top: 2rem;">Se dovessi riscontrare problemi non esitare a contattarmi: <a href="mailto:contatti@eliocarchidi.com">contatti@eliocarchidi.com</a> o visita la pagina <a href="/contatti/">Contatti</a>.</p>
+<p style="margin-top: 2rem;">Se dovessi riscontrare problemi non esitare a contattarmi: <a href="mailto:contatti@eliocarchidi.com">contatti@eliocarchidi.com</a> o visita la pagina <a href="/contatti">Contatti</a>.</p>
 
 <p style="margin-top: 1.5rem;">
   <strong>Guarda altri lavori:</strong> visita il mio <a href="/portfolio">Portfolio Online</a>

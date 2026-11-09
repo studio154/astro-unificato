@@ -18,8 +18,8 @@ Cenni sulla luce e il colore.</p>
 </div>
 
 <div style="text-align:center;">
-  <img 
-    src="https://media.eliocarchidi.com/uploads/formazione/2024/07/image-1.jpeg" 
+  <img
+    src="https://media.eliocarchidi.com/uploads/formazione/2024/07/image-1.jpeg"
     alt="Elio Leonardo Carchidi"
     style="
       width:120px;
@@ -31,7 +31,7 @@ Cenni sulla luce e il colore.</p>
     "
   />
   <p>
-    <strong>Elio Leonardo Carchidi</strong> 
+    <strong>Elio Leonardo Carchidi</strong>
     (<a href="/">chi sono...</a>)
   </p>
 </div>
@@ -93,8 +93,8 @@ Inizia subito a conoscere i fondamenti della fotografia GRATIS!
 10 lezioni di fotografia Online con PDF da scaricare subito
 
 <div class="text-center mt-6">
-  <a 
-    href="/formazione-fotografica/risorse-gratuite-per-fotografi/corso-gratuito-di-fotografia/" 
+  <a
+    href="/formazione-fotografica/risorse-gratuite-per-fotografi/corso-gratuito-di-fotografia"
     class="inline-block px-8 py-3 text-sm font-semibold text-white bg-black rounded-full hover:scale-105 hover:bg-gray-800 transition-all duration-200"
   >
     Accedi subito!
@@ -114,8 +114,8 @@ Impartisco corsi di fotografia per insegnare a fotografare in modo semplice e di
 Unisciti ai miei corsi di fotografia e scopri come trasformare la tua passione in arte. In un ambiente di apprendimento stimolante, ti forniremo gli strumenti e le conoscenze necessari per realizzare fotografie straordinarie e soddisfacenti.
 
 <div class="text-center mt-6">
-  <a 
-    href="/formazione-fotografica/risorse-gratuite-per-fotografi/corso-gratuito-di-fotografia/" 
+  <a
+    href="/formazione-fotografica/risorse-gratuite-per-fotografi/corso-gratuito-di-fotografia"
     class="inline-block px-8 py-3 text-sm font-semibold text-white bg-black rounded-full hover:scale-105 hover:bg-gray-800 transition-all duration-200"
   >
     Inizia da qui!
@@ -126,7 +126,7 @@ Unisciti ai miei corsi di fotografia e scopri come trasformare la tua passione i
 Inizia a far crescere le tue competenze nel campo della fotografia professionale con Corsi di Fotografia Mirati
 
 <figure class="text-center my-6">
-  <img 
+  <img
     src="https://media.eliocarchidi.com/uploads/formazione/2021/06/Formazione-Fotografica-Elio-Leonardo-Carchidi-.jpeg"
     alt="Fotografia professionale sul campo"
     class="mx-auto rounded-2xl max-w-md w-full object-cover"
@@ -149,15 +149,15 @@ Cominciamo a conoscerci adesso, invia un messaggio senza alcun impegno.
 
 
 <div style="text-align:center;">
-<a 
-    href="/contatti/" 
+<a
+    href="/contatti"
     class="inline-block px-8 py-3 text-sm font-semibold text-white bg-black rounded-full hover:scale-105 hover:bg-gray-800 transition-all duration-200 mb-24"
   >
     CONTATTAMI
   </a>
   </div>
-  <img 
-    src="https://media.eliocarchidi.com/uploads/formazione/2024/07/image-1.jpeg" 
+  <img
+    src="https://media.eliocarchidi.com/uploads/formazione/2024/07/image-1.jpeg"
     alt="Elio Leonardo Carchidi"
     style="
       width:120px;
@@ -181,7 +181,7 @@ Intanto sono felice di lasciarti subito un regalo: 10 lezioni online di fotograf
 
 La mia storia
 
-La mia attività come fotografo libero professionista comincia agli inizi degli anni '80, appena conclusi gli studi di Fotografia e Grafica presso la più prestigiosa scuola privata di Roma. 
+La mia attività come fotografo libero professionista comincia agli inizi degli anni '80, appena conclusi gli studi di Fotografia e Grafica presso la più prestigiosa scuola privata di Roma.
 
 L'essermi dedicato a tempo pieno alla fotografia proprio in quell'epoca, credo sia stata la mia più grande fortuna professionale: ho attraversato appieno l'intera fase di transizione che ha portato dalla fotografia analogica tradizionale alla fotografia digitale.
 
@@ -198,8 +198,8 @@ Da subito esordisco come professionista emergendo nel mondo della fotografia di 
 I miei ritratti di artisti e personaggi famosi del mondo dello sport e dello spettacolo hanno fatto il giro del mondo e sono stati pubblicati nelle più prestigiose riviste internazionali.
 
 <div style="text-align:center;">
-<a 
-    href="/portfolio/" 
+<a
+    href="/portfolio"
     class="inline-block px-8 py-3 text-sm font-semibold text-white bg-black rounded-full hover:scale-105 hover:bg-gray-800 transition-all duration-200 mb-2"
   >
     Dai un'occhiata alla selezione di lavori
@@ -214,8 +214,8 @@ Scelto dalle Migliori Aziende
 ![](https://media.eliocarchidi.com/uploads/formazione/2021/06/clienti-loghi-elio-eliocarchidicom-1100bn-1.jpeg)
 
 <div style="text-align:center;">
-<a 
-    href="/contatti/" 
+<a
+    href="/contatti"
     class="inline-block px-8 py-3 text-sm font-semibold text-white bg-black rounded-full hover:scale-105 hover:bg-gray-800 transition-all duration-200 mb-2"
   >
     CONTATTAMI

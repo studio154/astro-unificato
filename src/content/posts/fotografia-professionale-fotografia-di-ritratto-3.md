@@ -15,13 +15,13 @@ tags: ["amanda lear", "fotografia amanda lear", "fotografia cantanti", "fotograf
   <div class="separatore"></div>
 
   <div style="margin: 2rem 0; text-align: center;">
-    <a href="/portfolio/" style="display: inline-block; font-weight: bold; text-decoration: underline;">
+    <a href="/portfolio" style="display: inline-block; font-weight: bold; text-decoration: underline;">
       → Vai al Portfolio Fotografico Completo
     </a>
   </div>
 
   <div style="margin: 2rem auto; text-align: center;">
-    <a href="/portfolio/">
+    <a href="/portfolio">
       <img class="alignnone size-full wp-image-676" title="Ritratto_Fotografico_Amanda_Lear" src="https://media.eliocarchidi.com/uploads/2012/05/Ritratto_Fotografico_Amanda_Lear.jpg" alt="Ritratto Fotografico Amanda Lear" width="800" height="800" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
     </a>
   </div>
@@ -35,7 +35,7 @@ tags: ["amanda lear", "fotografia amanda lear", "fotografia cantanti", "fotograf
   </p>
 
   <div style="margin: 2rem 0; text-align: center;">
-    <a href="/portfolio/" style="display: inline-block; font-weight: bold; text-decoration: underline;">
+    <a href="/portfolio" style="display: inline-block; font-weight: bold; text-decoration: underline;">
       → Vai al Portfolio Fotografico Completo
     </a>
   </div>
