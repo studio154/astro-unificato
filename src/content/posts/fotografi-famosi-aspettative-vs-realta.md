@@ -16,7 +16,7 @@ tags: ["fotografi bravi", "fotografi famosi", "fotografo bravo", "fotografo famo
 
 *Tutti noi cerchiamo sempre il meglio per ottenere il meglio. Succede anche nella fotografia? Affidarsi nelle mani di un professionista famoso è sinonimo di garanzia di risultato? Esistono veramente i fotografi famosi? E come possiamo riconoscerli o trovarli? Ci basta Google per farlo? Soddisfano sempre le nostre aspettative?*
 <hr />
-<h3>Realizzare il nostro sogno</h3>
+### Realizzare il nostro sogno
 Ognuno di noi, quando desidera soddisfare un bisogno, risolvere un problema o <strong>realizzare un sogno</strong>, cerca disperatamente qualcuno che lo possa consigliare o che gli suggerisca la soluzione migliore per raggiungere quell'obiettivo.
 
 Capita quasi sempre e a tutti, sia che si tratti di cose importanti, quelle che contano nella vita, o che si tratti di <strong>cose frivole o addirittura effimere</strong>.
