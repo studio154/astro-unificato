@@ -2,7 +2,7 @@
 title: "Fotografia: analogico vs digitale. Grana o bit? Arte o commercio?"
 team: "elio-carchidi"
 pubDate: 2018-03-03
-description: ""
+description: "Fotografia: analogico vs digitale. Grana o bit? Arte o commercio?"
 image:
   url: "https://media.eliocarchidi.com/uploads/2018/02/fotografia-analogico-vs-digitale-800x800.jpg"
   alt: "Fotografia: analogico vs digitale. Grana o bit? Arte o commercio?"
@@ -14,8 +14,7 @@ tags: ["fotografia analogica","fotografia artistica","fotografia digitale"]
   <figcaption>Fotografia: Analogico vs Digitale, una battaglia che infuoca gli animi dei fotografi!</figcaption>
 </figure>
 
-[toc heading_levels="3,4" class="centra-toc"]
-<p class="intro">Fotografia: analogico vs digitale, foto artistiche contro foto commerciali; dagli anni '90 un quesito che sembra ancora non trovare risposta.</p>
+*Fotografia: analogico vs digitale, foto artistiche contro foto commerciali; dagli anni '90 un quesito che sembra ancora non trovare risposta.*
 
 
 <hr />
