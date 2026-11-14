@@ -1,12 +1,12 @@
 ---
-title: "Fotografi Famosi: Aspettative vs Realtà."
+title: "Succede anche nella fotografia? Affidarsi nelle mani di un professionista famoso è sinonimo di garanzia di risultato? Esistono veramente i fotografi famosi? "
 team: "elio-carchidi"
 pubDate: 2018-09-12
-description: ""
+description: "Succede anche nella fotografia? Affidarsi nelle mani di un professionista famoso è sinonimo di garanzia di risultato? Esistono veramente i fotografi famosi? "
 image:
   url: "https://media.eliocarchidi.com/uploads/2018/09/fotografi-famosi-aspettative-vs-realta-600.jpg"
   alt: "Fotografi Famosi: Aspettative vs Realtà."
-tags: ["fotografi bravi","fotografi famosi","fotografo bravo","fotografo famoso"]
+tags: ["fotografi bravi", "fotografi famosi", "fotografo bravo", "fotografo famoso"]
 ---
 
 <figure class="wp-caption">
@@ -14,8 +14,7 @@ tags: ["fotografi bravi","fotografi famosi","fotografo bravo","fotografo famoso"
   <figcaption>Non basta certo un fotografo famoso per farti toccare il cielo con un dito ma... a volte potresti illuderti di poterlo fare.</figcaption>
 </figure>
 
-[toc heading_levels="3,4" class="centra-toc"]
-<p class="intro">Tutti noi cerchiamo sempre il meglio per ottenere il meglio. Succede anche nella fotografia? Affidarsi nelle mani di un professionista famoso è sinonimo di garanzia di risultato? Esistono veramente i fotografi famosi? E come possiamo riconoscerli o trovarli? Ci basta Google per farlo? Soddisfano sempre le nostre aspettative?</p>
+*Tutti noi cerchiamo sempre il meglio per ottenere il meglio. Succede anche nella fotografia? Affidarsi nelle mani di un professionista famoso è sinonimo di garanzia di risultato? Esistono veramente i fotografi famosi? E come possiamo riconoscerli o trovarli? Ci basta Google per farlo? Soddisfano sempre le nostre aspettative?*
 <hr />
 <h3>Realizzare il nostro sogno</h3>
 Ognuno di noi, quando desidera soddisfare un bisogno, risolvere un problema o <strong>realizzare un sogno</strong>, cerca disperatamente qualcuno che lo possa consigliare o che gli suggerisca la soluzione migliore per raggiungere quell'obiettivo.
