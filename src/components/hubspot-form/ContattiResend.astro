@@ -100,7 +100,7 @@ import Text from "@/components/fundations/elements/Text.astro";
                 name="message"
                 rows="7"
                 required
-                placeholder="Scrivi qui la tua richiesta..."
+                placeholder="Raccontami che tipo di servizio o ritratto cerchi, dove e in che periodo (es. Roma, studio o trasferta) e come userai le immagini..."
                 class="w-full rounded-md border border-slate-300 bg-white px-4 py-3 text-base leading-relaxed text-slate-900 outline-none transition resize-none focus:border-slate-950 focus:ring-1 focus:ring-slate-950 box-border"
             ></textarea>
         </div>
@@ -153,19 +153,17 @@ import Text from "@/components/fundations/elements/Text.astro";
             'input[name="website"]',
         ) as HTMLInputElement;
 
-        // Se l'honeypot è compilato, blocca l'invio silenziosamente (è un bot)
         if (websiteInput && websiteInput.value) return;
 
         const payload = {
-            name: nameInput?.value,
-            email: emailInput?.value,
-            message: messageInput?.value,
-            // Passiamo un token vuoto o rimosso, dato che l'endpoint lo ignorerà o non lo verificherà più
+            name: nameInput?.value?.trim(),
+            email: emailInput?.value?.trim(),
+            message: messageInput?.value?.trim(),
             turnstileToken: null,
         };
 
-        status.classList.add("hidden");
-        status.className = "rounded px-4 py-2 mt-2 text-sm hidden";
+        status.textContent = "";
+        status.className = "hidden rounded px-4 py-2 mt-2 text-sm text-center w-full box-border";
 
         submitButton.disabled = true;
         submitText.textContent = "Invio in corso...";
@@ -177,20 +175,27 @@ import Text from "@/components/fundations/elements/Text.astro";
                 body: JSON.stringify(payload),
             });
 
-            const result = await res.json();
-            if (!res.ok)
-                throw new Error(result.error || "Errore durante l'invio.");
+            const contentType = res.headers.get("content-type") || "";
+            const result = contentType.includes("application/json")
+                ? await res.json()
+                : { error: "Risposta imprevista dal server durante l'invio." };
+
+            if (!res.ok) {
+                throw new Error(result.error || "Errore durante l'invio del messaggio.");
+            }
 
             status.textContent =
-                result.message || "Messaggio inviato con successo!";
+                result.message || "Messaggio inviato con successo! Ti risponderò al più presto.";
             status.className =
-                "rounded px-4 py-2 mt-4 text-sm bg-green-50 text-green-800 border border-green-200 block";
+                "rounded px-4 py-3 mt-4 text-sm text-center w-full box-border bg-green-50 text-green-800 border border-green-200 block";
 
             form.reset();
         } catch (err: any) {
-            status.textContent = err.message;
+            status.textContent =
+                err?.message ||
+                "Non è stato possibile inviare il messaggio. Puoi scrivere direttamente a info@eliocarchidi.com.";
             status.className =
-                "rounded px-4 py-2 mt-4 text-sm bg-red-50 text-red-800 border border-red-200 block";
+                "rounded px-4 py-3 mt-4 text-sm text-center w-full box-border bg-red-50 text-red-800 border border-red-200 block";
         } finally {
             submitButton.disabled = false;
             submitText.textContent = "Invia messaggio";

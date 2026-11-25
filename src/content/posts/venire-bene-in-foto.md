@@ -39,7 +39,7 @@ Ecco i consigli principali:
 
 1. [Mostra il tuo lato migliore](#1-mostra-il-tuo-lato-migliore)
 2. [Quando sorridi, appoggia la lingua al palato](#2-quando-sorridi-appoggia-la-lingua-al-palato)
-3. [Fai il conto alla rovescia e apri gli occhi al momento giusto](#3-fai-il-conto-alla-rovescia-e-apri-occhi)
+3. [Fai il conto alla rovescia e apri gli occhi al momento giusto](#3-fai-il-conto-alla-rovescia-e-apri-gli-occhi)
 4. [Tieni le braccia leggermente staccate dal corpo](#4-tieni-le-braccia-leggermente-staccate-dal-corpo)
 5. [Spingi il mento in avanti e allunga il collo](#5-spingi-il-mento-in-avanti-e-allunga-il-collo)
 6. [Porta leggermente le spalle verso l’interno](#6-porta-leggermente-le-spalle-verso-linterno)
@@ -147,76 +147,14 @@ Se ti trovi davanti a un professionista che applica schemi standard, anche la mi
 
 Il mio scopo non è trasformare una persona in qualcun altro o venderle un'illusione. Il punto è creare le condizioni ideali — di luce, tempo e dialogo — perché possa riconoscersi in un’immagine essenziale, pulita e soprattutto vera. La buona posa non si nota nell'immagine finale; si percepisce solo una presenza più chiara e nitida.
 
----
-
-<div class="my-10 rounded-md border border-neutral-100 bg-gray-800 p-6">
-  <p class="text-sm uppercase tracking-wide mb-2 border-b-1 border-gray-600 text-[#ff4400]" >Una distinzione di valore</p>
-  <p class="text-lg leading-relaxed text-white font-light">
-    Non partire mai dalla ricerca del pacchetto più economico. Scegli in base al tempo che vuoi dedicare alla tua immagine e al valore che le attribuisci.
-  </p>
-  <button class="bg-[#ff4400] hover:bg-[#ff4400]/95 py-2 px-4 rounded mb-4">
-  <a href="/atelier/sessioni-private" class="no-underline uppercase text-sm text-white">
-    &rarr; Scopri le Sessioni Private in Atelier
-  </a>
-</button>
-</div>
-
----
-
 ## Come orientarsi adesso
 
-Puoi continuare a esercitarti da sola o da solo, usare questi accorgimenti davanti allo specchio, studiare i tuoi profili e capire come rispondi alla luce della fotocamera. È un ottimo modo per iniziare a conoscersi visivamente.
+Puoi continuare a esercitarti con questi accorgimenti davanti allo specchio, oppure valutare un servizio mirato in base a ciò che stai cercando:
 
----
+- **Ritratto su misura e preventivo personalizzato:** se cerchi un ritratto individuale, professionale o un progetto guidato a Roma, approfondisci su [Preventivo servizio fotografico professionale](/preventivo-servizio-fotografico-professionale) oppure scrivi alla pagina [Contatti](/contatti).
+- **Servizi commerciali e produzioni pratiche:** per esigenze aziendali, e-commerce o pacchetti rapidi a Roma, visita [Studio154](https://studio154.it/servizi-fotografici-a-roma/).
 
-<div class="my-10 rounded-md border border-neutral-200 bg-gray-800 p-6">
-  <p class="text-sm uppercase tracking-wide mb-2 border-b-1 border-gray-600" style="color:#ff4400;">Servizi Fotografici Professionali</p>
-  <p class="text-lg leading-relaxed text-white font-light">
-    Se stai cercando un <span class="font-bold" style="color:#ff4400;">servizio fotografico professionale</span> (per la tua attività, per il lavoro o per scopi personali) gestito con tempi rapidi, soluzioni concrete e tariffe accessibili, la risposta ideale è la mia struttura commerciale. Lì non troverai il percorso di ricerca dell'Atelier, ma un team pronto e pacchetti chiari adatti a ogni esigenza.
-  </p>
-  <button class="bg-white hover:bg-gray-100 py-2 px-4 rounded mb-4">
-  <a href="https://studio154.it/servizi-fotografici-a-roma/" class="no-underline uppercase text-sm" target="_blank">
-    &rarr; Scopri i servizi fotografici di Studio154
-  </a>
-</button>
- 
-</div>
+Per approfondire il tema puoi leggere anche:
 
----
-
-  <p class="text-sm uppercase tracking-wide text-black mb-2">Servizi Professionali e Noleggi</p>
-  <p class="text-lg leading-relaxed">
-    Se le tue necessità sono orientate a servizi commerciali, e-commerce o aziendali con budget e tempi definiti, la risposta ideale è la mia struttura commerciale. Lì non troverai la filosofia dell'Atelier, ma un team e soluzioni pratiche per esigenze concrete.
-  </p>
-  <a href="https://studio154.it" class="inline-block mt-4 font-semibold underline" target="_blank">
-    Visita il sito di Studio154
-  </a>
-</div>
-
-Se invece vuoi approfondire come prepararti a livello logistico per un qualunque set fotografico, puoi consultare la mia guida generale:
-
-📑 [Come prepararsi al servizio fotografico](/servizio-fotografico/)
-
-Ho approfondito questo tema nell'articolo:
-
-📑 [Il ritratto: immagine, identità e percezione di sé](/ritratto-immagine-identita-percezione-di-se/)
-
----
-
-<div class=" rounded-md border border-neutral-100 bg-gray-800 p-6">
-  <p class="text-sm uppercase tracking-wide mb-2 border-b-1 border-gray-600 text-[#ff4400]" >Sessioni Private di Ritratto</p>
-  <p class="text-lg leading-relaxed text-white font-light">
-    Se senti che è arrivato il momento di scoprire come la tua presenza può emergere attraverso una sessione di ritratto d'autore dedicata, senza la fretta dei flussi commerciali, ti invito a scoprire lo spazio privato dell'Atelier.
-  </p>
-  <button class="bg-[#ff4400] hover:bg-[#ff4400]/95 py-2 px-4 rounded mb-4">
-  <a href="/atelier/sessioni-private" class="no-underline uppercase text-sm text-white">
-    &rarr; Sessioni Private di Ritratto in Atelier
-  </a>
-</button>
-</div>
-
----
-
-Oppure, se desideri semplicemente fare una domanda o richiedere un chiarimento preliminare:
-
-[Contattami per maggiori informazioni](/contatti/)
+- [Come prepararsi al servizio fotografico](/servizio-fotografico)
+- [Il ritratto: immagine, identità e percezione di sé](/ritratto-immagine-identita-percezione-di-se)
