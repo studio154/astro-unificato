@@ -31,6 +31,53 @@ const ogImage =
   image?.url ||
   image ||
   "https://media.eliocarchidi.com/uploads/2026/03/blog-fotografia-elio-carchidi-bg-c.jpg";
+
+const structuredData = {
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://www.eliocarchidi.com/#person",
+      name: "Elio Leonardo Carchidi",
+      url: "https://www.eliocarchidi.com/",
+      image: ogImage,
+      jobTitle: "Fotografo di ritratto",
+      worksFor: {
+        "@id": "https://www.eliocarchidi.com/#organization",
+      },
+      sameAs: [
+        "https://www.linkedin.com/in/eliocarchidi",
+        "https://studio154.it",
+      ],
+    },
+    {
+      "@type": "ProfessionalService",
+      "@id": "https://www.eliocarchidi.com/#organization",
+      name: "Studio Elio Carchidi",
+      url: "https://www.eliocarchidi.com/",
+      image: ogImage,
+      founder: {
+        "@id": "https://www.eliocarchidi.com/#person",
+      },
+      areaServed: "Roma",
+      address: {
+        "@type": "PostalAddress",
+        addressLocality: "Roma",
+        addressCountry: "IT",
+      },
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.eliocarchidi.com/#website",
+      url: "https://www.eliocarchidi.com/",
+      name: "Elio Leonardo Carchidi",
+      inLanguage: "it-IT",
+      publisher: {
+        "@id": "https://www.eliocarchidi.com/#organization",
+      },
+    },
+  ],
+};
 ---
 
 <meta charset="UTF-8" />
@@ -65,3 +112,5 @@ const ogImage =
     cardType: "summary_large_image",
   }}
 />
+
+<script type="application/ld+json" set:html={JSON.stringify(structuredData)} />

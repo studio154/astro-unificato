@@ -1,5 +1,5 @@
 ---
-const { title, description, image, images } = Astro.props;
+const { title, description, canonical, image, images } = Astro.props;
 
 import BaseHead from "@/components/fundations/head/BaseHead.astro";
 import Favicons from "@/components/fundations/head/Favicons.astro";
@@ -25,7 +25,12 @@ if (image) {
 <html lang="it" class="scroll-smooth">
   <head>
     <Favicons />
-    <BaseHead title={title} description={description} image={finalImageUrl} />
+    <BaseHead
+      title={title}
+      description={description}
+      canonical={canonical}
+      image={finalImageUrl}
+    />
   </head>
 
   <body class="min-h-screen bg-neutral-50 text-slate-900 antialiased">

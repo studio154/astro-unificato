@@ -5,6 +5,14 @@ import Meta from "@/components/fundations/head/Meta.astro";
 import Fonts from "@/components/fundations/head/Fonts.astro";
 import Favicons from "@/components/fundations/head/Favicons.astro";
 const isTagPage = Astro.url.pathname.startsWith("/blog/tags/");
+const isUtilityPage =
+  /\/(?:grazie(?:-|\/|$)|conferma(?:-|\/|$)|download(?:-|\/|$)|pagina-(?:di-)?download(?:-|\/|$)|prenotazione-ricevuta(?:-|\/|$)|prezzi-riservati(?:-|\/|$))/.test(
+    Astro.url.pathname,
+  );
+const isLegacyBlogRoute =
+  Astro.url.pathname.startsWith("/blog/posts/") ||
+  Astro.url.pathname.startsWith("/blog/tags/");
+const isBlogHome = Astro.url.pathname === "/blog/home";
 ---
 
 <Meta
@@ -15,7 +23,9 @@ const isTagPage = Astro.url.pathname.startsWith("/blog/tags/");
   ogType={ogType}
 />
 
- {isTagPage && <meta name="robots" content="noindex, follow" />}
+{(isTagPage || isUtilityPage || isLegacyBlogRoute || isBlogHome) && (
+  <meta name="robots" content="noindex, follow" />
+)}
 
 <Fonts />
 <Favicons />
