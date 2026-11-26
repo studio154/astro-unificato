@@ -157,7 +157,7 @@ const pagine = defineCollection({
     description: z.string().optional(),
     image: z.string().optional(),
     pubDate: z.date().optional(),
-    pageStyle: z.enum(["standard", "landing", "wide", "legacy"]).optional(),
+    pageStyle: z.enum(["standard", "landing", "wide", "legacy", "portrait"]).optional(),
 
     gallery: z
       .array(

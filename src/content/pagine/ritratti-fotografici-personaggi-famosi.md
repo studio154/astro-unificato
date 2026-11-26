@@ -1,218 +1,101 @@
 ---
-title: "Ritratto Fotografico a Roma"
+title: "Ritratti professionali e d’autore a Roma"
 pubDate: 2026-05-28
-description: "Ritratti fotografici professionali a Roma realizzati da Elio Leonardo Carchidi. Sessioni personalizzate per professionisti, artisti, aziende e progetti editoriali."
-image: "/2026/04/A-Ritratto-Pierluigi-Collina-personaggio-famoso.jpg"
+description: "Sessioni di ritratto fotografico a Roma per professionisti, personalità e persone che desiderano un’immagine autentica. In atelier o in location, con una guida attenta e personale."
+image: "https://media.eliocarchidi.com/uploads/2026/ritratto-professionale-linkedin-social-profile.jpeg"
 canonical: "https://www.eliocarchidi.com/ritratti-fotografici-personaggi-famosi"
-pageStyle: "wide"
+pageStyle: "portrait"
 ---
 
-# Ritratto Fotografico a Roma
+## Un ritratto costruito intorno alla persona
 
-> _La fotografia non mostra la realtà, mostra l’idea che se ne ha._
+Sono Elio Leonardo Carchidi, fotografo di ritratto a Roma. Creo sessioni su misura per professionisti, personalità e persone che desiderano immagini autentiche, curate e riconoscibili.
 
-<p class="lead"> Un ritratto fotografico non nasce dalla fotocamera.<br>
-Nasce dal tempo. 
-Dall’ascolto. 
-Dalla luce. 
-Da oltre quarant’anni realizzo ritratti fotografici professionali a Roma per professionisti, artisti, aziende e persone che desiderano un’immagine autentica, elegante e personale.
-Ogni sessione viene costruita su misura, senza schemi rigidi o automatismi.
-</p>
-<p style="text-align:center;">
-  <a href="/contatti" class="cta-editoriale">
-    Richiedi informazioni →
-  </a>
-</p>
+Non serve saper posare. Durante la sessione ti accompagno con indicazioni semplici, lasciando spazio alla tua naturalezza e al carattere che vuoi comunicare.
 
----
+<div class="not-prose my-12 grid grid-cols-1 gap-5 sm:grid-cols-2 lg:grid-cols-3">
+  <figure class="m-0">
+    <a href="/galleria/immagini/vip" class="block overflow-hidden">
+      <img
+        src="https://media.eliocarchidi.com/uploads/2026/04/A-Ritratto-Pierluigi-Collina-personaggio-famoso.jpg"
+        alt="Ritratto fotografico di Pierluigi Collina"
+        class="aspect-[4/5] w-full object-cover transition duration-500 hover:scale-[1.02]"
+        loading="lazy"
+      />
+    </a>
+    <figcaption class="mt-3 text-sm text-slate-600">Ritratti di personalità</figcaption>
+  </figure>
+  <figure class="m-0">
+    <a href="/galleria/immagini/corporate" class="block overflow-hidden">
+      <img
+        src="https://media.eliocarchidi.com/uploads/2026/05/foto-ritratto-corporate-avvocato-pellegrino-squared.jpg"
+        alt="Ritratto professionale per un avvocato"
+        class="aspect-[4/5] w-full object-cover transition duration-500 hover:scale-[1.02]"
+        loading="lazy"
+      />
+    </a>
+    <figcaption class="mt-3 text-sm text-slate-600">Ritratti professionali</figcaption>
+  </figure>
+  <figure class="m-0">
+    <a href="/galleria/immagini/fine-art" class="block overflow-hidden">
+      <img
+        src="https://media.eliocarchidi.com/uploads/2026/04/ART-Donna-Viso-Occhi-Chiari.jpg"
+        alt="Ritratto d’autore in studio"
+        class="aspect-[4/5] w-full object-cover transition duration-500 hover:scale-[1.02]"
+        loading="lazy"
+      />
+    </a>
+    <figcaption class="mt-3 text-sm text-slate-600">Ritratti personali e d’autore</figcaption>
+  </figure>
+</div>
 
-![Pierluigi Collina](https://media.eliocarchidi.com/uploads/2026/04/A-Ritratto-Pierluigi-Collina-personaggio-famoso.jpg)
+## Un’esperienza guidata, senza pose forzate
 
-<div class="photo-caption">Pierluigi Collina · Ritratto fotografico</div>
+Ogni sessione parte da una conversazione: definiamo insieme l’uso delle immagini, lo stile e il contesto più adatto. Il ritratto può essere realizzato nel mio atelier a Roma o in una location scelta per il progetto.
 
----
+Il lavoro prosegue con una sessione guidata e una selezione attenta delle fotografie. Le immagini finali vengono consegnate tramite una galleria privata online.
 
-## Ogni persona ha un linguaggio diverso
+### Per il tuo lavoro
 
-Ogni persona comunica qualcosa di diverso.
+Ritratti per profili professionali, LinkedIn, siti web, comunicazione editoriale e personal branding. L’obiettivo è un’immagine credibile, coerente con il tuo ruolo e con il modo in cui vuoi presentarti.
 
-C'è chi ha bisogno di un'immagine professionale.<br>
-Chi desidera un ritratto personale.<br>
-Chi semplicemente vuole riconoscersi in una fotografia.<br>
+### Per un progetto personale
 
-Per questo motivo ogni ritratto fotografico viene costruito in modo diverso, in base a:
+Ritratti d’autore per chi desidera un’immagine più personale, da conservare o condividere. La luce, l’atmosfera e il ritmo della sessione vengono scelti insieme.
 
-- finalità delle immagini
-- utilizzo professionale o personale
-- stile desiderato
-- tipo di comunicazione
-- ambientazione e luce
+## Come si svolge la sessione
 
-Le sessioni possono essere realizzate:
-
-- in studio
-- in location
-- presso aziende
-- in ambienti editoriali o privati
-
----
-
-## Fotografia di ritratto per professionisti, artisti e aziende
-
-Nel corso degli anni ho realizzato migliaia di ritratti fotografici.
-
-Ho lavorato con professionisti, artisti, manager, attori, autori e personaggi pubblici mantenendo sempre lo stesso approccio: attenzione alla persona prima ancora dell’immagine.
-
-I ritratti possono essere utilizzati per:
-
-- LinkedIn e profili professionali
-- fotografia corporate
-- personal branding
-- utilizzo editoriale
-- siti web e comunicazione
-- attori e casting
-- ritratto artistico e personale
-
----
-
-![Ritratto di donna](https://media.eliocarchidi.com/uploads/2026/04/ART-Donna-Viso-Occhi-Chiari.jpg)
-
-<div class="photo-caption">Sessione privata di ritratto</div>
-
----
-
-## Come funziona una sessione di ritratto fotografico
-
-Le sessioni vengono costruite in modo semplice e guidato.
-
-Non è necessaria esperienza davanti alla macchina fotografica.
-
-Durante lo shooting accompagno la persona passo dopo passo attraverso:
-
-- postura
-- espressione
-- gestione della luce
-- movimento
-- presenza davanti all’obiettivo
-
-L’obiettivo non è creare immagini artificiali o eccessivamente costruite, ma fotografie credibili, eleganti e durature nel tempo.
-
----
-
-## Post-produzione e selezione immagini
-
-Ogni ritratto fotografico selezionato viene ottimizzato con interventi naturali e mirati.
-
-La post-produzione non ha lo scopo di trasformare la persona, ma di valorizzarne presenza, pulizia e coerenza visiva mantenendo autenticità e naturalezza.
-
-Le immagini finali vengono consegnate tramite galleria privata online.
-
----
+1. **Ci conosciamo:** mi racconti che tipo di ritratto ti serve e come userai le immagini.
+2. **Prepariamo lo shooting:** scegliamo stile, abbigliamento, atelier o location.
+3. **Realizziamo il ritratto:** ti guido durante la sessione e, in seguito, selezioniamo le immagini finali.
 
 ## Informazioni e disponibilità
 
-Ogni ritratto nasce da esigenze diverse.
+Ricevo a Roma esclusivamente su appuntamento. Ogni progetto ha esigenze diverse: dopo un primo confronto ti indico tempi, modalità e investimento, senza formule standard uguali per tutti.
 
-C'è chi ha bisogno di una fotografia professionale per il proprio lavoro, chi desidera un ritratto personale, chi sta costruendo un progetto editoriale o artistico.
+<p class="not-prose mt-8 text-center">
+  <a
+    href="/contatti"
+    class="inline-flex items-center rounded-full bg-slate-950 px-7 py-3 text-sm text-white no-underline transition-colors hover:bg-slate-700"
+  >
+    Richiedi informazioni
+  </a>
+</p>
 
-Per questo motivo preferisco non proporre formule standardizzate.
+## Domande frequenti
 
-Dopo un primo confronto sarò lieto di indicare la soluzione più adatta, i tempi di realizzazione e l'investimento previsto.
+### Devo saper posare?
 
-<div class="text-center">
+No. La sessione è guidata e non è richiesta esperienza davanti alla fotocamera.
 
-<a href="/contatti" class="cta-editoriale">
-Richiedi informazioni →
-</a>
+### Dove si svolge il servizio?
 
-</div>
+Nel mio atelier a Roma oppure in una location concordata in base al ritratto e all’utilizzo delle immagini.
 
----
+### Posso richiedere un ritratto per il mio profilo professionale?
 
-## Studio fotografico a Roma
+Sì. Possiamo realizzare immagini per LinkedIn, siti web, comunicazione professionale ed editoriale.
 
-Ricevo esclusivamente su appuntamento.
+### Realizzi anche eventi e campagne aziendali?
 
-Le sessioni vengono realizzate a Roma in studio oppure in location selezionate in base al progetto.
-
-Per informazioni, disponibilità o preventivi personalizzati:
-
-<div class="text-center">
-
-<a href="/contatti" class="cta-editoriale">
-Richiedi informazioni →
-</a>
-
-</div>
-
----
-
-## Domande frequenti sul ritratto fotografico
-
-### Quanto costa un ritratto fotografico professionale?
-
-Ogni servizio viene costruito su misura in base alle esigenze del progetto, al numero di immagini richieste e all’utilizzo finale delle fotografie.
-
----
-
-### Serve esperienza davanti alla fotocamera?
-
-No.
-
-La maggior parte delle persone fotografate non è abituata a stare davanti all’obiettivo. Durante la sessione guido ogni fase in modo naturale e semplice.
-
----
-
-### Le fotografie vengono ritoccate?
-
-Sì.
-
-L’obiettivo è valorizzare l’immagine mantenendo autenticità e credibilità.
-
----
-
-### Posso utilizzare le immagini per lavoro o comunicazione professionale?
-
-Certamente.
-
-I ritratti possono essere utilizzati per LinkedIn, aziende, comunicazione editoriale, siti web, pubblicazioni o utilizzo personale.
-
----
-
-<img
-  src="https://media.eliocarchidi.com/uploads/2020/05/elio-leonardo-carchidi-fotografo-a-roma.jpg"
-  alt="Elio Leonardo Carchidi"
-  class="author-avatar"
-/>
-
-<div class="photo-caption text-center">Elio Leonardo Carchidi, Fotografo di ritratto · Roma</div>
-
-<div class="author-note">
-
-## Qualche parola su di me
-
-La fotografia di ritratto è quello che amo fare.
-Ho fotografato negli anni migliaia di persone, in silenzio, senza rumore.
-L’ho fatto quando ero ragazzo perché questo mi ha fatto crescere. Lo faccio oggi, con maggiore consapevolezza ed esperienza.
-Desidero invecchiare fotografando la gente.
-Fotografare un personaggio famoso, un artista o una persona qualunque continua a procurarmi la stessa emozione.
-Mi piace fotografare la gente.
-A condizione però che riescano a darmi qualcosa tranne che finzione.
-
-Ecco perché amo il ritratto.
-
-</div>
-
----
-
-## Alcuni dei miei lavori
-
-[Portfolio ritratti](/portfolio)
-
-[Sessioni private](/atelier/sessioni-private)
-
-[Chi sono](/chi-sono)
-
-```
-
-```
+Per eventi e produzioni fotografiche aziendali trovi i servizi di **[Studio154](https://studio154.it)**. Qui il focus è sul ritratto della persona.

@@ -5,6 +5,7 @@ import BlogLayout from "@/layouts/BlogLayout.astro";
 import LayoutPagine from "@/layouts/LayoutPagine.astro";
 import LayoutLanding from "@/layouts/LayoutLanding.astro";
 import LayoutEditoriale from "@/layouts/LayoutEditoriale.astro";
+import LayoutRitratto from "@/layouts/LayoutRitratto.astro";
 import KeenGallery from "@/components/gallery/KeenGallery.astro";
 import CtaRitrattoBiancoNero from "@/components/cta/CtaRitrattoBiancoNero.astro";
 
@@ -35,7 +36,9 @@ console.log("GALLERY:", entry.data.gallery);
 const { Content } = await entry.render();
 
 const PageLayout =
-  entry.data.pageStyle === "landing"
+  entry.data.pageStyle === "portrait"
+    ? LayoutRitratto
+    : entry.data.pageStyle === "landing"
     ? LayoutLanding
     : entry.data.pageStyle === "wide"
       ? LayoutEditoriale

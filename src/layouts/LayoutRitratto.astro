@@ -1,0 +1,82 @@
+---
+const { title, description, image, canonical } = Astro.props;
+
+import BaseHead from "@/components/fundations/head/BaseHead.astro";
+import Favicons from "@/components/fundations/head/Favicons.astro";
+import Footer from "@/components/global/Footer.astro";
+import NavigationHamburger from "@/components/global/NavigazioneHamburgerStandard.astro";
+import "@/styles/global.css";
+---
+
+<html lang="it" class="scroll-smooth">
+  <head>
+    <Favicons />
+    <BaseHead
+      title={title}
+      description={description}
+      canonical={canonical}
+      image={image}
+    />
+  </head>
+
+  <body class="flex min-h-svh flex-col bg-[#f7f6f2] text-slate-900">
+    <div class="bg-white">
+      <NavigationHamburger />
+    </div>
+
+    <main class="grow">
+      <section class="bg-[#f1f0eb]">
+        <div class="mx-auto grid max-w-7xl items-center gap-10 px-6 py-12 md:grid-cols-2 md:gap-16 md:py-20 lg:px-10">
+          <div class="max-w-xl">
+            <p class="mb-5 text-xs uppercase tracking-[0.28em] text-slate-500">
+              Ritratto d’autore · Roma
+            </p>
+            <h1
+              class="font-serif text-4xl font-light leading-tight tracking-tight text-slate-950 md:text-6xl"
+              style="font-family: 'Newsreader', serif;"
+            >
+              {title}
+            </h1>
+            <p class="mt-6 max-w-lg text-lg leading-relaxed text-slate-600 md:text-xl">
+              {description}
+            </p>
+            <div class="mt-8 flex flex-wrap items-center gap-4">
+              <a
+                href="/contatti"
+                class="inline-flex items-center rounded-full bg-slate-950 px-6 py-3 text-sm text-white transition-colors hover:bg-slate-700"
+              >
+                Parliamo del tuo ritratto
+              </a>
+              <a
+                href="/portfolio"
+                class="inline-flex items-center rounded-full border border-slate-300 px-6 py-3 text-sm text-slate-900 transition-colors hover:border-slate-500"
+              >
+                Guarda il portfolio
+              </a>
+            </div>
+            <p class="mt-8 text-sm text-slate-500">
+              Sessioni su appuntamento, in atelier a Roma o in location.
+            </p>
+          </div>
+
+          <figure class="m-0 overflow-hidden rounded-sm">
+            <img
+              src={image}
+              alt="Ritratto professionale realizzato da Elio Leonardo Carchidi"
+              class="aspect-[4/5] w-full object-cover"
+              fetchpriority="high"
+            />
+          </figure>
+        </div>
+      </section>
+
+      <article class="mx-auto max-w-6xl px-6 py-16 md:py-24">
+        <div class="prose prose-lg prose-slate mx-auto max-w-4xl prose-headings:font-serif prose-headings:font-light prose-headings:tracking-tight prose-headings:text-slate-950 prose-p:leading-relaxed prose-a:text-slate-950">
+          <slot />
+        </div>
+      </article>
+    </main>
+
+    <Footer />
+  </body>
+</html>

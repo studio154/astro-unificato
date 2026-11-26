@@ -165,7 +165,7 @@ NOTA BENE: Tutti servizi fotografici sono personalizzabili, le cifre quindi poss
 ##### Argomenti Correlati
 
 [Foto Corporate per Manager e Gruppi Aziendali](https://www.eliocarchidi.com/ritratti-fotografici-per-presentazioni/)
-[Ritratto Classico](https://www.eliocarchidi.com/ritratti-fotografici/)
+[Ritratto Classico](https://www.eliocarchidi.com/ritratti-fotografici-personaggi-famosi)
 [Gallerie Fotografiche](https://www.eliocarchidi.com/le-migliori-gallerie-fotografiche/)
 [Prezzi Ritratti Fotografici Fine-Art](https://www.eliocarchidi.com/prezzi-servizi-fotografici-professionali/)
 

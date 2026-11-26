@@ -1,11 +1,10 @@
 ---
-const { title, description, canonical, image, images } = Astro.props;
+const { title, description, canonical, image } = Astro.props;
 
 import BaseHead from "@/components/fundations/head/BaseHead.astro";
 import Favicons from "@/components/fundations/head/Favicons.astro";
 import Footer from "@/components/global/Footer.astro";
 import NavigationHamburger from "@/components/global/NavigazioneHamburgerStandard.astro";
-import KeenGalleryHero from "@/components/gallery/KeenGalleryHero.astro";
 
 import "@/styles/global.css";
 
@@ -33,75 +32,65 @@ if (image) {
     />
   </head>
 
-  <body class="min-h-screen bg-neutral-50 text-slate-900 antialiased">
-    <NavigationHamburger />
-
-    <main>
-     <section class="relative overflow-hidden border-b border-slate-200">
-  <div class="grid min-h-[88vh] items-start gap-10 px-6 py-16 md:grid-cols-1 lg:grid-cols-[52%_48%] md:px-12 lg:px-20 xl:px-24">
-
-    <!-- TEXT -->
-    <div class="max-w-3xl pt-6 md:pt-10">
-      <p class="mb-6 text-sm uppercase tracking-[0.25em] text-slate-500">
-        Fotografia di ritratto
-      </p>
-
-      <h1
-        class="font-serif text-5xl font-light leading-[1.03] tracking-tight text-slate-950 md:text-6xl xl:text-7xl"
-        style="font-family: 'Newsreader', serif;"
-      >
-        {title}
-      </h1>
-
-      {description && (
-        <p class="mt-8 max-w-2xl text-lg leading-relaxed text-slate-600 md:text-xl">
-          {description}
-        </p>
-      )}
-
-      <div class="mt-10 flex flex-wrap gap-4">
-        <a
-          href="/contatti"
-          class="inline-flex items-center justify-center rounded-full bg-black px-8 py-4 text-sm font-medium tracking-wide text-white transition hover:bg-slate-800"
-        >
-          Prenota una sessione
-        </a>
-
-        <a
-          href="/portfolio"
-          class="inline-flex items-center justify-center rounded-full border border-slate-300 px-8 py-4 text-sm font-medium tracking-wide text-slate-900 transition hover:border-slate-900"
-        >
-          Portfolio
-        </a>
-      </div>
-
-      <div class="mt-12 max-w-xl border-l border-slate-300 pl-6">
-        <p class="text-sm leading-relaxed text-slate-500">
-          Oltre 40 anni di esperienza nella fotografia di ritratto,
-          corporate ed editoriale.
-        </p>
-      </div>
+  <body class="flex min-h-svh flex-col bg-[#f7f6f2] text-slate-900 antialiased">
+    <div class="bg-white">
+      <NavigationHamburger />
     </div>
 
-    <!-- IMAGE -->
-    {images && images.length > 0 ? (
-  <figure class="h-[48vh] overflow-hidden rounded-3xl bg-slate-100 shadow-2xl md:h-[56vh] lg:h-[78vh]">
-    <KeenGalleryHero images={images} />
-  </figure>
-) : finalImageUrl ? (
-  <figure class="h-[48vh] overflow-hidden rounded-3xl bg-slate-100 shadow-2xl md:h-[56vh] lg:h-[78vh]">
-    <img
-      src={finalImageUrl}
-      alt={title}
-      class="h-full w-full min-h-[300px] object-cover"
-    />
-  </figure>
-) : null}
+    <main class="grow">
+      <section class="bg-[#f1f0eb]">
+        <div class="mx-auto grid max-w-7xl items-center gap-10 px-6 py-12 md:grid-cols-2 md:gap-16 md:py-20 lg:px-10">
+          <div class="max-w-xl">
+            <p class="mb-5 text-xs uppercase tracking-[0.28em] text-slate-500">
+              Ritratto d’autore · Roma
+            </p>
+            <h1
+              class="font-serif text-4xl font-light leading-tight tracking-tight text-slate-950 md:text-6xl"
+              style="font-family: 'Newsreader', serif;"
+            >
+              {title}
+            </h1>
 
-  </div>
-</section>
+            {description && (
+              <p class="mt-6 max-w-lg text-lg leading-relaxed text-slate-600 md:text-xl">
+                {description}
+              </p>
+            )}
 
-      <section class="mx-auto max-w-5xl px-6 py-24 md:px-10 lg:px-16">
+            <div class="mt-8 flex flex-wrap items-center gap-4">
+              <a
+                href="/contatti"
+                class="inline-flex items-center rounded-full bg-slate-950 px-6 py-3 text-sm text-white transition-colors hover:bg-slate-700"
+              >
+                Parliamo del tuo ritratto
+              </a>
+              <a
+                href="/portfolio"
+                class="inline-flex items-center rounded-full border border-slate-300 px-6 py-3 text-sm text-slate-900 transition-colors hover:border-slate-500"
+              >
+                Guarda il portfolio
+              </a>
+            </div>
+
+            <p class="mt-8 text-sm text-slate-500">
+              Oltre quarant’anni dedicati al ritratto, tra fotografia editoriale e d’autore.
+            </p>
+          </div>
+
+          {finalImageUrl && (
+            <figure class="m-0 overflow-hidden rounded-sm">
+              <img
+                src={finalImageUrl}
+                alt="Ritratto fotografico realizzato da Elio Leonardo Carchidi"
+                class="aspect-[4/5] w-full object-cover"
+                fetchpriority="high"
+              />
+            </figure>
+          )}
+        </div>
+      </section>
+
+      <section class="mx-auto max-w-6xl px-6 py-16 md:py-24">
         <div class="landing-content prose prose-lg prose-slate max-w-none">
           <slot />
         </div>

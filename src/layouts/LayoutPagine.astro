@@ -1,16 +1,5 @@
 ---
-const {
-  title,
-  description,
-  canonical,
-  image,
-  frontmatter,
-} = Astro.props;
-
-const seoTitle = title || frontmatter?.title;
-const seoDescription = description || frontmatter?.description;
-const seoCanonical = canonical || frontmatter?.canonical;
-const seoImage = image || frontmatter?.image;
+const { title, description, canonical, image } = Astro.props;
 import BaseHead from "@/components/fundations/head/BaseHead.astro";
 import Favicons from '@/components/fundations/head/Favicons.astro';
 import Footer from "@/components/global/Footer.astro";
@@ -18,13 +7,15 @@ import NavigationHamburger from "@/components/global/NavigazioneHamburgerStandar
 import "@/styles/global.css";
 import NewsletterForm from "../components/cta/NewsletterSendFox.astro";
 
+const { frontmatter } = Astro.props;
+
 // 1. Logica Immagine (R2)
 // Se il campo 'image' non c'è nel frontmatter, finalImageUrl sarà null e non vedrai box vuoti.
 const baseUrl = "https://media.eliocarchidi.com/uploads";
 let finalImageUrl = null;
 
-if (seoImage) {
-    const cleanPath = seoImage.replace(/^(.*?)(wp-content\/uploads\/|uploads\/)?/, '').replace(/^\//, '');
+if (image) {
+    const cleanPath = image.replace(/^(.*?)(wp-content\/uploads\/|uploads\/)?/, '').replace(/^\//, '');
     finalImageUrl = `${baseUrl}/${cleanPath}`;
 }
 ---
@@ -33,10 +24,10 @@ if (seoImage) {
   <head>
     <Favicons />
     <BaseHead
-      title={seoTitle}
-      description={seoDescription}
-      canonical={seoCanonical}
-      image={seoImage ? finalImageUrl : undefined}
+      title={title}
+      description={description}
+      canonical={canonical}
+      image={finalImageUrl}
     />
   </head>
   

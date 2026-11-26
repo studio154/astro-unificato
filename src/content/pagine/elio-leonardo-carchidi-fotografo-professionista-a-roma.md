@@ -37,7 +37,7 @@ Gallerie Fotografiche di immagini estratte dal **[Portfolio di Elio Leonardo Car
 
 Ritratti Fotografici in Studio
 
-[RITRATTO CLASSICO](https://www.eliocarchidi.com/ritratti-fotografici/)
+[RITRATTO CLASSICO](https://www.eliocarchidi.com/ritratti-fotografici-personaggi-famosi)
 
 ## Fotografie Corporate
 

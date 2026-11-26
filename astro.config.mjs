@@ -38,7 +38,7 @@ export default defineConfig({
         !page.includes("/post-") &&
         !page.includes("/grazie") &&
         !page.includes("/conferma") &&
-        !page.includes("/conferma-email") &&
+        !page.includes("/conferma-") &&
         !page.includes("/download") &&
         !page.includes("/pagina-di-download") &&
         !page.includes("/pagina-download") &&
@@ -46,20 +46,11 @@ export default defineConfig({
         !page.includes("/prezzi-riservati") &&
         page !== "https://www.eliocarchidi.com/team/home/" &&
         page !== "https://www.eliocarchidi.com/blog/home/" &&
-        page !== "https://www.eliocarchidi.com/team/elio-carchidi/" &&
-        page !== "https://www.eliocarchidi.com/book-fotografico-ritratto-download/" &&
-        page !== "https://www.eliocarchidi.com/libro-fotografico-ritratti-elio-l-carchidi-conferma-email/" &&
-        page !== "https://www.eliocarchidi.com/libro-fotografico-ritratti-elio-l-carchidi-download/" &&
-        page !== "https://www.eliocarchidi.com/prezzi-servizi-conferma-email/" &&
-        page !== "https://www.eliocarchidi.com/book-fotografico-ritratto-download" &&
-        page !== "https://www.eliocarchidi.com/libro-fotografico-ritratti-elio-l-carchidi-conferma-email" &&
-        page !== "https://www.eliocarchidi.com/libro-fotografico-ritratti-elio-l-carchidi-download" &&
-        page !== "https://www.eliocarchidi.com/prezzi-servizi-conferma-email",
+        page !== "https://www.eliocarchidi.com/team/elio-carchidi/",
     }),
   ],
 
   redirects: {
-    "/blog/home/": "/blog/",
     "/le-fotografie-glamour-di-liliane/": "/foto-erotiche/",
     "/conferma-invio-email-liliane-glamour/": "/foto-erotiche/",
     "/team/elio-carchidi/": "/chi-sono/",
