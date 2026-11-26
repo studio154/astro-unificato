@@ -23,6 +23,11 @@
       "permanent": true
     },
     {
+      "source": "/prezzi-servizi-fotografici",
+      "destination": "/prezzi-servizi-fotografici-professionali",
+      "permanent": true
+    },
+    {
       "source": "/about/about.html",
       "destination": "/about",
       "permanent": true
