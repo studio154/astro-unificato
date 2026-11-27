@@ -1,13 +1,12 @@
 ---
 import LayoutContatti from "@/layouts/LayoutContatti.astro";
 import Wrapper from "@/components/fundations/containers/Wrapper.astro";
-import ContattiResend from "@/components/hubspot-form/ContattiResend.astro";
 import Text from "@/components/fundations/elements/Text.astro";
 ---
 
 <LayoutContatti
   title="Contatta Elio Carchidi – Risposta Rapida per Domande e Collaborazioni"
-  description="Hai un progetto, una domanda o vuoi collaborare? Scrivi a Elio Carchidi tramite il modulo di contatto e ricevi una risposta rapida. Inizia la conversazione oggi stesso!"
+  description="Hai un progetto, una domanda o vuoi collaborare? Contatta direttamente Elio Carchidi via email o WhatsApp."
   image=""
 >
   <Wrapper
@@ -42,34 +41,31 @@ import Text from "@/components/fundations/elements/Text.astro";
       </div>
     </header>
 
-    <div class="w-full mx-auto text-left">
-      <ContattiResend />
-    </div>
-
-    <footer class="px-2 w-full mx-auto">
-      <Text
-        tag="p"
-        variant="textBase"
-        class="text-center font-serif text-sm uppercase text-base-900 leading-loose"
+    <div class="w-full max-w-2xl mx-auto grid gap-4 text-left">
+      <a
+        href="mailto:info@eliocarchidi.com"
+        class="rounded-xl border border-neutral-200 p-5 transition hover:border-neutral-400"
       >
-        Puoi anche inviare una mail o un messaggio <br />
-        <a
-          href="mailto:info@eliocarchidi.com"
-          class="underline decoration-1 underline-offset-4"
+        <span class="block text-xs uppercase tracking-wider text-neutral-500"
+          >Email</span
         >
-          <strong>Email:</strong> info@eliocarchidi.com
-        </a>
-        <span class="mx-2 block sm:inline-block"></span>
-        <strong>WhatsApp:</strong>
-        <a
-          href="https://wa.me/393883232460?text=Ciao%20Elio,%20ti%20scrivo%20dal%20sito"
-          target="_blank"
-          rel="noopener noreferrer"
-          class="underline decoration-1 underline-offset-4"
+        <span class="mt-1 block font-serif text-lg text-base-900"
+          >info@eliocarchidi.com</span
         >
-          +39 388 3232460
-        </a>
-      </Text>
-    </footer>
+      </a>
+      <a
+        href="https://wa.me/393883232460?text=Ciao%20Elio,%20ti%20scrivo%20dal%20sito"
+        target="_blank"
+        rel="noopener noreferrer"
+        class="rounded-xl border border-neutral-200 p-5 transition hover:border-neutral-400"
+      >
+        <span class="block text-xs uppercase tracking-wider text-neutral-500"
+          >WhatsApp</span
+        >
+        <span class="mt-1 block font-serif text-lg text-base-900"
+          >+39 388 3232460</span
+        >
+      </a>
+    </div>
   </Wrapper>
 </LayoutContatti>
